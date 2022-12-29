@@ -10,11 +10,6 @@ googleAnalytics = "UA-167974269-1"
 subtitle = "Knowledge Is Freedom"
 enableGitalk = false
 
-[params.gitalk]
-  owner = "user"
-  repo = "repo name"
-  client_id = "your client id"
-  client_secret = "your client secret"
 [taxonomies]
    tag = "tags"
 #   author = "authors"
