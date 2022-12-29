@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html><head>
+<title>Большая перезагрузка и экономический расчет</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+		    <small>Роберт Блюмен</small><br>
+                    Большая перезагрузка и экономический расчет<br>
+			
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            2022-11-18 22:23
+                        </time>
+
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/%D1%80%D0%BE%D0%B1%D0%B5%D1%80%D1%82-%D0%B1%D0%BB%D1%8E%D0%BC%D0%B5%D0%BD">Роберт Блюмен</a>
+                                &nbsp;
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p><img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/meeting-w.jpg?itok=jodUgSuF" alt=""></p>
+<p><a href="https://www.weforum.org/">Всемирный экономический форум</a> (ВЭФ) выдвинул грандиозный план. Его название, <a href="https://www.weforum.org/great-reset/">&ldquo;Большая перезагрузка&rdquo;,</a> ясно говорит о масштабе этого начинания. Среди многих <a href="https://tessa.substack.com/p/great-reset-dummies">дерзких целей</a> форума &mdash; &ldquo;предложить идеи, которые помогут понять всем тем, кто определяет будущее состояние глобальных отношений, направление национальных экономик, приоритеты обществ, характер бизнес-моделей и управление глобальным достоянием&rdquo;.</p>
+<p>Конечно, все это затевается ради общего блага. Но о чем конкретно идет речь? Исследователи (<a href="https://www.corbettreport.com/greatreset/">Джеймс Корбетт,</a> <a href="https://www.bitchute.com/video/99GH0zE5yZZY/">Кэтрин Остин Фиттс,</a> <a href="https://www.technocracy.news/?s=great%20reset">Патрик Вуд,</a> <a href="https://www.technocracy.news/?s=great%20reset">Уитни Вебб,</a> <a href="https://tessa.substack.com/p/great-reset-dummies">Тесса Лена</a> и <a href="https://jaysanalysis.com/tag/great-reset/">Джей Дайер</a>) несмотря на разные подходы, которые они используют, предлагают необычайно четкую и детализированную картину. План имеет три основных составляющих: управляемый элитой технократический социализм, <a href="https://mises.org/library/malthus-and-assault-population">мальтузианский</a> взгляд на народонаселение и трансгуманизм.</p>
+<p>Социалистическая программа начинается с того, что вся частная собственность переходит в собственность самого ВЭФ или его доверенных корпораций. Обычные люди будут арендовать товары у ВЭФ на краткосрочной основе по мере необходимости. Сюда входят предметы общего пользования, такие как ваша гостиная, транспорт и места для встреч. Наемный труд будет не нужен, поскольку квалифицированные люди будут заменены еще более квалифицированными роботами и искусственным интеллектом.</p>
+<p>Одна из самых странных вещей в этом плане заключается в том, что элиты ожидают, что у них будет такой же, как и сегодня, постоянный доступ к обычным товарам, таким как электричество в розетке и большие жилые помещения, а также к предметам роскоши, таким как отели, авиаперелеты, смартфоны и то, что мы сейчас называем бытовой электроникой. (Эти товары больше не будут называться &ldquo;потребительскими&rdquo;, потому что они будут только у элиты).</p>
+<p>Зияющая дыра в этих планах технократической переделки всего общества &mdash; <a href="https://mises.org/library/economic-calculation-socialist-commonwealth">экономический расчет.</a> Он был главной проблемой и всех предыдущих версий коммунизма. Замена центрального планового органа технократией не устраняет эту проблемы. Без цен, устанавливаемых в ходе процесса конкуренции, не существует способа распределить ресурсы для производства различных вещей. Это одинаково верно как для массового производства, так и для элитных товаров. Невозможно производить предметы роскоши без массовой потребительской базы.</p>
+<p>Это не является проблемой только для товаров, потребляемых непосредственно элитой для личного пользования. Передовые технологии, необходимые для работы системы управления, требуют развитой рыночной экономики. Технократическая система управления в значительной степени зависит от высокотехнологичной инфраструктуры. Без частной собственности и конкурентной системы цен у нас не будет сетей 6G, центров обработки данных, энергосистем, сотовых телефонов, имплантируемых чипов, интерфейсов &ldquo;ум-мозг&rdquo; и других технократических гаджетов из программы Большой перезагрузки.</p>
+<p>Эти технологии являются продуктом предпринимательского конкурентного рынка где предприниматели и финансисты свободно торгуются и свободно устанавливают цены используя как механизм стартапов так и уже существующие компании. Люди, которые производят товары, не могут делать это без свободного рынка труда. И, наконец, должен существовать конкурентный рынок потребительских товаров для конечной продукции.</p>
+<p>Большая перезагрузка не может способствовать развитию трудовых навыков. Люди, производящие сложные технологии, приобретают навыки, находясь на рынке труда в течение десятилетий. Никто не приходит на рынок труда с навыками управления компанией, производящей чипы или мобильные телефоны (Intel или Apple). Люди приобретают навыки, переходя с одной работы на другую. Этот процесс занимает десятилетия и может потребовать путешествий, переездов, а иногда и шага назад, чтобы двигаться вперед, меняя отрасли или роли. Руководители этих компаний развивали управленческие навыки в течение нескольких лет, медленно продвигаясь по иерархии управления в конкуренции с другими руководителями.</p>
+<p>Сети людей и учреждений, обеспечивающие передачу навыков в таких сложных областях, как горное дело или  проектирование полупроводников, требуют открытости, чтобы люди могли встречаться, взаимодействовать и учиться друг у друга. Ковидные запреты на передвижение и общение замедлили развитие навыков на всем рынке труда.</p>
+<p>Старые версии коммунизма предполагали наличие центрального планирующего органа. В технократической Большой перезагрузке центральным планировщиком является искусственный интеллект. ВЭФ разместил <a href="https://www.weforum.org/agenda/2022/09/can-the-economy-grow-for-ever/?utm_source=substack&amp;utm_medium=email">видеоролик</a> (с жуткой фоновой музыкой) об &ldquo;экономике пост-роста&rdquo; (05:00). Когда не будет хватать ресурсов для производства всех вещей, которые мы делаем в настоящее время, экономические системы должны будут &ldquo;сократить производство вещей, которые считаются менее необходимыми&rdquo;. Но это поднимает другие вопросы. Кто будет решать, что является менее необходимым? Как мы будем разрешать неизбежные разногласия? Можем ли мы действительно отказаться от целых отраслей?&quot;. Ролик заканчивается тем, что эта роль передается искусственному интеллекту. Подразумевается, что ИИ может принимать такие решения.</p>
+<p>В своей критике централизованного планирования Людвиг фон Мизес подчеркивал необходимость конкуренции между различными предпринимателями, которые оценивают каждый производственный ресурс по-разному, в соответствии со своими лучшими идеями о том, как этот ресурс может быть использован. Умов должно быть много, потому что люди видят вещи по-разному. Проблема централизованного планирования заключается в том, что оно пытается заменить конкуренцию между многими единым планом. Оценка альтернативных вариантов использования посредством конкурирующих денежных ставок и предложений исключается из картины, потому что центральный план не может конкурировать сам с собой. Мизес утверждал, что один разум не может сформулировать <a href="https://mises.org/library/economic-calculation-socialist-commonwealth/html/c/10">централизованный план производства:</a></p>
+<blockquote>
+<p>Более того, ум одного человека, каким бы искушенным он ни был, слишком слаб, чтобы понять важность любого отдельного блага среди бесчисленного множества благ высшего порядка. Ни один человек никогда не сможет овладеть бесчисленными возможностями производства настолько, чтобы быть в состоянии сразу сделать очевидные суждения о ценности без помощи какой-либо системы вычислений. Распределение между несколькими людьми административного контроля над экономическими благами в сообществе людей, которые участвуют в их производстве и экономически заинтересованы в них, влечет за собой своего рода интеллектуальное разделение труда, которое будет невозможно без некоторой системы расчета производства и без экономики.</p>
+</blockquote>
+<p>Согласно концепции трансгуманизма &ldquo;Большой перезагрузки&rdquo;, на смену человеку придет гибрид человека и машины. Этот гибрид будет  получен путем введения в тело имплантируемых беспроводных вычислительных устройств. Имплантаты будут подключать мозг носителей напрямую к интернету людей; они будут подобны узлам вездесущих беспроводных сетей. Целью имплантатов будет как контроль, так и управление сознанием.</p>
+<p>Будут предлагаться мысли, которые улучшат социальный рейтинг человека, подобно тому, как автозаполнение подсказывает при поиске в Интернете. Если имплантаты будут работать так, как ожидается, контролируя мысли и убеждения получателей, то люди превратятся в роботов. Роботы не имеют собственной воли; они являются продолжением единого разума центрального планировщика ИИ.</p>
+<p>Да, в некоторых задачах люди могут быть заменены программным обеспечением. Но как распределяются ресурсы среди множества возможных вариантов? Как выбираются методы производства, чтобы эффективно использовать ограниченные ресурсы? Кто решает, какие товары стоит производить, а какие нет? Крепостные, управляемые мозговыми имплантами, являются просто еще одной версией единого разума центрального планировщика.</p>
+<p>Исследователи, о которых я говорил вначале, утверждают, что небольшая группа экономически неграмотных миллиардеров-психопатов разработала план всеобъемлющей замены человечества машинами. Что произойдет, если они попытаются воплотить свой план в жизнь? В этот день закончится частная собственность и рыночная экономика, все производство полезных вещей. Правда, мы знаем, что их альтернативный мир невозможен. То, что невозможно, не может случиться, но при попытке это сделать будут огромные разрушения.</p>
+<p><a href="https://mises.org/wire/economic-calculation-and-great-reset">Оригинал статьи</a></p>
+<blockquote>
+<p>Перевод: Наталия Афончина</p>
+</blockquote>
+<blockquote>
+<p>Редактор: Владимир Золоторев</p>
+</blockquote>
+
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+                
+                <a class="newer-posts" href="https://mises.in.ua/article/7-ways-to-improve-your-online-debates/">
+                    Next<br>7 способов улучшить ваши онлайн-дебаты
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://mises.in.ua/article/myth-versus-ideology-why-free-market-thinking-nonideological/">
+                    Previous<br>Миф против идеологии: Почему рыночное мышление неидеологично
+                </a>
+                
+            </nav>
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

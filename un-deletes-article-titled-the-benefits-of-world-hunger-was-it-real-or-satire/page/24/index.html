@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.101.0" />
+<title>Liberty Education Project</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head active" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    24<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>52
+                </span>
+            </div>
+            
+            
+            <a class="pagination-action" href="/page/23/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_left
+                </i>
+            </a>
+            
+
+            
+            <a class="pagination-action" href="/page/25/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-no-background">
+        
+            
+            <a href="https://mises.in.ua/article/why-austrians-are-not-neoliberals/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Филип Багус</small><br>
+                                Почему австрийцы не неолибералы
+                            </div>
+                            <div class="post-item-summary">
+                                Филип Мировски, известный своей книгой &ldquo;Больше греет, чем светит: экономика как социальная физика, физика как экономика природы&rdquo;, в которой он критикует неоклассическую экономику за заимствование методов естественных наук, недавно опубликовал книгу о неолиберализме и работе экономистов во время финансового кризиса. В его книге &ldquo;Никогда не позволяйте серьезному кризису пропасть напрасно: как неолиберализм пережил финансовый кризис&rdquo; главный тезис состоит в том, что экономисты совершенно не смогли предсказать и объяснить финансовый кризис.
+				
+                        		... <a href="https://mises.in.ua/article/why-austrians-are-not-neoliberals/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-01-13
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/fifteen-signs-youre-in-an-abusive-relationship-with-the-government/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Люсио Саверио Истман, Мича Гартц</small><br>
+                                Пятнадцать признаков того, что вы состоите в абузивных отношениях (abusive relationship) с правительством
+                            </div>
+                            <div class="post-item-summary">
+                                80% решений, которые мы принимаем в новом году, отменяются уже к февралю и только 8% решений остаются в силе в течение года. После праздников многие люди стараются питаться здоровее и посвящать больше времени физическим упражнениям. Кажется, что так просто ежедневно пользоваться зубной нитью или заниматься спортом. Это продолжается до тех пор, пока у вас не закончится зубная нить, и вы забудете купить еще… или не почувствуете себя слишком уставшим для занятий спортом на следующий день.
+				
+                        		... <a href="https://mises.in.ua/article/fifteen-signs-youre-in-an-abusive-relationship-with-the-government/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-01-11
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/lockdowns-do-not-control-the-coronavirus-the-evidence/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>AIER Staff</small><br>
+                                Локдауны бесполезны: доказательства
+                            </div>
+                            <div class="post-item-summary">
+                                Применение тотальных блокировок в качестве ответа на появление нового патогена не имеет прецедентов в истории. Это был научный эксперимент в режиме реального времени, в котором большая часть населения использовалась в качестве лабораторных крыс. Издержки колоссальны.
+				
+                            </div>
+                            <div class="post-item-meta">
+                                2021-01-08
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/central-bank-digital-currency-primer/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Кристофер Моустен Хенсен</small><br>
+                                Цифровая валюта центрального банка: основы
+                            </div>
+                            <div class="post-item-summary">
+                                В последнее время было много разговоров о цифровой валюте центральных банков (CBDC), поскольку центральные банки по всему миру активно обсуждали эту тему. Некоторые из проблем CBDC уже обсуждались (см., например, здесь и здесь), и я не буду на них останавливаться. Цель данной статьи &mdash; ответить на простой вопрос: что такое CBDC? Чем они отличаются от наличных денег, депозитов до востребования и криптовалют?
+Чем это не является Давайте начнем с того, чем CBDC определенно не являются: это не новый вид криптовалюты, похожий на биткоин.
+				
+                        		... <a href="https://mises.in.ua/article/central-bank-digital-currency-primer/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-01-06
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/rich-millennials-plot-end-civilization/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дуг Френч</small><br>
+                                Богатые миллениалы планируют конец цивилизации
+                            </div>
+                            <div class="post-item-summary">
+                                New York Times удалось найти молодых людей, у которых серебряные ложки вызывают кислый привкус во рту. Тот факт, что им повезло в этой жизни, похоже, вызывает у них тошноту.
+&ldquo;Я хочу построить мир, в котором такой человек, как я, молодой человек, контролирующий десятки миллионов долларов, будет невозможен&rdquo;, &mdash; сказал Times 25-летний Сэм Джейкобс. Джейкобс пошел в колледж нормальным молодым человеком, а вернулся социалистом. Внезапно &ldquo;чрезвычайное плутократическое богатство&rdquo; его семьи стало для него слишком большим бременем.
+				
+                        		... <a href="https://mises.in.ua/article/rich-millennials-plot-end-civilization/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-01-04
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/why-its-important-make-moral-case-capitalism/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Липтон Мэттьюс</small><br>
+                                Почему важны моральные аргументы в пользу капитализма
+                            </div>
+                            <div class="post-item-summary">
+                                Верно то, что рыночный капитализм &mdash; лучшая система, обеспечивающая процветание человечества. Поэтому неудивительно, что многие защитники свободного рынка превозносят динамизм капитализма. Однако, занимаясь утилитарной защитой капитализма, эти защитники могут уступить моральную позицию социалистам.
+Важность морального аргумента Демонстрация непрактичности социализма необходима, но она является неэффективной стратегией для стимулирования доброй воли к капитализму, потому что возражения против капитализма обычно основываются на моральных основаниях. К сожалению, даже трезвые критики социализма могут отвергнуть капитализм на том основании, что он бесчеловечен и функционирует как средство обогащения элиты.
+				
+                        		... <a href="https://mises.in.ua/article/why-its-important-make-moral-case-capitalism/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2020-12-30
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/why-people-dont-trust-pfizers-covid-vaccine/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Энтони Самерофф</small><br>
+                                Почему люди не доверяют вакцине Pfizer против Covid?
+                            </div>
+                            <div class="post-item-summary">
+                                Почему люди верят в теории заговора?
+Майкл Шермер, известный скептик, был вынужден признать, что одна из причин заключается в том, что некоторые из них верны. В своем исследовании он обнаружил, что тот факт, что некоторые теории заговора реальны, подпитывает подозрения людей, которым теперь легче поверить в другие заговоры, которые гораздо менее заслуживают доверия.
+Нас все чаще заставляют занимать жесткую позицию по вопросам, имеющим нюансы. Одним из примеров этого является очевидное увеличение количества приверженцев двух лагерей: некоторые люди вообще полностью против мейнстримной медицины, а другие изо всех сил защищают ошибки Большой Фармы.
+				
+                        		... <a href="https://mises.in.ua/article/why-people-dont-trust-pfizers-covid-vaccine/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2020-12-28
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/no-privacy-no-property-world-2030-according-wef/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Энтони Мюллер</small><br>
+                                Ни частной жизни, ни собственности: мир в 2030 году по прогнозам ВЭФ
+                            </div>
+                            <div class="post-item-summary">
+                                Всемирный экономический форум (ВЭФ) был основан пятьдесят лет назад. На протяжении десятилетий он приобретал все большую известность и стал одной из ведущих платформ футуристического мышления и планирования. В качестве места встречи мировой элиты ВЭФ объединяет лидеров бизнеса и политики, а также некоторых избранных интеллектуалов. Основная направленность форума &mdash; глобальный контроль. Высшими ценностями являются не свободные рынки и индивидуальный выбор, а государственный интервенционизм и коллективизм. Согласно прогнозам и сценариям Всемирного экономического форума, свобода личности и частная собственность исчезнут с этой планеты к 2030 году.
+				
+                        		... <a href="https://mises.in.ua/article/no-privacy-no-property-world-2030-according-wef/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2020-12-25
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/the-decimal-point-that-blew-up-the-worl/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джеффри Такер</small><br>
+                                Десятичная точка, взорвавшая мир
+                            </div>
+                            <div class="post-item-summary">
+                                Какая именно причина вызвала панику, которая погрузила цивилизацию во тьму? В поисках ответа на этот вопрос мы наткнемся на дату 11 марта 2020 года. Именно тогда Конгресс согласился на карантин по настоянию &ldquo;экспертов&rdquo;. За Конгрессом последовали губернаторы штатов (за некоторыми исключениями), и вскоре весь остальной мир присоединился к безумию локдаунов.
+В феврале людям не терпелось узнать ответ на следующий вопрос: подчиняется ли этот &ldquo;новый вирус&rdquo; знакомым закономерностям, которые мы связываем с гриппом, сезонными простудными заболеваниями и другими предсказуемыми и управляемыми патогенами?
+				
+                        		... <a href="https://mises.in.ua/article/the-decimal-point-that-blew-up-the-worl/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2020-12-23
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/how-state-spreads-mass-hysteria/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Филип Багус</small><br>
+                                Как государство раздувает массовую истерию
+                            </div>
+                            <div class="post-item-summary">
+                                История массовых истерий (массовых социогенных заболеваний) весьма увлекательна. Случаи массовой истерии известны еще со времен средневековья, упомяну лишь несколько относительно недавних.
+В 1938 году вскоре после подписания Мюнхенского соглашения трансляция радиоспектакля Орсона Уэллса &ldquo;Война миров&rdquo;, якобы вызвала панику среди слушателей, которые подумали, что они подверглись нападению марсиан.
+Еще один изестный случай &mdash; эпизод португальского подросткового сериала &ldquo;Клубника с сахаром&rdquo;. В этом эпизоде персонажи заразились опасным для жизни вирусом. После шоу более трехсот учеников сообщили о симптомах, схожих с симптомами, которые испытывали персонажи сериала, таких как сыпь и затрудненное дыхание.
+				
+                        		... <a href="https://mises.in.ua/article/how-state-spreads-mass-hysteria/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2020-12-21
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+        </a>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

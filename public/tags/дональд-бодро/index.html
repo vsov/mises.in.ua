@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html><head>
+<title>Дональд Бодро</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    1<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>2
+                </span>
+            </div>
+            
+            
+
+            
+            <a class="pagination-action" href="/tags/%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4-%D0%B1%D0%BE%D0%B4%D1%80%D0%BE/page/2/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post-item-wrapper post-item-wrapper-no-hover">
+            <div class="post-item post-item-no-gaps">
+                <div class="post-item-info-wrapper">
+                    <div class="post-item-title  post-item-title-small">
+                        <a href="https://mises.in.ua/">Liberty Education Project</a> / Дональд Бодро
+                    </div>
+                </div>
+            </div>
+        </div><a href="/article/are-free-traders-guilty-of-naive-globalism/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Являются ли сторонники свободной торговли наивными глобалистами?
+                        </div>
+                        <div class="post-item-meta">
+                            Dec 26, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/theres-no-natural-carrying-capacity-for-the-human-population-an-essay-inspired-by-the-happy-news-that-the-human-population-has-reached-eight-billion/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Не существует естественной &#34;несущей способности&#34; для человеческой популяции: эссе, вдохновленное радостной новостью о том, что население Земли достигло восьми миллиардов человек
+                        </div>
+                        <div class="post-item-meta">
+                            Dec 2, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/government-is-largely-guesswork/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Правительство — это угадайка
+                        </div>
+                        <div class="post-item-meta">
+                            Nov 12, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/in-markets-your-vote-counts-in-politics-not-so-much/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            На рынках ваш голос имеет значение; в политике — не очень
+                        </div>
+                        <div class="post-item-meta">
+                            Nov 7, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/the-economy-is-not-a-series-of-supply-chains/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Экономика — это не последовательность цепочек поставок
+                        </div>
+                        <div class="post-item-meta">
+                            May 27, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/microchips-and-potato-chips/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Чипы и чипсы
+                        </div>
+                        <div class="post-item-meta">
+                            May 16, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/ceo/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            CEO
+                        </div>
+                        <div class="post-item-meta">
+                            Mar 17, 2022
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/on-hayeks-kinds-of-order-in-society-part-ii/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            О &#34;Видах порядка в обществе&#34; Хайека, часть II
+                        </div>
+                        <div class="post-item-meta">
+                            Dec 31, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/on-hayeks-kinds-of-order-in-society-part-i/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            О &#34;Видах порядка в обществе&#34; Хайека, часть I
+                        </div>
+                        <div class="post-item-meta">
+                            Dec 29, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/if-i-could-paint/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Если бы я умел рисовать
+                        </div>
+                        <div class="post-item-meta">
+                            Aug 13, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/externality-is-no-good-excuse-for-mandatory-vaccinatio/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            &#34;Внешние эффекты&#34; — не оправдание обязательной вакцинации
+                        </div>
+                        <div class="post-item-meta">
+                            Jul 26, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/its-appropriate-to-demand-that-intellectuals-put-their-money-where-their-mouths-are/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Почему уместно требовать, чтобы интеллектуалы вкладывали деньги в то, о чем они говорят
+                        </div>
+                        <div class="post-item-meta">
+                            Jun 28, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/this-claim-of-market-failure-deserves-no-credit/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Очередное заявление о &#34;провале рынка&#34; провалилось
+                        </div>
+                        <div class="post-item-meta">
+                            Jun 21, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/will-2020-prove-to-be-the-beginning-of-the-end-of-modernity/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Станет ли 2020 год началом конца мира, как мы его знаем?
+                        </div>
+                        <div class="post-item-meta">
+                            Jun 16, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/the-buchanan-thesis/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            Тезис Бьюкенена
+                        </div>
+                        <div class="post-item-meta">
+                            May 16, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a><a href="/article/on-living-in-harmony-with-nature/" class="a-block">
+            <div class="post-item-wrapper">
+                <div class="post-item post-item-no-gaps">
+                    <div class="post-item-info-wrapper">
+                        <div class="post-item-title">
+                            О жизни в гармонии с природой
+                        </div>
+                        <div class="post-item-meta">
+                            May 7, 2021
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a></div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+baseURL = "http://mises.in.ua/"
+languageCode = "iru-RU"
+title = "Liberty Education Project"
+theme = "hugo-geo"

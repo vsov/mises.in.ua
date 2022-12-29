@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.100.1" />
+<title>Liberty Education Project</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head active" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    4<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>50
+                </span>
+            </div>
+            
+            
+            <a class="pagination-action" href="/page/3/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_left
+                </i>
+            </a>
+            
+
+            
+            <a class="pagination-action" href="/page/5/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-no-background">
+        
+            
+            <a href="https://mises.in.ua/article/anarchist-case-against-private-property/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дэвид Гордон</small><br>
+                                Анархисты против частной собственности
+                            </div>
+                            <div class="post-item-summary">
+                                Я хотел бы рассмотреть некоторые критические замечания по поводу анархо-капиталистических теорий аппроприации собственности, высказанные Джесси Спаффордом в его статье «Социальный анархизм и отказ от частной собственности», включенной в «Справочнике по анархии и анархистской мысли» Рутледжа под редакцией Гэри Шартье и Чад Ван Шоландт (Рутледж, 2021). Спаффорд, научный сотрудник Тринити-колледжа в Дублине, является «социальным анархистом», который отвергает права частной собственности.
+Спаффорд апеллирует к правдоподобной моральной интуиции, которую разделяет большинство людей, включая анархо-капиталистов.
+				
+                        		... <a href="https://mises.in.ua/article/anarchist-case-against-private-property/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-27
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/how-agriculture-bureaucrats-are-manipulating-food-prices-and-our-diets/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Сэмми Картагена</small><br>
+                                Как сельскохозяйственные бюрократы манипулируют ценами на продукты питания и нашими диетами
+                            </div>
+                            <div class="post-item-summary">
+                                Инфляция достигла сорокалетнего максимума и эта тема волнует всех. Базовая инфляция в США составляет 7,5 процента в годовом исчислении, а цены на некоторые товары, такие как подержанные автомобили и бифштексы, выросли на 50 процентов за последний год. Это является серьезной угрозой для нынешней администрации: недавний опрос показал, что 70 процентов американцев не одобряют действия Джо Байдена по борьбе с инфляцией. Инфляция невероятно непопулярна среди избирателей, и существует сильный политический стимул для того, чтобы смягчить восприятие населением роста цен, либо с помощью политики, либо путем изменения статистики инфляции.
+				
+                        		... <a href="https://mises.in.ua/article/how-agriculture-bureaucrats-are-manipulating-food-prices-and-our-diets/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-23
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/fallacies-public-goods-theory-and-production-security-1/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Ханс-Херман Хоппе</small><br>
+                                Ошибки теории общественных благ и производство безопасности
+                            </div>
+                            <div class="post-item-summary">
+                                В 1849 году, в то время, когда классический либерализм все еще был доминирующей идеологической силой, а &ldquo;экономист&rdquo; и &ldquo;социалист&rdquo; обычно &mdash; и совершенно справедливо &mdash; считались антонимами, Гюстав де Молинари, известный бельгийский экономист, написал: &ldquo;Если в политической экономии есть одна общепризнанная истина, то она заключается в том, что во всех случаях, для всех товаров, которые служат для удовлетворения материальных или нематериальных потребностей потребителя, в интересах потребителя, чтобы труд и торговля оставались свободными, потому что свобода труда и торговли имеет своим необходимым и постоянным результатом максимальное снижение цены.
+				
+                        		... <a href="https://mises.in.ua/article/fallacies-public-goods-theory-and-production-security-1/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-21
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/ceo/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дональд Бодро</small><br>
+                                CEO
+                            </div>
+                            <div class="post-item-summary">
+                                Предположим, вы владеете значительным количеством акций &mdash; скажем, на сумму 500 000 долларов &mdash; компании Acme Corp., производителя мебели для дома. Будучи акционером, вы решили посетить ежегодное собрание акционеров корпорации. Вы приходите заранее, чтобы занять хорошее место, с нетерпением ожидая, что скажет президент и генеральный директор Acme, мистер Джонс.
+Взойдя на трибуну после теплого вступления председателя совета директоров Acme, Джонс внимательно смотрит на собравшихся перед ним акционеров. Он начинает с заверения, что, хотя Acme сталкивается со многими реальными проблемами, он и его исполнительная команда твердо держат ситуацию под контролем.
+				
+                        		... <a href="https://mises.in.ua/article/ceo/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-17
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/yes-taxation-theft/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дэвид Гордон</small><br>
+                                Да, налоги — это грабеж
+                            </div>
+                            <div class="post-item-summary">
+                                Либертарианцы считают, что налогообложение &mdash; это грабеж. Правительство силой забирает часть вашего дохода и имущества. Ваши платежи государству не являются добровольными. Если вы думаете, что это так, попробуйте отказаться от выплат и посмотрите, что произойдет.
+Известная книга Лиама Мерфи и Томаса Нагеля &ldquo;Миф о собственности&rdquo; пытается показать, что такой взгляд на налогообложение ошибочен. Многие люди, говорят они, глупо возмущаются налогами. По какому праву правительство забирает часть того, чем мы владеем?
+				
+                        		... <a href="https://mises.in.ua/article/yes-taxation-theft/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-16
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/kak-pobedidt-putina/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Камил Галеев</small><br>
+                                Как победить Путина?
+                            </div>
+                            <div class="post-item-summary">
+                                Многие признают важность принудительных мер против России и необходимость дать ей путь к отступлению.
+Некоторые полагают, что путь к отступлению состоит в том, чтобы заставить Путина пойти на переговоры. Это катастрофическая идея. Путин уже не может повернуть назад.
+Рассмотрим переговоры между Россией и Украиной. Они не достигли никакого соглашения, да и не могли достичь. Почему? Посмотрите, кого Путин послал в качестве руководителя делегации &mdash; Мединского. Мединский &mdash; это профессор МГИМО, который написал книгу о величии России и был назначен министром культуры.
+				
+                        		... <a href="https://mises.in.ua/article/kak-pobedidt-putina/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-15
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/economics-in-three-is-incentives-institutions-and-intentions/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Арт Карден</small><br>
+                                Стимулы, институты и намерения
+                            </div>
+                            <div class="post-item-summary">
+                                Недавно я попросил своих студентов задать вопросы, которые у них возникли по &ldquo;Принципам макроэкономики&rdquo;. Многие студенты спрашивали: &ldquo;Что самое главное в этой книге?&rdquo; Я буду в восторге, если студенты поймут три ключевых идеи: Стимулы, Институты и Намерения. В частности, они должны знать&hellip;
+Стимулы имеют значение. Институты имеют значение. Намерения не имеют значения. Очевидно, что я пишу &ldquo;Намерения не имеют значения&rdquo; с легким укором &mdash; я искренне надеюсь, что люди совершают поступки из лучших побуждений, но тот, кто изучает экономику, должен прийти к выводу, что намерения переоценены.
+				
+                        		... <a href="https://mises.in.ua/article/economics-in-three-is-incentives-institutions-and-intentions/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-14
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/privateers/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Ларі Сечрест</small><br>
+                                Каперство та національна оборона: морська війна для приватного прибутку
+                            </div>
+                            <div class="post-item-summary">
+                                Часом ведеться жвава дискусія про те, які саме блага слід включати до категорії суспільних благ. Однак принаймні одне благо майже завжди вважається “суспільним”: національна оборона. Навіть деякі досить радикальні мислителі вважають, що національна оборона не може ефективно постачатися приватним сектором.
+				
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-12
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/environmentalism-light-menger-and-mises/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джордж Райзман</small><br>
+                                Экологизм в свете учений Менгера и Мизеса
+                            </div>
+                            <div class="post-item-summary">
+                                Эта статья, основанная на книге Райзмана &ldquo;Капитализм&rdquo;, является сокращенной версией его лекции памяти Мизеса, прочитанной на конференции австрийской школы в Институте Людвига фон Мизеса в 2001 году. Более сокращенная версия появилась в &ldquo;Ежеквартальном журнале австрийской экономики&rdquo;, том 5, № 2. Настоящая версия была опубликована как ежедневная статья на сайте www.mises.org 20 апреля 2001 года под названием &ldquo;Экологизм опровергнут&rdquo;.
+Экологизм &mdash; это продукт краха социализма в мире, который не знаком с вкладом фон Мизеса &mdash; в мире, который не знаком с логическим объяснением Мизесом краха социализма и, что еще более важно, объяснением успех капитализма.
+				
+                        		... <a href="https://mises.in.ua/article/environmentalism-light-menger-and-mises/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-03-12
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/politics-is-dead-now-what-an-entrepreneurial-revolution/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Макс Бордерс</small><br>
+                                Политика мертва. Что теперь?
+                            </div>
+                            <div class="post-item-summary">
+                                Персия. Рим. Британия. История &mdash; это летопись циклов роста и упадка. Является ли Америка исключением? Если мы действительно наблюдаем первые признаки американского падения, то нам лучше быть готовыми к нему. Такая подготовка не обязательно означает, что вы должны забить консервами свой подвал. Это может быть просто коллективная готовность к проведению огромной реструктуризации.
+Я уже почти десять лет говорю о смерти политики. Я не хочу повторяться. Это становится все более очевидным для всех.
+				
+                        		... <a href="https://mises.in.ua/article/politics-is-dead-now-what-an-entrepreneurial-revolution/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2022-02-23
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+        </a>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

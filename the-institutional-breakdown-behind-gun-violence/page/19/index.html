@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.101.0" />
+<title>Liberty Education Project</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head active" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    19<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>51
+                </span>
+            </div>
+            
+            
+            <a class="pagination-action" href="/page/18/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_left
+                </i>
+            </a>
+            
+
+            
+            <a class="pagination-action" href="/page/20/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-no-background">
+        
+            
+            <a href="https://mises.in.ua/article/if-nordic-countries-are-socialist-so-are-these-less-impressive-countries/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Эбен Макдональд</small><br>
+                                Если в скандинавских странах социализм, то и в этих странах тоже 
+                            </div>
+                            <div class="post-item-summary">
+                                Страны Северной Европы привлекают внимание демократических социалистов в Америке благодаря своим высоким ставкам налогов, сильному государству всеобщего благосостояния и якобы жесткому регулированию предпринимательства. Однако последний показатель не совсем верен: все скандинавские страны, за исключением Финляндии, входят в первую десятку по индексу легкости ведения бизнеса Всемирного банка и занимают высокие позиции в индексе налоговой конкурентоспособности. Но если прогрессисты утверждают, что Скандинавия действительно является социалистическим регионом, то они должны признать, что Италия, Франция и Греция являются такими же, если даже не более социалистическими.
+				
+                        		... <a href="https://mises.in.ua/article/if-nordic-countries-are-socialist-so-are-these-less-impressive-countries/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-23
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/we-can-still-have-a-century-of-liberty/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Хоаким Бук</small><br>
+                                У нас еще может быть век свободы
+                            </div>
+                            <div class="post-item-summary">
+                                После стремительной этатистской революции, которая сильно отодвинула нас назад на пути к свободе пришло время для некоторого оптимизма.
+Многие философы и историки говорили о &ldquo;Zeitgeist&rdquo; эпохи &mdash; идее, которая витает в воздухе и движет историю вперед. В сфере идей бывает так, что ранее немыслимые вещи внезапно становятся само собой разумеющимися &mdash; крах божественного права королей, индивидуальные права, отмена рабства, избирательное право женщин, право на развод, права геев. Большинство этих идей были радикальными для своего времени, при этом, если смотреть на них в масштабах истории, они были приняты неожиданно быстро.
+				
+                        		... <a href="https://mises.in.ua/article/we-can-still-have-a-century-of-liberty/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-21
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/medical-journal-warns-about-maskss-potentially-devastating-consequences/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дженин Юнс, Джеффри Такер</small><br>
+                                Медицинский журнал предупреждает о потенциально опасных последствиях ношения масок
+                            </div>
+                            <div class="post-item-summary">
+                                На прошлой неделе YouTube удалил видео научного круглого стола по Covid, проведенного губернатором Флориды Роном ДеСантисом. Указанная YouTube причина удаления связана с некоторыми мимолетными комментариями ученых, которые поднимали вопросы о ношении масок детьми.
+Представитель YouTube заявил: &ldquo;Мы удалили видео AIER, потому что оно содержало контент, противоречащий единодушному мнению местных и мировых органов здравоохранения относительно эффективности масок для предотвращения распространения Covid-19&rdquo;.
+Нежелательное замечание было сделано профессором Гарварда Мартином Куллдорфом: &ldquo;Дети не должны носить маски для лица&rdquo;, &mdash; сказал он.
+				
+                        		... <a href="https://mises.in.ua/article/medical-journal-warns-about-maskss-potentially-devastating-consequences/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-19
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/where-new-zealand-goes-the-world-goes/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small></small><br>
+                                Куда идет Новая Зеландия, туда идет мир
+                            </div>
+                            <div class="post-item-summary">
+                                В 1989 году случилось событие, которое потрясло мир и радикально изменило работу важнейших институтов. Нет, я говорю не о падении коммунизма и последующем распаде советского блока, а о небольшом изменении государственной политики в далекой-далекой стране. В то время как остальной мир пристально следил за разрушением Берлинской стены, правительство Новой Зеландии приняло, казалось бы, несущественный закон, который навсегда изменил мировые валютные режимы. Возможно, новозеландцы собираются сделать это снова.
+Вернемся назад. На Западе 80-е годы были временем отчаянных поисков работоспособных денежных механизмов.
+				
+                        		... <a href="https://mises.in.ua/article/where-new-zealand-goes-the-world-goes/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-16
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/californias-failed-response-to-covid/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Д-р Джайянта Бхаттачарья, д-р Мартин Куллдорф</small><br>
+                                Неудачный ответ Калифорнии на COVID
+                            </div>
+                            <div class="post-item-summary">
+                                Теперь, когда мы &ldquo;отметили&rdquo; первую годовщину COVID-19 в Калифорнии, самое время оценить реакцию штата на эпидемию.
+С самого начала Золотой штат занял агрессивную позицию по отношению к эпидемии, в том числе раньше всех ввел карантин; прекратил очное обучение для подавляющего большинства учеников государственных школ; закрыл церкви, парки и детские площадки; ввел обязательное ношение масок с крупными штрафами для нарушителей; закрыл &ldquo;второстепенные&rdquo; предприятия, которые не могут работать с использованием дистанционных технологий, таких как видеоконференции.
+				
+                        		... <a href="https://mises.in.ua/article/californias-failed-response-to-covid/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-14
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/covid-vaccine-nonsense/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>П. Джером</small><br>
+                                Бессмысленность вакцинирования от Covid
+                            </div>
+                            <div class="post-item-summary">
+                                Попытки потребовать от каждого американца ввести экспериментальную вакцину против Covid-19 основаны на ложном представлении о том, что вакцинация защитит реципиентов от заражения SARS-Cov-2, вирусом, вызывающим Covid-19, или предотвратит передачу инфекции другим людям.
+Однако, FDA, CDC, NIH и вовлеченные в процесс фармацевтические компании очень четко заявляют, что нет никаких доказательств в поддержку этой идеи.
+Ни одна из трех экспериментальных вакцин против Covid-19, распространяемых в настоящее время в Соединенных Штатах, не продемонстрировала, что она может защитить от заражения или от передачи вируса, который, как считается, вызывает Covid-19 (SARS-CoV-2), или хотя бы предотвратить развитие симптомов Covid- 19.
+				
+                        		... <a href="https://mises.in.ua/article/covid-vaccine-nonsense/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-12
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/youtube-censors-florida-governor-desantis-and-his-science-advisors/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джеффри Такер</small><br>
+                                YouTube подверг цензуре губернатора Флориды ДеСантиса и его научных советников
+                            </div>
+                            <div class="post-item-summary">
+                                В 2020 году Флорида стала лидером отказников от локдаунов. Эти усилия возглавил губернатор Рон ДеСантис, который в ходе пандемии стал настоящим эрудитом в вопросах общественного здравоохранения и биологических явлений, имеющих отношение к иммунитету. Снимая масочные мандаты и локдауны, он действовал под влиянием ученых, подписавших Грейт Баррингтонскую декларацию, а также специалиста в области общественного здравоохранения Скотта Атласа.
+Усилия по защите пожилых людей во Флориде позволили остальному обществу функционировать в обычном режиме и привели к успеху, который отмечается во всем мире.
+				
+                        		... <a href="https://mises.in.ua/article/youtube-censors-florida-governor-desantis-and-his-science-advisors/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-09
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/indias-impending-war-on-crypto/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Питер Эрл</small><br>
+                                Надвигающаяся война Индии с криптовалютой
+                            </div>
+                            <div class="post-item-summary">
+                                Высокопоставленный чиновник правительства Индии недавно сообщил Reuters, что вскоре правительство предложит закон, запрещающий торговлю и владение криптовалютами. Индия давно превратилась в глобальный центр криптовалюты, где 8 миллионов инвесторов владеют криптоактивами на сумму около 1,4 миллиарда долларов США. Законодательство, которое намеревается проложить путь для официальной цифровой рупии, даст держателям до шести месяцев на то, чтобы ликвидировать свои активы в криптовалюте, после чего они столкнутся с штрафами разной степени.
+Хотя закон еще не был официально принят, его последствия уже ощущаются.
+				
+                        		... <a href="https://mises.in.ua/article/indias-impending-war-on-crypto/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-07
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/to-decline-or-not-decline-western-civilizations-endless-nemesis/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Хоаким Бук</small><br>
+                                Вырождаться или не вырождаться: извечная судьба западной цивилизации
+                            </div>
+                            <div class="post-item-summary">
+                                Запад умирал много раз, но до сих пор жив и здоров. Это обстоятельство не очень радует целую батарею западных интеллектуалов, которые на протяжении веков уверенно предсказывали неминуемую гибель нашей цивилизации. Снова и снова предсказания писателей и философов, таких как Генри Адамс, Фридрих Ницше, Мартин Хайдеггер, Жан-Поль Сартр и Поль Эрлих на практике оказывались ошибкой.
+Уроки, которые извлекает каждое новое поколение их последователей, почти всегда сводятся к тому, что &ldquo;на этот раз все по-другому&rdquo;.
+				
+                        		... <a href="https://mises.in.ua/article/to-decline-or-not-decline-western-civilizations-endless-nemesis/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-05
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/sustainability-misses-the-point/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Хоаким Бук</small><br>
+                                Что «устойчивое развитие» упускает из виду
+                            </div>
+                            <div class="post-item-summary">
+                                Зима в Северном полушарии &mdash; это то время года, когда экологические проблемы кажутся очень странными. (И нет, я не говорю о холодных зимах, которые якобы противоречат глобальному потеплению, поскольку это не так: климат &mdash; это долгосрочная сумма неустойчивых краткосрочных погодных паттернов, паттернов, которые сами по себе могут быть экстремальными из года в год но не указывать на конкретное направление изменения климата).
+В то время года, когда мои предки оставались в постели, чтобы сохранить калории и тепло тела, или сидели на корточках у огня, чтобы согреться, я сижу внутри своего дома совершенно беззаботно.
+				
+                        		... <a href="https://mises.in.ua/article/sustainability-misses-the-point/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-04-02
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+        </a>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

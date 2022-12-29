@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.101.0" />
+<title>Liberty Education Project</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head active" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    11<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>53
+                </span>
+            </div>
+            
+            
+            <a class="pagination-action" href="/page/10/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_left
+                </i>
+            </a>
+            
+
+            
+            <a class="pagination-action" href="/page/12/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-no-background">
+        
+            
+            <a href="https://mises.in.ua/article/the-real-problem-with-mask-mandates/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дэвид МакГроган</small><br>
+                                Главная проблема принудительного ношения масок
+                            </div>
+                            <div class="post-item-summary">
+                                Маски вернулись в Британию. Почти все ковидные ограничения, включая требование носить маски, были сняты еще в июле, и казалось, что мы медленно, но верно возвращаемся к блаженной нормальности. Но &ldquo;Омикрон&rdquo; изменил ситуацию, и теперь мы снова должны носить маски в магазинах и общественном транспорте (но не в гостиницах), по крайней мере, в течение следующих трех недель.
+Читателям в других странах мира, которые носили маски не снимая в течение полутора лет, может показаться, что жаловаться нелепо.
+				
+                        		... <a href="https://mises.in.ua/article/the-real-problem-with-mask-mandates/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-12-08
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/first-comply-then-well-grant-you-some-rights/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Стейси Рудин</small><br>
+                                Сначала выполните наши требования, а потом мы предоставим вам некоторые права
+                            </div>
+                            <div class="post-item-summary">
+                                Все больше и больше людей чувствуют, что что-то не так в нашей реакции на &ldquo;пандемию ковид&rdquo;. Жрецы политического истеблишмента утверждают, что эта пандемия &mdash; первый случай в истории, когда нам нужна всеобщая, всемирная &ldquo;вакцинация&rdquo;, чтобы уничтожить респираторный патоген. Предлагаемые &ldquo;вакцины&rdquo; не обеспечивают стерилизующего иммунитета; скорее, они приводят к регулярным &ldquo;прорывным&rdquo; инфекциям. Тем не менее, нам предписано &ldquo;смешивать и сочетать&rdquo; их по своему усмотрению на регулярной основе, чтобы иметь возможность посещать рестораны и мероприятия.
+				
+                        		... <a href="https://mises.in.ua/article/first-comply-then-well-grant-you-some-rights/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-12-06
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/we-need-a-free-market-in-legal-services/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джордж Лиф</small><br>
+                                Нам нужен свободный рынок юридических услуг
+                            </div>
+                            <div class="post-item-summary">
+                                Когда-то в середине 70-х годов я решил поступить на юридический факультет. Я неплохо сдал экзамен LSAT, подал документы и был принят в Дюк. Я поступил, учился достаточно усердно, чтобы сдать все экзамены, выучил несколько полезных вещей, которые помню до сих пор (например, основы договорного права), и окончил школу со степенью доктора права в руках.
+Однако, несомненно, самое важное, что я узнал во время учебы в юридической школе, &mdash; это то, что профессия юриста не для меня.
+				
+                        		... <a href="https://mises.in.ua/article/we-need-a-free-market-in-legal-services/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-12-03
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/a-three-pronged-blunder-or-what-money-is-and-what-it-isnt/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джордж Селджин</small><br>
+                                Что такое деньги и чем они не являются
+                            </div>
+                            <div class="post-item-summary">
+                                На прошлой неделе я разговаривал по телефону с Питером Коем, который работал над статьей о деньгах для журнала The New York Times Magazine и он упомянул в разговоре старое трехкомпонентное определение денег из учебника, то самое, которое гласит, что деньги &mdash; это средство обмена, средство себержения (store of value) и единица учета. Это первое, что большинство студентов-экономистов узнают о деньгах. И как я подозреваю, это все, что они помнят. Это очень печально. Потому что все это неправильно.
+				
+                            </div>
+                            <div class="post-item-meta">
+                                2021-12-01
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/the-gospel-of-a-99-consensus/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Робертас Бакула</small><br>
+                                Евангелие 99-процентного консенсуса
+                            </div>
+                            <div class="post-item-summary">
+                                Идея божественного откровения как пути к знанию и истине больше не работает. По крайней мере, после научной революции в западном мире. Правда, многие люди все еще отождествляют истину с убеждениями, которых они придерживаются.
+Я уверен, что вы слышали, что 97% ученых согласны с тем, что деятельность человека является основной причиной изменения климата. Даже президент Обама проповедовал эту мысль. Знаменитое исследование, опубликованное в 2013 году, помогло укоренить эту идею в массовом сознании.
+				
+                        		... <a href="https://mises.in.ua/article/the-gospel-of-a-99-consensus/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-29
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/how-fanatics-took-over-the-world/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джеффри Такер</small><br>
+                                Как фанатики захватили мир
+                            </div>
+                            <div class="post-item-summary">
+                                В начале пандемии я писал гневные статьи о локдаунах. Однажды мне позвонил человек по имени Раджив Венкайя. Он возглавлял компанию по производству вакцин, но представился как бывший руководитель отдела по борьбе с пандемиями Фонда Гейтса.
+Тогда я еще не знал, того, что узнал позже из (в основном ужасной) книги Майкла Льюиса &ldquo;Предчувствие&rdquo;: Венкайя был, по сути, отцом-основателем локдаунов. В 2005 году, работая в Белом доме Джорджа Буша-младшего, он возглавлял группу по изучению биотерроризма.
+				
+                        		... <a href="https://mises.in.ua/article/how-fanatics-took-over-the-world/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-26
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/hans-hermann-hoppe-welcome-and-introductions-how-would-a-private-law-society-deal-with-corona/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Ханс-Германн Хоппе</small><br>
+                                Как решается проблема с короновирусом в обществе частного права?
+                            </div>
+                            <div class="post-item-summary">
+                                В обществе частного права вся земля, каждый квадратный дюйм, находится в частной собственности. Все квартиры, дома, поселки, дороги, водные пути, морские порты и аэропорты, заводы, офисы, школы, больницы и т.д. имеют частного владельца. Этим владельцем является либо отдельный человек, либо группа лиц, частная ассоциация, каждая из которых имеет свои правила внутреннего распорядка, организационную структуру и внутренние правила и процедуры принятия решений.
+Это позволяет достичь максимальной децентрализации при принятии решений и, одновременно максимальной ответственности.
+				
+                        		... <a href="https://mises.in.ua/article/hans-hermann-hoppe-welcome-and-introductions-how-would-a-private-law-society-deal-with-corona/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-24
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/great-reset-part-vi-plans-technocratic-elite/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Майкл Ректенвальд</small><br>
+                                Большая перезагрузка, часть VI: Планы технократической элиты
+                            </div>
+                            <div class="post-item-summary">
+                                В предыдущих частях я представил идею Большой перезагрузки и рассмотрел ее экономические и идеологические составляющие. В этой, шестой части, я расскажу о том, что означает Большая перезагрузка с точки зрения управления и Четвертой промышленной революции (4ПР), а в заключение выскажусь по поводу проекта Большой перезагрузки как такового и его последствий.
+По словам Клауса Шваба, основателя и исполнительного председателя Всемирного экономического форума (ВЭФ), 4ПР является продолжением механической, электрической и цифровой революций. 4ПР стартует с цифровой революции, но Шваб рассматривает 4ПР как экспоненциальный взлет и конвергенцию существующих и новых областей, включая бигдату, искусственный интеллект, машинное обучение, квантовые вычисления, генетику, нанотехнологии и робототехнику.
+				
+                        		... <a href="https://mises.in.ua/article/great-reset-part-vi-plans-technocratic-elite/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-22
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/great-reset-part-v-woke-ideology/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Майкл Ректенвальд</small><br>
+                                Большая перезагрузка, часть V: идеология воков
+                            </div>
+                            <div class="post-item-summary">
+                                В предыдущих статьях я обсуждал Большую перезагрузку и представил несколько способов понимания ее экономики. Большую перезагрузку можно рассматривать как неофеодализм, как &ldquo;корпоративный социализм&rdquo;, как &ldquo;капитализм с китайской спецификой&rdquo;, а также в терминах &ldquo;капитализм стейкхолдеров&rdquo; против &ldquo;неолиберализма&rdquo;. В следующих частях я намерен рассмотреть технологические (трансгуманистические) и монетарные (централизованное банковское дело и цифровая валюта) аспекты, которые Клаус Шваб и другие &ldquo;предвидят&rdquo; и предписывают.
+В этом эссе я хочу рассмотреть идеологический аспект Большой перезагрузки.
+				
+                        		... <a href="https://mises.in.ua/article/great-reset-part-v-woke-ideology/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-19
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/great-reset-part-iv-stakeholder-capitalism-vs-neoliberalism/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Майкл Ректенвальд</small><br>
+                                Большая перезагрузка, часть IV: &#34;Капитализм стейкхолдеров&#34; против &#34;неолиберализма&#34;
+                            </div>
+                            <div class="post-item-summary">
+                                Любое обсуждение &ldquo;капитализма стейкхолдеров&rdquo; должно начинаться с фиксации парадокса: &ldquo;капитализма сейкхолдеров&rdquo; как и &ldquo;неолиберализма&rdquo;, его заклятого врага, не существует. Не существует такой экономической системы, как &ldquo;капитализм стейкхолдеров&rdquo;, точно так же, как не существует такой экономической системы, как &ldquo;неолиберализм&rdquo;. Это просто призраки, противостоящие друг другу в бесконечной борьбе.
+В реальности существует не &ldquo;капитализм стейкхолдеров&rdquo; и &ldquo;неолиберализм&rdquo;, а авторы, которые пишут о &ldquo;капитализме стейкхолдеров&rdquo; и &ldquo;неолиберализме&rdquo;, а также компании, которые думают, что у них есть обязательства перед стейкхолдерами в дополнение к обязательствам перед акционерам.
+				
+                        		... <a href="https://mises.in.ua/article/great-reset-part-iv-stakeholder-capitalism-vs-neoliberalism/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2021-11-17
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+        </a>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>
