@@ -3,6 +3,7 @@ languageCode = "ru-ru"
 title = "Liberty Education Project"
 copyright = "Liberty Education Project"
 disableKinds = ["section"]
+ignoreErrors = ["error-remote-getjson"]
 theme = "diary"
 googleAnalytics = "UA-167974269-1"
 
@@ -14,3 +15,4 @@ enableGitalk = false
    tag = "tags"
 #   author = "authors"
 #   category = "categories"
+
