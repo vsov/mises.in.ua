@@ -1,10 +1,11 @@
 ---
-title: "Почему они пытаться возложить вину за рабство на капиталистов"
+title: "Почему они пытаются возложить вину за рабство на капиталистов"
 author: "Райан МакМакен"
 date: 2019-11-26T13:52:27+02:00
 tags: ["Райан МакМакен"]
 draft: false
 ---
+![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/slaves1.JPG?itok=ic4JvZGL)
 
 В последние месяцы несколько общественных деятелей и национальных СМИ  начали продвигать идею о том, что современный капитализм построен на основе рабства. Берни Сандерс ссылаясь на статью *New York Times* даже заявил, что «[развитие Америки строилось на отношении к чернокожим как к собственности».](https://www.facebook.com/senatorsanders/posts/for-centuries-americas-rise-relied-on-treating-black-people-as-literal-property-/10158163055787908/) Статья в журнале *Vox* обещает объяснить «[Как рабство стало строительным материалом американской экономики](https://www.vox.com/identities/2019/8/16/20806069/slavery-economy-capitalism-violence-cotton-edward-baptist).»
 
