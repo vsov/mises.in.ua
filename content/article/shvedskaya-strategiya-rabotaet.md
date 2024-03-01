@@ -34,7 +34,7 @@ draft: false
 
 Возможно, самое главное, Швеция, похоже, приручила COVID-19. В то время как во многих европейских странах, которые ввели карантин, наблюдается возрождение вируса, случаи заболевания и смерти в Швеции по-прежнему резко контрастируют с другими европейскими странами.
 
-{{< tweet 1313926783197118468 >}}
+{{< tweet user="jeffreyatucker" id="1313926783197118468" >}}
 
 ![](https://lh3.googleusercontent.com/1MCnL3QIzUYq3SeXRnbsU8RPAWcKnvOsEJQGf-WBYKqRovMPkXGZfMZF3C1tkss3-9Q6OKq5g_JrAmED2M1r7tvsQzcTOGa39dZdv7Wi3uzZLNsoDPuWxn28OPk7FnlE4pDvbLQd)
 
