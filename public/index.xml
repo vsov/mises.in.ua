@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <copyright>Liberty Education Project</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 11:19:41 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 11:54:06 +0300</lastBuildDate>
     <atom:link href="https://mises.in.ua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Отделение информации от дезинформации: Угрозы революции ИИ</title>
+      <link>https://mises.in.ua/article/separating-information-disinformation-threats-ai-revolution/</link>
+      <pubDate>Fri, 19 Apr 2024 11:54:06 +0300</pubDate>
+      <guid>https://mises.in.ua/article/separating-information-disinformation-threats-ai-revolution/</guid>
+      <description>Искусственный интеллект (ИИ) не может отличить факт от вымысла. Он также не является творческим интеллектом и не может создавать новый контент, а повторяет, переупаковывает и переформулирует то, что уже было сказано (но, возможно, по-новому).&#xA;Я уверен, что кто-то не согласится с последним утверждением, возможно, указав на тот факт, что ИИ явно может генерировать, например, новые песни и тексты. Я согласен с этим, но это упускает суть. ИИ создает &amp;ldquo;новый&amp;rdquo; текст песни только на основе данных о текстах предыдущих песен, а затем использует эту информацию (индуктивно выявленные закономерности) для создания того, что для нас кажется новой песней (и вполне может быть ею).</description>
+    </item>
     <item>
       <title>Экономика революции искусственного интеллекта. Часть 2</title>
       <link>https://mises.in.ua/article/economics-ai-revolution/</link>
