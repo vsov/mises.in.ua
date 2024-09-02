@@ -5,7 +5,7 @@ copyright = "Liberty Education Project"
 disableKinds = ["section"]
 ignoreErrors = ["error-remote-getjson"]
 theme = "diary"
-googleAnalytics = "UA-167974269-1"
+# googleAnalytics = "UA-167974269-1"
 
 [params]
 subtitle = "Knowledge Is Freedom"
