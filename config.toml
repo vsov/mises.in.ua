@@ -16,3 +16,6 @@ enableGitalk = false
 #   author = "authors"
 #   category = "categories"
 
+[markup.goldmark.renderer]
+unsafe = true
+
