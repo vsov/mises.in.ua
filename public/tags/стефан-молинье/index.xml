@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Стефан Молинье on Liberty Education Project</title>
-    <link>https://mises.in.ua/tags/%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D0%B5/</link>
+    <link>http://localhost:52157/tags/%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D0%B5/</link>
     <description>Recent content in Стефан Молинье on Liberty Education Project</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <copyright>Liberty Education Project</copyright>
     <lastBuildDate>Sun, 13 Mar 2016 19:05:39 +0200</lastBuildDate>
-    <atom:link href="https://mises.in.ua/tags/%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52157/tags/%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Война, прибыль и государство</title>
-      <link>https://mises.in.ua/article/war-profit-and-the-state/</link>
+      <link>http://localhost:52157/article/war-profit-and-the-state/</link>
       <pubDate>Sun, 13 Mar 2016 19:05:39 +0200</pubDate>
-      <guid>https://mises.in.ua/article/war-profit-and-the-state/</guid>
+      <guid>http://localhost:52157/article/war-profit-and-the-state/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Государство - здоровье войны&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Мы часто слышим о том, что война - это здоровье государства. Однако,&#xA;более правдоподобным может оказаться обратное утверждение: государство -&#xA;это здоровье войны. Другими словами, война, наибольшее из всех&#xA;человеческих зол, невозможна без государства.&lt;/p&gt;&#xA;&lt;p&gt;Как-то великому австрийскому экономисту, Людвигу фон Мизесу задали&#xA;вопрос о том, что является определяющей характеристикой свободного&#xA;рынка? Поскольку каждая экономика - это, в какой-то мере, смесь свободы&#xA;и государственного насилия, то наличие какой структуры отличает&#xA;свободный рынок от контролируемой экономики? Ответ был - наличие&#xA;фондового рынка . Благодаря фондовому рынку предприниматели могут&#xA;&lt;em&gt;экстернализировать риски&lt;/em&gt;, то есть переложить свои потенциальные убытки&#xA;на инвесторов. При отсутствии такой возможности развитие бизнеса&#xA;практически невозможно.&lt;/p&gt;</description>
     </item>
   </channel>

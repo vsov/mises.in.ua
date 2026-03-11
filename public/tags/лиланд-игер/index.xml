@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Лиланд Игер on Liberty Education Project</title>
-    <link>https://mises.in.ua/tags/%D0%BB%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4-%D0%B8%D0%B3%D0%B5%D1%80/</link>
+    <link>http://localhost:52157/tags/%D0%BB%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4-%D0%B8%D0%B3%D0%B5%D1%80/</link>
     <description>Recent content in Лиланд Игер on Liberty Education Project</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <copyright>Liberty Education Project</copyright>
     <lastBuildDate>Sat, 26 Jan 2019 14:24:57 +0200</lastBuildDate>
-    <atom:link href="https://mises.in.ua/tags/%D0%BB%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4-%D0%B8%D0%B3%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52157/tags/%D0%BB%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4-%D0%B8%D0%B3%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Жизнеспособен ли утилитаризм?</title>
-      <link>https://mises.in.ua/article/utilitarianism-viable/</link>
+      <link>http://localhost:52157/article/utilitarianism-viable/</link>
       <pubDate>Sat, 26 Jan 2019 14:24:57 +0200</pubDate>
-      <guid>https://mises.in.ua/article/utilitarianism-viable/</guid>
+      <guid>http://localhost:52157/article/utilitarianism-viable/</guid>
       <description>&lt;p&gt;&lt;em&gt;Привет, меня зовут Боб, и я выздоравливающий утилитарист.&lt;/em&gt; &lt;em&gt;Прошло уже несколько месяцев с тех пор, как я признался в этом самому себе.&lt;/em&gt; &lt;em&gt;Дело в том, что я верил: все моральные проблемы могут быть сведены к простой максимизации пользы.&lt;/em&gt; &lt;em&gt;Многие из моих ближайших друзей говорили мне, что у меня проблемы, но я не слушал.&lt;/em&gt; &lt;em&gt;Они хотели, как лучше, но они просто не понимали.&lt;/em&gt; &lt;em&gt;Или я так думал.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Я нахожусь в странном положении. Если бы я прочитал книгу профессора Игера всего шесть месяцев назад, я бы объявил ее прекрасным вкладом в разъяснение сложного (и &lt;em&gt;правильного&lt;/em&gt;) утилитаризма. Правда, осталась бы (по моему мнению) одна большая проблема, которая еще не была удовлетворительно объяснена утилитаристами, но это меня бы не слишком беспокоило; в конце концов, наука не стоит на месте и границы нашего невежества все время сокращаются.&lt;/p&gt;</description>
     </item>
   </channel>

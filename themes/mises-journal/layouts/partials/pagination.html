@@ -1,0 +1,13 @@
+{{ with .Paginator }}
+  {{ if gt .TotalPages 1 }}
+    <nav class="pager" aria-label="Пагинация">
+      {{ with .Prev }}
+        <a class="pager__link" href="{{ .URL }}">Назад</a>
+      {{ end }}
+      <span class="pager__status">Страница {{ .PageNumber }} из {{ .TotalPages }}</span>
+      {{ with .Next }}
+        <a class="pager__link" href="{{ .URL }}">Далее</a>
+      {{ end }}
+    </nav>
+  {{ end }}
+{{ end }}

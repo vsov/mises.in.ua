@@ -1,0 +1,70 @@
+{{ define "main" }}
+  {{ $pages := where site.RegularPages "Section" "article" }}
+  {{ $paginator := .Paginate $pages }}
+  {{ $featured := index $paginator.Pages 0 }}
+  {{ $tagTerms := first 14 site.Taxonomies.tags.ByCount }}
+
+  <section class="hero">
+    <div class="hero__inner">
+      <div class="hero__copy">
+        <p class="eyebrow">MISES.IN.UA</p>
+        <h1>{{ site.Title }}</h1>
+        <p class="hero__lead">{{ site.Params.homeLead | default site.Params.description }}</p>
+        <div class="hero__meta">
+          <span>{{ len $pages }} материалов</span>
+          <span>{{ len site.Taxonomies.tags }} тем</span>
+          <span>Адаптировано для спокойного чтения</span>
+        </div>
+      </div>
+      <aside class="hero__panel">
+        <p class="hero__panel-title">Фокус сайта</p>
+        <p>{{ site.Params.tagline }}</p>
+        <a class="button-link" href="{{ "/tags/" | relLangURL }}">Список тегов</a>
+      </aside>
+    </div>
+  </section>
+
+  <section class="home-grid">
+    <div class="home-feed">
+      {{ with $featured }}
+        <article class="feature-card">
+          {{ partial "lead-image.html" . }}
+          <p class="feature-card__label">Свежий материал</p>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <div class="meta-row">
+            {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+            <span>{{ .Date.Format "02.01.2006" }}</span>
+            <span>{{ .ReadingTime }} мин чтения</span>
+          </div>
+          <p>{{ partial "excerpt.html" . }}</p>
+          {{ partial "tag-list.html" . }}
+        </article>
+      {{ end }}
+
+      <div class="card-grid">
+        {{ range after 1 $paginator.Pages }}
+          {{ partial "article-card.html" . }}
+        {{ end }}
+      </div>
+
+      {{ partial "pagination.html" . }}
+    </div>
+
+    <aside class="home-sidebar">
+      <section class="sidebar-block">
+        <div class="sidebar-block__topline">
+          <p class="sidebar-block__title">Популярные теги</p>
+          <a href="{{ "/tags/" | relLangURL }}">Список тегов</a>
+        </div>
+        <div class="topic-cloud">
+          {{ range $tagTerms }}
+            <a href="{{ .Page.RelPermalink }}">
+              <span>{{ .Page.Title }}</span>
+              <small>{{ .Count }}</small>
+            </a>
+          {{ end }}
+        </div>
+      </section>
+    </aside>
+  </section>
+{{ end }}

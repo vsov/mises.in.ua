@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-brand" href="{{ "/" | relLangURL }}">
+      <span class="site-brand__kicker">{{ site.Params.subtitle }}</span>
+      <span class="site-brand__title">{{ site.Title }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Основная навигация">
+      <a class="{{ if .IsHome }}is-active{{ end }}" href="{{ "/" | relLangURL }}">Главная</a>
+      <a class="{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}is-active{{ end }}" href="{{ "/tags/" | relLangURL }}">Теги</a>
+    </nav>
+  </div>
+</header>

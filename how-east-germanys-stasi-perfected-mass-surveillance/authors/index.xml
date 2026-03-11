@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Liberty Education Project</title>
+    <link>http://mises.in.ua/authors/</link>
+    <description>Recent content in Authors on Liberty Education Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>Liberty Education Project</copyright>
+    
+	<atom:link href="http://mises.in.ua/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

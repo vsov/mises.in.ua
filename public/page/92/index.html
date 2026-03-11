@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.157.0">
+<title>Liberty Education Project</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head>
+<body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head active" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        
+            <div class="pagination-indicator">
+                <span style="text-align: center">
+                    92<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>96
+                </span>
+            </div>
+            
+            
+            <a class="pagination-action" href="/page/91/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_left
+                </i>
+            </a>
+            
+
+            
+            <a class="pagination-action" href="/page/93/">
+                <i class="material-icons pagination-action-icon">
+                    chevron_right
+                </i>
+            </a>
+            
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-no-background">
+        
+            
+            <a href="https://mises.in.ua/article/ten-great-economic-myths/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Мюррей Ротбард</small><br>
+                                Большие экономические мифы
+                            </div>
+                            <div class="post-item-summary">
+                                <p>Нашу страну наводнило огромное количество экономических мифов, которые
+искажают мнение общественности о важных проблемах и ведут к принятию
+населением нездоровой и опасной политики государства. Ниже приведены
+десять наиболее опасных заблуждений вместе с пояснениями того, что с
+ними не так.</p>
+<p> </p>
+<h2 id="миф-1">Миф №1</h2>
+<p><strong>Дефицит государственного бюджета - причина инфляции;
+дефицит бюджета никак не связан с инфляцией.</strong></p>
+<p>В последние десятилетия американцы постоянно имели дефицит федерального
+бюджета. Неизменный ответ оппозиционных партий, вне зависимости от того,
+что это за партия, состоит в том, чтобы объявить дефицит причиной
+хронической инфляции. В ответ на это партия, находящаяся при власти (вне
+зависимости от того, какая это партия) заявляет, что дефицит никоим
+образом не связан с инфляцией. Оба эти утверждения ложны.</p>
+				
+                        		... <a href="https://mises.in.ua/article/ten-great-economic-myths/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-03-30
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/young-people-reject-capitalism-in-name-socialism-in-fact/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Б. К. Маркус</small><br>
+                                Под именем «капитализма» миллениалы отрицают социализм
+                            </div>
+                            <div class="post-item-summary">
+                                <p>«Результаты нового опроса говорят о том, что большинство молодых людей
+отвергает базовые принципы экономики США и не поддерживает капитализм»,
+<a href="https://www.washingtonpost.com/news/wonk/wp/2016/04/26/a-majority-of-millennials-now-reject-capitalism-poll-shows/">пишет Макс Эренфройнд в Washington Post</a>.</p>
+<p>Обратите внимание на то, что капитализм здесь - это система, в которой
+мы живём сейчас, а не
+&ldquo;<a href="https://smile.amazon.com/Capitalism-Ideal-Ayn-Rand-ebook/dp/B002OSXD6E?tag=foundationforeco">неизвестный идеал</a>&rdquo;
+— как называла его
+<a href="https://fee.org/people/ayn-rand">Айн Рэнд</a>.
+Впрочем, Эренфройнд слегка сдает назад:</p>
+<blockquote>
+<p>«Капитализм может иметь разное
+значение для разных людей.&quot; И заключает: «грубо говоря, последнее
+поколение избирателей расстроено существующим ныне положением вещей.&quot;</p>
+				
+                        		... <a href="https://mises.in.ua/article/young-people-reject-capitalism-in-name-socialism-in-fact/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-03-24
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/value-added-tax-not-answer/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Мюррей Ротбард</small><br>
+                                Налог на добавленную стоимость — это не решение
+                            </div>
+                            <div class="post-item-summary">
+                                <blockquote>
+<p>&ldquo;В те дни вышло от кесаря Августа повеление сделать перепись по всей
+земле.&rdquo;</p>
+<p>– От Луки святое благовествование, 2:1</p>
+</blockquote>
+<p> </p>
+<p>[<em>Human Events</em>, 11-ое марта, 1972 г.]</p>
+<p>В последние месяцы рост сопротивления введению новых налогов со стороны
+кроткого населения Америки стал приятным и удивительным фактом. В США
+каждый человек, предприятие или организация получают прибыль благодаря
+свободной и мирной продаже клиенту продуктов и услуг или путём
+добровольных пожертвований со стороны людей, желающих поддержать
+деятельность группы или организации. И только правительство получает
+прибыль, насильственно облагая население налогами. Долгожданный новый
+элемент — это сопротивление американского народа росту налогообложения.</p>
+				
+                        		... <a href="https://mises.in.ua/article/value-added-tax-not-answer/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-03-02
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/ten-fundamental-laws-economics/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Энтони Мюллер</small><br>
+                                Фундаментальные законы экономики
+                            </div>
+                            <div class="post-item-summary">
+                                <p>Мы живем в мире, в котором регулярно повторяются одни и те же
+экономические ошибки, причем конца этому не видно. Поэтому, может быть
+полезно напомнить об основных экономических законах, которые нарушаются
+вновь и вновь. Здесь приведены десять из них.</p>
+<h2 id="1-производство-предшествует-потреблению">1. Производство предшествует потреблению</h2>
+<p>Хотя представляется очевидным, что потреблять можно только уже
+существующие вещи, идея о стимуляции потребления с целью расширения
+производства царит повсюду. Однако, товары широкого потребления не
+падают с неба. Они находятся в конце длинной цепочки взаимосвязанных
+производственных процессов, которые называются
+<a href="https://mises.org/library/11-structure-production">«структура производства»</a>.
+Даже производство такого очевидно простого предмета, как, к примеру,
+<a href="https://theoryandpractice.ru/posts/7353-ya-karandash">карандаш</a>,
+требует сложной сети производственных процессов, которые имеют
+протяженность во времени и происходят в разных странах и даже на
+континентах.</p>
+				
+                        		... <a href="https://mises.in.ua/article/ten-fundamental-laws-economics/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-02-20
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/marxism-on-the-menu-why-the-communist-restaurant-failed/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Абигейл Бланко</small><br>
+                                Марксизм в меню. Почему обанкротился коммунистический ресторан
+                            </div>
+                            <div class="post-item-summary">
+                                <p>Я часто веду курс лекций по основам экономики, для многих студентов это
+первое знакомство с предметом. И, хотя мы говорим обо всех основных
+темах, таких как спрос и предложение, эластичность (чувствительность
+производителя и потребителя к изменениям в цене), налогообложение,
+торговля и экстерналии, я не питаю иллюзий относительно того, что
+большинство из моих студентов будет помнить материал курса максимум год.</p>
+<p>Однако, я надеюсь, что одну вещь все мои студенты запомнят навсегда -
+значение цены и частной собственности. В частности, я хочу донести до
+них, что эти механизмы жизненно необходимы для свободного и
+процветающего общества. Я чётко даю им понять, что считаю этот материал
+невероятно важным. Фактически, ещё до начала обсуждения цен, я говорю
+им, что буду счастлива, если ценовая система будет <em>единственной</em> вещью
+из курса, которую они будут помнить через 15 лет после его окончания.</p>
+				
+                        		... <a href="https://mises.in.ua/article/marxism-on-the-menu-why-the-communist-restaurant-failed/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-02-04
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/inequality-doesnt-create-poverty/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Райен МакМакен</small><br>
+                                Неравенство не создает бедность
+                            </div>
+                            <div class="post-item-summary">
+                                <p>Негосударственная организация лево-либеральной ориентации Oxfam,
+занимающаяся борьбой с бедностью, выпустила очередной отчёт, в котором
+говорится, что причиной бедности является неравенство в распределении.
+Иными словами, претензия Oxfam состоит в том, что само существование
+очень богатых людей приводит к возникновению бедности.</p>
+<p><a href="https://www.oxfamamerica.org/explore/research-publications/an-economy-for-the-99-percent/">Этот отчёт</a>
+Oxfam в значительной мере представляет собой развёрнутую
+публицистическую статью, в которой доказывается, что существование
+богатых людей является причиной бедности. Довольно часто используются
+такие слова и фразы, как «перераспределение благ», «возмутительное
+неравенство» и «неолиберализм».</p>
+				
+                        		... <a href="https://mises.in.ua/article/inequality-doesnt-create-poverty/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-01-25
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/why-obama-failed/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Джеффри Такер</small><br>
+                                Почему Обама потерпел фиаско
+                            </div>
+                            <div class="post-item-summary">
+                                <p>За всю мою жизнь ни одного президента США не встречали с таким
+энтузиазмом и надеждой, как Барака Обаму. Уже с самого начала его
+президентства в кругах интеллектуальной и медиа элиты образовался своего
+рода культ его последователей. Это была заря новой эры, от которой
+ожидалось правосудие, справедливость, равенство, мир и патриотизм, и
+учитывая яркий ум, эрудированность и хорошие намерения великого
+человека, приход всего этого казался неизбежным.</p>
+<p>«Салон» <a href="http://www.salon.com/2016/12/24/rogue-one-exactly-the-star-wars-movie-we-need-as-the-age-of-trump-dawns/">пишет об итогах эры Обамы</a>:</p>
+				
+                        		... <a href="https://mises.in.ua/article/why-obama-failed/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2017-01-17
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/how-medical-licensing-laws-can-shield-incompetent-doctors/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Майкл Ассад</small><br>
+                                Как законодательство о лицензировании врачебной деятельности защищает некомпетентных докторов
+                            </div>
+                            <div class="post-item-summary">
+                                <p><em>Исследование</em>, несколько месяцев назад опубликованное в Британском
+медицинском журнале (BMJ), привлекло внимание общественности заявлением
+о том, что медицинские ошибки занимают третье место в списке наиболее
+частых причин смерти. Как и стоило ожидать, реакция на это заявление
+была самой разнообразной.</p>
+<p>Для одних эта информация подтвердила, что пекущаяся только о своих
+интересах система здравоохранения чрезвычайно небрежно относится к
+благополучию пациентов. Другие расценили это, как основанную на
+ошибочной методологии чушь, призванную оправдать последующее
+государственное регулирование.</p>
+				
+                        		... <a href="https://mises.in.ua/article/how-medical-licensing-laws-can-shield-incompetent-doctors/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2016-12-27
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/good-news-theyre-not-telling-you/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Томас Вудс</small><br>
+                                Хорошие новости, о которых вам не скажут
+                            </div>
+                            <div class="post-item-summary">
+                                <p><img src="/good-news-theyre-not-telling-you/1.jpg" alt=""></p>
+<p>Когда мы видим все эти впечатляющие штуковины из мира новых технологий,
+мы испытываем некоторое волнение, поскольку нам сказали, что роботы
+заберут нашу работу. “Да, интернет - это прекрасно, - говорим мы, - но
+роботы… Уж избавьте.»</p>
+<p>Не буду недооценивать опасность. Роботы и правда получат много работы. И
+работу они отберут не только у представителей рабочих специальностей, но
+и у офисных работников (при чём такую, о которой вы бы никогда не
+подумали). Уже существуют, например, роботы, которые распределяют
+лекарства в аптеках и это уже происходит в Калифорнии. И они ещё ни разу
+не допустили ошибок, чего вы точно не можете сказать о фармацевтах из
+плоти и крови. Последние общаются с вами в зале, пока роботы подбирают
+прописанные по рецепту лекарства.</p>
+				
+                        		... <a href="https://mises.in.ua/article/good-news-theyre-not-telling-you/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2016-12-22
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+            
+            <a href="https://mises.in.ua/article/money-laundering-laws-ineffective-expensive/" class="a-block">
+                <div class="post-item-wrapper">
+                    <div class="post-item post-item-no-divider">
+                        <div class="post-item-info-wrapper">
+                            <div class="post-item-title">
+				<small>Дэниэл Митчелл</small><br>
+                                Законодательство об отмывании денег абсурдно, затратно, обременительно и практически бесполезно
+                            </div>
+                            <div class="post-item-summary">
+                                <p>Начиная с 70-х годов ХХ века, федеральное правительство (как и другие
+правительства по всему миру), начало проводить политику, основанную на
+идее о том, что можно уменьшить количество совершаемых преступлений,
+если серьёзно усложнить для преступников использование нелегально
+полученных денег. Поэтому сегодня у нас есть множество законов и
+предписаний, в соответствии с которыми <a href="https://danieljmitchell.wordpress.com/2010/02/22/should-banks-be-forced-by-the-government-to-spy-on-consumers/">финансовые учреждения следят за
+своими клиентами</a> в надежде, что это помешает отмыванию денег.</p>
+<p>И, если теория, на которой они базируются, может и звучит убедительно,
+на практике <a href="https://danieljmitchell.wordpress.com/2012/03/10/financial-regulation-the-red-tape-nightmare-and-anti-money-laundering-laws/">все это законодательство полностью провалилось</a>. Нет
+никаких <a href="https://danieljmitchell.wordpress.com/2014/02/26/great-moments-in-the-failed-and-costly-war-against-money-laundering/">доказательств</a> того, что крайне затратные для
+налогоплательщиков меры по борьбе с отмыванием денег привели к снижению
+криминальной активности.</p>
+				
+                        		... <a href="https://mises.in.ua/article/money-laundering-laws-ineffective-expensive/">Read More</a>
+                		
+                            </div>
+                            <div class="post-item-meta">
+                                2016-11-29
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            
+        
+        </a>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

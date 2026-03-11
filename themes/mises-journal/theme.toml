@@ -1,0 +1,12 @@
+name = "mises-journal"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Editorial Hugo theme for long-form essays and translated articles."
+homepage = "https://mises.in.ua/"
+tags = ["blog", "editorial", "essays", "responsive", "minimal"]
+features = ["responsive", "taxonomy", "pagination", "table-of-contents"]
+min_version = "0.157.0"
+
+[author]
+name = "OpenAI Codex"
+homepage = "https://openai.com/"

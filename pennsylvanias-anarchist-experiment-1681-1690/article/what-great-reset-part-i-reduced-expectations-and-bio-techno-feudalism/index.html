@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html><head>
+<title>Что такое Большая перезагрузка? Часть I: Пониженные ожидания и био-техно-феодализм</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+		    <small>Майкл Ректенвальд</small><br>
+                    Что такое Большая перезагрузка? Часть I: Пониженные ожидания и био-техно-феодализм<br>
+			
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            2021-11-10 14:11
+                        </time>
+
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/%D0%BC%D0%B0%D0%B9%D0%BA%D0%BB-%D1%80%D0%B5%D0%BA%D1%82%D0%B5%D0%BD%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4">Майкл Ректенвальд</a>
+                                &nbsp;
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.O6ZkZk0Y2RB9ww3IKGNHhAHaEK%26pid%3DApi&amp;f=1" alt=""></p>
+<p>Мы все так или иначе думаем о Большой перезагрузке, независимо от того, знаем мы о ней или нет. Ее предвестниками являются меры, которые государства осуществляют по всему миру и которые привели  к кризису covid-19. (Под &ldquo;кризисом&rdquo; я подразумеваю не саму так называемую пандемию, а реакцию государств на новый вирус под названием SARS-2 и влияние этой реакции на социальные и экономические условия).</p>
+<p>В своей книге &ldquo;КОВИД-19: Великая перезагрузка&rdquo; основатель и исполнительный председатель Всемирного экономического форума (ВЭФ) Клаус Шваб пишет, что кризис COVID-19 следует рассматривать как &ldquo;возможность, которой можно воспользоваться для проведения институциональных изменений и выбора политик, которые позволят экономикам встать на путь к более справедливому и экологичному будущему&rdquo;.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Шваб уже много лет пропагандирует Большую перезагрузку и кризис COVID стал предлогом для ее окончательного осуществления. По мнению Шваба, не следует ожидать, что мировая система в постковидный период вернется к прежнему режиму функционирования. Шваб предполагает, что произойдут изменения во многих взаимозависимых областях, которые приведут к появлению новой нормальности.</p>
+<p>Итак, что же такое Большая перезагрузка и что такое новая нормальность, которую она установит?</p>
+<p>Большая перезагрузка означает сокращение доходов и выбросов углерода. Шваб и ВЭФ также определяют Большую перезагрузку в терминах конвергенции экономических, денежных, технологических, медицинских, геномных, экологических, военных и управленческих систем. Большая перезагрузка будет включать в себя масштабные преобразования в каждой из этих областей, изменения, которые, по словам Шваба, не только изменят наш мир, но и заставят нас &ldquo;задаться вопросом, что значит быть человеком &ldquo;<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>С точки зрения экономики и монетарной политики, Большая перезагрузка означает консолидацию богатства, с одной стороны, и вероятный переход к универсальному базовому доходу (UBI) &mdash; с другой.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Она может включать переход на цифровую валюту,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> централизацию банковского дела и банковских счетов, немедленное налогообложение в режиме реального времени, отрицательные процентные ставки, централизованное наблюдение и контроль за расходами и долгами.</p>
+<p>Хотя каждый аспект Большой перезагрузки связан с технологиями, для Большой перезагрузки необходима  &ldquo;четвертая промышленная революция &ldquo;<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> или трансгуманизм, который означает расширение геномики, нанотехнологий и робототехники и их проникновение в человеческие тела и мозг. Конечно, четвертая промышленная революция подразумевает избыточность человеческого труда в большом количестве секторов, которые будут автоматизированы. Кроме того, Шваб приветствует использование нанотехнологий и сканирования мозга для прогнозирования и упреждения поведения человека.</p>
+<p>Большая перезагрузка означает выдачу медицинских паспортов, которые вскоре будут переведены в цифровой формат, а также прозрачность медицинских карт, включающих историю болезни, генетический состав и состояние болезни. Это может включать и имплантацию микрочипов, которые будут считывать и сообщать о генетическом составе и состоянии мозга, так что &ldquo;в один прекрасный день при пересечении государственной границы может потребоваться детальное сканирование мозга для оценки риска безопасности&rdquo;<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
+<p>На геномном фронте Большая перезагрузка включает в себя достижения в области генной инженерии и слияние генетики, нанотехнологий и робототехники.</p>
+<p>В военном плане Большая перезагрузка подразумевает создание новых боевых пространств, включая киберпространство и человеческий мозг в качестве боевого пространства.<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup></p>
+<p>С точки зрения управления, Большая перезагрузка означает все более централизованное,  расширенное правительство и &ldquo;государственные органы&rdquo;, конвергенцию корпораций и государств и цифровизацию правительственных функций, включая, с использованием предиктивных алгоритмов, отслеживание и наблюдение за телами в пространстве в режиме реального времени или &ldquo;упреждающее управление&rdquo; поведением людей и систем.<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup></p>
+<p>С учетом сказанного, &ldquo;Большая перезагрузка&rdquo; &mdash; это всего лишь скоординированная пропагандистская кампания, прикрытая плащом неизбежности. Большая перезагрузка &mdash; это не просто теория заговора, как пишет газета &ldquo;Нью-Йорк Таймс&rdquo;,<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup> а попытка заговора, точнее, ситуация, когда социально-экономические планировщики выдают желаемое за действительное<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup> для того, чтобы убедить  корпоративных &ldquo;стейкхолдеров&rdquo;<sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup> и правительства принять идеологию ВЭФ.</p>
+<p>Для того чтобы продать этот пакет, ВЭФ активно прибегает к популярной риторике &ldquo;экономического равенства&rdquo;, &ldquo;справедливости&rdquo;, &ldquo;вовлеченности&rdquo; и &ldquo;общей судьбы&rdquo;.<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup> Все в эти иллюстрируют  коллективистский, политический и идеологический компоненты предполагаемого корпоративного социализма <sup id="fnref:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup> (поскольку экономический социализм никогда не может быть реализован, он всегда бывает только политический и идеологический).</p>
+<p>Я рассмотрю перспективы Большой перезагрузки в следующих частях. Пока достаточно сказать, что ВЭФ предлагает био-техно-феодальный глобальный порядок, в котором у руля стоят специалисты по социально-экономическому планированию и корпоративные &ldquo;стейкхолдеры&rdquo;, а большая часть человечества находится в их власти. Человечество, по замыслу планировщиков, будет жить в условиях экономического стазиса с заниженными ожиданиями, с значительно урезаной, если не полностью уничтоженной индивидуальной автономией. Как писал Мизес, такие планировщики хотят заменить планы отдельных субъектов своими собственными планами. Если такие планы будут приняты, они потерпят неудачу, но, тем не менее, за их принятие придется заплатить.</p>
+<p><a href="https://mises.org/wire/what-great-reset-part-i-reduced-expectations-and-bio-techno-feudalism">Оригинал статьи</a></p>
+<blockquote>
+<p>Перевод: Наталия Афончина</p>
+</blockquote>
+<blockquote>
+<p>Редактор: Владимир Золоторев</p>
+</blockquote>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Klaus Schwab and Thierry Malleret, <em>COVID-19: The Great Reset</em> (n.p.: Forum Publishing, 2020), p. 57.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Schwab, Klaus. <em>The Fourth Industrial Revolution</em> (New York: Crown Business, 2017), p. vii.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Kanni Wignaraja and Balazs Horvath, “Universal Basic Income Is the Answer to the Inequalities Exposed by COVID-19,” World Economic Forum, Apr. 17, 2020, <a href="https://www.weforum.org/agenda/2020/04/covid-19-universal-basic-income-social-inequality/">https://www.weforum.org/agenda/2020/04/covid-19-universal-basic-income-social-inequality/</a>.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>“The Fed Explores Possibility of Issuing Digital Currency,” BitIRA, Jan. 9, 2020, <a href="https://www.bitira.com/fed-explores-digital-currency/">https://www.bitira.com/fed-explores-digital-currency/</a>.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>Klaus Schwab, “The Fourth Industrial Revolution: What It Means, How to Respond,” World Economic Forum, Jan. 14, 2016, <a href="https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/">https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/</a>.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p>. Klaus Schwab and Nicholas Davis, <em>Shaping the Future of the Fourth Industrial Revolution: A Guide to Building a Better World</em> (New York: Currency, 2018), p. 173.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>Tim Requarth, “This Is Your Brain. This Is Your Brain as a Weapon.,” <em>Foreign Policy</em>, Sept. 9, 2015, <a href="https://foreignpolicy.com/2015/09/14/this-is-your-brain-this-is-your-brain-as-a-weapon-darpa-dual-use-neuroscience/">https://foreignpolicy.com/2015/09/14/this-is-your-brain-this-is-your-brain-as-a-weapon-darpa-dual-use-neuroscience/</a>.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8">
+<p>Wikipedia, s.v. “Anticipatory Governance,” last modified Apr. 14, 2020, 01:57, <a href="https://en.wikipedia.org/wiki/Anticipatory_governance">https://en.wikipedia.org/wiki/Anticipatory_governance</a>.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:9">
+<p>Davey Alba, “The Baseless ‘Great Reset’ Conspiracy Theory Rises Again,” <em>New York Times</em>, Nov. 17, 2020, <a href="https://www.nytimes.com/live/2020/11/17/world/covid-19-coronavirus#the-baseless-great-reset-conspiracy-theory-rises-again">https://www.nytimes.com/live/2020/11/17/world/covid-19-coronavirus#the-baseless-great-reset-conspiracy-theory-rises-again</a>.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:10">
+<p>“The Great Reset: Between Conspiracy and Wishful Thinking,” Library of Economics and Liberty (Econlib), Dec. 1, 2020, <a href="https://www.econlib.org/the-great-reset-between-conspiracy-and-wishful-thinking/">https://www.econlib.org/the-great-reset-between-conspiracy-and-wishful-thinking/</a>.&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:11">
+<p>“Stakeholder Capitalism: A Manifesto for a Cohesive and Sustainable World,” <em>World Economic Forum Blog</em>, Jan. 14, 2020, <a href="https://www.weforum.org/press/2020/01/stakeholder-capitalism-a-manifesto-for-a-cohesive-and-sustainable-world/">https://www.weforum.org/press/2020/01/stakeholder-capitalism-a-manifesto-for-a-cohesive-and-sustainable-world/</a>.&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:12">
+<p>Nicholas Davis, “What Is the Fourth Industrial Revolution?,” World Economic Forum, Jan. 19, 2016,<a href="https://www.weforum.org/agenda/2016/01/what-is-the-fourth-industrial-revolution/">https://www.weforum.org/agenda/2016/01/what-is-the-fourth-industrial-revolution/</a>.&#160;<a href="#fnref:12" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:13">
+<p>“Who Funds the Riotous American Left and Why? The Globalist Billionaire Class, Which Uses It to Build Corporate Socialism,” Michael Rectenwald (website), Oct. 12, 2020, <a href="https://www.michaelrectenwald.com/essays/why-capitalists-fund-socialism">https://www.michaelrectenwald.com/essays/why-capitalists-fund-socialism</a>.&#160;<a href="#fnref:13" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+                
+                <a class="newer-posts" href="https://mises.in.ua/article/great-reset-part-ii-corporate-socialis/">
+                    Next<br>Большая перезагрузка, часть II: корпоративный социализм
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://mises.in.ua/article/why-interventionist-economists-love-talk-about-externalities/">
+                    Previous<br>Почему экономисты-интервенционисты любят говорить о внешних эффектах
+                </a>
+                
+            </nav>
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

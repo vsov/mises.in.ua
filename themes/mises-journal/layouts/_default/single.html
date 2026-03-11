@@ -1,0 +1,63 @@
+{{ define "main" }}
+  {{ $tocItems := len (findRE "<li" .TableOfContents) }}
+  <article class="article-layout">
+    <header class="article-hero">
+      <div class="article-hero__inner">
+        <div class="article-hero__copy">
+          <p class="eyebrow">Статья</p>
+          <h1>{{ .Title }}</h1>
+          {{ $dek := .Params.description | default (partial "excerpt.html" .) }}
+          {{ with $dek }}
+            <p class="article-hero__dek">{{ . }}</p>
+          {{ end }}
+          <div class="meta-row">
+            {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+            <span>{{ .Date.Format "02.01.2006" }}</span>
+            <span>{{ .ReadingTime }} мин чтения</span>
+            {{ with .WordCount }}<span>{{ . }} слов</span>{{ end }}
+          </div>
+          {{ partial "tag-list.html" . }}
+        </div>
+      </div>
+    </header>
+
+    <div class="article-wrap">
+      <div class="article-main">
+        {{ if gt $tocItems 1 }}
+          <details class="article-toc article-toc--mobile">
+            <summary>Содержание</summary>
+            {{ .TableOfContents }}
+          </details>
+        {{ end }}
+
+        <div class="article-body prose">
+          {{ .Content }}
+        </div>
+
+        <nav class="article-nav" aria-label="Навигация по статьям">
+          {{ with .NextInSection }}
+            <a class="article-nav__item" href="{{ .RelPermalink }}">
+              <span>Новая статья</span>
+              <strong>{{ .Title }}</strong>
+            </a>
+          {{ end }}
+          {{ with .PrevInSection }}
+            <a class="article-nav__item article-nav__item--next" href="{{ .RelPermalink }}">
+              <span>Предыдущая статья</span>
+              <strong>{{ .Title }}</strong>
+            </a>
+          {{ end }}
+        </nav>
+      </div>
+
+      {{ if gt $tocItems 1 }}
+        <aside class="article-sidebar">
+          <div class="article-toc">
+            <p class="article-toc__title">Содержание</p>
+            {{ .TableOfContents }}
+          </div>
+        </aside>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/victor/newmises/mises.in.ua/greeter/contracts/greeter.sol": {
+      "lastModificationDate": 1687600809219,
+      "contentHash": "73c8b6ab619faf24f8b082b2bf11daa2",
+      "sourceName": "contracts/greeter.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "mode": "3"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        },
+        "zksolc": {
+          "version": "1.3.11",
+          "compilerSource": "binary",
+          "settings": {
+            "optimizer": {
+              "enabled": true,
+              "mode": "3"
+            },
+            "compilerPath": "/Users/victor/Library/Caches/hardhat-nodejs/compilers-v2/zksolc/zksolc-v1.3.11",
+            "experimental": {}
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    }
+  }
+}

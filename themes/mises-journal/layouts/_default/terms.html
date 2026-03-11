@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ $heading := .Title }}
+  {{ if eq .Data.Plural "tags" }}
+    {{ $heading = "Теги" }}
+  {{ end }}
+  <section class="listing-page">
+    <header class="listing-page__header">
+      <p class="eyebrow">Навигация</p>
+      <h1>{{ $heading }}</h1>
+      <p>Предметный указатель по авторам, темам и сюжетам, встречающимся в библиотеке.</p>
+    </header>
+
+    <div class="topic-cloud topic-cloud--full">
+      {{ range .Data.Terms.ByCount }}
+        <a href="{{ .Page.RelPermalink }}">
+          <span>{{ .Page.Title }}</span>
+          <small>{{ .Count }}</small>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

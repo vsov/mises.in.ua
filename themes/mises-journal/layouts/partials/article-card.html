@@ -1,0 +1,11 @@
+<article class="article-card">
+  {{ partial "lead-image.html" . }}
+  <p class="article-card__eyebrow">Статья</p>
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="meta-row">
+    {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+    <span>{{ .Date.Format "02.01.2006" }}</span>
+  </div>
+  <p>{{ partial "excerpt.html" . }}</p>
+  {{ partial "tag-list.html" . }}
+</article>

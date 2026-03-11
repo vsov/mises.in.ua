@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html><head>
+<title>О той самой Нобелевке: Деконструкция банковских теорий Даймонда и Дайбвига</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-167974269-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mises.in.ua/scss/journal.min.8e4dfa6c62449e56a2f1df609b8ee15fca76f72994134ec8a45918c892b4455b.css" integrity="sha256-jk36bGJEnlai8d9gm47hX8p29ymUE07IpFkYyJK0RVs=" media="screen">
+
+<script src="https://mises.in.ua//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://mises.in.ua/">
+    
+        <div class="nav-title">
+            Liberty Education Project
+        </div>
+        
+        <div class="nav-subtitle">
+            Knowledge Is Freedom
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mises.in.ua/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+<iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        &copy;
+	
+	Liberty Education Project
+	
+
+    </div>
+    
+</div>
+<div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mises.in.ua/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mises.in.ua/">
+            Liberty Education Project
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mises.in.ua/">
+        <div class="single-column-header-title">Liberty Education Project</div>
+        
+<br><iframe src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=Search in the Project" style="overflow:hidden;margin:0;padding:0;width:90%;height:40px;" frameborder="0"></iframe><br>
+        <div class="single-column-header-subtitle">Knowledge Is Freedom</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+		    <small>Кристофер Маустен Хансен</small><br>
+                    О той самой Нобелевке: Деконструкция банковских теорий Даймонда и Дайбвига<br>
+			
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            2023-02-08 13:12
+                        </time>
+
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80-%D0%BC%D0%B0%D1%83%D1%81%D1%82%D0%B5%D0%BD-%D1%85%D0%B0%D0%BD%D1%81%D0%B5%D0%BD">Кристофер Маустен Хансен</a>
+                                &nbsp;
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p><img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/nobel-w.jpg?itok=C_AnLeTK" alt=""></p>
+<p>После присуждения Нобелевской премии по экономике Бену С. Бернанке, Дугласу В. Даймонду и Филипу Х. Дайбвигу, интерес СМИ, по понятным причинам, сосредоточился на Бернанке. <a href="https://mises.org/wire/ben-bernankes-nobel-prize-committee-rewards-arsonist-claiming-fight-fire-he-started">Марк Торнтон написал язвительную статью</a> о &ldquo;спасении Бена&rdquo;, а <a href="https://marginalrevolution.com/marginalrevolution/2022/10/the-economic-contributions-of-ben-bernanke.html">Тайлер Коуэн непонятно почему превозносил его до небес</a> (зато Коуэн указал на некоторые заслуги Бернанке, которые и правда имели место).</p>
+<p>По этой причине Даймонду и Дайбвигу (ДД) не было уделено достаточного внимания, что очень жаль, поскольку их работа весьма симптоматична и в куда большей степени характеризует состояние современной экономики и мейнстримного анализа денег и банковского дела, чем работа <a href="https://www.theguardian.com/business/2015/apr/29/pimco-recruits-ex-federal-reserve-chairman-ben-bernanke">любимца банкиров</a> Бернанке. ДД, вероятно, также в гораздо большей степени повлияли на то, как экономисты анализируют банковское дело. Их <a href="https://www.bu.edu/econ/files/2012/01/DD83jpe.pdf">основополагающая статья 1983 года</a> в Journal of Political Economy, &ldquo;Bank Runs, Deposit Insurance, and Liquidity&rdquo;, имеет более тринадцати тысяч ссылок в Google Scholar, и это число теперь вырастет еще больше. Она также была названа <a href="https://www.richmondfed.org/publications/research/economic_quarterly/2010/q1/cavalcanti">&ldquo;значительным концептуальным и методологическим достижением в изучении банковских механизмов&rdquo;.</a> Итак, давайте критически рассмотрим работу, которая оказала такое большое влияние и которая теперь увенчана Нобелевскими лаврами.</p>
+<h2 id="дд-банк">ДД Банк</h2>
+<p>ДД хотели изучить банковское дело и, в частности, посмотреть, какие виды стабильного равновесия может создать банковская система и какие виды государственные вмешательства могут улучшить рыночный результат. Для этого они построили модель, причем довольно необычную.</p>
+<p>В модели ДД существует только одно экономическое благо, а экономика функционирует в течение трех периодов, T = 0, 1, 2. В период 0 каждый человек получает единицу блага. Это благо может быть потреблено только в периоды 1 или 2: если инвестировать его в производство до периода 2, то это даст удвоение блага, и человек сможет потребить две единицы.</p>
+<p>В период 0 все будут инвестировать, поскольку благо может быть изъято из производства и потреблено в период 1. В следующем периоде происходит нечто магическое: проснувшись утром, каждый человек осознает тип своей личности. Люди первого типа имеют очень высокие временные предпочтения и хотят потреблять немедленно, несмотря на высокие доходы от инвестиций; люди второго типа имеют низкие временные предпочтения и готовы подождать до второго периода, прежде чем начать потреблять. В результате люди первого типа потребляют свои товары прямо сейчас, а люди второго типа выжидают.</p>
+<p>Прежде чем перейти к обсуждению банка ДД, стоит отметить одну особенность модели: здесь нет денег &mdash; более того, ДД прямо заявляет, что обмена нет вообще. Проблемы банковского дела, как учил Людвиг фон Мизес, являются разделом монетарной теории &mdash; с чем согласны и экономисты мейнстрима, поскольку они признают, что банки предоставляют ликвидность. Тем не менее, модель, на которой основана большая часть современной теории банковского дела, явно исключает деньги из рассмотрения &mdash; что, надо полагать, весьма необычно.</p>
+<p>Затем ДД вводят &ldquo;банк&rdquo;: вместо того чтобы инвестировать, люди передают свои активы банку в обмен на ликвидное требование, т.е. они могут обналичить его в любое время (имеется в виду период 1 или 2). Таким образом, банк обеспечивает ликвидность &mdash; хотя, опять же, трудно понять, какой в этом смысл в экономике, где обмен, а значит, и потребность в деньгах и ликвидности, явно исключены.</p>
+<p>Создав банк, ДД затем показывают, что в этой системе возможны несколько равновесий &mdash; равновесие, в котором все требования удовлетворены, и равновесие &ldquo;бегства из банка&rdquo;, когда каждый изымает свои активы в период 1, что приводит к нулевому производству в период 2. Таким образом, хотя банковское дело предоставляет полезную услугу по трансформации ликвидности, ДД делают вывод, что оно также по своей природе нестабильно и что для предотвращения бегства от банков (массового снятия средств с депозитов &mdash; прим.ред.) необходима помощь извне &mdash; спонсируемое правительством страхование вкладов или центральный банк.</p>
+<h2 id="основные-проблемы-банковской-теории-дд">Основные проблемы банковской теории ДД</h2>
+<p>Поскольку в модели ДД нет денег, из этого следует, что не может быть и банковского дела в обычном смысле. В классическом английском определении банкир &mdash; это человек, который ссужает чужие деньги: он является посредником между разными людьми, сберегателями и заемщиками. Банк ДД не делает ничего подобного. Он просто управляет производством &mdash; это не финансовый посредник. Он принимает активы, управляет производственным процессом и возвращает активы вкладчикам по требованию. Проблемы могут возникнуть только в том случае, если он возвращает активы до окончания производства &mdash; и то только если он выплачивает больше, чем вкладчики могли потребовать в первом периоде. Короче говоря, чтобы понять смысл модели, мы должны представить ее как своего рода финансовую пирамиду.</p>
+<p>Тем не менее, считается, что ДД моделирует то, как банки преобразуют сроки погашения (практика финансовых учреждений занимать деньги на более короткие сроки, чем они выдают деньги взаймы, &mdash; прим.ред.) &mdash; действительно, Нобелевский комитет <a href="https://www.richmondfed.org/publications/research/economic_quarterly/2010/q1/cavalcanti">сосредоточился на этом аспекте</a> в своем описании модели ДД. Преобразование сроков погашения означает, что сберегатели предпочитают давать кредиты на короткий срок, чтобы снизить свои риски, а заемщики предпочитают брать кредиты на длительный срок, чтобы иметь возможность инвестировать на длительный срок без необходимости возвращать кредиты до завершения производственных процессов. Банки выступают в роли посредников: они занимают на короткие сроки у сберегателей и предоставляют долгосрочные кредиты предпринимателям. Затем краткосрочные кредиты постоянно переносятся: одни сберегатели уходят, на их место приходят другие, но в целом сумма сбережений, доступных для инвестиций, не меняется. ДД рассматривает трансформацию сроков погашения как причину нестабильной банковской деятельности: чтобы избежать или смягчить последствия &ldquo;бегства от банков&rdquo;, что в данном случае означает изъятие вкладчиками своих средств с большей скоростью, чем предусматривалось, необходимо вмешательство государства.</p>
+<p>Проблема для ДД и современных теоретиков банковского дела заключается в том, что во всем этом нет ничего нового. Проблема трансформации сроков погашения была хорошо известна много веков назад и привела к формулировке &ldquo;золотого правила банковского дела&rdquo;: как <a href="https://d.docs.live.net/2106a0a91e11ef4f/AppData/Local/Temp/pid-11664/%20HYPERLINK%20/%22https:/mises.org/library/theory-money-and-credit/html/pp/1273/">объяснил</a> Людвиг фон Мизес, цитируя Карла Книса: &ldquo;дата, на которую наступает срок исполнения обязательств банка, не должна предшествовать дате, на которую могут быть реализованы его соответствующие требования&rdquo;. Другими словами, в отличие от того, во что нас заставляет верить нобелевские лауреаты ДД, теоретики банковского дела уже давно изучили трансформацию сроков погашения, и у них был четкий ответ на то, как банкирам следует поступать: не делать этого.</p>
+<p>Современные экономисты также достаточно вдумчиво подошли к вопросу трансформации сроков погашения: Австрийские экономисты <a href="http://link.springer.com/10.1007/s10551-009-0050-z">Филипп Багус и Дэвид Хауден</a> проанализировали практику несоответствия сроков погашения &mdash; то есть несоблюдения золотого правила банковского дела &mdash; и обсудили ее легитимность и экономические последствия с <a href="http://link.springer.com/10.1007/s10551-010-0677-9">Рэнди Барнеттом и Уолтером Блоком.</a> Самое главное, что эти экономисты, в отличие от Даймонда и Дайбвига, не путают вопрос о трансформации сроков погашения с основными вопросами теории банковского дела.</p>
+<p>Наиболее фундаментальная проблема банковской теории а-ля ДД заключается в том, что она игнорирует основную проблему банковского дела и причину его исключительной важности для экономической теории. Эта проблема не имеет ничего общего с трансформацией сроков погашения, которая является просто вопросом разумного банковского управления. Банки важны с экономической точки зрения, потому что они могут увеличить предложение денег, выпуская необеспеченные заменители денег &mdash; т.е. фидуциарные носители. Теория банковского дела, если она должна учитывать экономическую реальность, должна исследовать причины и последствия этого явления. Нет нужды говорить, что ДД не делает этого, а теоретики, следующие их примеру, делают это лишь по касательной. Для экономической теории ценность модели ДД близка к нулю.</p>
+<h2 id="заключение">Заключение</h2>
+<p>Таким образом, шведский центральный банк отмечает Нобелевской премией 2022 года не только современное банковское дело под управлением центрального банка, но и по сути ошибочные теории банковского дела. Мейнстримная денежная теория с годами становится все более оторванной от реальности, и работа Даймонда и Дайбвига является важным примером этого: в погоне за элегантными моделями они закрывают глаза на реальные проблемы банковского дела &mdash; кредитную экспансию и создание денег &mdash; и в лучшем случае фокусируются на косвенных вопросах банковской техники.</p>
+<p>Это симптоматично для общей тенденции развития экономики, и нигде отличие и превосходство австрийской школы не проявляется так явно, как в случае с денежной теорией. Начиная с <a href="https://mises.org/library/theory-money-and-credit">&ldquo;Теории денег и кредита&rdquo;</a> Мизеса 1912 года, австрийцы подчеркивали, что ключевым вопросом банковской теории является создание денег ex nihilo в процессе кредитной экспансии. <a href="https://www.mises.at/static/literatur/Buch/hayek-the-counter-revolution-of-science.pdf">Перефразируя Ф.А. Хайека,</a> можно сказать, что каждое важное достижение в денежной теории за последние сто лет было очередным шагом в последовательном применении мизесианских &mdash; т.е. маржиналистских и праксеологических &mdash; принципов. К сожалению, ни шведы, ни Даймонд и Дайбвиг, ни Бернанке этого не понимают.</p>
+<p><a href="https://mises.org/wire/about-nobel-deconstructing-banking-theories-diamond-and-dybvig">Оригинал</a></p>
+<blockquote>
+<p>Перевод: Наталия Афончина</p>
+</blockquote>
+<blockquote>
+<p>Редактор: Владимир Золоторев</p>
+</blockquote>
+
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+                
+                <a class="newer-posts" href="https://mises.in.ua/article/the-governmentalization-of-social-affairs/">
+                    Next<br>Огосударствление социальных отношений
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://mises.in.ua/article/parallel-structures-are-only-way-freedom/">
+                    Previous<br>Параллельные структуры — единственный путь к свободе
+                </a>
+                
+            </nav>
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">&copy;
+	
+	Liberty Education Project
+	
+</div>
+
+    	</div>
+    <script src="https://mises.in.ua//js/journal.js"></script>
+    </body>
+</html>

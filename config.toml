@@ -1,14 +1,22 @@
 baseURL = "https://mises.in.ua/"
 languageCode = "ru-ru"
+defaultContentLanguage = "ru"
 title = "Liberty Education Project"
 copyright = "Liberty Education Project"
 disableKinds = ["section"]
 ignoreErrors = ["error-remote-getjson"]
-theme = "diary"
+theme = "mises-journal"
 # googleAnalytics = "UA-167974269-1"
+
+[pagination]
+pagerSize = 14
+path = "page"
 
 [params]
 subtitle = "Knowledge Is Freedom"
+description = "Библиотека переводных и авторских материалов по австрийской экономической школе, истории свободы и либертарианской философии."
+tagline = "Австрийская школа, история идей и политическая философия без публицистического шума."
+homeLead = "Подборка переводов и эссе о спонтанных порядках, частной собственности, деньгах, государстве и интеллектуальной истории свободы."
 enableGitalk = false
 
 [taxonomies]
@@ -18,4 +26,3 @@ enableGitalk = false
 
 [markup.goldmark.renderer]
 unsafe = true
-

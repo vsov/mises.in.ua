@@ -1,0 +1,9 @@
+{{- $excerpt := "" -}}
+{{- if .Params.summary -}}
+  {{- $excerpt = .Params.summary -}}
+{{- else if .Params.description -}}
+  {{- $excerpt = .Params.description -}}
+{{- else -}}
+  {{- $excerpt = .Summary | plainify -}}
+{{- end -}}
+{{- $excerpt | strings.TrimSpace | truncate 260 -}}

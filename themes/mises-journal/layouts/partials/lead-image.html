@@ -1,0 +1,9 @@
+{{- $images := findRE `<img[^>]+src="[^"]+"` .Content 1 -}}
+{{- if gt (len $images) 0 -}}
+  {{- $src := replaceRE `.*src="([^"]+)".*` `$1` (index $images 0) -}}
+  {{- if $src -}}
+    <a class="article-card__media" href="{{ $.RelPermalink }}" aria-hidden="true" tabindex="-1">
+      <img src="{{ $src }}" alt="">
+    </a>
+  {{- end -}}
+{{- end -}}
