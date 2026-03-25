@@ -9,5 +9,7 @@
       <a class="{{ if .IsHome }}is-active{{ end }}" href="{{ "/" | relLangURL }}">Главная</a>
       <a class="{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}is-active{{ end }}" href="{{ "/tags/" | relLangURL }}">Теги</a>
     </nav>
+
+    {{ partial "search.html" . }}
   </div>
 </header>

@@ -6,10 +6,6 @@
         <div class="article-hero__copy">
           <p class="eyebrow">Статья</p>
           <h1>{{ .Title }}</h1>
-          {{ $dek := .Params.description | default (partial "excerpt.html" .) }}
-          {{ with $dek }}
-            <p class="article-hero__dek">{{ . }}</p>
-          {{ end }}
           <div class="meta-row">
             {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
             <span>{{ .Date.Format "02.01.2006" }}</span>

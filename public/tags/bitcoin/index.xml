@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bitcoin on Liberty Education Project</title>
-    <link>http://localhost:52157/tags/bitcoin/</link>
+    <link>https://mises.in.ua/tags/bitcoin/</link>
     <description>Recent content in Bitcoin on Liberty Education Project</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <copyright>Liberty Education Project</copyright>
     <lastBuildDate>Tue, 05 Dec 2017 19:20:04 -0700</lastBuildDate>
-    <atom:link href="http://localhost:52157/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mises.in.ua/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ФРС официально назвали биткойн «необеспеченным»</title>
-      <link>http://localhost:52157/article/fed-official-decries-bitcoin-as-not-backed/</link>
+      <link>https://mises.in.ua/article/fed-official-decries-bitcoin-as-not-backed/</link>
       <pubDate>Tue, 05 Dec 2017 19:20:04 -0700</pubDate>
-      <guid>http://localhost:52157/article/fed-official-decries-bitcoin-as-not-backed/</guid>
+      <guid>https://mises.in.ua/article/fed-official-decries-bitcoin-as-not-backed/</guid>
       <description>&lt;p&gt;&lt;em&gt;Биткойн обеспечен потребительской ценностью распределенных записей&#xA;технологии блокчейн, которая лежит в его основе.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Рэндал К. Кворлз (Randal K. Quarles), назначенец Трампа в Совете&#xA;управляющих Федеральной резервной системы и вице-президент по&#xA;банковскому надзору, произнес пространную&#xA;&lt;a href=&#34;https://www.federalreserve.gov/newsevents/speech/quarles20171130a.htm&#34;&gt;речь&lt;/a&gt;&#xA;(«Размышления о&#xA;разумных инновациях в платежной системе»), в которой он указывает на&#xA;биткойн как на опасность для монетарной и финансовой системы.&lt;/p&gt;&#xA;&lt;p&gt;Повторюсь: официальный спикер центрального банка, который управляет&#xA;мировой резервной валютой – института, который долго хвастался своей&#xA;способностью спасти весь мир от банкротства с помощью магии и алхимии,&#xA;ругает биткойн за то, что он ненадежен и необеспечен.&lt;/p&gt;</description>
     </item>
   </channel>
