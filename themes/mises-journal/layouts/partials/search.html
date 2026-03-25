@@ -1,9 +1,24 @@
 <div class="site-header__search" aria-label="Поиск по сайту">
   <p class="site-search__label">Поиск</p>
-  <iframe
-    class="site-search__frame"
-    src="https://duckduckgo.com/search.html?site=mises.in.ua&prefill=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D0%BF%D0%BE+mises.in.ua"
-    title="Поиск по сайту через DuckDuckGo"
-    loading="lazy">
-  </iframe>
+  <form class="site-search__form" action="https://duckduckgo.com/" method="get">
+    <input type="hidden" name="sites" value="mises.in.ua">
+    <input type="hidden" name="kz" value="-1">
+    <label class="site-search__field">
+      <span class="site-search__sr">Поиск по сайту</span>
+      <input
+        class="site-search__input"
+        type="search"
+        name="q"
+        inputmode="search"
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Поиск по сайту">
+    </label>
+    <button class="site-search__submit" type="submit" aria-label="Искать">
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="11" cy="11" r="6.5"></circle>
+        <path d="M16 16l5 5"></path>
+      </svg>
+    </button>
+  </form>
 </div>
