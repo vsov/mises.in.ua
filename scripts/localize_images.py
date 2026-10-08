@@ -9,6 +9,7 @@ import html
 from html.parser import HTMLParser
 import io
 import json
+import os
 from pathlib import Path
 import re
 import shutil
@@ -144,14 +145,14 @@ def inventory(render_root):
     return data
 
 
-def request(url, timeout, attempts=2):
+def request(url, timeout, attempts=2, connect_timeout=8):
     url = "https:" + url if url.startswith("//") else url
     url = quote(url, safe="%:/?&=+$,;@!~*'()-._#[]")
     last = ""
     for attempt in range(attempts):
         with tempfile.TemporaryDirectory(prefix="mises-image-") as temporary:
             output = Path(temporary) / "response"
-            result = subprocess.run(["/usr/bin/curl", "-sS", "-L", "--connect-timeout", "8",
+            result = subprocess.run(["/usr/bin/curl", "-sS", "-L", "--connect-timeout", str(connect_timeout),
                                      "--max-time", str(timeout), "--max-filesize", str(50 * 1024 * 1024),
                                      "--proto", "=http,https", "--proto-redir", "=http,https",
                                      "-A", "Mozilla/5.0 MisesImageLocalization/1.0", "-o", str(output),
@@ -206,7 +207,8 @@ def cutoff(date):
     return (value.astimezone(timezone.utc) - timedelta(seconds=1)).strftime("%Y%m%d%H%M%S")
 
 
-def fetch_archive(url, date, timeout):
+def fetch_archive(url, date, timeout, replay_timeout=None, fetcher=None):
+    fetcher = fetcher or request
     before = cutoff(date)
     candidates = [url]
     parts = urlsplit("https:" + url if url.startswith("//") else url)
@@ -221,7 +223,7 @@ def fetch_archive(url, date, timeout):
             ("url", original), ("output", "json"), ("fl", "timestamp,original,mimetype,statuscode"),
             ("filter", "statuscode:200"), ("to", before), ("limit", "-5")])
         try:
-            body, _ = request(query, timeout, attempts=1)
+            body, _ = fetcher(query, timeout, attempts=1)
             if body.lstrip().startswith(b"<"):
                 raise ValueError("Archive returned an HTML service/error page instead of CDX JSON")
             records = json.loads(body)
@@ -235,7 +237,7 @@ def fetch_archive(url, date, timeout):
                 continue
             replay = f"https://web.archive.org/web/{timestamp}id_/{captured_url}"
             try:
-                body, meta = request(replay, min(timeout, 12), attempts=1)
+                body, meta = fetcher(replay, replay_timeout if replay_timeout is not None else min(timeout, 12), attempts=1)
                 actual = re.search(r"/web/(\d{14})", meta["url_effective"])
                 if not actual or actual.group(1) > before:
                     raise ValueError("Replay redirected outside the allowed capture date")
@@ -298,11 +300,12 @@ def report(data):
             if result.get("excluded"):
                 continue
             resolved = asset(result, article["date"])
-            if resolved.get("local_url") and url not in article["unmatched"]:
+            application_error = article.get("application_errors", {}).get(url)
+            if resolved.get("local_url") and url not in article["unmatched"] and not application_error:
                 success += 1
                 continue
             failed += 1
-            errors.append((url, resolved.get("status", "not_downloaded"), result.get("live_error", ""), resolved.get("error", "")))
+            errors.append((url, "downloaded_not_applied" if application_error else resolved.get("status", "not_downloaded"), result.get("live_error", ""), application_error or resolved.get("error", "")))
         if errors:
             lines.extend([f"## {article['title']}", "", f"Article: `{article['path']}`", f"Hugo date: `{article['date']}`", ""])
             for url, status, live_error, archive_error in errors:
@@ -312,9 +315,10 @@ def report(data):
     print(f"Localized {success} article/URL pairs; unresolved {failed}", flush=True)
 
 
-def apply(data):
+def apply(data, only_paths=None):
     changed = 0
-    for article in data["articles"]:
+    selected = [a for a in data["articles"] if only_paths is None or a["path"] in only_paths]
+    for article in selected:
         current = sha((ROOT / article["path"]).read_text().encode())
         if current not in (article["source_sha256"], article.get("rewritten_sha256")):
             raise ValueError(f"Article changed since inventory: {article['path']}")
@@ -324,7 +328,7 @@ def apply(data):
                 body = (ROOT / "static" / resolved["local_url"].lstrip("/")).read_bytes()
                 if sha(body) != resolved["sha256"]:
                     raise ValueError(f"Asset missing or changed: {resolved['local_url']}")
-    for article in data["articles"]:
+    for article in selected:
         path = ROOT / article["path"]
         source = path.read_text()
         replacements = {u: asset(data["results"].get(u, {}), article["date"]).get("local_url") for u in article["urls"]}
@@ -344,7 +348,13 @@ def apply(data):
                 source = source[:start] + f'<a href="{local}">{local}</a>' + source[end:]
                 wrapped = True
         if spans or wrapped:
-            path.write_text(source)
+            temporary = path.with_name(f".{path.name}.localize-{os.getpid()}.tmp")
+            temporary.write_text(source)
+            temporary.chmod(path.stat().st_mode & 0o7777)
+            if sha(path.read_text().encode()) not in (article["source_sha256"], article.get("rewritten_sha256")):
+                temporary.unlink()
+                raise ValueError(f"Article changed during image application: {article['path']}")
+            temporary.replace(path)
             article["rewritten_sha256"] = sha(source.encode())
             changed += 1
     save(data)
@@ -362,12 +372,12 @@ def verify(data, render_root):
             relative = unquote(urlsplit(permalinks[article["path"]]).path).lstrip("/")
             parser = ArticleImages()
             parser.feed((render_root / relative / "index.html").read_text())
-            expected = {url for url in article["urls"] if not asset(data["results"].get(url, {}), article["date"]).get("local_url") or url in article["unmatched"]}
+            expected = {url for url in article["urls"] if not asset(data["results"].get(url, {}), article["date"]).get("local_url") or url in article["unmatched"] or url in article.get("application_errors", {})}
             if parser.images != expected:
                 raise ValueError(f"Unexpected remaining external image URLs: {article['path']} {parser.images ^ expected}")
         for url in article["urls"]:
             result = asset(data["results"].get(url, {}), article["date"])
-            if not result.get("local_url") or url in article["unmatched"]:
+            if not result.get("local_url") or url in article["unmatched"] or url in article.get("application_errors", {}):
                 continue
             local = result["local_url"]
             if local not in source:

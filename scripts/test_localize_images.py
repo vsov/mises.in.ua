@@ -7,6 +7,7 @@ from unittest.mock import patch
 from PIL import Image
 
 import localize_images as migration
+import recover_wayback_slow as slow
 
 
 class ImageMigrationTests(unittest.TestCase):
@@ -58,6 +59,31 @@ class ImageMigrationTests(unittest.TestCase):
         self.assertEqual(request.call_count, 1)
         self.assertIn("doc%3Dbook-one", request.call_args.args[0])
 
+    def test_slow_replay_uses_the_full_timeout(self):
+        body = io.BytesIO()
+        Image.new("RGB", (3, 3)).save(body, "PNG")
+        responses = [(b'[["timestamp","original","mimetype","statuscode"],["20191231000000","https://site/a.png","image/png","200"]]', {}),
+                     (body.getvalue(), {"url_effective": "https://web.archive.org/web/20191231000000id_/https://site/a.png"})]
+        with tempfile.TemporaryDirectory() as temporary, patch.object(migration, "ASSETS", Path(temporary)), patch.object(migration, "request", side_effect=responses) as request:
+            restored = migration.fetch_archive("https://site/a.png", "2020-01-01T00:00:00Z", 180, replay_timeout=180)
+        self.assertEqual(restored["source"], "archive")
+        self.assertEqual(request.call_args.args[1], 180)
+
+    def test_slow_attempt_limit_is_preserved_on_restart(self):
+        article = {"date": "2020-01-01T00:00:00Z", "urls": ["https://site/a.png", "https://site/b.png", "https://site/c.png"]}
+        results = {"https://site/a.png": {"slow_attempts": {article["date"]: [{}] * 10}},
+                   "https://site/b.png": {"slow_attempts": {article["date"]: [{}] * 9}},
+                   "https://site/c.png": {"live": {"local_url": "/images/c.png"}}}
+        self.assertEqual(slow.pending({"articles": [article], "results": results}, 10), [("https://site/b.png", article["date"])])
+
+    def test_slow_worker_spaces_http_requests(self):
+        state = {}
+        with patch.object(slow, "write_state"), patch.object(slow.time, "time", return_value=100), patch.object(slow.STOP, "wait", return_value=False) as wait, patch.object(slow.images, "request", return_value=(b"ok", {})):
+            fetcher = slow.PoliteRequests(60, state)
+            fetcher("https://archive.test/one", 180)
+            fetcher("https://archive.test/two", 180)
+        self.assertEqual([call.args[0] for call in wait.call_args_list], [0, 60])
+
     def test_apply_can_finish_unresolved_images_after_a_retry(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -86,6 +112,24 @@ class ImageMigrationTests(unittest.TestCase):
                     '<a href="/images/articles/linked.png">graph</a>'
                     '<img src="/images/articles/embedded.png"></div>')
         self.assertEqual(parser.local_references, {"/images/articles/linked.png", "/images/articles/embedded.png"})
+
+    def test_scoped_application_preserves_unrelated_user_edits(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            good = root / "good.md"
+            good.write_text("![image](https://site/a.png)")
+            edited = root / "edited.md"
+            edited.write_text("User changed this article")
+            image = root / "static/images/one.png"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"validated image")
+            articles = [{"path": path, "title": path, "date": "2020-01-01T00:00:00Z", "urls": ["https://site/a.png"], "unmatched": [], "source_sha256": original}
+                        for path, original in [("good.md", migration.sha(good.read_bytes())), ("edited.md", migration.sha(b"Old article"))]]
+            data = {"articles": articles, "results": {"https://site/a.png": {"live": {"local_url": "/images/one.png", "sha256": migration.sha(image.read_bytes())}}}}
+            with patch.object(migration, "ROOT", root), patch.object(migration, "save"), patch.object(migration, "report"):
+                migration.apply(data, only_paths={"good.md"})
+            self.assertIn("/images/one.png", good.read_text())
+            self.assertEqual(edited.read_text(), "User changed this article")
 
 
 if __name__ == "__main__":
