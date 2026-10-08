@@ -6,7 +6,7 @@ date: 2025-12-12T09:53:56+03:00
 tags: ["инфляция, дефляция и денежная политика", "деньги и банковская система", "Йорг Гвидо Хюльсманн", "Филипп Багус"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-07/ArgPeso-W.jpg.webp?h=67789675&itok=bNBdiUXK)
+![](/images/articles/d1f2beb25c0cdfacbc6b876cc81b0dbb3c4bf4f09b9427af4d758a99d67c66d1.webp)
 
 В [недавнем ответе Филипп Багус продолжил нашу прежнюю дискуссию](https://mises.in.ua/article/logic-hyperinflation-rejoinder-hulsmann/). В этой статье я сосредоточусь лишь на двух наиболее важных спорных вопросах.  
 

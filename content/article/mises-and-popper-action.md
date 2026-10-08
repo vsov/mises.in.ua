@@ -6,7 +6,7 @@ date: 2024-01-19T12:52:56+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/Mises%20Statue.jpg?itok=cuYhD430)
+![](/images/articles/142b5fb591c9fe094ca0a98f0af11c908d64e36713f8a8d26cc3a7c83cbe3de3.jpg)
 
 Много лет назад, в статье "Коммунистический путь к самопорабощению" (включенной в [сборник](https://www.amazon.com/Popper-Philosophy-Selected-Political-Routledge/dp/0415610230https:/www.amazon.com/Popper-Philosophy-Selected-Political-Routledge/dp/0415610230) "После открытого общества", содержащий работы Карла Поппера, под редакцией Джереми Ширмура), я обнаружил следующее предложение: "Как и я, [Людвиг фон Мизес] признавал, что у нас есть некоторые общие взгляды, и он знал, что я принял его самые фундаментальные теоремы и что я очень признателен ему за них."
 

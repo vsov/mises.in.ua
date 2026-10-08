@@ -6,7 +6,7 @@ date: 2025-03-07T13:23:56+03:00
 tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-02/usaid.png.webp?itok=ugqdlpBI)
+![](/images/articles/0b971b21fb0c32cc0ece71198859ca4fa559842ef28eb5e2bae75fcefb611aa0.webp)
 
 Месяц назад администрация Трампа разослала распоряжение, требующее от федеральных агентств «временно приостановить все действия, связанные с распределением всего федерального финансирования», которое могло бы противоречить повестке президента Дональда Трампа.  
 
@@ -28,11 +28,11 @@ draft: false
 
 Как было показано в отчете _[Project on Government Oversight](https://www.pogo.org/analysis/contractors-and-true-size-of-government)_ за 2017 год, «подрядчики уже давно являются крупнейшим сегментом так называемой “смешанной рабочей силы” дяди Сэма, составляя от 30 до 42 процентов от всей этой рабочей силы с 1980-х годов».
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXerL3MHKp-h3jR2dRlWOgReU7yeFius5cztLzM2r_K1VfLzDWZi8BQRszWjPMD8196mMEBS6LCwiv2crF52YLEn25i44IemyhbNopHYS3F48WW4UOU52DyehSjgJUXAwk9vdUNyng?key=2hdMdsd8M6mANZ-oR3A0hBU4)**
+**![](/images/articles/b7aa7fb517f2c192c2795985edcefd4c6f072e36b9366ea77ad4a33f189cf4ed.png)**
 
 С точки зрения общих расходов сумма, выделяемая на государственные гранты и контракты, явно больше, чем 800 миллиардов долларов, которые тратятся на Medicare. В частности, согласно данным _Government Accountability Office (GAO)_, в 2023 году федеральное правительство потратило [759 миллиардов](https://www.gao.gov/blog/snapshot-government-wide-contracting-fy-2023-interactive-dashboard) долларов на контракты.  
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfmKv_ABnmjicKEFu7PAKAHFmjDuzfO4odvNMDIVzPT6RshnzyOoX-rYE4nB3NpYSeSVLc0xoOmqn4xg09kwDi5ZY0y-Jhycj7AaAVwSg87osOiotxZRtP1e-NYpP1ycre7iPS9?key=Y8-PSMrpxXp_I-VFc9kAvByO)**
+**![](/images/articles/33b4a162fe942fadef772e057a8dabe77e215ec2b1e0d373e9a4705e1316967e.png)**
 
 Помимо этих контрактов, некоммерческие организации получают около [300 миллиардов](https://blog.candid.org/post/how-many-nonprofits-rely-on-government-grants-data/) долларов в виде государственных грантов. Значительная часть этих средств поступает напрямую из федеральных грантов, но значительная доля поступает косвенно – через более чем [750 миллиардов](https://crsreports.congress.gov/product/pdf/R/R40638) долларов федеральных субсидий (_grants-in-aid_), которые сначала направляются правительствам штатов и местных органов власти. Существенная часть этих средств затем передается неправительственным организациям (НПО).
 

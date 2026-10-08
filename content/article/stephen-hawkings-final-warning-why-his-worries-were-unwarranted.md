@@ -6,7 +6,7 @@ date: 2024-08-22T11:52:48+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://fee.org/wp-content/uploads/2023/12/stephen_hawking-1024x762.jpg)
+![](/images/articles/f11d863dd74bd2b8321cfdd4f44116f48e571e902876662d4fb406073bdc90d9.jpg)
 
 Работы Стивена Хокинга в области физики были революционными. Он считается человеком, который смог написать ["самую красивую работу в истории физики"](https://calnewport.com/stephen-hawkings-radical-thinking/).
 

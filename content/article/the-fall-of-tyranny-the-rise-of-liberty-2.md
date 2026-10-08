@@ -7,7 +7,7 @@ tags: ["технологии, ИИ и цифровой контроль", "ис�
 draft: false
 ---
 
-![](https://m.media-amazon.com/images/I/51n9o1HYgGL.jpg)
+![](/images/articles/fb240aa83f18279539e91e97bdd9d8249ced0b73ee4d704976f7e799cfdec2a2.jpg)
 
 
 > Главы из книги [The Fall of Tyranny the Rise of Liberty (2017)](https://www.amazon.com/Fall-Tyranny-Rise-Liberty/dp/1520446268)
@@ -56,16 +56,16 @@ draft: false
 
 Курцвейл строит свои доводы на исторических трендах, которые показаны на этих графиках:
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaMcuS8eLM0DeClJzehSvNnRmmxqp2mZX8gk8AkPb-jRH-j3qi-E127SHj6Seo_Pe8jL0ekYrtiOUlU2oO-lJmcBGVn6L26JwYkhiONFKTZJMqYe_M7CmyOi8LuP16bLAa7ehB?key=6WlRgbX9BjDQCfOtbha2TQ)**
+**![](/images/articles/0b059ab32209bf55080ef782b77b961545bf1d5ed765bab6117e024f0d9b24dd.png)**
 
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSE0TYelir5GzdKZ_ha1OO6QDBZsauFTqTjp0a6OVX_oB4nuGULK3_uVaSSYAjyGFZbjnAn13OERPqMCUn3pol_Hdf8YQlT134fB373-mngHRLAodJBXJ8HeBGXKGyoAAFS2l8?key=Y701YQ6_5dMsurC9b0kEdA)**
+**![](/images/articles/14befa149069f78da6bb093964c7b5a12c0d2c486f116f526b4c252ea1796ed1.png)**
 
 Оба графика показывают одно и то же развитие, но в разных масштабах. Жизнь возникает примерно 3,7 миллиарда лет назад в виде биогенного графита, а затем, через два миллиарда лет, появляются клетки. С этого момента биологическая эволюция начинает ускоряться, как и человеческие технологии. На линейном графике кажется, что всё происходит за один день. Хотя от появления персонального компьютера до Всемирной паутины прошло 14 лет (от MITS Altair 8800 в 1975 году до предложения Тима Бернерса-Ли в марте 1989-го), в общей картине это произошло почти мгновенно. Второй график демонстрирует это особенно наглядно.  
 
 Экспоненциальные процессы очень обманчивы, говорит Курцвейл. Пока мы находимся в начале кривой, они кажутся линейными. Но как только проходим «колено», тренд начинает проявляться. Или, по крайней мере, должен.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDOJkGp8KZziyhRomybet-xp3pS4gnTfsyJShMO-xve193JOLLdi3X5ZyQ4N0WenPEUnlTo8g7rSBeZyuO5GjyEPV844gIbOdOV0d8Z3x8kEsjQ5Zk1fOPCmrPjDDcI6lcOvoVzg?key=jZlU7bdPsOqnu87H3FX79w)**
+**![](/images/articles/529cd3a8beedce2fa8d868b6c8e2e153cbc1f470532350812a78bd4748fc8648.png)**
 
 Журнал _Mother Jones_ в 2013 году опубликовал статью, хорошо иллюстрирующую, насколько обманчивыми могут быть экспоненциальные тренды. Представьте, что озеро Мичиган осушили в 1940 году, и ваша задача — наполнить его, удваивая количество добавляемой воды каждые 18 месяцев, начиная с одной унции. То есть через 18 месяцев вы добавляете две унции, ещё через 18 месяцев — четыре унции и так далее. Как раз в тот момент, когда вы добавляете первую унцию в сухое озеро, в реальности появляется первый программируемый компьютер.  
 

@@ -37,7 +37,7 @@ draft: false
 
 На момент смерти Чавеса его социалистическая политика была провозглашена "Салоном" ["экономическим чудом",](https://www.salon.com/2013/03/06/hugo_chavezs_economic_miracle/) но на самом деле экономика Венесуэлы уже находилась в состоянии свободного падения.
 
-![](https://lh3.googleusercontent.com/dMcOOdZNTzPiKGZQP3W4v0v0t3mzn6ELJKhngtdOLzY8NmMu9KbrdTV4UsJSFWf82UVSYk1IgrhCvsUTkqcOw7ncEbsLsRpzKCCmyBOcbypmrJumErkDxm4wRDhluiN4FylWLdnQ)
+![](/images/articles/52a25735c8198804e3026655e8422c474c1b6c22177a9145967abb213fa581ad.png)
 
 К 2014 году, когда цены на нефть резко упали, правительство Мадуро признало, что оно находится в тяжелой рецессии, а Венесуэла страдает от самой высокой инфляции в Северной и Южной Америке. К январю 2016 года страна оказалась на грани ["полного экономического коллапса"](https://www.washingtonpost.com/news/wonk/wp/2016/01/29/venezuela-is-on-the-brink-of-a-complete-collapse/). Вскоре после этого правительство Венесуэлы отказалось от любых претензий на "демократический" режим.
 

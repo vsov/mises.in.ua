@@ -7,7 +7,7 @@ tags: ["инфляция, дефляция и денежная политика"
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Richard%20Nixon.jpeg.webp?itok=ghjCbrOU)
+![](/images/articles/c943260f9e3f966c1352f88a2d30032ee6b0bcef95b4fc104d88facd21f888bc.webp)
 
 
 > "Золотой стандарт делает валютную политику страны независимой от меняющихся идей политиков и политических партий." — *Людвиг фон Мизес*  

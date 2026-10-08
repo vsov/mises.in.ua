@@ -6,7 +6,7 @@ date: 2023-04-03T12:55:40+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/subway-wire.jpg?itok=Yxn_G7QF)
+![](/images/articles/e4020af9f0a204c4a3b66504b4b1dbf30d2b4edba41c5f88e0cc5ed690c83b80.jpg)
 
 История имеет значение, особенно сейчас, когда Нью-Йорк столкнулся с очередным кризисом метрополитена.
 

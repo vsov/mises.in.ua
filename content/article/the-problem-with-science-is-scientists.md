@@ -8,11 +8,11 @@ draft: false
 ---
 
 
-![](https://brownstone.org/wp-content/uploads/2021/10/shutterstock_762804589-800x469.jpg)
+![](/images/articles/22e605467f75f2e166a574ce33f24bd24da52371c7f9f133a49d11b97760ca70.jpg)
 
 Пять лет назад астрофизик и научный коммуникатор Нил де Грасс Тайсон написал очень запоминающийся твит:
 
-**![](https://lh4.googleusercontent.com/fcfxomxp-L0O5gP8S5j0Kbkuvoyq1ZZqCo0zwV5KqS66lVwQcH_-MLjvIhc_nF9ah_-AGdKF9hHAcEfQl-7mACOka9Y-BY2lRTpID_H3anqQ6bMgBNjIXXPVOCIfmCP6b2o7d9F0=s0)**
+**![](/images/articles/648db07aedc6f6da29182e527aa9ed2ec8b86bd58a2b2c334684e3cb44b44a8e.png)**
 
 Идеальный мир Тайсона понравился многим людям, утомленным эмоциями и политическими межплеменными войнами, которые вторглись во все сферы общественной жизни, включая науку. Идея такого мира привлекла многих его коллег-ученых, людей, обученных объективно мыслить и проверять гипотезы, основанные на наблюдениях за миром природы.
 

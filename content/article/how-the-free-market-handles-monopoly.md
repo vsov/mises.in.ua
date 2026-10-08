@@ -7,7 +7,7 @@ tags: ["капитализм, рынки и предпринимательств
 draft: false
 ---
 
-![](https://fee.org/wp-content/uploads/2023/12/11513503393_9dabbda7cd_k.jpg)
+![](/images/articles/dfeef33c78ec075f2a4da77f8e65b54c987a9af9ddda057dbafe8c44fb78ed5e.jpg)
 
 Я получил вопрос для рубрики *«Спросите у экономиста»* от AJ на тему о монополиях. Он спрашивает:  
 

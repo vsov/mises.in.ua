@@ -6,7 +6,7 @@ date: 2026-03-04T10:08:50+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/51zp4Qmv+0L._SL1360_.jpg)
+![](/images/articles/e104b8def447c34c9a0fcd92c501770a42443b8a001d354248a73e48e81d9b14.jpg)
 
 [«Жить на широкую ногу и позволять другим умирать: наше заблуждение в невиновности» Питер Ангер (Oxford University Press, 1996; xii + 187 стр.)](https://www.amazon.com/Living-High-Letting-Die-Innocence/dp/0195108590)
 

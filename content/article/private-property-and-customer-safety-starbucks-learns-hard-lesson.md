@@ -6,7 +6,7 @@ date: 2022-08-22T13:07:00+03:00
 tags: ["частная собственность и права"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/starbucks1.jpg?itok=7wIzZsfL)
+![](/images/articles/dabea20c0286813bfa1aaca117a6a30dcf4233fde11e4b277cbe675dd3239f82.jpg)
 
 Одной из моих любимых иллюстраций разницы стимулов, с которыми сталкиваются частные предприятия и государство, когда речь идет об обеспечении безопасности, является [инцидент, произошедший в филадельфийском Starbucks](https://mises.org/wire/starbucks-case-illustrates-how-government-police-arent-private-police) в апреле 2018 года. Двое темнокожих мужчин, которые сказали, что ждут делового партнера, захотели воспользоваться туалетом, хотя ничего не купили. Их попросили заказать что-нибудь или уйти.
 

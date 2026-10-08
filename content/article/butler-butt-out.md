@@ -6,7 +6,7 @@ date: 2024-10-28T21:10:08+03:00
 tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/615V-UQQGAL._SL1500_.jpg)
+![](/images/articles/9528bafd82dc2f1bcca4c33ae1ca47ba9c6e5f0aeaa40606ac8093c52c3fe78d.jpg)
 
 
 [Who’s Afraid of Gender?  by Judith Butler  Farrar, Straus and Giroux, 2024](https://www.amazon.com/Whos-Afraid-Gender-Judith-Butler/dp/0374608229)

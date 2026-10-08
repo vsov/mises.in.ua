@@ -8,7 +8,7 @@ tags: ["цивилизация", "спонтанный порядок"]
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-06/AdobeStock_Civilization.jpeg.webp?h=2dd56da7&itok=N3R47pKt)
+![](/images/articles/0f04b8f28b2273613d7f7864e70b6e3c489d6bdd4301cbfd39085bf601682a1e.webp)
 
 Любая карта цивилизаций в своей основе является картой трансакционных издержек. Традиционные объяснения наций и цивилизаций делятся на два лагеря, и оба сталкиваются с одной и той же проблемой. 
 

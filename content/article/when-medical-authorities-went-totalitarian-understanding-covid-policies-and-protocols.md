@@ -6,7 +6,7 @@ date: 2024-02-07T12:21:01+03:00
 tags: ["здравоохранение, фарма и медицинское регулирование", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/covidprot-w.jpg?itok=mfYXzRBj)
+![](/images/articles/36d06b7c58398bc5d59df38257dd75ef5592720b01d5e0e441783f663556bc54.jpg)
 
 Рецензия на книгу : [The New Abnormal: The Rise of the Biomedical Security State](https://www.amazon.com/New-Abnormal-Biomedical-Security-State/dp/1684513855)
 

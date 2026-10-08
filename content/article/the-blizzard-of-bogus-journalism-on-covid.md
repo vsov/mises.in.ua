@@ -19,7 +19,7 @@ draft: false
 
 Это исследование было абсурдным даже для Изабель Оливер, директора Национальной инфекционной службы Министерства здравоохранения Англии, которая отправила следующее [уведомление](https://twitter.com/PHE_uk/status/1329470252120502272):
 
-**![](https://lh3.googleusercontent.com/P83ASIsCyU6kr0tsRq80fwrc62NNDHaUyd6qCw3cx3K2BZHbm0quAG_v7AHsK1h50dLrCrQsg_rdzVz6VC2JxbLpMfH7VzgcLP7WDd8p1gYh1sN3-vBijIlPCXrTDmtCFbf55l_R)**
+**![](/images/articles/5c145a87f04dfc6f53faa37aa5113a1fe31b2c77bcc2e3a9eed64798846f3be6.png)**
 Большое спасибо, Изабель. Может быть, кто-то это и увидит.
 
 "Нью-Йорк Таймс" попыталась надуть нас такой статьей: ["В штатах, в которых вводились слабые ограничения, сейчас наблюдаются самые тяжелые вспышки".](https://www.nytimes.com/interactive/2020/11/18/us/covid-state-restrictions.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage) Если бы это было правдой, это было бы большой новостью, потому что это означало бы не только то, что изоляция спасает жизни (что до сих пор не удалось подтвердить ни одним серьезным исследованием), но и то, что предоставление людям основных свобод является причиной плохого здоровья, что само по себе является удивительным заявлением.
@@ -32,7 +32,7 @@ draft: false
 
 Есть сотни способов анализа данных о Covid-19. _Times_ выбрала один показатель --- наименее ценный для определения того, больны ли люди и в какой степени, --- чтобы получить желаемый результат, а именно то, что штаты без локдаунов выглядят очень плохо. Результатом является диаграмма, которая сильно искажает существующую реальность. Из-за этого худшие штаты выглядят великолепно, а лучшие --- ужасно. Графика создана так, чтобы казалось, будто штаты без локдаунов бесконтрольно истекают кровью.
 
-**![](https://lh4.googleusercontent.com/jU2T5XkPofwEjahqUaKVqBi87-ahzZORR6fijR06k9VUU5wOGdeqwJEFrzSLr-K5wJwlVvv4m8gwAAZa4G_Av-_ph51TlpS6MTSFcXbxG4pP0XmSdTzPV6ZA6AX-_30cQoXvuTnG)**
+**![](/images/articles/8d663d05865d2569cbfd952dca940d9bcba1e4e0ecb553c05f697465a46f41a2.png)**
 
 Сколько читателей вообще узнают об этом подлоге? Подозреваю, очень мало. Что еще более удивительно, так это то, что сама _Times_ еще в сентябре [поставила под сомнение](https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html) всю эту "кейсдемию":
 
@@ -45,7 +45,7 @@ draft: false
 
 Все это заставляет задуматься о том, как именно взаимосвязаны случаи и тяжелые исходы. Проект отслеживания Covid создает следующую диаграмму. Случаи отмечены синим цветом, а смерти --- красным.
 
-**![](https://lh5.googleusercontent.com/ap9UAq78LqDqRNaed0Q0ijDL5uPeuArSIMiaG3YUlWpoUpQdEyuvrdw3MO9IRxTZhWxBgApzTmjgla9Uc5hSjoGOrsHQ9Th_mWeI-Kudl4hFJNwweWBKytoeGZZ1I62KGtcju5rA)**
+**![](/images/articles/9e7f96fbf6bf2bd20a907c60a28627119eefc8ae5fb75da4223703e8ca61ae68.png)**
 
 Несмотря на эти данные и опубликованную ранее в той же газете историю, художники-графики в _Times_ создали вводящую в заблуждение презентацию, которая приводит к одному выводу: нужны новые локдауны.
 
@@ -55,7 +55,7 @@ draft: false
 
 Вот что [CDC говорит](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) о факторах риска, которые сильно различаются в зависимости от возраста:
 
-**![](https://lh6.googleusercontent.com/F4umNeUw4YpQo7kX8tLyQYGuFM4xT4dHtv-jqRJiU7nLM0zoL1TPp4BJti9AxutITgtVA1QATxvUO32tdjDUR_II0ntY7SlopxZUuDsuln2EVB6l2BQNM6pSgsDuIitKdieGqheX)**
+**![](/images/articles/7eb13da599006ab6a6fae4ede1a6ef6811d23449e8ed2347bd329a355a94114d.png)**
 
 Эти данные не противоречат предположению Всемирной организации здравоохранения о том, что уровень смертности от этой инфекции для людей в возрасте до 70 лет [приближается к 0,05%](https://www.dailymail.co.uk/news/article-8843927/Just-0-05-healthy-70s-Covid-19-die-disease-study-claims.html).
 

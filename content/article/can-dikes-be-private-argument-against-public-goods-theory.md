@@ -13,7 +13,7 @@ Freedom and life are earned by those alone
 Who conquer them each day anew._  
 **Johann Wolfgang von Goethe** [^1]
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/dike-wire.jpg?itok=DdtEGcEC)
+![](/images/articles/0962e256a18a76418062bd0f78d5e0a633794a161faf6f833e17cb87105faa35.jpg)
 
 
 По мнению многих экономистов, государство необходимо нам для предоставления общественных благ.[^2] Это утверждение кажется настолько очевидным, что в мейнстримной экономике оно даже не обсуждается. Одним из типичных и популярных примеров общественных благ в Германии являются дамбы или плотины. В Vahlens Kompendium der Wirtschaftstheorie und Wirtschaftspolitik (2003), возможно, самом распространенном немецком учебнике по экономике, Хайнц Гроссекеттлер утверждает:

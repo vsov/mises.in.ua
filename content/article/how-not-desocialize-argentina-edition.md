@@ -7,7 +7,7 @@ tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/argflag-w.jpg?itok=a0Uzn_QD)
+![](/images/articles/91d0d751dd4a6592b17ab6e64e9d79b14ae561c9bd03f796d7971dc6044baed9.jpg)
 
 Избранный президент Аргентины Хавьер Милей намерен проводить прорыночную политику, включая масштабную десоциализацию, или приватизацию, экономики. Приватизация аргентинской авиационной отрасли, похоже, стоит на первом месте в повестке дня (наряду с приватизацией [государственных СМИ](https://www.msn.com/en-us/news/world/argentinas-president-elect-wants-public-companies-in-private-hands-with-media-first-to-go/ar-AA1kfDbN)). Приватизация необходима, но она должна быть проведена правильно.
 

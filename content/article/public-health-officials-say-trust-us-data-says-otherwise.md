@@ -6,7 +6,7 @@ date: 2021-10-04T11:00:00+03:00
 tags: ["наука, экспертиза и данные", "государство, бюрократия и регуляторы", "здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/blame-wire.jpg?itok=AAjtsrQ_)
+![](/images/articles/d09b0e4ebec660c1098084d747f4e771e223e17e143ac10ed773e67864291b03.jpg)
 
 Я не люблю сообщать плохие новости, Бен Шапиро, но, когда дело доходит до covid-19, эмоции становятся важнее фактов. В этом заслуга корпоративной прессы, правительственных чиновников и технических гигантов, которые организовали зловещую, сеющую ненависть кампанию страха и цензуры, перевернувшую общество с ног на голову за считанные недели. И все это из-за вируса с [выживаемостью более 99 процентов.](https://www.medrxiv.org/content/10.1101/2021.07.08.21260210v1)
 
@@ -26,11 +26,11 @@ draft: false
 
 Если даже оставить в стороне все издержки и моральные аргументы, сильный скептицизм по отношению к локдаунам был оправдан еще в апреле 2020 года, когда [было показано,](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911) что продолжительность локдауна в регионе никак не повлияла на число погибших.
 
-**![](https://lh4.googleusercontent.com/wfEuF5md5e8TEwcjk8JVu-ncIA8z69fWRFYHlJOdAw168rxq1cB89lNd070P17RJdnHTH-oHk-zKF1-gEkKTz3kGGPHVLtNK3H0zYcbmH4bYyXVVddF3gwufyDtCCXeRnZVM0gBW=s0)**
+**![](/images/articles/23b99530653b9d2c81d2a91cfb2405d11290e34382c807778d06f4fc4b7e20c1.png)**
 
 Перенесемся на одиннадцать месяцев вперед, и мы обнаружим, что данные с 1 марта 2020 года по 1 марта 2021 года показывают, что локдауны всегда были незначительным фактором в замедлении распространения COVID-19. Следующие данные были разбиты на четыре трехмесячных периода, чтобы лучше учесть изменения в индексе строгости каждой страны. Период измерения был ограничен 1 марта 2021 года, чтобы исключить какое-либо влияние вакцинации. Единственной страной на следующем графике, у которой был уже значительный уровень вакцинации в марте 2021 года был Израиль. Поэтому он был исключен из последнего периода измерения.
 
-**![](https://lh3.googleusercontent.com/YZc1jUL1GfQ4-ZQFEPndRQ8H5gR0k_pRZ1mpqo8QDLWFGZq5_ybvPFR-rBIIhU-jJt_VpBq2MZPa9nbb8pzZ1VoRcjGjProIDrO2N5uL6eqKPOim841QNqMl-HpzERpzT6FEUOEy=s0)**
+**![](/images/articles/ce5d3ced21a0056b8f9e73d8248faf63a9345d619ef6832b1f307ba3effeb651.png)**
 
  Source: Our World in Data  [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (stringency_index, total_cases_per_million, total_deaths_per_million).
 
@@ -38,7 +38,7 @@ draft: false
 
 Аналогичные выводы можно сделать и о локдаунах в Соединенных Штатах. Из-за ограниченности данных по строгости локдаунов, следующие данные о штатах разбиты на два периода: один гораздо более продолжительный период с 1 марта 2020 года по 1 января 2021 года, а второй период --- с 1 января 2021 года по 1 марта. , 2021 г.
 
-**![](https://lh4.googleusercontent.com/IgNOMpG7ABpC8OLpUGgJTOv5SurnNkexmOr8mXcfUgWd12-vz-wWBRap_89-548vcepqiz6teUjCGQrVbKwy4PFIqdzdUKYjiuIGKOMFQLBH5bPzrLlcjeUkhi6QJrdHU7GbTOr6=s0)**
+**![](/images/articles/5519d6a5150866e4f74c5be476edd6ed454205b1f5dd96dbab4310f18ba411c3.png)**
 
 Source: Data on cases and deaths from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (total_cases_per_million, total_deaths_per_million); data on hospitalizations from HealthData.gov ([COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh)); data on stringency for January 2021–March 2021 from Adam McCann "[States with the Fewest Coronavirus Restrictions](https://wallethub.com/edu/states-coronavirus-restrictions/73818)," Wallethub, Apr. 6, 2021; and through Dec. 31, 2020, from Laura Hallas, Ariq Hatibie, Saptarshi Pyarali, and Thomas Hale, "[Variations in US States' Responses to COVID-19](https://www.bsg.ox.ac.uk/sites/default/files/2020-12/BSG-WP-2020-034-v2_0.pdf)" (BSG Working Paper Series BSG-WP-2020/034, version 2.0, University of Oxford, Oxford, UK, December 2020). Data on population density from World Population Review ([US States – Ranked by Population 2021](https://worldpopulationreview.com/states)).
 
@@ -48,7 +48,7 @@ Source: Data on cases and deaths from Our World in Data [COVID-19 dataset](http:
 
 Здесь я хотел бы отметить одну из вопиющих издержек локдаунов, на которую [указывают недавние оценки Центров по контролю и профилактике заболеваний (CDC),](https://data.cdc.gov/NCHS/Early-Model-based-Provisional-Estimates-of-Drug-Ov/v2g4-wqg2) а именно на аномально высокий уровень передозировки наркотиками, сохраняющийся с первой половины 2020 года.
 
-**![](https://lh6.googleusercontent.com/CIO3UcLbIwGg6U2t8DWRwAFkS3LJmTT_kp_mq-PuNduD66kGl_STIWu89O2iV38FlCpGBN4y6zQdmCat2LUZzY2XG25pU1xp5WfXVQ2DC447t5pWNdzCCwpAhZ_TsxLgwRDjtavR=s0)**
+**![](/images/articles/e5fa8f36714bacd6a76c3a9598af3f76922de400a61842ab76af33ce0ef540c7.png)**
 
 Source: Data.CDC.org ([Early Model-Based Provisional Estimates of Drug Overdose, Suicide, and Transportation-Related Deaths](https://data.cdc.gov/NCHS/Early-Model-based-Provisional-Estimates-of-Drug-Ov/v2g4-wqg2)).
 
@@ -58,7 +58,7 @@ Source: Data.CDC.org ([Early Model-Based Provisional Estimates of Drug Overdose,
 
 Бывает так, что несколько экстремальных случаев подталкивают к тому, чтобы сделать далеко идущие обобщения, однако, эти случаи не характеризуют общую картину. Чаще всего этому соблазну поддаются, когда в очередной раз раздувается паника по поводу переполненных больниц. Хотя эти случаи возникают постоянно, они тем не менее, являются статистическими выбросами. Краткий обзор данных о госпитализации в США подтверждает это.
 
-**![](https://lh4.googleusercontent.com/0pAq67XKsw0GhQNBGigAo2-uLBmSoZFi2tGoO4_jbvof9qvPxirOHaN5zcNlYSjxnoBHdV95Acw7eNPFKRpSkSWp31JLgB9HGpK5TZ43FrhExmt1hevgNU_curPiDa4YZY4R1OaZ=s0)**
+**![](/images/articles/501a59600255f29865bfa68bb8749564349f30c2288c058f496006461603980d.png)**
 
 Source: HealthData.gov ([COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh)).
 
@@ -74,7 +74,7 @@ Source: HealthData.gov ([COVID-19 Reported Patient Impact and Hospital Capacity 
 
 Во-первых, давайте оценим следующее утверждение, сделанное Энтони Фаучи во время [интервью](https://www.yahoo.com/entertainment/covid-surges-could-hit-states-170121055.html) CNN 3 июня: "Когда у вас меньше 50 процентов людей, которым делают прививки, именно тогда у вас могут возникнуть проблемы... С 50 процентами вакцинированных я чувствую себя совершенно уверенным в том, что мы больше не увидим всплесков, которые мы видели в прошлом". Если Фаучи считал, что 50-процентный уровень вакцинации остановит всплеск болезни, можно поспорить, что большинство населения страны чувствовало то же самое.
 
-![](https://cdn.mises.org/r6-daily_new_cases.jpg)
+![](/images/articles/a5408324b4a3a331b1bab49459a1caf01fdc972c6a08968e637518561fdc0cf4.jpg)
 
 Source: Data on cases from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (new_cases_smoothed_per_million); data on vaccination rates from Data.CDC.gov ([COVID-19 Vaccinations in the United States Jurisdiction](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)).
 
@@ -82,28 +82,28 @@ Source: Data on cases from Our World in Data [COVID-19 dataset](http://source:%2
 
 Если посмотреть на  население Соединенных Штатов, взяв для анализа данные с 1 марта 2021 года, то мы не увидим статистически значимых признаков того, что штаты в которых было использовано больше доз вакцины оказались в лучшем положении, чем штаты, в которых их было использовано меньше.
 
-**![](https://lh6.googleusercontent.com/oSDR5-KYSkP31g7lT556vn4Jm79L9pH9pYnFj3Hwxk09tcqO7Ol2U_glG87r5pyCfhn9XhSJO0UqtgRb_Hp6U2QmTwH-VcO2SKRO-H1WE56PGc3IexsFxVwITwA_TpRs-tFTdMBg=s0)**
+**![](/images/articles/ea0697f8fda914496f199e21d1bb1c212f37cb107e6e94d8dae0cb143dfb0595.png)**
 
 Source: Data on cases from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (total_cases_per_million); data on vaccination rates from Data.CDC.gov ([COVID-19 Vaccinations in the United States Jurisdiction](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)). Date range is Mar. 1, 2021–Sept. 9, 2021.
 
 Переходя теперь к полной вакцинации, отметим, что у нас снова нет статистически значимых признаков того, что штаты и страны с более высоким процентом полностью вакцинированного населения лучше смягчают рост случаев заболевания, чем штаты с более низким процентом полностью вакцинированного населения. Как и прежде, уровень полной вакцининации принимается как среднее значение за последние шесть месяцев.
 
-![](https://lh4.googleusercontent.com/onZst1dDIhBQeI4a_wKxONM5J90CD4NyhtzwLLLWybazt3OmtrJ1m98M0mePB_3aZ-O_yE-_3AMC7Mk29_him8G-IYUO8pt4fIAPBGkj3uZQguHh0P-f98pjhOjRwTTgUq-aqG4y=s0)
+![](/images/articles/234e04d8d700f2075975dd90b360087db6b314ae6da847822f574a08151cf2e3.png)
 
 Source: Data on cases from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (total_cases_per_million); data on vaccination rates from Data.CDC.gov ([COVID-19 Vaccinations in the United States Jurisdiction](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)). Date range is Mar. 1, 2021–Sept. 9, 2021.
 
-![](https://cdn.mises.org/r9-vaccinated_vs_cases-intl.jpg)
+![](/images/articles/9d3c339a86863b35de5e5d9f4126fc171241e90c595ed246c7cdd609c549a846.jpg)
 
 Source: Data on cases and vaccination from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (total_cases_per_million, people_fully_vaccinated). Date range is Mar. 1, 2021–Sept. 9, 2021.
 
 Кроме того, недавний отчет надзора за вакцинами из Великобритании показывает, что полностью вакцинированные люди в возрасте от сорока до восьмидесяти лет заражаются чаще, чем их невакцинированные сверстники. Для лиц младше сорока и старше восьмидесяти уровень инфицирования среди вакцинированных ниже, чем среди непривитых, но все же значительный.
 
-![Infections by Vaccination Status UK](https://cdn.mises.org/r10-infections_by_vaccination_status-uk.jpg)
+![Infections by Vaccination Status UK](/images/articles/6619f6eea5ff5f5614cf20b78473c9bc63d6b38515108ae62fadcc30b8192aae.jpg)
 Source: Public Health England, [_COVID-19 Vaccine Surveillance Report – Week 36_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016465/Vaccine_surveillance_report_-_week_36.pdf) (London: Public Health England, 2021)
 
 Если этого недостаточно, чтобы вызвать удивление, то есть еще множество примеров стран --- лишь некоторые из них показаны ниже --- в которых наблюдался всплеск заболеваемости или даже самый высокий уровень заболеваемости в ходе пандемии на фоне постоянно растущих показателей вакцинации.
 
-**![](https://lh4.googleusercontent.com/hOwcspIixIsnXrDOcUpMd-ctuP8VsTrQUWHEm7aZr9W4flSgQr6gU_cp8Fx795-XVd3vd8TGok8D1_xg_YZQeroUOI5fUMKIzCHq8EuMuDJz7kU9esEc9mpfB4T5wUY0cFmDCpg9=s0)**
+**![](/images/articles/90022313987bacaa48484eb946c964d1fe7d980975aabea15dc92904d49df044.png)**
 
 Source: Data on cases and vaccination from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (new_cases, people_fully_vaccinated).
 
@@ -111,7 +111,7 @@ Source: Data on cases and vaccination from Our World in Data [COVID-19 dataset](
 
 Что касается конкретно августа, мы обнаруживаем, что ряд стран с высоким уровнем вакцинации, демонстрируют худший результат по количеству общих случаев заболевания в период высоко вакцинированного лета 2021 года по сравнению с невакцинированным летом 2020 года.
 
-**![](https://lh6.googleusercontent.com/dns-abiAaFKw8FrQDLHZtd84FTJNikXR0PFkOhrF5gZdO84oQ0d8PcYYt9Jh1j_cQvzsyxCYgsFl7RtiifsxLVF-KKr_sce-TKTQPHJURW6dsUl4aL9h1t9bLSSS6goy9v4f9UXl=s0)**
+**![](/images/articles/b29916da1b276d0f71e4018ffb9381d64f5182fc4e9e9f66bd41493be9af104c.png)**
 
 Source: Data on cases and vaccination from Our World in Data [COVID-19 dataset](http://source:%20https//github.com/owid/covid-19-data/tree/master/public/data) (total_cases_per_million, people_vaccinated).
 

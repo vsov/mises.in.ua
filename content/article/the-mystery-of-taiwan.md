@@ -15,19 +15,19 @@ draft: false
 
 С точки зрения жесткости Тайвань занимает одно из самых низких мест в мире, с меньшим количеством ограничений, чем в Швеции, и намного меньше, чем в США.
 
-![](https://lh5.googleusercontent.com/UG0XUYm2yj09fr5C7Vi_PU-xInd6IEhkL1oIeqAfkCaCX6FPmYB_QYEg9unv8wD_Z0F3Q9MqPLw_9fNUmFAVh8wM-jyowhiokLpkQFQskGl2tBG0B9el74aXxjX2Jhn1RqvTcer8)
+![](/images/articles/4b98fafe512bb4e0ee01ff818db6c3c4bd0f9911b7a2d547180f0c73f0ab4baa.png)
 
 Правительство проводило тестирование на границе и ввело некоторые незначительные меры контроля, но далеко не такие, как в большинстве стран. В целом Тайвань отказался от карантина в пользу сохранения нормального социально-экономического функционирования.
 
-![](https://lh5.googleusercontent.com/WdlnyapUOwNQIlo8Sa2P1C2qXDB4McDfPE1bEGL4hQBQZ3JiEzvXBwGJgSDKXE1mNpMt10n6MfS9-oVpayjuYWxjLxWWVKZ3eLbn3mPGX7YPNe0DqrIJwN-UrQR5BpN60Ec4rTGL)
+![](/images/articles/56814a38879b0191a54a555d31a6749b889be75636c9db8af4303f37d8eecdd7.png)
 
 Как обстоят дела на Тайване? На Тайване зарегистрировано [573 случая](https://www.worldometers.info/coronavirus/country/taiwan/) заболевания, что является чрезвычайно низким показателем для страны с населением около 24 миллионов человек и плотностью населения 1739 человек на квадратную милю.
 
-![](https://lh4.googleusercontent.com/t4v58GrCuQzcKvf6Ni53lpsOyDmXZQ7ggBoaShuOc7tKQEmzQqGta2NdcxNTNAFqU8BgCXGolyIIFP1RIb99dVZU5gXIE4O9gqUTwMmBHRzsIjD5qiQ_zTrBRzsHJnnMHQhd9UVu)
+![](/images/articles/ed4ce80db4b9ac33768de34f389b39fe46b6934aac720ce99d98afe5a2ba9d24.png)
 
 Что касается смертности, то цифры еще более поразительны. За всю пандемию на Тайване погибло всего 7 человек. Среди погибших были люди в возрасте [от 40](https://www.taiwannews.com.tw/en/news/3907086) [до 80](https://www.channelnewsasia.com/news/asia/taiwan-covid-19-coronavirus-cases-jump-second-death-reported-12560682) лет, большинство из них имели хронические заболевания.
 
-![](https://lh3.googleusercontent.com/GBdCU6yD9r9YTy6NENwJOE9k9187dO_SZf4v3cUz68oW1HKdCpZezI6rOrDMXBKE7hxyPS0FBdNGqViVh9icPgMaz6_zABQ9lRrwsjkf1-uQ37boRTINj8zlwaT50m1uLBohPjkX)
+![](/images/articles/1b8170b3de18e32887c0a14eb1848af9b681aa7831c77751d61ec5d196bb79f6.png)
 
 Для сравнения: население [округа Лос-Анжелес](http://publichealth.lacounty.gov/media/coronavirus/data/index.htm) составляет 10 миллионов человек, а плотность населения составляет 2500 человек на квадратную милю --- что означает немного более плотную, но менее заселенную территорию с аналогичной Тайваню демографией. В этом округе в условиях жесткого террора было 309000 случаев заболевания и 7000 смертей.
 
@@ -43,7 +43,7 @@ draft: false
 
 Несмотря на это у Тайваня один из самых низких показателей на тысячу тестов среди всех стран мира. Только один человек из 100000 прошел тест на Covid-19.
 
-![](https://lh4.googleusercontent.com/nCqpCYuUYGzexx9CB5IoPkwnY9gnf5XXpHRnpF8DdS8St6Owej0hA3TKXBn8EUuNHkn3i2VSFlVY5NhNwMVSMKswzJHheydRNTADXFy7ZAdwTDHMZENBa8gNdzm5GtcNX-gNfdDS)
+![](/images/articles/73af539129f897d3925e3d79757daafcd90f3c7cbbb510ec58488edd17e688b8.png)
 
 Правительство поддерживало открытое общение и прозрачность со своими гражданами. Например, Тайваньский CDC [ежедневно готовил отчеты](https://www.cdc.gov.tw/En) о состоянии дел с коронавирусом в стране. Отчеты Тайваня не являются политизированными попытками [разжечь истерию](https://www.aier.org/article/a-contagion-of-hatred-and-hysteria/) (как в таких странах, как США и европейские страны), они прямолинейны и сосредоточены на реальных цифрах.
 

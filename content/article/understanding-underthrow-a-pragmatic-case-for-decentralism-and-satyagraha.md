@@ -56,7 +56,7 @@ draft: false
 
 Сегодня у нас есть технологические инструменты, которых никогда не было у Ганди или MLK. Итак, практикуя сатьяграху, мы должны делать это наилучшими доступными средствами --- координируя усилия как асинхронно, так и в реальном времени. Это включает в себя открытие новых возможностей для ["выхода".](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty) Но я говорю не только о голосовании ногами, хотя это может быть плодотворным подходом, как вам [скажут те, кто бежит из Калифорнии.](https://www.dallasnews.com/business/economy/2020/12/09/elon-musks-relocation-follows-687000-other-californians-whove-moved-to-texas-in-last-decade/) Я также говорю о "голосовании" своими деньгами, которое включает голосование за [новые деньги.](https://coinmarketcap.com/) Я также говорю о внедрении новых систем, чистым результатом которых будет создание новых рынков в управлении (governance).
 
-**![](https://lh6.googleusercontent.com/8ZdaLMLopnz6AexriEOLloOgZ4rSw7qhxdqixJHIEu1hsc5i4GDeZt7e38R0-KNh-kRbW1r3s5acmcvR7K0pTi3KUYt0lgVbosye8CAR840EdlJr_0ZoSW-loAhosyW7PGcD0qms=s0)**
+**![](/images/articles/db49341e0df0a544f4ec7f568a56e2af3d592a260708c67785b0152e9991403a.png)**
 
 ## Стратегии выхода
 

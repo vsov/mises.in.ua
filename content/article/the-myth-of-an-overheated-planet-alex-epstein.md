@@ -7,19 +7,19 @@ tags: ["климат, экология и энергетика"]
 draft: false
 ---
 
-![](https://chasdiy.org/wp-content/uploads/2023/03/teplo67-800x445.jpg)
+![](/images/articles/717f8a4ad89459d771b5c459009f093234f90355bf296cca44f76688facc2417.jpg)
 
 **Миф**: Высокие температуры этого года доказывают, что ископаемое топливо делает Землю непригодной для жизни.
 
 **Правда**: Высокие температуры этого года являются частью медленного тренда на потепление на планете, где гораздо больше людей умирает от холода, чем от жары, и где нам нужно ископаемое топливо, чтобы защитить нас от того и другого.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9518a26a-170a-4403-a2f6-893db34d49b5_1600x900.png)
+![](/images/articles/45369911f17d50c7b1342a63b15012b4e81e39d7a786cff2746ea2c3b8a35ddc.jpg)
 
 Ведущие СМИ изображают температуры этого лета как непригодные для жизни и предлагают быстрое принятие политик против использования ископаемого топлива в качестве решения.
 
 На самом деле холод гораздо большая проблема, чем жара, и политика против ископаемого топлива сделает нас более уязвимыми для того и другого.[^1]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5708d3a-2f09-4b86-814a-812fdafaeb54_3200x1800.png)
+![](/images/articles/9817781858eef06994d8200880ec1086cd652e62a3f1ddb716cf65d7023370cd.jpg)
 
 Любой, кто ответственно комментирует летние температуры, должен признать 4 факта:
 
@@ -34,11 +34,11 @@ draft: false
 
 Одно исследование за другим показывает, что смертей от холода в 5-15 раз больше, чем от жары. На каждом континенте холод опаснее, чем жара. Даже во многих странах, которые мы считаем особенно жаркими, таких как Индия, смертей от холода значительно больше, чем от жары.[^2]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97f07c50-8cda-4e82-9827-7c37effbb79f_643x637.png)
+![](/images/articles/c932b761abf5099122e78157f6fe58f5e8a09a2464ad4c17dbc2b9e418459adb.jpg)
 
 Факт того, что гораздо больше людей умирает от холода, чем от жары, означает, что в обозримом будущем, даже не учитывая преимущества отопления и охлаждения от ископаемого топлива, глобальное потепление, вызванное использованием ископаемого топлива, спасет больше жизней от холода, чем заберет из-за жары.[^3]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aeccfbe-22cc-41af-b17b-9ec038bcc53f_1508x1145.jpeg)
+![](/images/articles/7e5a76f915819b0139a00a350ebf843dc7df748f643e950d4c8224f7117fc3cc.jpg)
 
 Следовательно, каждая история о потеплении и смертности людей очевидно должна упомянуть, что смертность от холода является главным источником смертности, связанной с температурой.
 
@@ -50,7 +50,7 @@ draft: false
 
 Обратите внимание, как престижный журнал The Lancet резко преувеличивал угрозу смерти от жары, заставив каждую смерть от жары выглядеть в 5 раз больше каждой смерти от холода на этой гистограмме![^4]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8772b7a3-6dae-4773-ab1d-65619459d2f6_2048x1536.jpeg)
+![](/images/articles/cf4201e25098ae4b8a52331910b4b1cdc07aaea06899a5c45a7f53d888903f7c.jpg)
 
 ## 2. Земля нагревается медленно --- и меньше в теплых местах
 
@@ -60,13 +60,13 @@ draft: false
 
 Поэтому катастрофисты по климату используют обман, чтобы напугать нас.[^6]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa94f9542-31f8-44bf-909c-ddba6d963dac_1456x819.webp)
+![](/images/articles/85eda0fc490e0f4822970ee84efd059e18400ce2468c678a820b23ef5130c654.jpg)
 
 ### Обман с помощью сжатия оси Y
 
 Чтобы придать медленному потеплению пугающий вид, климатические катастрофисты любят показывать потепление не на человеческой температурной шкале, а на сжатой оси Y, где 1°C --- это огромная величина. Это все равно, что измерять увеличение веса на весах, где 1 фунт --- это огромная величина.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F708c04f5-e46b-444c-93c5-4c087383948e_1600x900.png)
+![](/images/articles/a9b7f8d04502e96fbac5558af6b57c5fef8c74f0283d2408104a7602387e7a6f.jpg)
 
 ### Обман "самый жаркий за всю историю"
 
@@ -74,7 +74,7 @@ draft: false
 
 Но учитывая, что записи начались в холодную эпоху и мы испытываем медленное потепление, конечно, в любой год мы можем ожидать нового рекорда. И что с того?[^7]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e5a3d0-96ec-40bb-8537-050202be0173_1600x900.jpeg)
+![](/images/articles/a6bef3730c0cbeb3a6304c386fc21bbf76f927c90b583d778574a928ff1c4b37.jpg)
 
 Учитывая ограниченность наших температурных данных, бить тревогу по поводу "самого жаркого года в истории" в период медленного потепления --- это все равно, что врачу бить тревогу по поводу пациента, набравшего 1/10 фунта мышц, рассказывая ему, что это "самый тяжелый год" в его истории.
 
@@ -83,7 +83,7 @@ draft: false
 Климатические катастрофисты часто абсурдно приравнивают месяц или год, ставший "самым жарким за всю историю наблюдений", которая насчитывает  менее чем 200 лет, за которые мы имеем подробные температурные записи, к "самому жаркому за всю историю".
 
 И это при том, что на протяжении миллионов лет Земля была теплее на 25°F![^8]
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12634e3b-a1fc-49d4-835d-f54b3464a9c2_1454x806.jpeg)
+![](/images/articles/b36fbc89c47a0b64ed344689d87bcb1de0b076342836eeb5dd912f9792489ae9.jpg)
 
 ### Обман "преобразование локальных экстремумов в глобальные"
 
@@ -91,18 +91,18 @@ draft: false
 
 Примером преобразования локальных экстремумов в глобальные является сосредоточенность национальных СМИ на Техасе, когда в Техасе было "ненормально" жарко, при этом игнорируя многие места, которые были "ненормально" прохладными.[^9]
 
-**![](https://lh4.googleusercontent.com/VNiPvYsTnFAghgnfX2KihpmZInnvne8l3-BOwfc7qMTL863lQaSibuo8_Yc8Jl7YQD76d0NRqgZd7oW-8aqSgUmAybFCmAr7XCy-VK_dhEA4nHlnapnqTAuLYhpMflZtVLr1pZsj8Q42K_A3TL0pkIc)**
+**![](/images/articles/acc5360aef5b6fba2c2f449505cbe7a6fb1b16d03c4aa5474a0c88d6972bc269.png)**
 
 Для получения истинной перспективы обратитесь к индексу жары в США от EPA, который гласит: "Долгосрочные записи показывают, что жара в 1930-х годах остается самой сильной в истории США"
 Сегодняшние "отчеты" не дадут вам понять, что это действительно так.[^10]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88f1c196-17ba-4cc1-9b7d-6a94c5b5abbb_1600x900.png)
+![](/images/articles/9bbaa80bf7aeedbd0bce544d10f7cb7737b84cb046a32cb89f89c6d6c8e43acb.png)
 
 ### Обман с помощью приравнивания потепления от Эль-Ниньо к глобальному потеплению
 
 Поверх медленного глобального потепления мы испытываем дополнительное потепление из-за перехода от Ла-Ниньо к Эль-Ниньо. Это временное явление, а не климатический тренд, но катастрофисты используют его для преувеличения глобального потепления.[^11]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F312c5aab-f87f-469c-b912-38d0846ae3ae_1600x900.png)
+![](/images/articles/1d88efbec4b8acaf9cd26c564f11347810b7ba57205141bedca12142870acdc9.jpg)
 
 Потепление до сих пор было медленным и безвредным. Но сделает ли будущее потепление мир непригодным для жизни?
 
@@ -112,17 +112,17 @@ draft: false
 
 Каждая новая молекула CO2, которую мы добавляем в атмосферу, дает меньший эффект потепления, чем предыдущая. Потепление будет уменьшаться по мере увеличения выбросов --- единственный вопрос в том, с какой скоростью.[^12]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff213ed19-7d37-4fcf-8667-645a99ef4a46_1600x900.png)
+![](/images/articles/8d6b864b39afdd4e161da65ccf551daf744cf198fe467691554c91bc1e9d2eee.png)
 
 Даже самые невероятно неправдоподобные "сценарии" от настроенного категорически против ископаемого топлива IPCC включают в себя уменьшение потепления и вполне пригодный для жизни мир с увеличивающимся населением.[^13]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12157b3e-02dd-4b3b-8bae-9112122b60c6_1600x900.png)
+![](/images/articles/a763dcf1e359b94cb979323fd11d27a8e9346a4442518e82d3f83f834b9f68a6.jpg)
 
 ## Потепление концентрируется в более холодных районах мира (например, в Арктике), в более холодное время суток и в более холодные сезоны.
 
 Это означает, что будущее потепление будет происходить больше в холодных местах, где оно спасает жизни, чем в горячих местах, где оно вызывает проблемы.[^14]
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6133302e-940d-4d08-94ab-2592e5a58b7c_722x742.png)
+![](/images/articles/40e12bb0f28dbdb290876ea9a2cef4ad3a5f62d88a6365ff63a1fdf77f3a11e0.jpg)
 
 Ископаемые виды топлива дают нам уникальную экономически эффективную энергию и защищают нас от холода и жары, не говоря уже о том, что потепление от выбросов CO2 медленное и во многих отношениях полезное.
 
@@ -160,7 +160,7 @@ draft: false
 
 Утверждать, что исключение использования ископаемого топлива может охладить атмосферу в ближайшее время --- это нечестно.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8697fc71-85c7-48e6-af09-18d12530cf9b_1600x900.png)
+![](/images/articles/4a17a9da03513883f1af450e743f7a51c7d2d6fee90f7b820caf6cf281dac6c6.jpg)
 
 Опасные холодные и жаркие температуры наиболее проблематичны для бедных людей. То, что им нужно, это больше энергии от ископаемого топлива для кондиционирования воздуха и отопления сейчас, а не климатическая и энергетическая политика, которая препятствует реальным будущим решениям с низким уровнем выбросов и делает энергию дорогой.
 

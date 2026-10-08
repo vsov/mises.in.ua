@@ -20,7 +20,7 @@ draft: false
 
 Почему? Потому что эти политики вводились в разном виде и в разное время в разных штатах и странах, но тенеденции результатов одинаковы во всем мире.
 
-![](https://lh3.googleusercontent.com/A5O2bDr7luB8yi08o5P5g58rXK5rkMH6LjeBUFJUmKTbFBQC0LMqzNvRX3-8OV_twecIuQVlVB419u4gJGdYuZLZu-TeDvk8DAHK8_Iyk2Eww0Pew7PJVlfwYPLVuscVLZQhpmKP)
+![](/images/articles/d0806904095bdb1d2cdc4dfa7042a8daf34254700b330a49394ebe796aa5f707.png)
 
 От авторов исследования:
 

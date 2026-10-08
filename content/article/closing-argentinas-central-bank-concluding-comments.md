@@ -7,7 +7,7 @@ tags: ["деньги и банковская система", "инфляция,
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/Banco_Central_argentina.JPG.webp?itok=yjwy9pf3)
+![](/images/articles/4cf329e8fc5f3ef3e273e1759d13ea78c19beefa223c39e138188cf8b4c1f7ce.webp)
 
 Моя недавняя дискуссия с Филиппом Багусом достигла предела насыщения по основным вопросам. Теперь читатели могут составить собственное мнение. Те, у кого есть глаза, — увидели.  
 

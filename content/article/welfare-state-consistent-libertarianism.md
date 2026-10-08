@@ -7,7 +7,7 @@ tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 
-![](https://m.media-amazon.com/images/I/817ZEJc+v2L._SL1500_.jpg)
+![](/images/articles/19c682fa1a5806d18227d892bda3bbad7d5fdae3dec0db7545a2a5d5d53bcce1.jpg)
 
 [Governing Least: A New England Libertarianism by Dan Moller, Oxford University Press, 2021](https://www.amazon.com/Governing-Least-Libertarianism-Political-Philosophy/dp/0190863242).
 

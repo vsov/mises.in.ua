@@ -6,7 +6,7 @@ date: 2024-09-02T12:39:39+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/Reality-W.jpg.webp?itok=k_vkQ3Lv)
+![](/images/articles/47faebe820fadf0d1d2cdf29077feb57a402a32caadad0554a2d65cca74b3756.webp)
 
 Человеческое поведение в значительной степени обусловлено социально. Люди часто действуют на основе социальных норм, ожиданий или привычек, а не потому, что пытаются выяснить природу реальности.  В этом контексте верно утверждение, что восприятие людьми реальности социально сконструировано, о чем [говорит](https://courses.lumenlearning.com/suny-fmcc-intro-to-sociology/chapter/social-constructions-of-reality/) теорема Томаса:
 

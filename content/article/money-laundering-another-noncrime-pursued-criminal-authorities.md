@@ -6,7 +6,7 @@ date: 2022-12-14T20:22:17+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/money_laundering-w.jpg?itok=r92MZBzZ)
+![](/images/articles/baebb1fe0caed50b48a038189d1117a18ea3bfe06ad29c52ee0d7e06a1a10227.jpg)
 
 Отмывание денег --- это процесс сокрытия источника средств, полученных от незаконной деятельности, для создания видимости законности. По данным Департамента по экономическим и социальным вопросам ООН, ежегодные потоки отмывающихся денег составляют 2,7 процента мирового валового внутреннего продукта ([ВВП](https://www.un.org/development/desa/en/news/financing/facti-interim-report.html)). Государства вкладывают средства в борьбу с [отмыванием денег,](https://www.nortonrosefulbright.com/en/knowledge/publications/9ec4ce24/anti-money-laundering-regulation-around-the-world) чтобы лишить преступников возможности получать прибыль от незаконной деятельности. Считается, что правила борьбы с отмыванием денег облегчают чиновникам отслеживание преступных доходов и преследование преступников.
 

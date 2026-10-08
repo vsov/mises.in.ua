@@ -6,7 +6,7 @@ date: 2023-11-10T23:43:35+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/61PW1XLx4IL._AC_UF1000,1000_QL80_.jpg)
+![](/images/articles/dbc7399401786502dcf072ce2457d41e41495bfa14c1e021b0a7d85d34234310.jpg)
 
 # Социальная справедливость не социальна и не справедлива
 

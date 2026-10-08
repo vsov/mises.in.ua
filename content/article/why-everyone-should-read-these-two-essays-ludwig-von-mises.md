@@ -6,7 +6,7 @@ date: 2021-10-01T11:00:00+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/ludwig-von-mises-pafere.jpg?itok=6zj9DEhb)
+![](/images/articles/a39b9e9a6502f954283a628d8a7145c1bd0948be29ff93fa17fa4bde79cbfd9b.jpg)
 
 Как и практически все работы Людвига фон Мизеса, эти два эссе --- ["Свобода и собственность"](https://mises.org/library/liberty-and-property) 1958 г. и его ["Средний путь ведет к социализму"](https://mises.org/library/middle-road-leads-socialism) 1950 г. --- актуальны в любое время. Сейчас они так же важны, как и когда-либо, и их актуальность будет возрастать вместе с ростом государства.
 

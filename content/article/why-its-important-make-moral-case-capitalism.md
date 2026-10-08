@@ -6,7 +6,7 @@ date: 2020-12-30T11:00:00+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/choices-wire.jpg?itok=ceAf5QYE)
+![](/images/articles/37d96b180a06972e371430a403cdc4b7eb9caf2f16b21eeeb28ac1ae9cc5b6f9.jpg)
 
 Верно то, что рыночный капитализм --- лучшая [система](https://www.hoover.org/research/socialism-capitalism-and-income), обеспечивающая процветание человечества. Поэтому неудивительно, что многие защитники свободного рынка превозносят динамизм капитализма. Однако, занимаясь утилитарной защитой капитализма, эти защитники могут уступить [моральную](https://www.newstatesman.com/future-capitalism-market-moral-economists-paul-collier-tim-rogan) позицию социалистам.
 

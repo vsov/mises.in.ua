@@ -6,7 +6,7 @@ date: 2023-03-03T13:54:23+03:00
 tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc3856c-6f98-4e45-8eed-6fb7e3c820b5_1600x1476.jpeg)
+![](/images/articles/950623a04730352969350e418a68aafe821f2b6cfebafe9108e5952137b38080.webp)
 
 ## На пути к либерально-консервативному альянсу против вокизма
 

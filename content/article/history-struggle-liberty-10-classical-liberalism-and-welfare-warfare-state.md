@@ -7,7 +7,7 @@ tags: ["история свободы и экономическая истори
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/History%20the%20Struggle%20for%20Liberty%20Raico%202003_750x516.jpg.webp?itok=KYTTt4k6)
+![](/images/articles/3e035c0a9e34a659bf754e301f33638cc6114bc0e52b8c8016f92c6f0bb04cc1.webp)
  
 
 *В 1919 году Германия условно капитулировала по Версальскому договору. Все выступали против договора, но он был насильственно введен в действие.*  

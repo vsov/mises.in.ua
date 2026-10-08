@@ -6,7 +6,7 @@ date: 2023-07-24T13:41:05+03:00
 tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/Treaty_of_Penn_with_Indians_by_Benjamin_West_cropped.jpg?itok=77oXA9Ia)
+![](/images/articles/6f1550f3edd309151933eb7c73e7a5777bcd2aab09e8f37fd2c7cdd73165a52e.jpg)
 
 Уильям Пенн хотел создать истинно квакерскую колонию на необъятных просторах Америки, "священный эксперимент... чтобы установить пример для наций."
 

@@ -6,7 +6,7 @@ date: 2023-11-03T19:23:35+03:00
 tags: ["история свободы и экономическая история", "государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://humanprogress.org/wp-content/uploads/2023/08/giga-humanprogress_light_tan_and_mint_green_medieval_Chinese_merchan_bcc1ac93-7714-44e5-91cd-76baa719f0a6-gigapixel-standard-scale-2_00x.jpg)
+![](/images/articles/0a46a0b0b0282cc75b7b763d86da12c1e4edafab08cdab10517c965f45f9d4e2.jpg)
 
 Запуск чат-бота ChatGPT компании OpenAI в конце 2022 года вызвал панику по поводу рисков, которые несет искусственный интеллект (ИИ). Так, согласно недавнему опросу CNN, 42% руководителей компаний считают, что ИИ может ["уничтожить человечество"](https://edition.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html) через 5-10 лет. 
 

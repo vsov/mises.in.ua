@@ -6,7 +6,7 @@ date: 2020-08-19T10:00:00+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/marx2_0.png?itok=QIQErH-8)
+![](/images/articles/31a5fc727ba94a64bf67ef7b8b529e984dfb52d427f3887f1cd334f4a083a077.png)
 
 Давайте представим такую картину.
 

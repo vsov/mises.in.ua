@@ -11,7 +11,7 @@ draft: false
 
 На момент написания этой статьи (22:00 по восточному стандартному времени) цена биткоина составляла около 53000 долларов после падения с 57000 до примерно 43000 долларов в конце февраля. В 2020 году криптовалюта резко выросла с менее чем 6000 долларов в марте до текущей цены.
 
-**![](https://lh4.googleusercontent.com/sna-uEoTqUNqMNYZyz320M_DBHwXOkcYP96cqO7-gsPKyGnMBkZUhc_QYN3-FBR7DNPIhEx8-fHqaxV3hHF94p4P-kV-7_qGZo5ZvIlxdMvKpjimnGKAXrEWKr4dVQnG6dmCmAPV)**
+**![](/images/articles/d242e12ab3577403e6a80dd522bc07b5b08aaaa2f8591b50cf05e327023d4d9c.png)**
 
 Когда биткоин приблизился к своему пиковому историческому максимуму в размере около 20000 долларов в декабре 2020 года, многие инвесторы опасались, что это будет просто [повторением ситуации 2017 года,](https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp) когда он внезапно взлетел, а затем почти так же быстро рухнул. Однако, в отличие от 2017 года, рост биткоина в 2020 году был вызван не ажиотажем розничных потребителей, а интересом крупных институциональных инвесторов, которые придали траектории движения валюты большую степень стабильности. Технология блокчейн и криптовалюты также распространились более широко с 2017 года.
 
@@ -21,7 +21,7 @@ draft: false
 
 Одним из важных индикаторов, демонстрирующих, что рост цены в 2017 и в нынешнем году происходят в совершенно разных средах, является анализ уровней поисковых запросов в Google для измерения общей шумихи. Рост цен из-за всплеска внимания средств массовой информации гораздо менее устойчив, чем рост цен, который в первую очередь поддерживается институциональными и [заинтересованными инвесторами.](https://www.lawinsider.com/dictionary/committed-investor) Ниже приведен график тенденций поиска в Google для [биткоина](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=bitcoin) и график для [GameStop,](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=gamestop) акции которой пережили [резкий скачок цены](https://www.barrons.com/articles/gamestop-stock-is-flying-again-the-transformation-is-on-the-way-51615219639) и внимания СМИ, прежде чем рухнули, как биткоин в 2017 году.
 
-**![](https://lh5.googleusercontent.com/yXfgD_jILjbKKtrZ56tUwyHpWoynHyrZJncPYhf96dspC2ABWHy_OkyeHseOnN80e3eMWu5TeW6sh8S6PTw9MQnAMIBH2zG3yYrQC3YjarnZPJCiij-K5-WcouvOi6P5o4hCLARg)**
+**![](/images/articles/6e17459bd5a10bacdc43bf52be815eee7c3c0801a9f7194d5b521b1bba1fe50f.png)**
 
 Как показано на графике выше, внимание СМИ к биткоину едва достигло половины того, что было во время его внезапного роста в 2017 году, вызванного в основном [неистовыми розничными трейдерами.](https://www.bloombergquint.com/markets/bitcoin-mania-grips-retail-traders-in-flashback-to-fall-2017) Криптовалюта и блокчейн еще в 2017 году были второстепенной идеей, но, как отметила [Nasdaq](https://www.nasdaq.com/articles/the-big-banks-positioned-to-ride-bitcoins-bull-run-2020-12-16) в декабре 2020 года,
 
@@ -57,7 +57,7 @@ draft: false
 
 Ниже приведен график, показывающий постепенное увеличение количества активных биткоин-адресов с момента их всплеска ближе к концу 2017 года, который демонстрирует, что массовая адоптация также растет наряду с институциональным инвестированием.
 
-**![](https://lh3.googleusercontent.com/Ug2wuT9vAs3iGGQIE2T_TIG_u0HGIrsT4_Cmtg1IqTYfwt8jhQvQCp9IoUVpSW8TZgQO6LYPOjMzEAgmSaTDOnhqgrsUdmfiI6OK11garsMcWWs14jIw2eSnxtBexF5Pph7V69zq)**
+**![](/images/articles/b9c6ea51607a3e41ea41dd42ec0595d8d0bd129d30fdd71b0288242283400bdd.png)**
 
 Согласно статье, опубликованной Forbes в июле 2020 года, [примерно 15% респондентов](https://www.forbes.com/sites/ronshevlin/2020/07/27/the-coronavirus-cryptocurrency-craze-whos-behind-the-bitcoin-buying-binge/?sh=41ef4c772abf) заявили, что они инвестировали в биткоин или эфириум, и примерно половина начала инвестировать в 2020 году. Для контекста, [примерно 55% населения США](https://www.statista.com/statistics/270034/percentage-of-us-adults-to-have-money-invested-in-the-stock-market/) инвестирует в акции по данным Statista. Эти тенденции демонстрируют растущий интерес к биткоину как со стороны институциональных, так и со стороны мелких инвесторов. Это также говорит о том, что в данный момент может быть много возможностей для роста.
 
@@ -77,7 +77,7 @@ CNBC отмечает, что генеральный директор ARK Invest
 
 Майк МакГлоун, старший стратег по сырьевым товарам Bloomberg, сделал следующий твит 8 марта 2021 года.
 
-**![](https://lh5.googleusercontent.com/2_z_EvX5Kg66w-m2QSwJxjFP2qnj9AZOHXpSinUD0r1bpcfrcw_aDZDGuwUhuxoHKNT20RlBshMH48USJ9vZCYw7KyaHQU8QcSu1hyd6_OL3GqYrlLv1wPVQ2rKdYDDfIqVgHQZH)**
+**![](/images/articles/24909c382a3284c3a6f3d0a4be7db483c6bd254321b40e63503541812575da75.png)**
 
 Хотя МакГлоун в прошлом был чрезмерно оптимистичным по отношению к биткоину, тем не менее, связанные с золотом акции, такие как [SPDR Gold Trust (GLD),](https://finance.yahoo.com/news/table-holdings-spdr-gold-ishares-104024192.html) упали в цене с лета, а цена биткоина продолжает расти. Кроме того, когда в начале марта 2021 года [доходность облигаций резко выросла,](https://www.barrons.com/articles/investors-dump-2020s-winners-as-tech-stocks-rout-continues-51614887266) инвесторы вывели свои деньги из акций технологических компаний и других спекулятивных активов, что привело к падению многих акций, выражающемуся двузначными числами. Цена биткоина практически не пострадала и продолжает расти на момент написания этой статьи, что может указывать на то, что инвесторы видят в нем альтернативное средство сбережения, а не спекулятивные акции.
 

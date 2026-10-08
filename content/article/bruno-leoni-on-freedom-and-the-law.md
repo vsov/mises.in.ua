@@ -6,8 +6,8 @@ date: 2024-12-04T13:34:50+03:00
 tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/91I5AXoBszL._SL1500_.jpg)
-![](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/posts/a12d31e34bd1004526bbe00f73ed3001.jpg)
+![](/images/articles/332dab75f58bf049803799408fa9ae07c07676eef37e2ac508b0da7cca21593e.jpg)
+![](/images/articles/47ae8a3eab56db907596537b2c728db62a510964440918769faad67dd7964340.jpg)
 
 
 ## (рецензия на книгу [Бруно Леони "Свобода и закон"](https://www.amazon.com/Freedom-Law-Bruno-Leoni/dp/0865970971))

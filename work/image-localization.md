@@ -16,3 +16,53 @@
 - The current Git branch is `master`; the checkout contains substantial uncommitted changes.
 - The theme's `lead-image.html` reads the first image URL from rendered article content.
 - Hugo serves files from `static/` under the corresponding site-root URLs.
+
+## Migration workflow
+
+The baseline site snapshot is commit `3c7f3a58d` on `master`. Migration work lives on
+`codex/localize-article-images` in an isolated worktree.
+
+Requirements: Hugo, Python 3 with Pillow, and curl. The inventory uses Hugo's
+rendered article bodies and publication dates, including drafts and future articles.
+Images are stored without conversion, named by SHA-256 of their contents, and
+deduplicated by those bytes.
+
+```sh
+hugo --buildDrafts --buildFuture --destination /private/tmp/mises-images-inventory
+python3 scripts/localize_images.py inventory --render-root /private/tmp/mises-images-inventory
+python3 scripts/localize_images.py download
+python3 scripts/localize_images.py apply
+hugo --buildDrafts --buildFuture --destination /private/tmp/mises-images-verified
+python3 scripts/localize_images.py verify --render-root /private/tmp/mises-images-verified
+```
+
+Keep `work/image-localization-manifest.json`: it records original URLs, dates,
+download sources, archive capture timestamps, local filenames, and checksums.
+Do not rerun inventory over the migrated sources: it deliberately refuses to
+overwrite existing provenance. Download/recovery saves progress for resuming.
+
+Retry unresolved archive requests later, then update references and rebuild:
+
+```sh
+python3 scripts/localize_images.py recover
+python3 scripts/localize_images.py apply
+```
+
+`work/unresolved-images.md` contains articles, original URLs, live errors,
+and archive outcomes. An archive service error is distinct from a successful
+search that found no usable capture. Linked HTML pages (for example, Amazon
+product pages and Wikimedia file-description pages) remain ordinary external links.
+
+The migration is prepared for local review; production publication is a separate step.
+
+## Completed run
+
+- Inventory: 852 articles, 1210 candidate URLs, including 3 linked HTML pages preserved as ordinary links.
+- Successful live image URLs: 874; successful archive recoveries before Hugo publication dates: 6.
+- Stored unique image files: 878, without re-encoding or resizing.
+- Modified articles: 585; localized article/URL pairs: 922.
+- Unresolved article/URL pairs: 332. Archive outcomes include 327 service errors and 4 searches with no usable replay; these are not claims that all corresponding captures are absent.
+- Hugo build: 2513 pages, 880 static files (878 images and the existing 2 PDFs).
+- Validation: all 878 file checksums and generated-file copies match; rendered local references are clickable/displayed; remaining external image URLs match the unresolved inventory.
+- An independent comparison with the baseline verified that all 852 article texts are unchanged outside image references and link markup required for bare URLs.
+- Nine focused migration checks pass, including strict archive cutoff, redirect validation, preservation of image-identity query parameters, deduplication, and resumable application.

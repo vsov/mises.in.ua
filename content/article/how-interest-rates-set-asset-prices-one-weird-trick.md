@@ -41,13 +41,13 @@ draft: false
 
 Итак, в чём же «трюк»? Мы знаем, что ценность облигации равна номиналу когда купонная доходность совпадает с текущей рыночной ставкой, как в предыдущем примере. Консол же — это обещание платить этот купон вечно. Какова ценность этого обещания? Фокус в том, что ответ на этот сложный вопрос удивительно прост. Пусть `x` — это сумма выплаты годового купона, а `r` — текущая рыночная процентная ставка для других активов. Тогда ценность или цена `P` консола определяется так:
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXgPz4QhSSDXq3R3Q2ek-PXpxI9Eq7bXi5kFHSPpvQ9Y290RmeW0HxqL2SN68G330kiO-Mi4wYVArZs7R0WwoCUmiMJYTddTm6QOIxiTTO576ARASXJ4vyA3Hm5_SO7XZDgP1Z?key=3A2G3ZbhBbqpA6hKbTII5w)**
+**![](/images/articles/30eb91bcfff510bf76fe5327f65c5ecd4e6fa18160b0b63b1e27e7b5d6239928.png)**
 
 Доказательство этого уравнения требует нахождения предела бесконечной суммы дисконтированных текущих ценностей будущих платежей, но все это уже [давно доказано](https://www.investopedia.com/terms/p/perpetuity.asp), и мы можем просто использовать результат: цена потока ежегодных платежей равна годовому платежу, делённому на процентную ставку. Всё. Это потрясающе!  
 
 Обратите внимание: мы уже видели пример. Сколько стоила облигация на $1,000 с купонной ставкой 4 процента, когда процентные ставки выросли до 5 процентов? Поскольку оставшиеся 29 лет до погашения — это «почти как» вечность, мы просто берём годовой купон и делим на новую процентную ставку:  
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCwFH4xFrsATXekho6EPsfgJB0--boJUyjNe9ftBEhcufhThn54N7leM7DwtnynxrypAW6LN1R7rOP-CcuH4RKbdC4yllrdsgDGB4y1mAMWiKlfSRh7oExY_rzcGWOaKASvM-pVw?key=jUOeYOR4U8VJVBuRG2GjOQ)**
+**![](/images/articles/05320782a4a34b7835c6c77d839e64f8cb92d9fa6e64f9518dd1f617ef811307.png)**
 
 («Правильный» ответ, полученный с использованием более сложной формулы, которая учитывает $1,000 номинальной ценности через 29 лет, [чуть меньше $850](https://www.calculator.net/bond-calculator.html?cprice=&cface=1,000&cyield=5&cyears=29&ccoupon=40&cunit=d&cfrequency=a&x=Calculate#bondresult), так что это хорошее приближение — рассматривать эту облигацию как консол!)  
 
@@ -55,7 +55,7 @@ draft: false
 
 Например, вы думаете о покупке дома, чтобы сдавать его в аренду за $24,000 в год, или $2,000 в месяц. Вы можете занять деньги под 8 процентов, и это ваша процентная ставка. Сколько стоит такой поток платежей?
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4K6eWwHsd3eNuo4Zt7QKxphJN2FLbtnm6rgi2n7eWl2x-B39qaHildYrhSKcdlVjnaRSFLROySVgSsdF8iMwB0fXbWCa8fm1X7dJuL3mzcQNGS4MSqgMYqD2uWAsx0chUN_kQsg?key=ddkjY7cQ4uGKD2HwJnA0rw)**
+**![](/images/articles/d9a5cd0c425998ef40224efebe48175cae9436de0aa268f07b6217727d34c9d7.png)**
 
 Конечно, 30 лет — это не вечность, поэтому правильный ответ, рассчитанный в Excel `(PV{r,n,X})`, составляет $270,000. Вы можете использовать формулу для консолов как верхнюю границу и прикинуть всё за несколько секунд. Если дом стоит меньше $300,000, инвестиция может оказаться выгодной.  
 
@@ -65,7 +65,7 @@ draft: false
 
 **Таблица 1: Ценность компании с прибылью $1,000 в год**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-3ktIecvOw1RlbBczuAqIgpS7tMQKX-CmrRPJRUwELIZlrMWZUz6RkfSa236SXpkYYSVI9GY9BpXq_vetWZs-obM353z0zR-bi9CyaorU92OEjqDdRJQO74FSrybSxzC2WJ1M6w?key=OOh7N4xjdBu8GoPIPD_3CA)**
+**![](/images/articles/697cf2091ec45ef7d63049d0f878c0405adf4260ae06a8bfa135f27d3e6402b3.png)**
 
 Когда процентные ставки стремятся к нулю, ценность компании взлетает в небеса. При ставке в одну десятую процента компания будет стоить приличный миллион долларов; при ставке в одну тысячную процента — уже $100 миллионов, настоящее состояние.  
 
@@ -73,7 +73,7 @@ draft: false
 
 **Рисунок 1: Ставка Тейлора и ставка федеральных фондов** 
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfTpzok_1YJowsOkQ80-HtMlGIIS52pmUx95ArE_kNjRo9_-_TueMMFbo8BehZH0oNlxto2oT9rUocQ-X2Va_vlzFNMbn3h2PwrzhaK7OmpnvRmgwSlkdogNy6UQcndQlFRQUgewA?key=I7c99n2ZnoSljp0L_LuxcQ)**
+**![](/images/articles/84a477b41090f3fa78072b76901d679e5162bb9e00d1fa41d353bd801d8c6de7.png)**
 
 Используя нашу «хитрую формулу», мы можем показать, насколько цены активов зависят от процентных ставок — и это выглядит довольно тревожно. Один из способов для компаний поднять цену своих акций — выпускать более качественные и дешёвые товары и увеличивать ежегодную прибыль. Другой способ, по-американски, — позволить прибыли стагнировать, но с [помощью лоббизма и кумовства](https://www.independent.org/tir/2018-19-winter/the-road-to-crony-capitalism/) добиваться от правительства искусственно низких процентных ставок.  
 

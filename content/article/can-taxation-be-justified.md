@@ -6,7 +6,7 @@ date: 2021-09-17T11:00:00+03:00
 tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/05_FridayPhil_DG_Wire_750x516_0.jpg?itok=q2pP7CtC)
+![](/images/articles/562574a86a75caaf5415e6ea688d3659f291256b175fbeab405a3a8f3e96fef1.jpg)
 
 
 

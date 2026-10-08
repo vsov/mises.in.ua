@@ -13,7 +13,7 @@ draft: false
 
 Как показано в приведенной ниже инфографике: "Насильственные отношения могут возникать где угодно --- с партнерами, друзьями, семьями, на работе или с *правительством*". [Курсив добавлен].
 
-![](https://lh5.googleusercontent.com/s23QIXA5MU-MDO3zvPXVuLiHrcRtHO-eOZZwlADnp3lynOE4e8hvZ2yWUqUH4cyIjxYSZCu5mjfipa0S2wM6os-C-tF6gfYLKE7PXZv19r0-e9IE2VkGGwuGA4h7Y6sOo5XGKQ1c)
+![](/images/articles/551f64078086608af32016b3359eb69b8ff14b7e1804ccceb1aee15c40027d52.png)
 
 Источник [Workplace Mental Health Institute](https://www.thewmhi.com/wp-content/uploads/2020/10/Abusive-Relationship-Infographic.pdf)
 
@@ -115,7 +115,7 @@ draft: false
 
 Противодействие локдаунам связали с расизмом, эйджизмом и белым превосходством. Вереница вины нацелена на молодых людей, рестораны и правых индивидуалистов. За этим часто следует пожелание, чтобы эти эгоистичные люди, отрицатели Covid и ["COVIDIOTS"](https://www.urbandictionary.com/define.php?term=Covidiot) "поймали Covid и сдохли".
 
-![](https://lh4.googleusercontent.com/J4wXSseEaK2dA00yuY_XGNvj85FjZOYGeJ34CBBn0CF0TFpbhAkQvRJOfKNnbychi6VHYJLmGmD7XVfwYyXXXJyUsxIiqYtFAwNulaUSWJcYM2QtrrWhjJAjNJA60IJJfs3Bl5D7)
+![](/images/articles/a73b152c1f6c25acd4cdcc9272d744cdf406b2148fb92d1a20f04a0ebb250e1b.png)
 
 ## 13. Газлайтят вас, ставят под сомнение вашу память о событиях, заставляют усомниться в себе
 

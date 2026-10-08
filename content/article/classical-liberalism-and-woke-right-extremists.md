@@ -6,7 +6,7 @@ date: 2025-10-15T11:46:38+03:00
 tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Woke.jpeg.webp?itok=3KyNMpDW)
+![](/images/articles/0491a9f507c4edb4fe88482beda95237fcaa075900d6354d53baae9a12835763.webp)
 
 Пишущий в _Chronicles_ о своих «якобы соратниках по позору» Пол Готфрид высмеивает склонность сваливать в одну кучу все аргументы, с которыми не согласен, и относиться к ним так, словно они по сути одно и то же лишь потому, что противостоят им всем. Например, «воковские левые» и «воковские правые» объединяются под общим ярлыком «woke». Критики «woke» в одну категорию записывают палеоконсерваторов (традиционных правых, которых они классифицируют как woke right) и неомарксистов критической теории (woke left). Таким образом, нам предлагается поверить, что нет подлинной разницы между анархо-капиталистом [Хансом-Херманом Хоппе](https://mises.org/mises-wire/hans-hermann-hoppe-new-liberty-50) и франкфуртским марксистом [Юргеном Хабермасом](https://mises.org/friday-philosophy/jurgen-habermas-philosopher-marxist-propagandist), равно как нет разницы между палеоконсервативным интеллектуальным историком [Полом Готфридом](https://cdn.mises.org/10_1_1_0.pdf?_gl=1*1cr56oz*_gcl_au*MjQxMDU3ODcxLjE3NTg4OTMzNDU.*_ga*MzEyOTU1Mjg1LjE3NTg4OTMzNDU.*_ga_MC3JLVEDHF*czE3NjAwMDYyMzkkbzckZzEkdDE3NjAwMTQzNzckajE0JGwwJGgxNTM5NzAxMjMz) и журналистом [Такером Карлсоном](https://mises.org/power-market/tucker-slayed-mainstream-media-dragon). Для их критиков — которые видят себя центром всего — все эти люди всего лишь разные разновидности «woke»: одни ближе к левым, другие к правым. Готфрид поясняет:  
 

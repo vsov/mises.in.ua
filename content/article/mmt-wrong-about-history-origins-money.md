@@ -6,7 +6,7 @@ date: 2025-06-16T13:34:43+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-03/AdobeStock_Ancient%20Mesopotamia.jpeg.webp?itok=1YhsXX7s)
+![](/images/articles/364aee5dd989a9bc3f79b9fc3853c47badcd8883bc93d2d9454cd6da178e9d2f.webp)
 
 
 Сторонники современной денежной теории (Modern Monetary Theory, MMT) считают, что деньги — это «порождение государства». По их мнению, деньгами является всё, что государство называет деньгами, и этот статус закрепляется прежде всего через налогообложение. [Для них](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=137409) деньги — это «то, что [государство] принимает в публичных платежных офисах (в основном, в качестве уплаты налогов)».  

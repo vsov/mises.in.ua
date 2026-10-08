@@ -6,7 +6,7 @@ date: 2020-12-21T13:00:00+03:00
 tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/hysteria-wire.jpg?itok=w5BlMqYG)
+![](/images/articles/b09659ab14a49f8b689b99af4c52a9afd8f495e453c708eff074d28d76d4e5cf.jpg)
 
 История [массовых истерий](https://en.wikipedia.org/wiki/List_of_mass_hysteria_cases#:~:text=In%20sociology%20and%20psychology,%20mass,result%20of%20rumors%20and%20fear.) (массовых социогенных заболеваний) весьма увлекательна. [Случаи](https://www.jstor.org/stable/2136925?seq=1) [массовой](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/492818) [истерии](https://journals.lww.com/co-psychiatry/Abstract/2006/03000/Mass_hysteria_revisited.10.aspx) известны еще со [времен средневековья](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/protean-nature-of-mass-sociogenic-illness/2BDC2262E104B8A33F3DD49773DA0D8B), упомяну лишь несколько относительно недавних.
 

@@ -29,7 +29,7 @@ draft: false
 
 Примеров того, как Маск высмеивает элиту, множество.
 
-**![](https://lh6.googleusercontent.com/1ozldu03XxJ4_mF5Npn6S4BqDmAZ7R3GNHW2oBv2sXFDhpDpxE8UFPb1Nkzkvf4UwS_AzH1QXu72teeIGRQve2wIfhZUfuzDgYgGKxsMLT3JShS_UVq-_vqqIhwwxyNCrLa3tINMKf25kbhXfVQ0ZC03cPLPca97f0XuBJyIw3T25bgU4PVtxYA-Hg)****![](https://lh6.googleusercontent.com/nJmawCa9TI565G4CQR1ORAXSae5zchYDEX68WsiZa8Cs-UJlsEMM7F59Jgkb2q8uxyJwyF9VvR13CZ3XYC4EUbbzm4jSxz1npl2uBULE7yK_MsgObN3DPqEtdk7ldv3bWuNFhgx9Vn8zixKFMgcxcRBmu-7UczDCV898TzN_83xw68w1Q9wy-wtNzw)****![](https://lh6.googleusercontent.com/s0NgcNCuGN5w7w1Tq9sPb-9Zu1ROrZnD-92pSc9nYrKKDuNJEMB1WscNhI0VbFVi1zypYMYGndMBD7sKLu3k9peuKR_KcbnJ0BGELCCQ51A4729s_g8srLUIdpTdRuxqzxpAOHPotEL2HdmEow9JIr0Vp8GlO7VW2fd8I5f07O4nkZodjCoIOWWQsw)****![](https://lh3.googleusercontent.com/eUBcPyZuAvoQDwaK4t600_xOm-TkvDWictMTiuwNT04PQiWW2GLsiPtdZSW6j3UECGXkELpY9zs49_r5cXbVY9UCmcCnUtp9hmo_I60YH9q3s56Xm36eWeE7OQwijwYMnjVUYeTqmnqohqg6HlyUjTvD08UMd8f493GkvjmJ2a1kTVy2bSgGFMkpQQ)**
+**![](/images/articles/b679e2f9b1333d7b3a4480e32094ea00c1a3fdd6b2c1d4bdc364e615a1f8f4da.png)****![](/images/articles/70182ebea320f9b0da50d6a00e0e65811e172823179cbfd380af18e73ce73109.png)****![](/images/articles/70a2d93b7ca8c8138a36fe561d057695466ca7578d1447779989cfdef95b16f9.png)****![](/images/articles/7827b8d402ffc61f3c6756d54b1959955881338702ee0ecc96993aef9bf3501f.png)**
 
 ## Серьезность и цензура
 

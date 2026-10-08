@@ -6,7 +6,7 @@ date: 2023-05-08T16:16:56+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/wallet-w.jpg?itok=tzN6YDJ5)
+![](/images/articles/16b5d41499d253cec45d9b352bc25977784ec35e46d50610646af4805a8d085d.jpg)
 
 > **[Продолжающаяся инфляция неизбежно ведет к катастрофе](https://www.azquotes.com/quote/865117)**
 > *Людвиг фон Мизес*

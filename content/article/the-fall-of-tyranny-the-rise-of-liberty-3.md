@@ -6,7 +6,7 @@ date: 2025-08-11T16:53:23+03:00
 tags: ["технологии, ИИ и цифровой контроль", "Главы из книги The Fall of Tyranny the Rise of Liberty"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/51n9o1HYgGL.jpg)
+![](/images/articles/fb240aa83f18279539e91e97bdd9d8249ced0b73ee4d704976f7e799cfdec2a2.jpg)
 
 > Главы из книги [The Fall of Tyranny the Rise of Liberty (2017)](https://www.amazon.com/Fall-Tyranny-Rise-Liberty/dp/1520446268)
 

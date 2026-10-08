@@ -6,7 +6,7 @@ date: 2021-09-22T17:00:00+03:00
 tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/double-mask-wire.jpg?itok=KQWIfHGW)
+![](/images/articles/13bac5fcd99ed0b7d61b9eaf1c7ab721641b3d1b47a19c5471a1ab154483e951.jpg)
 
 Утверждение, что ковидный режим, установленный в западном мире, в первую очередь является продуктом китайского режима, не является преувеличением из арсенала адептов ["красной угрозы".](https://www.mtsu.edu/first-amendment/article/1063/red-scare)  Я имею в виду не только утверждение о том, что covid-19 возник в лаборатории в Ухане, но также и тот факт, что пропагандистская кампания, которая "информирует" о мерах по борьбе с covid, напрямую связана с Пекином. Как блестяще продемонстрировал Майкл П. Сенгер, реакция на covid --- это [экспорт режима Си Цзиньпина.](https://www.tabletmag.com/sections/news/articles/masked-ball-cowardice)
 

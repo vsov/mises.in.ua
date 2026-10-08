@@ -6,7 +6,7 @@ date: 2021-01-19T18:00:00+03:00
 tags: ["история свободы и экономическая история"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/41JVXSYSAEL.jpg)
+![](/images/articles/89acd0cc158f9509b5a406b87357d307e9bf52e56e080e8d5d9e3c573d582762.jpg)
 
 > *Отрывок из книги "Приватизация дорог и автомагистралей"*
 

@@ -7,7 +7,7 @@ tags: ["деньги и банковская система"]
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaALbYgfZq_L6H8j__4yy8i1oq6gXcInoFRWV3OFpYA5y1KK7M9C4-27U1kGFKuaIexzYTy3pss0xDQSrCqF_wJ3FpkeKYfSKHo8EasVa8Kab9TUbqEaM36Hh9jMEJdEB_d4-nRqYInXZHdfTrrjkQ02EMAEtg4D1mQq1dWQ4TeTV2hmQR6UYwYSC_lps/s320/rly.jpg)
+![](/images/articles/bb8ffe640d634d8157ddda056a67a32c8d622bffee66f09608f438adfb8a8a00.jpg)
 
 Не баллотируйтесь в президенты класса. Не ходите на собрания ТСЖ. Не вступайте в комитеты. Не участвуйте в политических кампаниях.
 

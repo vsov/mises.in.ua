@@ -6,7 +6,7 @@ date: 2022-08-26T12:41:21+03:00
 tags: ["наука, экспертиза и данные"]
 draft: false
 ---
-![](https://www.humanprogress.org/wp-content/uploads/2022/06/GettyImages-1206480195.jpg)
+![](/images/articles/b1fa25587e777edc561c9ef756aee7f55aedc4f094e1ccf45d64648716f20e06.jpg)
 
 
 **"Покупайте землю; ее больше не производят"**  --- *приписывается Марку Твену*

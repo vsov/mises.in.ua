@@ -80,7 +80,7 @@ draft: false
 
 * ["Это пандемия невакцинированных".](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/09/remarks-by-president-biden-on-fighting-the-covid-19-pandemic-3/)
 
-* ["Богатые не платят свою справедливую долю".](https://files.taxfoundation.org/20210324174730/Half-of-taxpayers-pay-97-percent-of-federal-income-taxes.-Rich-pay-their-fair-share-of-taxes-Bernie-Sanders-and-Elizabeth-warren-wealth-tax-rich-tax-rich-taxes-redistribution-rigged-tax-code.png?_gl=1*nb2gq6*_ga*MzMxNTMzMDMzLjE2ODI2MjgwODA.*_ga_FP7KWDV08V*MTY4MjYyODA3OS4xLjAuMTY4MjYyODA3OS42MC4wLjA.)
+* ["Богатые не платят свою справедливую долю".](/images/articles/ceeac5c341871a61f2f80f4897edcf17d6752602e13c15aabaa380c06eae1e1e.png)
 
 * ["Мы посадим вас в тюрьму".](https://www.cbsnews.com/chicago/news/we-will-take-you-to-jail-chicago-mayor-blasts-those-planning-parties-under-continued-stay-at-home-order/)
 * ["\[Это\] имеет признаки российской дезинформации".](https://nypost.com/2023/04/21/hunter-biden-laptop-letter-was-the-real-disinformation-all-along/)

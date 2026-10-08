@@ -16,7 +16,7 @@ draft: false
 
 Без предупреждения, без объявления и без объяснений 7 апреля 2021 года YouTube внезапно удалил видео со своей платформы. Оно было размещен на WTSP Tampa Bay, дочерней компании NBC, и первоначально оно появилось [как часть репортажа](https://www.wtsp.com/article/news/regional/florida/desantis-public-health-roundtable-florida-state-capitol/67-e4b48bf0-7610-43e9-ba4d-eff89c5c4957) на WTSP.com. Видео, которое [когда-то было](https://www.youtube.com/watch?v=-V7ZqnoKdUQ) здесь, теперь заменено вот этим.
 
-**![](https://lh5.googleusercontent.com/sKNzgO33Nk2Ydu24-HPbOJUdJqHZm_L7uJgImQ9KrZ0VbAaYpl6mzg5AK76qpJAPHCWaJPiCzuU5lZwfSEi2vOLJixbyBkSlhplkzLMxhfsII6gegxSjKJst6JAhKVnSdCli_C9n)**
+**![](/images/articles/12d1f2cc9b131da1f25243845fa3593e068cba94f2672de2e2582c57498168e3.png)**
 
 AIER включила это же видео [в наш рассказ](https://www.aier.org/article/great-barrington-declaration-scientists-with-gov-desantis-in-florida/) о мероприятии, вместе с единственной полной стенограммой мероприятия. Ближе к вечеру видео было полностью отключено.
 
@@ -31,7 +31,7 @@ AIER занимается проблемами цензуры большую ч�
 Почему LBRY выбирается для расследования? Возможно ли, что жалоба на компанию была инициирована YouTube как способ ужесточить контроль технологического гиганта над интернет-контентом? Мы не знаем, но в нашем мире подозревать такое вовсе не кажется безумием.
 
 Эта последняя атака на информацию в области общественного здравоохранения произошла всего через неделю после того, как Twitter [жестко цензурировал](https://www.aier.org/article/twitter-censors-famed-epidemiologist-martin-kulldorff/) одного из ученых из группы ДеСантиса, Мартина Куллдорфа, одного из создателей Грейт Баррингтонской декларации. Между тем, сам Twitter хвастается своими новыми инструментами для удаления всего, что противоречит правительственной / корпоративной программе.
-**![](https://lh3.googleusercontent.com/TjtJUpoGbbLM1-kPINGmHddsno00IModOsLk_VLgTk6ci_7Bg-O2pAPLaaFcmEr1PvS4iBQKnX8j89JAzCafI3CiPC7ClI74hpjmZ_DbqaTUxiDr_gctle-l8MGtAs3fEh6OH2RT)**
+**![](/images/articles/7fd182465070dc4e2227fb48d94d2f3613fc10e8801f97bee7ba095e208386fa.png)**
 
 И чтобы упомянуть еще один случай манипулирования биг-техом/мейнстримными СМИ, сам губернатор ДеСантис подвергся возмутительному случаю редактирования со стороны *"60 минут"*. Шоу [намеренно исказило](https://thehill.com/opinion/campaign/546843-universally-panned-60-minutes-hit-piece-on-desantis-just-made-him-a-2024) свою трансляционную версию сеанса вопросов и ответов, полностью исключив из своего отчета развернутое объяснение губернатора, которое доказывало, что характер вопроса был полностью ложным.
 

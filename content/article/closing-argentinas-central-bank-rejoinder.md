@@ -6,7 +6,7 @@ date: 2025-12-08T11:55:27+03:00
 tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика", "Йорг Гвидо Хюльсманн", "Филипп Багус"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Argentina%20central%20bank.jpeg.webp?h=a76dfacb&itok=q0K2zzou)
+![](/images/articles/9f675c1fa85553ee7c98fd21aacd582c0722ab15cab6310a223a2d0e21aaf2c6.webp)
 
 Эта заметка служит ответом на [недавний отклик Филиппа Багуса на мой комментарий](https://mises.in.ua/article/closing-argentinas-central-bank-response-professor-hulsmann/). Я не стану касаться всех вопросов, затронутых в его ответе, а сосредоточусь на самых важных моментах.  
 

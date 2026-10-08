@@ -7,7 +7,7 @@ tags: ["культура, идеология, образование и своб
 draft: false
 ---
 
-![](https://m.media-amazon.com/images/I/61vQbJHUUsL._SY522_.jpg)
+![](/images/articles/fdc1b34816da51dad21e72cfdba1e7c2bb1d63d654d2b51e47b8824f621b9ff3.jpg)
 
 Одно из главных суеверий нашего времени — это вера в то, что истина относительна, а не абсолютна. Как говорит философ Томас Нагель в книге [Последнее слово (Oxford University Press, 1997)](https://www.amazon.com/Last-Word-Thomas-Nagel/dp/0195149831):  
 

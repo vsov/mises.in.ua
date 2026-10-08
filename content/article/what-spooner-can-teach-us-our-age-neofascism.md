@@ -6,7 +6,7 @@ date: 2021-10-26T11:00:00+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/const1.jpg?itok=KFiljivt)
+![](/images/articles/7cf7e29d46c491306ee041e69772ee1d585a8f1b585b907df89911b4d3c2f6f0.jpg)
 
 
 Читатели Mises Wire, вероятно, знакомы с американским прото-либертарианцем XIX века [Лисандром Спунером](https://mises.org/profile/lysander-spooner) (1808–1887). Радикальность вызовов, которые бросает Спунер этатизму, хорошо выражается в названии составленного Ротбардом сборника его лучших произведений: "Отменим правительство". Спунер был [великим американцем,](https://www.lewrockwell.com/2006/02/wendy-mcelroy/lysander-spooner/) анархистом, приверженным [свободному отправлению правосудия,](https://mises.org/library/free-administration-justice) [антиколлективизму,](https://mises.org/wire/voting) [и демонтажу рабства](https://archive.org/details/TheUnconstitutionalityOfSlavery). Он пытался предотвратить создание федеральным правительством [нового типа общенационального государственного порабощения](https://mises.org/library/no-treason-no-1-0) на руинах измученного войной Юга.

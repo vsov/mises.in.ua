@@ -6,13 +6,13 @@ date: 2024-07-05T15:09:18+03:00
 tags: ["частная собственность и права"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/PP-W.jpg.webp?itok=u1FIPKUf)
+![](/images/articles/6fe8fb3c3b14e698a023326bf2ff0ef03718c051a50300ec02b38d2faee6896f.webp)
 
 Собственность является ключевым экономическим принципом для функционирования рынков и гармоничного сосуществования их участников. Правда, для слова "собственность", как и для многих вещей в современном мире, очень подходит сцена (и сопровождающий мем) из фильма 1987 года "Принцесса-невеста": "Ты постоянно используешь это слово; я не думаю, что оно означает то, что ты думаешь".
 
 {{< youtube G2y8Sx4B2Sk >}}
 
-**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXch-pZ-1H04Nc5Yu3OSjLT-spDacgi30WGXfy8kiUp2ijCdmwAdp6bvYCP33geU7XVhsB_uTHup7trOzUzh2JqbW8FzFpwoFpfFQY3UyzCeCIVXIQPdZcRmeMG-dv1eq_XSzGGUriBjHMJytzQPLty_u4_z?key=7llQTudCm017gea6TVTR6w)**
+**![](/images/articles/86964132d7c2904475098ddc41f82dc9c3b690d2264a71219b7fcb6633cc7dde.jpg)**
 
 Для [марксистов](https://www.marxists.org/glossary/terms/p/u.htm) собственность означает несправедливое накопление ресурсов. Большинство американцев, услышав это слово, подумают о своих домах. Для [Мюррея Ротбарда](https://mises.org/mises-daily/property-rights-are-human-rights) и многих других либертарианцев, которые глубоко размышляли о природе общества, собственность означает цивилизацию и "подразумевает право находить и преобразовывать ресурсы: производить то, что поддерживает и продвигает жизнь".
 

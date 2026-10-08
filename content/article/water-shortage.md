@@ -6,7 +6,7 @@ date: 2021-09-20T16:00:00+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://www.ecomena.org/wp-content/uploads/2020/02/water-crisis-pakistan.jpg)
+![](/images/articles/efa0b86ac9e533046422acec21833209b9bfa76e4b74ad0fc20357a34330474b.jpg)
 
 > _От редакции:_ заметка написана в 1977 году, но, судя по всему, с тех пор ничего не изменилось.
 

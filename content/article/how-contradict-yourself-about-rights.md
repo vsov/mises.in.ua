@@ -6,7 +6,7 @@ date: 2024-12-03T19:06:01+03:00
 tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/5165YmuNcLL._SL1499_.jpg)
+![](/images/articles/9ba1ef3de87c14383a86ea35489caba7eba8bc98486c1bda304d6e80b398c372.jpg)
 
 [_The First Amendment: Essays on the Imperative of Intellectual Freedom_](https://www.amazon.com/First-Amendment-Imperative-Intellectual-Freedom/dp/B0D5H9FVDW)by Tara Smith, Onkar Ghate, Gregory Salmieri, and Elan Journo, Ayn Rand Institute Press, 2024
 

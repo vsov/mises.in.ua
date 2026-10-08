@@ -6,7 +6,7 @@ date: 2023-11-01T11:43:01+03:00
 tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
-![](https://humanprogress.org/wp-content/uploads/2022/12/2022-08-19-Marian-Tupy-Cato-Institute-RCD-83_websize.jpg)
+![](/images/articles/1e755fe998d290cf9e97a100415da72f8a1829f4b33b1aa36508166fb30bfa77.jpg)
 
 ## Поставка минералов теоретически ограничена, но человеческие знания и творчество безграничны
 

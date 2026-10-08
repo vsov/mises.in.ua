@@ -6,7 +6,7 @@ date: 2021-10-13T12:00:00+03:00
 tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/covid1_2.jpg?itok=x1sl1IEQ)
+![](/images/articles/bbd4b1a7e206cb2b5085a9fb4968f236bbe258510c5790c3ff09635f347caf63.jpg)
 
 На прошлой неделе СМИ снова попытались нагнетать страх по поводу COVID-19, назвав его более смертоносным, чем эпидемия гриппа 1918 года. "COVID-19 --- теперь самое смертоносное заболевание в истории США", --- говорится в заголовке [одного из филиалов NBC TV.](https://www.wesh.com/article/covid-19-deadliest-disease-outbreak-u-s-history/37834009) Учитывая реалии смертности от рака и болезней сердца, этот заголовок абсурдно ложен. Возможно, автор имел в виду "инфекционное заболевание". [Заголовок TIME был](https://time.com/6099962/covid-19-spanish-flu/), по крайней мере, в какой-то степени основанным на фактах. Он гласил: "COVID-19 --- теперь самая смертоносная пандемия в американской истории".
 
@@ -22,7 +22,7 @@ draft: false
 
 Эта тенденция, по-видимому, усилилась после 2011 года, когда общее количество смертей в год увеличилось на 33 процента. Более того, даже если мы введем *уровень* смертности и, таким образом, учтем рост общей численности населения, мы все равно обнаружим, что уровень смертности увеличивается каждый год с 2009 года. Опять же, мы должны задаться вопросом, случилось ли это потому, что жизнь стала более опасной для населения в целом.
 
-![mort1](https://cdn.mises.org/mort1.jpg)
+![mort1](/images/articles/0597ffecfda3789564efb63b89aa8ae32b0e7975cd24e68151e200da06451f2c.jpg)
 
 Source: US Centers for Disease Control and Prevention; National Center for Health Statistics.
 
@@ -32,7 +32,7 @@ Source: US Centers for Disease Control and Prevention; National Center for Healt
 
 Если использовать официальные данные Центров по контролю и профилактике заболеваний [по общему количеству смертей с поправкой на возраст,](https://www.cdc.gov/nchs/data-visualization/mortality-trends/index.htm) тенденция, естественно, выглядит иначе. Коэффициенты смертности с поправкой на возраст в целом снизились за последние двадцать лет. Действительно, в течение последних 120 лет общая тенденция была в основном нисходящей. (Заметным исключением был период с 1914 по 1918 год, когда уровень вырос на 18 процентов.)
 
-![mort](https://cdn.mises.org/mort2.jpg)
+![mort](/images/articles/98e1ad44579da334f2a66bb958d74f3f03b89d6457be97db9dd2484c97815d72.jpg)
 
 ###### Source: Historical data through 2018 obtained from National Center for Health Statistics Data Visualization Gallery ([Mortality Trends in the United States, 1900–2018](https://www.cdc.gov/nchs/data-visualization/mortality-trends/index.htm)). Age-adjusted death rates for 2020 obtained from Farida B. Ahmad, Jodi A. Cisewski, Arialdi Miniño, and Robert N. Anderson,  _[Provisional Mortality Data—United States, 2020](https://www.cdc.gov/mmwr/volumes/70/wr/mm7014e1.htm)_,  _Morbidity and Mortality Weekly Report_ 70, no. 14 (Apr. 9, 2021): 519–22. The report notes: "In 2020, approximately 3,358,814 deaths occurred in the United States ([Table](https://www.cdc.gov/mmwr/volumes/70/wr/mm7014e1.htm#T1_down)). The age-adjusted rate was 828.7 deaths per 100,000 population, an increase of 15.9% from 715.2 in 2019."
 

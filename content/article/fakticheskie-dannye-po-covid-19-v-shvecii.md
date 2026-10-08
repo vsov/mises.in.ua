@@ -32,7 +32,7 @@ draft: false
 
 Общая смертность от [COVID-19 в Швеции](https://www.worldometers.info/coronavirus/country/sweden/) составляет 5700, что почти на 90000 меньше, чем предсказывали разработчики моделей. Больницы никогда не были заполнены. Количество ежедневных смертей в Швеции незначительно. Агентство здравоохранения не сообщает о новых поступлениях в отделения интенсивной терапии.
 
-![](https://lh5.googleusercontent.com/tTlXazvchycFqf_8-msnpP1TL3yYD78q5QfpLgvyzxdyCem6SmyDxQ1pVsXa5lOlg_4KrMBVPLxhomOM5KgCdXcpuaphjZEbja9vgoVhhyVqWl887w4R3CJufgadpPedUdmd5UUb)
+![](/images/articles/21f7f97c0042042a4d027c86facfb8091bdb7ed2c7c5754dddf8460cdf7b13ff.png)
 
 Как показывает приведенная выше диаграмма, разработчики моделей были не просто неправы. Они даже близко не подошли к реальному результату.
 

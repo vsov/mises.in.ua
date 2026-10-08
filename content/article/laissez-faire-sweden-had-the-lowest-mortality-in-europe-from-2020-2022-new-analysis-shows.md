@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://fee.org/wp-content/uploads/2023/12/anders_tegnell_in_2020-1024x1024.jpg)
+![](/images/articles/7cbec0208dddd255b63b24891ad32b05b444170c4e7d38217d93acb4ffe183e9.jpg)
 
 Гор Видал однажды сказал, что три самых красивых слова в английском языке это слова "я же говорил". Возможно, именно по этой причине мне трудно удержаться от того, чтобы не поделиться новыми данными, показывающими, насколько правильной была реакция Швеции на пандемию, за которую ее так осуждали.
 
@@ -41,7 +41,7 @@ draft: false
 
 "Во всей Европе в Швеции наблюдалась самая низкая общая смертность во время и после Ковида", --- [заявил Ломборг](https://twitter.com/BjornLomborg/status/1764733376450203858) на сайте X (бывший Twitter).
 
-**![](https://lh7-us.googleusercontent.com/XdNtFButv96fol3591vOAShr9VMgZftSH_dC2uiE3s23ouAv8jyl_m6a6rgAl0F9HIt3tYF5t26cn93VJLH6FskgJD1q3EUP_l1e51n7bb18UZ6boI8rxRNRyeq-5BwIGCcT-xo9w3vOmDByOGThRMM)**
+**![](/images/articles/1bc4dd544c4b4f3e6544cc706028416d53eeea3465ea53049c6a7dee789be206.png)**
 
 ## Одно экономическое заблуждение, чтобы править ими всеми
 

@@ -59,7 +59,7 @@ draft: false
 
 Именно это произошло в 1970-х годах после того, как президент Никсон объявил о контроле цен на бензин, что привело к устойчивому национальному дефициту и массовым очередям за бензином. (Если уж на то пошло, Никсон знал, что его ценовой контроль будет катастрофой, но все равно принял его, потому что это было сигналом для избирателей, что он "настроен по-деловому").
 
-**![](https://lh5.googleusercontent.com/R0X1L8QkAGTlGHu7BZfsBMNnVTmx8LcjgHPMqf7mBxWmf7iUzreBwESfScf4lxILfkUKAHMBaIiWOt3-CDUuDEjJsY_Es2w-SvbWug_g6oHyhKnQR3fPzmAH3UUMpVVPvU-2G5JgZHXAEP9kllmLteRqp9RkfEgv3ln9cGoJIRHP6pjVUDkCyHzq_A)**
+**![](/images/articles/f1df4d81dde69bcb405f85d97f37b9419dd5f9ec8320167b95ae23b789c0527f.png)**
 
 ## Ценовой контроль возвращается
 

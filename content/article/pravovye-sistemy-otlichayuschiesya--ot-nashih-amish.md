@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![File:Amish people.jpg --- Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/39/Amish_people.jpg)
+![File:Amish people.jpg --- Wikimedia Commons](/images/articles/5c9dc7b0ad71499ba1f838532032d6fd0d3a694c6220ab8a9b83b1e7e48e529a.jpg)
 > Сообщество Амишей --- это не пережиток прошедшей эпохи. Скорее, они демонстрируют другую форму современности  
 — *Хостетлер, 1980*
 

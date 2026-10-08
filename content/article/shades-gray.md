@@ -6,7 +6,7 @@ date: 2024-06-12T12:04:20+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/71lUdV+ZCQL._AC_UF894,1000_QL80_.jpg)
+![](/images/articles/0a51c7b685f70060e1056a188fe0678e36bbf36e5864a604ed80988b5eb38d38.jpg)
 
 [The New Leviathans: Thoughts after Liberalism by John Gray, Farrar, Straus and Giroux, 2023](https://www.amazon.co.uk/New-Leviathans-Thoughts-After-Liberalism/dp/0241554950)
 

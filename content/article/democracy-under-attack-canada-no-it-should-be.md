@@ -6,7 +6,7 @@ date: 2023-03-10T14:13:01+03:00
 tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/canada-w.jpg?itok=LGTld0JK)
+![](/images/articles/1423364377decdddaae8f6836ee09a404a963cc1ba7945d5b51bbc19c41dbb9d.jpg)
 
 Когда [менйстримные](https://www.thestar.com/politics/political-opinion/2022/01/27/democracy-is-under-attack-and-justin-trudeau-is-committing-canada-to-the-fight.html) [СМИ](https://www.theglobeandmail.com/opinion/article-democracy-is-under-attack-everywhere-including-in-canada-but-what-do/) говорят вам, что демократия в Канаде находится под угрозой, не верьте этому. Демократия жива и здорова, работает именно так, как и была задумана, то есть приносит пользу политическому классу и его друзьям за счет рядовых граждан, которые все еще верят, что их голос действительно что-то значит. Точно так же демократия работает в большинстве демократических стран. Профессора Мартин Гиленс и Бенджамин Пейдж [пишут:](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf)
 

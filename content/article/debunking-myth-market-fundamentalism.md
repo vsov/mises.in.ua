@@ -7,7 +7,7 @@ tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-06/AdobeStock_Economic%20plan.jpeg.webp?itok=8LjoKSeT)
+![](/images/articles/ce87434727527343f8dfa925e9197b7141062717ef1610cb10179f439f0ed0d6.webp)
 
 Сторонники движения «национальных консерваторов» (или «NatCon»), которое в последние годы [взяло под контроль Республиканскую партию](https://mises.org/mises-wire/republicans-declare-war-american-economy), всё чаще обвиняют либертарианцев в том, что их «рыночный фундаментализм» мешает политикам предпринимать практические шаги для спасения американского общества от проблем. В предисловии к своей книге [Rebuilding American Capitalism](https://americancompass.org/rebuilding-american-capitalism/foreword/) главный экономист влиятельного аналитического центра [American Compass](https://www.politico.com/news/2024/07/25/gop-economics-american-compass-00171010) Орен Касс заявляет о поддержке интервенционистской политики:
 

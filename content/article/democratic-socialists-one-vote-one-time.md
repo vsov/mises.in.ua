@@ -6,7 +6,7 @@ date: 2026-07-03T10:12:59+03:00
 tags: ["демсоциализм", "США"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-06/gettyimages-1244951617-612x612.jpg.webp?itok=QP6spcc2)
+![](/images/articles/727a6d01d97017a56390f7256e4fd1850d891b1b198e47ee98818f2ca73b5bde.webp)
 
 
 

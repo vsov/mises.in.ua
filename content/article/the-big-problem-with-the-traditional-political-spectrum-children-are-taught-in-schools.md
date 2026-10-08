@@ -7,11 +7,11 @@ tags: ["культура, идеология, образование и своб
 draft: false
 ---
 
-![](https://fee.org/wp-content/uploads/2023/12/student-g233e84fe6_1280.jpg)
+![](/images/articles/2fc950dc81114b14e1d5eaa476c2186f3212594981f792450914bfcb977ca146.jpg)
 
 На занятиях по государственному управлению и политологии как в средней школе, так и в колледже, студентов учат, что так называемый "политический спектр" (или "политический/экономический" спектр) выглядит следующим образом: Коммунизм и социализм находятся слева, капитализм и фашизм --- справа. Различные смеси этих явлений находятся где-то посередине:
 
-**![](https://lh7-us.googleusercontent.com/l9WTxUZzY_gCSUsVSOvViDkvvE4fCrk19GSQw97HD1RXjiMv3wSyLzdi2rASBbKGhziQYsAve5etBjyW9YNbEbE9YI09wYb8Hs3Nq5H-2cv28YRG1W5rjhzA-7X_ObJQM6OUnr3pG5ZRGzxFnqU5gCA)**
+**![](/images/articles/eb2f08c03559c707cc208aa49f359a6982b80b2fce7f6fefa66c95d6d377c004.png)**
 
 Это не просто ложь, это просто идиотизм. Выбросьте этот спектр в мусорную корзину и потребуйте возврата денег от учителя, который преподнес его как факт или как подходящий образовательный инструмент.
 
@@ -19,17 +19,17 @@ draft: false
 
 В любой другой теме два конца спектра изображали бы противоположности. Допустим, вы хотите проиллюстрировать диапазон глупости. Это выглядело бы следующим образом:
 
-**![](https://lh7-us.googleusercontent.com/KrC7lUlAqyonQ_CE_PlziaplziSCrMMzSqDrJVwZcvdBcmcokhLkkmSOxYTgHWj9TJ-ePoGtdigxU3EwRUiL2lhWGMgDOHxSCwW3kfOoBM3IniBsXNUD08skv0I13OLq2jrmp4Zdw_qmcaujE9llTH8)**
+**![](/images/articles/2ec9aa20288f6cef9688e1d1402a78b9d1cb4dd12b331d141be0aa626b931c56.png)**
 
 Какой смысл в том, чтобы "крайне глупый" находился как на крайне левом, так и на крайне правом концах спектра?
 
 По той же причине спектр, который выглядит, как на рисунке, не создает ничего, кроме путаницы:
 
-**![](https://lh7-us.googleusercontent.com/w_98BTeU_uPfghbP7G5BNvurpfDgatW59tNVARfOaobcEncqslf64SQhw8mXXJBUtS6p5CpNgKPDxS2YZIVWPB5q8hgaCtRPlt90KKbYRdFG4rRg9S8At9mXSEPZnJ0py1Io88TnBtTlJWLyOwgsUsA)**
+**![](/images/articles/3b6e224a4c0251e67f19a263bf56b33e45b99058674127ed7804a152a7668b51.png)**
 
 Если бы вы хотели изобразить диапазон вариантов размера правительства, то более осмысленным был бы этот диапазон:
 
-**![](https://lh7-us.googleusercontent.com/R3gI44SpivY1YhuZk64c_mFPLif-dS6N1dXQ11_ZfWcTjSnDbUUfw8yl4nkj9VVHBcONOEbZmRvFcCWp6BBVDc8kBxcBiLS-7UG6PyvkkmREXSbbhdGvI9JEAzuM_TY9LdI-ySkneG2NuXOorrCZtaY)**
+**![](/images/articles/6419254da97a6a19fb366630d8eef47f7a2666fe6ce1e8348a84120c61a7cada.png)**
 
 Давайте вернемся к рисунку 1 --- спектру, который чаще всего преподносится студентам как окончательная истина. Этот спектр --- одна из причин того, почему так много людей считают, что коммунизм Ленина и Сталина был диаметрально противоположен фашизму Гитлера и Муссолини (даже если люди, жившие при этих системах, не могли заметить особой разницы).
 
@@ -37,7 +37,7 @@ draft: false
 
 Я считаю, что если коммунизм, социализм, фашизм и капитализм расположены на одной линии, то размещение первых двух слева, а вторых --- справа вводит в заблуждение и является совершенно бесполезным. Наибольший смысл несет следующее расположение:
 
-**![](https://lh7-us.googleusercontent.com/dizp5a7JPzFPL3HHWDUubXp3VMvthU8vt2YYZq63V-RyPOrsrYrqVSgnYhiIDYu0qLT-DVy5M-DeFg1vyOYhyUWEWRZiclOHZuoOBBK7DkxBxAdHnFMNUY2pBDdPMaYmFYHkYnKVWwkLmpAedsGzzCs)**
+**![](/images/articles/0544c4702bd17bc4e3e050b83ee8781cff26b7341477216114249888be907974.png)**
 
 Подход, представленный на рисунке 5, сразу же вызывает споры, потому что его последствия сильно отличаются от того, чему обычно учат студентов. Неизбежные возражения включают следующие три пункта:
 

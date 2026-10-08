@@ -16,7 +16,7 @@ draft: false
 
 По словам Кьюбана и на сайте компании, все лекарства будут продаваться по цене издержек плюс 15-процентная наценка.
 
-![](https://lh3.googleusercontent.com/ao3ntvLY6gOs7wpi2F8GKDEH6D5LA4YZn6O8xIa8O4rUVJcSLQvMhDvhQBKKlq8Q4zb3vGhqw07efw6WoCm-Q3Xg7xc7P3D5e56178CnjsDgUg_nhmTeCegwH9qxt80oOxhPD9PZ)
+![](/images/articles/da386a17f55f990abef9b3aab571978754aa39076871d56e5777209ac4366ec3.png)
 
 
 ## Как это будет работать

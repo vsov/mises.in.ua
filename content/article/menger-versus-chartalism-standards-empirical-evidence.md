@@ -6,7 +6,7 @@ date: 2026-03-20T16:38:12+03:00
 tags: ["наука, экспертиза и данные", "австрийская школа и праксеология"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-11/menger.png.webp?h=1e6eb8d0&itok=X_iYclpi)
+![](/images/articles/0b846316d16b9fd3bd89361ad6d943565b902c989ca8a958cf3db63057039ebc.webp)
 
 
 В 1892 году Карл Менгер написал работу «Происхождение денег», которая стала основой австрийской монетарной теории. Эта ключевая работа объясняет, как деньги возникли благодаря добровольной человеческой деятельности и обмену на свободном рынке. Менгер также критиковал другие теории происхождения денег — как результат общественного договора или указа властей — как не имеющие [исторических оснований](https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf?_gl=1*byyak3*_gcl_au*OTkxOTM4NDMxLjE3NjczNDcyNzY.*_ga*MTk0MDYwMzM5OS4xNzY2Mzg4OTMw*_ga_MC3JLVEDHF*czE3Njk4NTA3OTMkbzYkZzEkdDE3Njk4NTEwOTMkajYwJGwwJGgxMjIwOTM2ODkw#page=18). Он писал:  

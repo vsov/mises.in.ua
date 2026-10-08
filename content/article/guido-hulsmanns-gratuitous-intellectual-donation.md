@@ -6,7 +6,7 @@ date: 2024-05-17T12:33:44+03:00
 tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_6_9_650w/s3/images/2024-03/Abundance-Generosity-State_Hulsmann_20240123.jpg.webp?itok=ApWKe9sQ)
+![](/images/articles/756d9e8590eefbf847cc4918c291c1afa05a6bbdbbd4ecb4987732e3a808a830.webp)
 
 [*Abundance, Generosity, and the State: An Inquiry into Economic Principles*
 by Jörg Guido Hülsmann Ludwig von Mises Institute, 2024.](https://mises.org/library/book/abundance-generosity-and-state-inquiry-economic-principles)

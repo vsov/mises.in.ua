@@ -6,7 +6,7 @@ date: 2025-12-05T14:41:21+03:00
 tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика", "Йорг Гвидо Хюльсманн"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-11/AdobeStock_179566901.jpeg.webp?h=4b1d45f6&itok=R23KqAmJ)
+![](/images/articles/8f73e300b7f7fa93d1f4adfc49cb349a499e0f2d928f64289e2c641745eab6f3.webp)
 
 В недавнем комментарии профессор Хюльсманн отвечает на мою [статью](https://www.misesde.org/2025/10/kreditgeld-pesos-dollars-und-argentinien/) ([наш перевод](https://mises.in.ua/article/closing-central-bank-comment-bagus/)), в которой я говорю о классификации денег Людвигом фон Мизесом на товарные, кредитные и фиатные — и применяю эту концептуальную схему к  случаю Аргентины в декабре 2023 года, когда Хавьер Милей вступил в должность.  
 

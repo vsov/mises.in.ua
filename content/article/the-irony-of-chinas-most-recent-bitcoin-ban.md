@@ -21,7 +21,7 @@ draft: false
 
 Как и ожидалось, после появления новостей цена всего криптографического комплекса предсказуемо упала; а затем, с равной предсказуемостью, вернулась на свое место. Ничто из этого не является новым и неожиданным для биткоина или каких-либо других монет и активов в секторе, который традиционные медиа всегда освещают в негативных тонах. (Напомню, что биткоин был объявлен мертвым не менее [430 раз](https://99bitcoins.com/bitcoin-obituaries/) с 2010 года; только в этом году более 35 раз.)
 
-![](https://www.aier.org/wp-content/uploads/2021/09/BitcoinJune2021-prez-800x379.jpg)
+![](/images/articles/fa73b2f430920793fc3df8122409cc66af46eb262ce9ecaca2922aaff639bbb1.jpg)
 
 **Bitcoin price (June 2021 – present)**
 
@@ -29,7 +29,7 @@ draft: false
 
 В 2017 году из-за мер китайского правительства по борьбе с криптовалютой, цена на биткоин упала примерно на 30%. В пятницу, столкнувшись с гораздо более широким и жестким набором ограничений, цена биткоина упала всего лишь на 5%.
 
-![](https://www.aier.org/wp-content/uploads/2021/09/BITCOIN2013toprez-800x378.jpg)
+![](/images/articles/3b98094d31b2c076f7e2f1e078e5143b437ee3b3f1223b2802f77352a146172f.jpg)
 
 **Bitcoin price (September 2013 – present)**
 
@@ -37,7 +37,7 @@ draft: false
 
 Если бы современная Америка была похожа на Америку [Кулиджа,](https://www.amazon.com/gp/product/0061967556) ответом на китайский запрет стало бы введение специальных криптоэкономических зон или другие идеологически рыночные решения. К сожалению, современные [американские](https://news.bitcoin.com/donald-trump-bitcoin-btc-scam-heavy-crypto-regulation/) [политики](https://fortune.com/2021/01/19/janet-yellen-confirmation-bitcoin-biden-treasury-nominee-cryptocurrency-warning-terrorism/amp/) и [регулирующие органы](https://www.foxbusiness.com/politics/sec-chair-warns-cryptocurrency-industry-wont-reach-potential-staying-outside-our-laws) отличаются от китайских не столько интеллектуальной направленностью, сколько медлительностью и методичностью.
 
-![](https://www.aier.org/wp-content/uploads/2021/09/ChineseRenminbi2011prez-800x377.jpg)
+![](/images/articles/5a1221044ef24a90dc595ae520fe98fe19e5a0e9e771cc6bfbdea4c3657e5d41.jpg)
 
 **USDCNY spot exchange rate (dollars per yuan, 2011 – present)**
 
@@ -48,13 +48,13 @@ draft: false
 
 В то самое время, когда принимаются решения против криптовалют, бывший образец традиционной китайской торговли быстро приближается к дефолту по долгу, и будет либо поспешно реструктуризован либо "спасен" благодаря государственной помощи. Ситуацию, с которой столкнулась Evergrande Group, утонувшая [в долге на 300 миллиардов долларов,](https://www.washingtonpost.com/world/asia_pacific/china-evergrande-debt-markets/2021/09/22/eeb80fd4-19cc-11ec-bea8-308ea134594f_story.html) сравнивают с ситуацией, с которой столкнулась Lehman Brothers в 2008 году. Это в значительной степени неуместное сравнение, за одним исключением: обе компании рухнули после того, как многие годы находились под бдительным присмотром регулирующих органов и государственных чиновников, на устоявшихся рынках с гарантированной защитой инвесторов.
 
-![](https://www.aier.org/wp-content/uploads/2021/09/EVERGRANDEbondscentsondollar2021-800x379.jpg)
+![](/images/articles/823ab87e6061e862e1d60001d758ab6a5142a832752ee52039072e40c3d98525.jpg)
 
 **Evergrande 8.25% 3/23/22 bond price (2021)**
 
 Компания должна деньги [более чем 170 банкам и еще 121 финансовому учреждению.](https://www.bbc.com/news/business-58579833) Но Evergrande --- это всего лишь пресловутая канарейка в шахте стоимостью [52 триллиона долларов:](https://www.wsj.com/articles/china-property-real-estate-boom-covid-pandemic-bubble-11594908517) массивный пузырь на рынке недвижимости, подпитываемый кредитами и изобилующий [неэффективными инвестициями](https://allthatsinteresting.com/chinese-ghost-cities). Китайские экономические менеджеры, вероятно, решат, что требуется больше ликвидности, чтобы предотвратить масштабный финансовый кризис. Действительно, [Народный банк Китая только 23 сентября вложил 17 миллиардов долларов,](https://finance.yahoo.com/news/china-pumps-17-billion-system-024334411.html) чтобы разморозить опасные рынки межбанковского кредитования.
 
-![](https://www.aier.org/wp-content/uploads/2021/09/Evergrandegroupstockprice2021-800x379.jpg)
+![](/images/articles/ce28afbef94543693de8c00c9e840e03b281a67829ae5b01f57017412759f54c.jpg)
 
 **Evergrande stock price (2021)**
 

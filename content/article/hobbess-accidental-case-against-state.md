@@ -6,7 +6,7 @@ date: 2026-07-17T01:02:45+03:00
 tags: ["", ""]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2025-11/AdobeStock_Hobbes%20Leviathan.jpeg.webp?h=ea2ce7ea&itok=sOiZii2f)
+![](/images/articles/1beec4aa2953f240b61af78dacb216d9fbb3a54413ae0f532716150e0976133d.webp)
 
 
 Томаса Гоббса, написавшего в 1651-м году книгу Leviathan часто считают одним из интеллектуальных основателей современного светского национального государства  

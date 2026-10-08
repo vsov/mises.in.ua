@@ -6,7 +6,7 @@ date: 2023-02-08T13:12:16+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/nobel-w.jpg?itok=C_AnLeTK)
+![](/images/articles/ba4af023a038fcbbc801190577f1c7fbe4edf9728f3cc2eb3f35a363c0f6b92a.jpg)
 
 После присуждения Нобелевской премии по экономике Бену С. Бернанке, Дугласу В. Даймонду и Филипу Х. Дайбвигу, интерес СМИ, по понятным причинам, сосредоточился на Бернанке. [Марк Торнтон написал язвительную статью](https://mises.org/wire/ben-bernankes-nobel-prize-committee-rewards-arsonist-claiming-fight-fire-he-started) о "спасении Бена", а [Тайлер Коуэн непонятно почему превозносил его до небес](https://marginalrevolution.com/marginalrevolution/2022/10/the-economic-contributions-of-ben-bernanke.html) (зато Коуэн указал на некоторые заслуги Бернанке, которые и правда имели место).
 

@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Texas-vs-Georgia-1.jpeg)
+![](/images/articles/fcf965bddc6b708514484362d00a3422ab35843a9c3a580e6202e51d45d3c95a.jpg)
 
 > *Независимо от того, насколько строги законы о масках и насколько охотно население им подчиняется, количества случаев COVID растет и падает примерно в одно и то же время.*
 
@@ -23,7 +23,7 @@ draft: false
 
 В масочной догме с самого начала было много трещин. [Во-первых, главный хирург США и Центры по контролю за заболеваниями](https://www.marketwatch.com/story/the-cdc-says-americans-dont-have-to-wear-facemasks-because-of-coronavirus-2020-01-30) ранее заявили, что "маски НЕ эффективны в предотвращении заражения [населения] коронавирусом", поэтому, когда их позиция поменялась доверия к ней не было. Более того, многих чиновников часто ловили без масок, когда они думали, что камеры выключены. Например, [доктора Энтони Фаучи ловили на этом несколько раз.](https://www.youtube.com/watch?reload=9&v=ppsACDLT-60)
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/faucimask.jpg)
+![](/images/articles/650cb9fb662a1da1b1708c7fd9ef92963dcf0d35fef2e5a218dde19f7fcbd5fa.jpg)
 Мэр Чикаго и местные СМИ были уличены в снятии масок и нарушении дистанцирования сразу после окончания пресс-конференции. Это было зафиксировано в [уже удаленном YouTube видео](https://www.youtube.com/watch?v=rjps5BirfHo)  которым поделился [уже удаленный после более чем 260000 ретвитов аккаунт Twitter](https://twitter.com/matt_zawadzki). На момент публикации оно все еще доступно для просмотра [в виде видео, сделанного с видео,](https://www.youtube.com/watch?v=OH1sfnHPQ-E) которое еще не удалено на YouTube.
 
 Очевидно, что некоторые люди не хотят, чтобы вы видели, что политики делают за кулисами. Губернатор Пенсильвании Том Вулф, убежденный сторонник обязательного ношения масок, был пойман за кадром, когда [смеялся над тем, что ношение масок является актом "политического театра"](https://www.westernjournal.com/penn-dem-governor-caught-hot-mic-laughing-political-theater-wearing-mask/?__cf_chl_jschl_tk__=903da30dece21734ca800a620de1bf4b8b947ee8-1604148595-0-AWtP9uQoveMGYPnxZt3KAvzqylHVSdrprc52ebSNUPvkNiC9rJQHB4vETn84uV7vaFxWj59No9j62MufKXlIRgY2A0XZgeVFGDRhKfy8TIYzNAj-pZnNAiAO6AMmFfIJN0Senumli0LHOQow_8pa_LGDluw1ua7ADub7Jf0vMYJnNHSwjfWY4QCoAPnP-wlEip47UGrLRF3ET1u-CZG34GIXRbb0f0Fbimd1p34DJ6qgRvgJmlin59R1jtFZ7q46ka0ieTNGpZQUs87NseaDb4BGK-Dgh8ZLeUvQfw1S1veOOKdV-zTvS_PaCWAysMDarAtN1_U7bVHYt2oxzY-ruftDa4fDVzQ_A2aPPRsz6Y7CyMUHuH2rRPugatyvayn3wg).
@@ -49,52 +49,52 @@ draft: false
 Австрия была одним из первых правительств, потребовавших ношения масок, и сделала она это примерно через 10 дней после того, как количество случаев начало сокращаться. Уровень нисходящего тренда не изменился и не улучшился после того, как было введено обязательное ношение масок. Несмотря на то, что люди носили маски в течение длительного периода, в настоящее время количество случаев в четыре раза больше, чем когда в Австрии было предписано ношение масок, и количество случаев продолжает расти.
 
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Austria.jpeg)
+![](/images/articles/a49b24f0feca016de34eeaedd16d76ac7c2c4774fbd7aad8c9b8a7375852d3e3.jpg)
 
 Германия ввела маски примерно на полдороги к восстановлению. Количество случаев сейчас тоже быстро растет.
-![](https://thefederalist.com/wp-content/uploads/2020/10/Germany.jpeg)
+![](/images/articles/44891e35f2f9ce3a9e409a4e35f1b2196c518205baa4dd0be7edb9bdb3a686aa.jpg)
 
 У французов теперь примерно на 1000% больше ежедневных случаев, чем было, когда они ввели маски, несмотря на один из самых высоких уровней согласия в отношении ношения масок в мире.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/France.jpeg)
+![](/images/articles/effc041893c8fc89be9e3437e7143c6376493afd15f0c0154b07e32d2e1afa31.jpg)
 
 Испания ввела маски почти одновременно с своим французским соседом. Испания ввела маски, когда количество случаев было близко к нулю, и у нее самые высокие стандарты ношения масок во всей Европе. Сейчас количество случаев в Испании составляет примерно 1500% от количества в момент введения масок.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Spain.jpeg)
+![](/images/articles/c112666863446375dafb010f71020e7f18876f6b0fc2a72e53f2b5739dfda76b.jpg)
 
 После трех месяцев обязательного ношения масок в Великобритании примерно на 1500 процентов больше случаев, несмотря на один из самых высоких показателей соблюдения масочного режима в Европе.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/UK.jpeg)
+![](/images/articles/948d265ffce48d14e7fa0e376ac99f08336d5cace28f31a42c99324f1fde455d.jpg)
 
 Бельгии потребовались маски вскоре после того, как это сделали британцы, и сейчас у нее, вероятно, самый высокий уровень заражения в мире.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Belgium.jpeg)
+![](/images/articles/f6c2578bfd683b68aee1e5e4ee79b0061a97a2aa641c6f32baa4607936468667.jpg)
 
 В Италии чрезвычайно высокий уровень ношения масок, несмотря на отсутствие национального мандата. Резкий рост числа случаев заболевания в последнее время вынудил их создать один из самых строгих законов о масках в мире, но результаты предсказуемо не смогли замедлить рост числа случаев коронавируса. Фактически, количество случаев резко возросло сразу после того, как закон о масках вступил в силу.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Italy.jpeg)
+![](/images/articles/eb5f0e5412d420b6f473e4b3a19b150bf4245dc2ae334d6f639c284bcdf3f3ee.jpg)
 
 Подобные результаты были получены в Ирландии, Португалии, Израиле и многих других странах. Независимо от того, насколько строги законы о масках и насколько тщательно они соблюдаются, количество случаев растет и падает примерно в одно и то же время.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/European-comparison.jpeg)
+![](/images/articles/9617df90e9b163309d8a3281016b5400507f55bf7eed7d1ae94f31245f87c747.jpg)
 
 А как насчет Соединенных Штатов? Американцы [доказали, что они поддерживают масочный режим](https://yougov.co.uk/topics/international/articles-reports/2020/03/17/personal-measures-taken-avoid-covid-19) даже в большей степени, чем немцы.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Mask-compliance-rates.png)
+![](/images/articles/c24844adcf86b827e92b042c1bf59e18b84a09c83f92132aeb6a57cb4d69e2ab.png)
 
 Поэтому неудивительно, что те же тенденции, что и в Европе, наблюдаются и в штатах США. Например, Калифорния ввела ношение масок в июне, но число случаев заболевания увеличилось более чем на 300 процентов. Четыре месяца спустя штат по-прежнему находится под строгим контролем, а число случаев заболевания еще больше.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/California.jpeg)
+![](/images/articles/0aa024c5a6514304f01449544b15629f9af649416dff1bf6089fc30f7e2679d7.jpg)
 
 Гавайи пострадали от одного из самых экономически разрушительных локдаунов среди всех штатов США. Этот штат также был одним из первых, кто ввел обязательные маски как в помещении, так и на открытом воздухе, но количество случаев заболевания все равно увеличилось почти на 1000 процентов.
-![](https://thefederalist.com/wp-content/uploads/2020/10/Hawaii.jpeg)
+![](/images/articles/ac9c31952b01b767125508952c1c992024ae19bc6d80d262783267128bdf9140.jpg)
 С принудительным ношением масок или без него, количество случаев в Техасе и Джорджии изменялось практически одинаково.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Texas-vs-Georgia.jpeg)
+![](/images/articles/60b36445d96be2da4b6cb33f9f0dfb46b7089c76ce6985f6773bc560713aa44e.jpg)
 
 Сравнение количества смертей тоже не демонстрирует помощи от масок.
 
-![](https://thefederalist.com/wp-content/uploads/2020/10/Deaths-NY-TX-GA-Sweden.jpeg)
+![](/images/articles/c2d6d4339f001f7ec994727ae872bea9e073da191ff22e462ef077f697c04dfe.jpg)
 
 ## Почему маски не работают?
 

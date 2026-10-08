@@ -6,7 +6,7 @@ date: 2022-05-13T12:09:47+03:00
 tags: ["климат, экология и энергетика", "наука, экспертиза и данные", "культура, идеология, образование и свобода слова"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/fossil1.jpg?itok=bBcTrXE3)
+![](/images/articles/d24ea205e62e49377306da5c64c951ea3abd1e894598c9c4e018048f2de9f922.jpg)
 
 
 *"Мы живем в такое время, когда мало кто понимает, как производятся вещи. Не знать, откуда берутся вещи --- это нормально, но ненормально не знать, откуда берутся вещи, и при этом диктовать остальным, как должна управляться экономика."* --- *[Doomberg](https://doomberg.substack.com/p/where-stuff-comes-from?s=r)*
@@ -55,16 +55,16 @@ draft: false
 
 Для того чтобы доказать, что "революции с использованием возобновляемых источников энергии невозможны", давайте воспользуемся примером Германии. Вот ее [энергопотребление](https://ourworldindata.org/energy/country/germany?country=#what-sources-does-the-country-get-its-energy-from) за последние полвека:
 
-**![](https://lh4.googleusercontent.com/44f-DRqE4tV9q5WT5SwS0PsbmtsgDHC0Z8GsVS6U15XDPcf_wfH0ICryTnkhbd_LOay0FCxQM4d-vVwgIxP3iBM1Zbvy0dQINypDX80fTxEhBtV9bpnpR32kKTATGBolB9FL1cgIgt-jMKleTQ)**
+**![](/images/articles/cd03e51a95672a1a1c4740501e7e5c248e0c2445c5f9ffa4a5fcfc324807f08b.png)**
 
 Дайте мне знать, сможете ли вы заметить революционный [Energiewende](https://en.wikipedia.org/wiki/Energiewende) Германии в начале 2010-х годов. С помощью микроскопа я могу обнаружить немного ветра, вытесняющего ядерную энергетику, в то время как газ продолжает расти, а уголь продолжает свое пятидесятипятилетнее падение. В какую сказку нужно верить, чтобы думать, что фиолетовая и желтая доли --- почти невидимые на вершине --- могут каким-то образом вытеснить остальные, желательно до следующей зимы?
 
 Немецкий аналитический центр [Agora Energiewende](https://static.agora-energiewende.de/fileadmin/Projekte/2021/2021_07_EU_GEXIT/253_Regaining-Europes-Energy-Sovereignty_WEB.pdf) считает, что это вполне возможно. Его прогнозы предполагают не только строительство и установку большего количества ветряных электростанций, чем когда-либо прежде, но и увеличение темпов строительства примерно на одну треть каждый год в течение нескольких лет подряд. Назвать эти планы "оптимистичными" как-то не получается: 
 
-**![](https://lh5.googleusercontent.com/ZMJcDi1EGrK1zsqe3JF9M3sEYqLc9KVyNkCQWUayA3QJY7Fc7l4LTsCZcvGjmodFRFRTZbzWlFMidLcITFwl2KSKO7QJJcjgv3_uo-gd3WCi_B47CJB3BwwmcyVm89ttbfyJifdioEBwU4aztA)**
+**![](/images/articles/66dace402ed37cbcf2e5046ea12b384c0a1a23967307129ab2c706af5de3d5fc.png)**
 
 
-**![](https://lh3.googleusercontent.com/mDG2XbTSnB8fAFXqRy9-ZWwVp6G5il9egBFI4Dp6cbk3kKV1_ZOPl301qNIePEjoADk88uSzQbx41EKTQg6m2t_FUaHYDJvhdatfBntRXd0svnyfp-YaPms9-vbI9gRWwy_gjRyIW4ijsRaLJA)**
+**![](/images/articles/f7925d496adcd381b2bcf5b0fda44cfff9a81894512d606600c8a2b32143c2d2.png)**
 
 Международное энергетическое агентство (МЭА), укомплектованное такими же борцами с реальностью, создало этот замечательный график, на котором запланировано производство энергии в [будущем с нулевыми выбросами](https://twitter.com/EuphonicLogic/status/1519224495940288512) (NZE):
 

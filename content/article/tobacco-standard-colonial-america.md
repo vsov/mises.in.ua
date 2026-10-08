@@ -6,7 +6,7 @@ date: 2026-02-06T16:47:58+03:00
 tags: ["история свободы и экономическая история"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Jamestown.jpeg.webp?h=e7f6f1ca&itok=Gj_4SUVm)
+![](/images/articles/682cab2ac953b108c3fa4a4e8373061e56a196ee1f054612021fe31f0000984c.webp)
 
 Невозможно изучать историю колониальной Америки, особенно Вирджинии, не осознавая значение табака. В 1612 году Джон Рольф [первым](https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/virginia-records-timeline-1553-to-1743/1610-to-1619/) в Джеймстауне вырастил табак, пригодный для продажи, после того как достал качественные семена из Вест-Индии — несмотря на то, что испанцы карали смертной казнью за продажу табачных семян иностранцам. Табак помог ранней колониальной Вирджинии перейти от хозяйства, ориентированного на пропитание к хозяйству, ориентированному на обмен. Ротбард [отмечает](https://cdn.mises.org/Conceived%20in%20Liberty_Rothbard.pdf?_gl=1*ekw7f1*_gcl_au*OTkxOTM4NDMxLjE3NjczNDcyNzY.*_ga*MTk0MDYwMzM5OS4xNzY2Mzg4OTMw*_ga_MC3JLVEDHF*czE3Njk4NTA3OTMkbzYkZzEkdDE3Njk4NjQ0ODUkajU4JGwwJGgxMjIwOTM2ODkw#page=73): «человеческий труд в табаке приносил в шесть раз больше, чем в зерне». Поэтому большинство перешло к производству табака. Выпуск табака [взлетел](https://cdn.mises.org/Conceived%20in%20Liberty_Rothbard.pdf?_gl=1*ekw7f1*_gcl_au*OTkxOTM4NDMxLjE3NjczNDcyNzY.*_ga*MTk0MDYwMzM5OS4xNzY2Mzg4OTMw*_ga_MC3JLVEDHF*czE3Njk4NTA3OTMkbzYkZzEkdDE3Njk4NjQ0ODUkajU4JGwwJGgxMjIwOTM2ODkw#page=73):
 

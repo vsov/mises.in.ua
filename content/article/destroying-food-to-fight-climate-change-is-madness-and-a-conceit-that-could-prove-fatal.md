@@ -14,7 +14,7 @@ draft: false
 
 "Этот парень был моим другом", --- сказала Крити Канко, старший научный сотрудник Фонда защиты окружающей среды. "Это не было самоубийством. Это глубоко бесстрашный акт сострадания, чтобы привлечь внимание к [климатическому] кризису".
 
-**![](https://lh3.googleusercontent.com/MwEqQc2_632nXsKBG4igrLLv8PV10UW-MOZFMjOGP23L1zMqzoeKEMy0o_8WE6WuJeGZS431DUWa47_2ssxMQxFYhyf8YZxzqV-IbjC7cXtXBHMMS0BzI_KNN-r8_wBErW0QjEHTR_sY6cWMuQ)**
+**![](/images/articles/a5447a3ead398db7317a3299d984555ca2153ba0406be944eb95c2a3318a783c.png)**
 
 Самоубийство Брюса --- один из примеров растущего страха перед изменением климата, страха, который вредит людям различными способами, включая широкое распространение психического состояния так называемой ["климатической тревожности".](https://www.nbcnews.com/now/video/-climate-anxiety-becoming-the-next-mental-health-crisis-in-america-s-youth-138617413525)
 

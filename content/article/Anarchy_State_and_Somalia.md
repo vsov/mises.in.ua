@@ -6,7 +6,7 @@ date: 2023-01-14T15:01:32+03:00
 tags: ["государство, бюрократия и регуляторы", "частное право, безопасность и частное управление"]
 draft: false
 ---
-![](https://preview.redd.it/5vj0thffx2961.png?width=624&format=png&auto=webp&v=enabled&s=13ba4ee0be1cd56381b2c32326651754e02dbf29)
+![](/images/articles/b2c337f183716bd0a6ac5d7d141ffe7d7a11d3c26aa5bc3e66bd2f867b1d86a1.png)
 
 
 # Размышления о жизнеспособности анархии и последствиях приватизированного правосудия
@@ -76,7 +76,7 @@ draft: false
 - подчинение ведет к уступке большей части ставки, 10 из 12 : 2
 - взаимное подчинение означает мир и равное разделение ставки : 6, 6
 
-**![](https://lh4.googleusercontent.com/lMmV5BLfjTPAuUtL7rptN8Gr_pA5-XaNjTThVc6EvH409BWkbsMSiwcSGHqeYBEqxVbkx57AfA8uDE__EAbDhXmXxl9rHEouwKet1xHOhvBHm2W46eTUhs_RGwkaq5zHnYSaghwiF6aTXXRf6YJ1lHOxxoyeo7tgV7e8Y30w5nPpe4MHzw-2NLFN3Q-5XQ)**
+**![](/images/articles/9891c169f9f4109417115271e5fa5f225845ea9acd99087d3db7a52ebda9c9de.png)**
 
 В этой игре S,C и C,S являются равновесиями Нэша. Не достигается ни эффективность (S,S), ни справедливость. Будет ли достигнуто S,C или C,S, зависит от произвольных обстоятельств, например, от того, кто будет первым, у кого будет более убедительная угроза. Тем не менее, игра не заканчивается в (C,C), гоббсовском "естественном состоянии". Война обходится слишком дорого. Стороны предпочитают даже подчинение, а не войну. (Tyler Cowen and Sutter, 2005)
 
@@ -192,7 +192,7 @@ b. издержки двойного перехода архия-анархия-
 
 **Таблица 2.** _Сомали и соседи: % улучшение или ухудшение показателей развития в период с 1990 по 2005 год_
 
-**![](https://lh6.googleusercontent.com/Cxdb82f3osM5GxpqBCa1QfsFDcZl36P97P7aNEuGbm4msfWDT9Uo4cmIrrmdFzyld8TzN9ASK4GS16e3-05Pr4yuKevNimxG3ca-W_YDola9anJuvajGqHoRqoZwICIzQx4JupGIXJa2-gsx7Iady1MquUABUCo_SFU0lZ-ur-hVGO6EBIojcjOYzIs_aQ)**
+**![](/images/articles/41d347033134a1015203d9ceeb974d111f0dcd32fe24f6cc97d2b1ed8ef52ec0.png)**
 
 
 Лисон прав, говоря, что такое сравнение опровергает гипотезу о том, что состояние дел в Сомали все равно улучшилось бы независимо от того, осталось бы оно под властью (своего) правительства или нет. За исключением грамотности среди взрослого населения, Сомали демонстрирует лучшие результаты, чем ее соседи-"этатисты". 

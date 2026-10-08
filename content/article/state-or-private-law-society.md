@@ -6,7 +6,7 @@ date: 2024-10-18T19:59:45+03:00
 tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/Hoppe.jpg.webp?itok=_1lYrEYH)
+![](/images/articles/f5431e8815261ac49207518b887ebedbeeca75bcc29f78cfcda1f93b9ef3806f.webp)
 
 ## Проблема социального порядка  
 

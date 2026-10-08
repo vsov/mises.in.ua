@@ -27,7 +27,7 @@ draft: false
 
 Гуру данных Нейт Сильвер, основатель и главный редактор влиятельного статистического сайта FiveThirtyEight, также заявил, что Швеция «расплачивается» за свой либеральный подход к коронавирусу.
 
-![View image on Twitter](https://pbs.twimg.com/media/EUYYxN5X0AM0b1n?format=png&name=small "View image on Twitter")
+![View image on Twitter](/images/articles/68bdf0463546f9e2460c82051a083afee5c36dc0f512aec2d107b5209328441a.png "View image on Twitter")
 *[Количество смертей](https://twitter.com/NateSilver538), желтая линия --- Швеция, красная --- Дания, синяя --- Норвегия*
 
 Шведский гамбит просто провоцирует на атаку. Люди могут говорить, что они ценят нонконформизм, но Вольтер, вероятно, был прав, когда заметил, что мир совсем этого не ценит.

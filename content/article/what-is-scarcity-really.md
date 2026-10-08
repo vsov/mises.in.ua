@@ -6,7 +6,7 @@ date: 2024-10-09T12:18:28+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://fee.org/wp-content/uploads/2024/03/iStock-1326466508-1024x683.jpg)
+![](/images/articles/eed1a316beae2648e0880f298a2a0eadf5556577083d5fe914cfefc909e7bdce.jpg)
 
 ## Люди часто говорят о редкости. Но говорим ли мы об одном и том же?
 

@@ -6,7 +6,7 @@ date: 2021-11-08T10:11:56+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/smoking1.jpg?itok=dooHwJJ3)
+![](/images/articles/4dd7fecea0e30c2a581816c87f29f0f349c14656ee87c9c0921f7b7ff039d031.jpg)
 
 "Все счастливые семьи похожи друг на друга", --- [пишет Лев Толстой](https://wychwoodschool.org/blogs/all-happy-families-are-alike/) в классическом романе "Анна Каренина", --- "но каждая несчастливая семья несчастлива по-своему".
 

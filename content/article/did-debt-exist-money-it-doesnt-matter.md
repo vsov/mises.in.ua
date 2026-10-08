@@ -6,7 +6,7 @@ date: 2023-09-01T13:15:53+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/5858030702_42cd3f4a51.jpg?itok=iRUR3giA)
+![](/images/articles/2c731371fa9d07e5349cc4510d91fead09b3b0787f436c3b68829e9e6726d39b.jpg)
 
 Существовал ли кредит до денег? Возможно. Имеет ли это значение? Нет.
 

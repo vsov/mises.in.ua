@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/child-vac-wire.jpg?itok=AIfEP649)
+![](/images/articles/8c83bd4ca12cb85659ac7ae1ed9de8e0bf128259a346d91588a09caa57ba14f0.jpg)
 
 Почему люди верят в теории заговора?
 

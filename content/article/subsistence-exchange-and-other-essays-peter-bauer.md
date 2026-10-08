@@ -6,7 +6,7 @@ date: 2024-03-13T14:41:23+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://pup-assets.imgix.net/onix/images/9780691117829.jpg?w=600&auto=format)
+![](/images/articles/80b46ded29f4c7b5ad52eaf6389f86651a4fbc0c2aa442b833fd58c9cef7b3ae.jpg)
 
 > From [Subsistence to Exchange and Other Essays](https://press.princeton.edu/books/paperback/9780691117829/from-subsistence-to-exchange-and-other-essays), by Peter Bauer Princeton University Press
 

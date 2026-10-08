@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/reset-750x516.jpg?itok=eQRlnEZQ)
+![](/images/articles/f1517942762b5786ad67cbba85331403d5cebb3a967cdf0e1d3e28adc81d8ba0.jpg)
 
 Локдауны во время пандемии коронавируса [ускорили](https://www.amazon.com/COVID-19-Great-Reset-Klaus-Schwab/dp/2940631123/ref=pd_sbs_14_6/146-5296680-0933810?_encoding=UTF8&pd_rd_i=2940631123&pd_rd_r=a6ec0fd7-0f1c-4ec9-911d-8af6396c60f1&pd_rd_w=6zOSZ&pd_rd_wg=VmKpC&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=8FJ4N4SKKBBBQFY9E5VX&psc=1&refRID=8FJ4N4SKKBBBQFY9E5VX) реализацию [давних планов](https://www.foreignaffairs.com/articles/1992-03-01/what-new-world-order) по установлению так называемого нового мирового порядка. Мировые политики под эгидой Всемирного экономического форума (ВЭФ)  выступают за ["Большую перезагрузку"](https://www.weforum.org/great-reset/) с целью создания глобальной технократии. Не случайно 18 октября 2019 года в Нью-Йорке [ВЭФ](https://www.weforum.org/press/2019/10/live-simulation-exercise-to-prepare-public-and-private-leaders-for-pandemic-response/) принял участие в ["Событии 201"](https://www.centerforhealthsecurity.org/event201/) --- учениях по пандемии "высокого уровня", организованных [Центром безопасности здравоохранения имени Джона Хопкинса](https://www.centerforhealthsecurity.org/).
 

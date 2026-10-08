@@ -6,7 +6,7 @@ date: 2025-11-15T16:07:07+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://fee.org/wp-content/uploads/2023/12/recycling_failed_environment-2048x1289.jpg)
+![](/images/articles/f61e308344fbdf663084cd8cff091c2dae6646bdf072f47bd202b8dd1cad514b.jpg)
 
 В марте 2019 года The New York Times опубликовала [шокирующий материал](https://www.nytimes.com/2019/03/16/business/local-recycling-costs.html), объяснявший, почему многие крупные города США отказываются от своих программ переработки.  
 

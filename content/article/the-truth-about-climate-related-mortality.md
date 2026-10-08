@@ -7,7 +7,7 @@ tags: ["климат, экология и энергетика"]
 draft: false
 ---
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53be2292-b2f5-4758-b44d-76435f0a1e7f_3400x2400.png)
+![](/images/articles/2f1b7fc9111e98017600350a30dd638e968fd2b836c6a86cba7a2fbaa6715625.png)
 
 В своем недавнем обращении "О положении дел в стране" президент Джо Байден отказался от термина ["изменение климата".](http://washingtonexaminer.com/tag/climate-change/) Видимо, это словосочетание выглядит недостаточно пугающе. Вместо этого, [как отмечает](https://www.nytimes.com/2024/03/08/climate/biden-state-of-the-union-climate.html) New York Times, Байден использовал другую аллитеративную фразу: климатический кризис.
 

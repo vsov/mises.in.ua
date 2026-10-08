@@ -6,7 +6,7 @@ date: 2025-08-20T15:09:16+03:00
 tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
-![](https://fee.org/wp-content/uploads/2024/07/tom-parsons-pVmjvK44Dao-unsplash-e1721831696862-2048x1536.jpg)
+![](/images/articles/ad8737986edcb295296e11fa4a6d08161fbee687ee628195eaafac88ac8c31fe.jpg)
 
 Согласно Адаму Смиту, ответ однозначно — «нет».  
 

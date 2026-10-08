@@ -6,7 +6,7 @@ date: 2024-08-16T11:36:08+03:00
 tags: ["социализм, марксизм и антикапитализм", "государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/QJAE_20141027_0.jpg.webp?itok=CVRefXvS)
+![](/images/articles/63b2e6c2cc1b861214a76b0626dfd79f0f139076b1d6a0cc8c100dd34fe99263.webp)
 
 
 ## I

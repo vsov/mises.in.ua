@@ -7,7 +7,7 @@ tags: ["история свободы и экономическая истори
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/millennial-wire.jpg?itok=0gIWdJJ9)
+![](/images/articles/26c430f24ca0c6daa30e12d71f5995ec8922d68a29bc1d67fa976b104bf8c839.jpg)
 
 _New York Times_ удалось найти молодых людей, у которых серебряные ложки вызывают кислый привкус во рту. Тот факт, что им повезло в этой жизни, похоже, вызывает у них тошноту.
 

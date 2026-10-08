@@ -6,7 +6,7 @@ date: 2026-06-19T03:00:45+03:00
 tags: ["коррупция", "государство"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-03/AdobeStock_Corruption.jpeg.webp?h=7c6c336a&itok=_WNVBNy_)
+![](/images/articles/482ea7e2adb151b3fc79d302b9505e610072fcda0298bc78686be313c44bc72c.webp)
 
 Люди на высоких должностях и их друзья в последнее время становятся объектом гнева и раздражения из-за своего поведения. [Публикация](https://mises.org/mises-wire/everyone-agrees-our-elites-are-terrible-so-why-are-we-stuck-them) файлов Эпштейна лишь усилила это. Интернет пылает гневом против «элит». Является ли это возможностью, как [утверждают](https://mises.org/power-market/epstein-files-opportunity-libertarians) некоторые, продвигать идеи индивидуальной свободы? Убедить людей во зле принудительных действий государства? При таких идиотах наверху кажется, что недоверие к системе может  усилиться.  
 

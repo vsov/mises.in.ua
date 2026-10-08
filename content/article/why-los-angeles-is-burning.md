@@ -7,7 +7,7 @@ tags: ["климат, экология и энергетика"]
 draft: false
 ---
 
-![](https://fee.org/wp-content/uploads/2025/01/image-e1736875556976-1024x682.jpeg)
+![](/images/articles/2f8509574ad9c63e4d34a7f02a7991cd7bca9ad4c181c243b937812ac888e030.jpg)
 
 После многих лет пожаров в сельских районах Северной Калифорнии — эвакуаций, гибели людей, разрушений, распада сообществ, зрелище горящего Лос-Анджелеса выглядит вполне законмерным. Мы знали, что это случится, хотя этого можно было избежать.  
 
@@ -22,7 +22,7 @@ draft: false
 В 2014 году жители Калифорнии подавляющим большинством голосов одобрили Предложение 1, выделившую $7,5 млрд на строительство новых водохранилищ и дамб с датой завершения 1 января 2022 года. Сейчас 2025 год, и ни одно водохранилище так и не построено. Предложенные проекты увязли в бюрократическом болоте калифорнийской политики.
 
 Нет никаких причин для нехватки воды в Калифорнии. Климат в регионе цикличен: годы с низким уровнем осадков сменяются годами с экстремальными дождями. Одиннадцать месяцев назад, в начале 2024 года, мы наслаждались многометровым снежным покровом в горах Сьерры и самым большим количеством дождей за последние 25 лет. Водохранилища были переполнены.  Нельзя забывать и о том, что каждый день полноводные реки Северной Калифорнии сбрасывают тысячи тонн воды в Тихий океан. Однако, чиновники предпочитают укорять граждан за то, что те поливают свои газоны.
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd61_koq8mQ2G7MgGsaEPSFh3GaNVigBDQEGHVV_ZKRPnuk6Nc7e8dj5SslyS_4AM62lvEarYrmBLGk4IR-PcWc-YgWbB7jp64DnQDO2O5qTnjqnB678taaR4IchOZYQG__ipnJaA?key=mpgW_tznVbSXLjX6LwzlvK6T)
+**![](/images/articles/2c1e7571e003132f861284b223861e27e8a5813de62ec3f0fccb630d84009d57.png)
 
 ## Штат тратит миллионы на демонтаж существующей водной инфраструктуры.
 
@@ -35,7 +35,7 @@ draft: false
 Этот регион уже пострадал от нескольких разрушительных пожаров за последние годы, включая пожары Redwood Complex и Sonoma Complex в 2017 году, а также Mendocino Complex Fire в 2018 году. Лишение этих сообществ воды станет жестоким ударом для людей, всё ещё восстанавливающихся после этих катастроф, оставляя их беззащитными перед следующими пожарами.
 
 ## Ограничения воды для населения ради трёхдюймовой рыбы опустошили водохранилища.
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOORVg_WHT79svcC3AV685120gZqXWiRernHW9LfFNJByS5gQrhN_FlxuU93ljjJAGJTqSfe4klGnAsn48FjjApS--ljXx1SSx2b3ILFYPGYOQkHhXgvnrEfskxn7HlHgE91GDrg?key=b-B2A_P9hwfCenfC_06D0_uo)**
+**![](/images/articles/1dde21f36db3ef35d406008d5e20c852f4491dfd3d678689ad8a2b15e08dd138.png)**
 
 Калифорния является ведущим сельскохозяйственным штатом страны. Но на протяжении многих лет политики сокращали водные квоты и отключали насосы, снабжавшие фермеров, чтобы спасти маленькую рыбку, напоминающую малька, известную как дельта-смелт.  
 
@@ -43,7 +43,7 @@ draft: false
 
 Это вызвало гнев среди активистов-демократов. Их праведное возмущение породило множество текстов на эту тему.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLGyjMUTBrGcmNRrWev_8Pj1XHcBHLa3nsyHTTSVRONcUxP8xvmvdSreit4mejRWta6BohrS4wYPZtLJnhHp3QlTbv5YZ0fFjaqgmHLjJp-9_CfM_8BFdORxlA1mtU9J-UidOXDA?key=fsnYzkvTjfZtZA5xzz19-wLc)**
+**![](/images/articles/159292d40d78f010013e470723b607bf9263a52b9d028726be9aadb82fa2d378.png)**
 
 Несмотря на все потраченные усилия и многочисленные гневные статьи, попытки восстановления популяции не принесли успеха. За пределами инкубаторов дельта-смелт практически исчезли.  
 
@@ -57,19 +57,19 @@ draft: false
 
 «Крупный рогатый скот — это наиболее важный инструмент для предотвращения пожаров в штате», — сказала она мне, — «но большинство людей об этом даже не подозревает».
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfG0q0kxyw5g-IP3-G0y5kTFal2TNTU9-xIEyphehnpHZedSI3LNAkAWjIwq0McyVHhtFUkLEbeq_GCWCIxZ6Re9BkZhL1sVyxG3bxLcSJHaoXF1vo4aedvfDUEBsszV2Ytl2ePCQ?key=Sae4zkvmf17CxcSn_NjhV4H7)**
+**![](/images/articles/80c87cd3181a973fd386f55621955c169e7c9bc310a454df4d66ca6f8c0bd933.png)**
 
 *Линн Хантсингер, профессор экологии пастбищ и управления ими в Калифорнийском университете в Беркли, называет выпас крупного рогатого скота самым ценным и важным инструментом предотвращения пожаров в Калифорнии | Фото: фильм _Common Ground_ (2018), Калифорнийский траст пастбищ.*  
 
 Контролируемые выжигания и управление лесными ресурсами также утратили популярность. На протяжении веков коренные племена практиковали контролируемое выжигание для управления  риском пожаров, который является неотъемлемой частью экосистемы Калифорнии.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRuwIvW0JfP-vAzAJiF-ZLwgs1Icx6KY9v-sq1XaHGw_r-mjTsq62yYR1mL9ykC4CUAeg1Kit50pLHh0TsKJwhVDdlKfW5Sg6quAIlRJl10RzYZ1lI-KxuhMeZEgjYcmhTr26How?key=ixOrSC1COjIxz370cQu0djWf)**
+**![](/images/articles/26b9d910ab451a2004e3c24cef0a7fc952427fc9f0f210cabce56e18638b5b7e.png)**
 
 *Марго Роббинс, президент Совета по управлению выжиганием | Фото: Александра Хутник для The Guardian*.
 
 На протяжении десятилетий левые активисты вели ожесточённую войну против управления лесными ресурсами. Террористы из Earth First! вбивали металлические шипы в стволы деревьев, чтобы убить или покалечить ничего не подозревающих лесорубов. Президент Джо Байден назначил [одного из таких экстремистов](https://www.americaunwon.com/p/bidens-blm-chief-was-investigated) руководителем Бюро управления земельными ресурсами (BLM). 7 миллионов акров были объявлены «защищённой средой обитания» для пятнистой совы, что превратило лесозаготовительные сообщества на Севере в города-призраки и привело к потере десятков тысяч рабочих мест.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRTRYSoRRVvwMd9vtWQuF8U22Yu2ox7TyBxC-lWKX0nlIOFdQP_wdnpPCAfB7Z-kqygxNbYeloKS6Yhk4hkQtvyGXvmS07u6_vMkiAjpMtuEYU6iZ-Fa6dgXQeMY7GUkcIfAwvbA?key=v9Bq6dT2QOTiu4F_dvfspiXr)**
+**![](/images/articles/5c088b3d320dbfee1c43f59a53075375d021c8dc18adfcedbb83fe5498af01a6.png)**
 
 *Назначенная Байденом глава Бюро управления земельными ресурсами (BLM), Трейси Стоун-Мэннинг, была членом экстремистской группы Earth First! и замешана в террористическом инциденте с вбиванием шипов в деревья в 1980-х годах. | Фото: Бюро управления земельными ресурсами.*
 
@@ -77,15 +77,15 @@ draft: false
 
 В ответ на это Гэвин Ньюсом урезал бюджет на управление лесами. А в октябре прошлого года, при президенте Джо Байдене, Лесная служба полностью прекратила практику контролируемых выжиганий в Калифорнии.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXewDgxewSvtq2SJ3u2uCgdbdRlMnSdFxyI6qfopf0KsqTcvSixWBFVEfy3rKG3FM_VQJdEs5C50mowskis_zZu9MVZDQan2BtAy7eqhXM4tJpW7mb9Q1vE2REiyuaNuo9q6YizSDg?key=AyBdjjwQ0P1er_UYqFKyFNdm)**
+**![](/images/articles/aebc471b4952fec9615e7da079a048e1be773e7ed69bcafc3f854cb5eec29c1d.png)**
 
 ## Калифорния изменила свой подход к лесным пожарам, перейдя от профессионального управления лесами к милитаризированному подавлению пожаров.
 
 В ходе постепенного отказа от ответственного и исторически сложившегося управления землями, Калифорния также изменила направление деятельности своих противопожарных служб — от управления лесами к милитаризированной борьбе с пожарами. Теперь у нас есть нечто новое: CAL FIRE.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8rjSkPOzgulA20eUvheNdQuUnn8t21IGf0jivo05CWziKhWYqwgXXH771roh07E5t3UsTd_Swm_tzzKKD9wWl6Ys80IfNYiMhPNfrz1muRRNe-lWRzu5QhkNx7tcO4nigpDYC?key=CO9fmrQf2Vz-P-wHf4TSaUDt)**
+**![](/images/articles/ec53e85d51b9fb4d4109f34f356c6c587b4d81234a66c76b36576157a985af10.png)**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM13JY9XElq0aV60OG79SpkaFpGLTFHliWu2Sbv_zx3iKKDP73VG0IcIiy7UmgJsZ4nisfgalR5OrbzJNS81cNNm0-G7T1NWL_WyqlKXS3Z1dcPij3TYJAs-yFYgO8M0EJ15iAOA?key=8XKis5w9i9WwRn_8QomZ7pY1)**
+**![](/images/articles/b30a60c707bb640888b00e2f045398bc5c1c8d9f3d5ab8ce0bc7d409006ae557.png)**
 
 *CDF до того, как стало CAL FIRE | Источник изображения: CAL FIRE Local 2881*
 
@@ -93,13 +93,13 @@ draft: false
 
 Вместо прореживания деревьев, контролируемых выжиганий, управления лесами и расчистки кустарников у нас появился “Смоки Беар” с его концепцией профилактики и подавления. Пожарные службы поверили в иллюзию, что они могут полностью исключить огонь из этой экосистемы. Вместо того чтобы использовать огонь как инструмент, они попытались его запретить. Это способствовало  ненормальному избыточному росту растений, которые захватили территорию, превратив её в миллиарды тонн сухого топлива. И когда огонь всё-таки возникал, он разрушал всё на своём пути.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzPtllfucxRwL9bF_dx6CbjcJyyLXBiK1xOT5bJLi4Jnek9NHf7q33IjYFXQoLfNkzIebCQmcBxWiZLJnYkYwMeVyM6iUiUHtbPsBFzcR-T20PAh3IqJWoYm3nOVuJFfYKc8eXwA?key=7n9u7LhdRKROoLPR4k0FdN08)**
+**![](/images/articles/0742214b0d6d440c19aea21e1dca870202fc1e8a7f352fe28a1da459fb1a9071.png)**
 
 В статье для _The Atlantic_ от июля 2022 года под заголовком «Деревья переоценены» автор Джулия Розен указывает, что милитаризированный подход современных методов борьбы с пожарами противоречит вековым знаниям об управлении землей:
 
 > «Многие коренные народы, вероятно, замечая преимущества диких пожаров для охотничьих и сборных угодий, намеренно сжигали ландшафт, способствуя поддержанию и, возможно, расширению лугов и саванн. Но в Европе мощные цивилизации укоренились на лесистой местности. И столетия спустя, когда эти культуры начали исследовать и колонизировать остальной мир, они выбрали деревья вместо травы».
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_dpwnN8lDDtahsHtzjOMZJ63QYO683zSAz94z6MR6H9Y42UziwtdJsKNiWmJEk-QbfedE6X2zcw291X9e1O6wE9R657lVaSDpbdIZdjxb8Tp8SUS29F0lBBG6fVOiOTvVfw1W-A?key=dFgHIg8T1lpPO9VlE-ZSKO_v)**
+**![](/images/articles/e27ba8a4bb88f982d160ae7076572f8894779e0935dcbfd314142c1bb2af562f.png)**
 
 *Сравнение дна долины Йосемити в 1872 году и в 2020 году. Обратите внимание на увеличение площади лесного покрова. | Источник изображения: Калифорнийский университет*
 
@@ -111,7 +111,7 @@ draft: false
 
 Один факт, который, похоже, ускользает из освещения пожаров в Лос-Анджелесе: нас предупредили.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJDqxf2fBmru-CHWxtpN2iKE9XlDXyyi-kWJgfN6Ft0RVAevmzyXOD943ARDaq9rc0z4jo-oDY2kDJnRseFJ3Z_THH4MRTJu41yUw_fIRYksZ9Xd3DJyEC5pHvBYmIFo4HoK1gEw?key=1vdPbUKvhf951RP107II0dqI)**
+**![](/images/articles/abdf6bfa6c45b834f6b1f44f17cee56efdeb408ea7eba967841def8d4f791ca6.png)**
 
 Этот твит был опубликован в понедельник, за день до того, как начались ветра.
 
@@ -135,13 +135,13 @@ draft: false
 
 С 2019 по 2024 год Калифорния потратила 24 миллиарда долларов на “борьбу с бездомностью”. За эти пять лет количество бездомных увеличилось на 30 000 человек и достигло 181 000. Несмотря на то, что на каждого бездомного было потрачено в среднем 160 000 долларов, у штата нет ощутимых результатов. В [отчете за 2024 год](https://www.latimes.com/california/story/2024-04-09/state-audit-california-fails-to-track-homeless-spending-billions-dollars) говорится, что власти утратили контроль над миллиардами долларов налогоплательщиков, не обеспечив должного мониторинга этих расходов.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5s1SKf1OagmTiKWLA5GTOU9WukTu5zl0Nmd6RC2wSI4681HwXV2_tAw9w4u2RJDLNvdQXl7SvFaKtZYTPV-HkxD3Re-8f44FYUocso_VQqFwqk6NNHzyZUs8yZ4AJgVoyW-nVtA?key=3oDPg3y24vyiOdoolJs9FF-h)**
+**![](/images/articles/5de32d2178354b999aadd7fe029a9f922af2a0be0a907f694503e895a7d45da2.png)**
 
 ## Политики в области ESG/климата и найма по принципам DEI  ставятся выше эффективности и компетентности.  
 
 В 2021 году пожарное управление Лос-Анджелеса выпустило [план по обеспечению расового равенства](https://ens.lacity.org/lafd/lafdreportarchv/lafdlafdreport1864148217_02252021.pdf) с целью “покончить с системным, институциональным и структурным расизмом” в ведомстве. Этот план включает диаграмму, отображающую расовый состав сотрудников.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdSBaLsL03NUuqtKl6uM_NRGYEPCH0gmDb5GI0WpTJYleS4Q5q2NQ8IXwnPy3J47uaJkHye-bYMUU494mQPgY-6VVtl17Fq4MNwSOlJWm4ymasEDps00SGIpnf6hMk4VDBsCwxWzA?key=VGYKQCOYJsM6udVRpm2uiZNW)**
+**![](/images/articles/5f404fb507fb0924d670b510cbd8dda2371b47451bb841e397dc7e0cb1a8d2af.png)**
 
 *Диаграмма из Плана действий по расовому равенству пожарного управления Лос-Анджелеса за 2021 год.*
 
@@ -159,7 +159,7 @@ draft: false
 
 PG&E обладает монополией на поставку природного газа и электроэнергии на большей части северной части штата. Компания [несёт ответственность](https://www.wsj.com/articles/pg-e-sparked-at-least-1-500-california-fires-now-the-utility-faces-collapse-11547410768) за более чем 1 500 пожаров в период с 2014 по 2017 годы, включая пожар Camp Fire 2018 года, который унес 85 жизней и уничтожил почти 18 900 домов и зданий.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdeYa4Nhj1UePR6MKQk0Z7wVmtqBlPC619eoIo_aSCWkW_mZKpSHSf4kH6Iu8dbp5Depvn8b1qXXKBk_YD27MFjfw-kFzEPDMdx5LPDwL3Rf3I81j5IdeZT2l4oNW6yeV0VeimNtA?key=UW2rGRs_IMGM5fzx2PW_VVaY)**
+**![](/images/articles/d47aa56fc20392cdb7c81b1629914d537e01217a6574410c4b925e6f47302529.png)**
 
 Пожар Camp Fire 2018 года был вызван неисправной линией электропередачи, принадлежащей PG&E.  
 
@@ -169,7 +169,7 @@ PG&E внесла миллионы долларов в виде пожертво
 
 Даже после получения статуса банкрота и осуждённого преступника, PG&E продолжала делать такие пожертвования, тратя миллионы долларов на избирательные кампании законодателей, организовывая дорогие ужины для сотрудников за несколько дней до планового отключения электроэнергии и выплачивая $11 млн в виде бонусов руководителям. При этом пострадавшие от пожаров [так и не получили компенсации.](https://www.wsj.com/articles/pg-e-wildfire-victims-still-unpaid-as-new-california-fires-weigh-on-companys-stock-11628674201)
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPWUY6HpVGd7Hh50UybQDGcCjCvdzRUFr1pXOqY-BXCfuzdxSAHln6YTKzvOSlztNV5-Yutceg52wO9s3wNz_Kf7bnyMz9ZFB62EbXKX_Ux6LvXlbRTDeqN9NzeOxRmwc48Nmv?key=nVbASvabbdfU4v-mPKeJn15d)**
+**![](/images/articles/b1a237bb80f84fd0d8ddab98ab207c4616d934ebcaf800942f0db4b291afe1b5.png)**
 
 *The Wall Street Journal** сообщает, что пострадавшие от пожаров в Калифорнии до сих пор не получили выплат, несмотря на то, что PG&E признала свою вину по 84 пунктам обвинения в непредумышленном убийстве в результате пожара в Парадайсе и объявила о банкротстве.*  
 
@@ -181,7 +181,7 @@ PG&E внесла миллионы долларов в виде пожертво
 
 ## Прах к праху
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKeMX_GtvyI1X-IUoainXaPXJRV2cj0noOOOWXKRgQVx44YzL7ndiE4MCBTW8aPPJFsS54ZSrF_5wR7jruKyjSY-zRkuGyUNhrhebriU9wEntlFORJhd0otPd40TeaNamOusjPoQ?key=-eQzXBSq919aFOUnKtvjD1GI)**
+**![](/images/articles/03483d7b090795d94ca010e5b7dca0e6a91cc6dc31864fd197aeda8786b2e575.png)**
 
 *Фермер Дэйв Дэйли рассказал о том, как потерял всё в пожаре Bear Fire, в своей статье _«Я плачу по горам»_. | Источник: Дэйв Дэйли*  
 

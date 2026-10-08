@@ -6,7 +6,7 @@ date: 2024-06-24T19:39:31+03:00
 tags: ["история свободы и экономическая история", "климат, экология и энергетика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/windmills-w.jpg.webp?itok=IbNLQxIv)
+![](/images/articles/363fdbd0a4427f9a156866856a8a4099263105eb53ebd350edcb548f09373ac2.webp)
 
 На протяжении всей моей жизни государство создавало разного рода химеры, чтобы направлять мировую политику к централизованной технократии. Одна из этих химер первоначально называлась "глобальным потеплением" и состояла из [апокалиптических прогнозов](https://cei.org/blog/wrong-again-50-years-of-failed-eco-pocalyptic-predictions/), которые должны были реализоваться к определенному сроку. Через некоторое время после того, как эти [прогнозы не оправдались](https://www.aei.org/carpe-diem/18-spectacularly-wrong-predictions-were-made-around-the-time-of-the-first-earth-day-in-1970-expect-more-this-year/%27), химеру переименовали в "изменение климата", а прогнозы технократического класса стали более туманными и расплывчатыми.
 

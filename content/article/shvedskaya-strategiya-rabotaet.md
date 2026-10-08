@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://lh3.googleusercontent.com/Q7MRKnWcSgmUZDfFcTA6m8hhNMztPQlFQjKAP_r_ni1f477sZ9GWUwH4Y-7gkytuRF9t-awHj2aWszrt2uCyZUDbkxz5YkO5HozGb3TTFnqubT0pPODQq63zYL6gLvyBxB3MdI2p)
+![](/images/articles/afc0d6942e6c9f32826f85786056f3e53fd38ebca300aae7d47066053574c0d7.png)
 
 Официальные лица Швеции объявили, что правительство планирует сохранить свои мягкие ограничения на собрания "как минимум еще на год", чтобы смягчить распространение COVID-19.
 
@@ -37,24 +37,24 @@ draft: false
 
 {{< x user="jeffreyatucker" id="1313926783197118468" >}}
 
-![](https://lh3.googleusercontent.com/1MCnL3QIzUYq3SeXRnbsU8RPAWcKnvOsEJQGf-WBYKqRovMPkXGZfMZF3C1tkss3-9Q6OKq5g_JrAmED2M1r7tvsQzcTOGa39dZdv7Wi3uzZLNsoDPuWxn28OPk7FnlE4pDvbLQd)
+![](/images/articles/94178e29e63af27998ba71f79dfcc4032a416f70ce599686fb38aed0a975e1b4.png)
 
 
 Правда, были опасения по поводу небольшого роста числа заболевших, который начался в середине сентября, но этот рост намного ниже, чем в других европейских странах, что привело к меньшему количеству смертей, связанных с COVID-19.
 
 Йинон Вайс, основатель [RallyPoint](https://www.rallypoint.com/) и выпускник Гарвардской школы бизнеса, показал, что текущий уровень ежедневной смертности в Швеции экспоненциально ниже --- 25x, 10x, 7x --- чем у многих европейских коллег, которые ввели строгие ограничения, таких как Испания, Великобритания и Франция.
 
-![](https://lh6.googleusercontent.com/FwJUQUFaiI0yZkkvNKWodSAk_VUYK6ZkXOUJ6Di3kWoBDdokpZJPrQqhHn0gREuFpkHeVJfXyUDmXPv-y2AO_EJzcBhfNffFwh0uzHIMzKLxd_6QMvhHOHkQ8nd7aIZZDsHu8lN0)
+![](/images/articles/1aca93cd669956607583fc15e8c1e47a251571f566042a251d335e5d23c0af4c.png)
 
 Во время пандемии многие утверждали, что Швецию нельзя сравнивать с этими более крупными странами, поскольку у них более высокая плотность населения. [Связь между COVID-19 и плотностью городов в лучшем случае слабая](https://www.jhsph.edu/news/news-releases/2020/urban-density-not-linked-to-higher-coronavirus-infection-rates-and-is-linked-to-lower-covid-19-death-rates.html), но даже если учесть данные о плотности населения, они показывают, что столица Швеции Стокгольм показала себя лучше, чем заблокированные американские города, такие как Бостон, Филадельфия и Чикаго. (и, конечно, Нью-Йорк.)
 
-![](https://lh4.googleusercontent.com/mOnL9ChOjyA7kd5xgtGRlv1xmZXoaJJZ1YgDGYamOZWuonvwxVcrv9H9dAIED0963pH1AutpK_Y_fsBhYBaxLcR482IXh4v6pCRLFBfUjnzyLnog8sa6VbGwn-opGPeufK-2fvP4)
+![](/images/articles/dae8da2d7aac59b9156213761e9fb84cb7241df65a17a436fcc64c2ee498ab4a.png)
 
 
 Даже в скандинавских странах с низким уровнем смертности, по сравнению с которым Швеция часто выглядела неблагоприятно, сейчас наблюдается резкий рост случаев заболевания (хотя, к счастью, смертность во всех скандинавских странах остается низкой).
 
 
-![](https://lh3.googleusercontent.com/ph5Lg85oRicXXTtvRBB7lNerXhVJIBJdvw3fpOodoZhYqiSdRAYqAhNkWeD9eIn_c0i1AKQcrhOr9o3Paowr8O0MWqzAl8mjE90230ZwupbxDGOq41Yag8EDQ2SnJjVoFub9fkcw)
+![](/images/articles/e393a314b98dbc1fd1e4e5175cd6e9156b24665c56787cb187fe7dbdfd565563.png)
 
 Критики политики Швеции укажут на то, что уровень смертности от COVID-19 в Швеции по-прежнему выше, чем у ее северных соседей --- [результат неспособности надлежащим образом защитить свои дома престарелых](https://www.euronews.com/2020/05/21/are-care-homes-the-dark-side-of-sweden-s-coronavirus-strategy), --- но цель никогда не заключалась в том, чтобы достичь самого низкого уровня смертности от коронавируса в Европе. Цель состояла в том, чтобы ограничить распространение вируса и предотвратить перегрузку больничных систем.
 
@@ -62,7 +62,7 @@ draft: false
 
 Последние три месяца были особенно впечатляющими, отмечает Вайс.
 
-![](https://lh6.googleusercontent.com/PdsLHj5i3mvMkz-_BKYZ42OxuIAoHBi8zktLR4I0FCQACU_84MlVhcJ_yRBulAKJWcLPO5bVZ2vI8PZnohw-ddtCyFdnepYJvmLjilJpo3sx4NPYdJY-ilGYHWH-4pExC15BQ1_m)
+![](/images/articles/eb2ce1efc0de67c47698e69633800650fe44ac9cd4ebdd04a19ad56bb4638a0f.png)
 
 
 Каждую неделю мы видим, что мировой эксперимент по изоляции провалился, причем ужасно провалился, уничтожив миллионы предприятий, десятки миллионов рабочих мест и вызвав широкомасштабное ухудшение психического и физического здоровья. (это причина, по которой европейские лидеры, такие как Борис Джонсон, [сейчас консультируются](https://www.independent.co.uk/news/uk/politics/coronavirus-boris-johnson-sweden-lockdown-rules-10pm-curfew-sunak-b572360.html) с ведущим шведским экспертом по инфекционным заболеваниям Андерсом Тегнеллом.)

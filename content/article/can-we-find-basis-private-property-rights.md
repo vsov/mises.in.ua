@@ -7,7 +7,7 @@ tags: ["частная собственность и права"]
 draft: false
 ---
 
-![](https://images.routledge.com/common/jackets/amazon/978036775/9780367752668.jpg)
+![](/images/articles/a7623a113216fab91beab256bb04eec196fa9e571db1adca85e49fdeaa13b491.jpg)
 
 > **"[Собственность и справедливость: либеральная теория естественных прав](https://www.routledge.com/Property-and-Justice-A-Liberal-Theory-of-Natural-Rights/Christmas/p/book/9780367752668)"**, *Билли Кристмас, Routledge, 2021; xii + 184 стр.*
 

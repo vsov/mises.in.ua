@@ -6,7 +6,7 @@ date: 2025-11-01T01:49:33+03:00
 tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://thedailyeconomy.org/wp-content/uploads/2025/07/Shutterstock_211476070.jpg)
+![](/images/articles/5d64ec05867c1ae58a95d555377d2add556d38e54971bb542eb722993527236a.jpg)
 
 Несколько столетий назад Европа была бьющимся сердцем глобальных инноваций. От просвещенческого культивации разума до преобразующей силы промышленной революции — она была центром смелых мыслителей, изобретателей и предпринимателей, расширявших границы возможного.  
 
@@ -22,7 +22,7 @@ draft: false
 
 Возьмём [Акт ЕС об искусственном интеллекте 2024 года](https://artificialintelligenceact.eu/the-act/). Хотя его хвалят за благие этические цели, законодательство [вводит](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) жёсткую систему классификации рисков и высокие издержки на соблюдение требований, с которыми справляются лишь крупные корпорации. Стартапы, лишённые юридических отделов и капитала, оказываются за бортом. В результате в Европе меньше AI-стартапов, падает инновационная активность, а талант утекает в США и Китай. Треть специалистов по искусственному интеллекту в американских университетах [приехала из Европы](https://archivemacropolo.org/interactive/digital-projects/the-global-ai-talent-tracker/). И когда речь идёт о лидерах в разработке AI-моделей, разрыв ещё шире. В 2022 году [54 процента](https://www.robert-schuman.eu/en/european-issues/728-artificial-intelligence-europe-needs-to-start-dreaming-again#ancre_3) создателей крупнейших AI-моделей были американцами, тогда как Германия — главный игрок в Европе — имела [лишь три процента](https://www.robert-schuman.eu/en/european-issues/728-artificial-intelligence-europe-needs-to-start-dreaming-again#ancre_3). 
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZDEgECuQttuTa3mD24jcWsvsGcVqiJOr2KUW8G-brvLUn1HkgFvotYC2ubGhy2eRWPJdGz8KIZAwEsRriOTXHmLum8_6stPmpetDNDScCfsD724j9ooWapd_GHG2DG6u5EFhuhg?key=2vHc2WCPT0tur9UT2nNcxw)**
+**![](/images/articles/81ade2cde6ef2586eec0ffe30ac6c845d5a5ea6bf26522fecf7be88fdba95a8f.png)**
 
 Это касается не только AI. В биотехнологиях процесс одобрения генетически модифицированных организмов в Европе — один из самых [медленных](https://pmc.ncbi.nlm.nih.gov/articles/PMC2854598/) и [ограничивающих](https://www.foodnavigator.com/Article/2019/05/02/Extremely-strict-GMO-policy-detrimental-to-agricultural-biotech-argues-philosopher/) в мире. Экспериментальные энергетические технологии [вязнут в бюрократии](https://www.renewableenergymagazine.com/panorama/europea-s-energy-transition-faces-potential-delays-20250520). Стартапы в сферах с высоким риском и высоким потенциалом прибыли регулярно лишаются капитала не только из-за осторожности инвесторов, но и потому, что чрезмерно [зарегулированная финансовая система](https://www.eib.org/en/publications/online/all/the-scale-up-gap) изначально настроена избегать любой неопределённости. [Жёсткое трудовое законодательство](https://www.oecd.org/en/publications/2020/07/oecd-employment-outlook-2020_19b4fc0d.html) создает дополнительное трение — наём негибок, увольнения дороги, адаптация затруднена.  
 

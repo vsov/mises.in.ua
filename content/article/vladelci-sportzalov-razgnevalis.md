@@ -6,7 +6,7 @@ date: 2020-09-23T00:00:00+03:00
 tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://1.bp.blogspot.com/-qjnqhHiWvVQ/UcNDYgF1L1I/AAAAAAAABGU/rhH2eppFemY/s1600/fitness+gym+escalator+ilike4.me.jpg)
+![](/images/articles/7a23774427c13fdf5af30236a55daba1c00e5bee2cc4e80552699d3b8d8df13f.jpg)
 
 
 В течение нескольких месяцев большинство спортивных залов в Сан-Франциско было закрыто по распоряжению городских властей в качестве меры общественной безопасности во время пандемии COVID-19.
@@ -34,9 +34,9 @@ draft: false
 Однако лицемерие на этом не закончилось.
 
 Посещение секретного салона спикером Палаты представителей Нэнси Пелоси, заявление мэра Нью-Йорка Билла де Блазио  "Мне нужны физические упражнения", заявление мэра Чикаго Лори Лайтфут "Я --- лицо этого города" и многие другие случаи, говорят о том, что государственные чиновники делают исключения для себя во время локдауна.
-![](https://lh3.googleusercontent.com/19_DeTNO2WLO_hkW2ZdCmlnU711xcqZa0srITRCKYTWkTdiSMWYS-1tpntWfeZD8ivN3DlgrU8TMaLClEm7kQ7y78PkNsNl4klXYBPGQOHOss-u_QbfC8aPIe5zUubOrJPzrT792)
+![](/images/articles/f3ca199a32ddbaa7e96f2c7c93ec8d599f30a3f0c0b05a1fbbe65b1786a4b3c0.png)
 
-![](https://lh5.googleusercontent.com/6S26rNc5bFClJzASTha7TnLpEJWfCxvWlpOVqdoSTwp1DWiTXHt8Ym-dfHT5z_zb8tMSIYEt2xl7DmqgNRGUa0osMOjgt16-WqGJF1l31UttUuSrUi_xqzRK8xelOLFYKL5H86f2)
+![](/images/articles/199d4bc898587151783a7efe91bd2d2535072574ef385e89010470076130c06d.png)
 
 Между тем, частные предприятия, которые попытаются открыто предложить те же самые товары и услуги, столкнутся с серьезными последствиями --- штрафами, окончательным закрытием или даже тюремным заключением.
 

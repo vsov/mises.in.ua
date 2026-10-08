@@ -6,7 +6,7 @@ date: 2022-08-03T12:09:04+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://pbs.twimg.com/media/FW8cJerWAAMGNtq?format=jpg&name=small)
+![](/images/articles/3d5a68a87e783bcd3aef7e6c56e0c5fee4b37833dbc9fbcbf75fa6df34fef77f.jpg)
 
 
 UN Chronicle, официальный журнал Организации Объединенных Наций, недавно удалил статью 2008 года под названием "Преимущества мирового голода".
@@ -19,7 +19,7 @@ UN Chronicle удалил статью после того, как она выз
 
 "Эта статья появилась в "Хронике ООН" 14 лет назад как попытка сатиры и никогда не должна была восприниматься буквально. Нам стало известно о ее несостоятельности даже в качестве пародии, и мы удалили ее с нашего сайта".
 
-**![](https://lh5.googleusercontent.com/7lAkZmsb-25Y7eN7Y17PCr1Ms_yk0XT5Vt0GflKPc-cR5mwH8v9cVbWRRhQePFloAcr10fvJtBoQlXW4nm68cbsfPr48C1qHV429iBWhOJB4XcT5yxLHAYhLcQu6ySeFcddvYyMFUQWKc8s1vQT7QP0)**
+**![](/images/articles/3c47be3381e7c63b78ba3be8a6f7c1e959d23507a152b909dbee4a5a4d3ae7cb.png)**
 
 ## Сатира или буквальный смысл?
 
@@ -35,7 +35,7 @@ UN Chronicle удалил статью после того, как она выз
 
 В интервью Кент пояснил, что он не выступал в защиту глобального голода, но намеревался быть "провокативным", говоря, что определенные лица и учреждения получают выгоду от глобального голода. 
 
-**![](https://lh4.googleusercontent.com/UZDy1rwoD6kfPxMBBcNu-uNd_10W1PXnNAQ9NSMURIsx2q3RjF2y8R2Y78c5T_Mdwuf26VhP3PYZb-RlngvbKuu3CNn2FkomCbwoe2VjdxEzcDgjnjU_NuhEeW9GrbcKDRBBRTtSu1TYjVg6x-zf79I)**
+**![](/images/articles/9883cf65a1ba5468193d91065e80d7ae2ea9279fc2d4d1818f5fe2f98b2f03ff.png)**
 
 "Нет, это не сатира", --- сказал Кент Марку Морано, основателю и редактору Climate Depot. "Я не вижу в этом ничего смешного. И это не защита голода". 
 
@@ -76,14 +76,14 @@ UN Chronicle удалил статью после того, как она выз
 Как Китай добился этого экономического чуда? Как я уже отмечал в 2019 году, после смерти председателя партии [Мао Цзэдуна](https://www.britannica.com/biography/Mao-Zedong) (1893-1976) он перешел к приватизации.
 
 В 1979 году в Китае была принята ["система ответственности домохозяйств",](https://en.wikipedia.org/wiki/Household_responsibility_system) впервые предоставив многим фермерам право собственности на свой урожай. После этого лидеры Коммунистической партии открыли Китай для иностранных инвестиций, ограничили протекционизм и контроль над ценами, а также провели массовую приватизацию экономики. 
-**![](https://lh5.googleusercontent.com/G2HfKLfucXLFmzQR_oZb2d8KdK7xGtgffvE0N8COaO0RRmfiIEdrpXtsAesVEHub9zBt4UQyNT5tMGNSfUOeFy5jTqJq6hvv4dtz4v-UrUO1jpeD2TYkDpcvA-qHkWX30gfvlqWhxSAOucWjxcETA6Q)**
-**![](https://lh3.googleusercontent.com/1svwX-Bnz_hbAtCANMn-X1LFiYtHeYJU8uL1ZOJwzglILV_Z22gbC6vQPbWosBmnL9UPbDyeamvOsBsVP0npqUF5x32kneU8T29bKPIxdyQsNT_8740SjnsE5pYmARltXYL_OyZGVnwOUKQEmsTpF_A)**
+**![](/images/articles/ca0ce65d977d019f41bf2fae3a73ad198df2a4393deab217eace8eec0ca60d3c.png)**
+**![](/images/articles/658d6a26a116f14213d832f98cd775aa5b77b71ecc23aad53b45116f2f42f7d8.png)**
 Рыночные решения", о которых пренебрежительно отзывается Кент, сотворили чудеса в борьбе с голодом. Этого нельзя сказать об инициативах, вынашиваемых центральными планировщиками в Организации Объединенных Наций --- организации, опубликовавшей спорную статью Кента о голоде. 
 
 Нынешний продовольственный кризис в Шри-Ланке напрямую связан с попыткой перевести сельскохозяйственный сектор страны на органическое земледелие, в ходе которой  был [запрещен](https://www.reuters.com/markets/commodities/fertiliser-ban-decimates-sri-lankan-crops-government-popularity-ebbs-2022-03-03/) импорт удобрений, и страна практически в одночасье вместо экспортера риса стала его [импортером.](https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/agriculture/021022-sri-lanka-resurfaces-as-major-rice-buyer-as-fertilizer-import-ban-leads-to-output-decline) 
 
 Многие авторы винят в кризисе Шри-Ланки глобальный подъем ESG (Environmental, Social, and Governance), который был начат в 2004 году под эгидой --- [вы угадали](https://fee.org/articles/will-esg-reform-capitalism-or-destroy-it/) --- Организации Объединенных Наций для поощрения "устойчивого развития". 
-**![](https://lh3.googleusercontent.com/bqPLOdIpkztdqKmtWpfnojnO-pPosK3fAcrAQB9HKMcsNX1K_tG071_idTXFmrrkV8zZC3MI2zYXemKkj-Ml8GF4feG6mVq3iv8WFmYS5OzE6fuUtMMMYl4a2zISxqjPQGK1etRGMg6PaXzMaz4tj8o)**
+**![](/images/articles/3086559b4c02164a1486115df354808df8e9c6e749118224c4261ddabbd2c8a7.png)**
 
 И люди правы, обвиняя ESG. В 2016 году экономист Джозеф Стиглиц, выступая на Всемирном экономическом форуме, [сказал:](https://www.weforum.org/agenda/2016/02/what-next-for-sri-lanka/#:~:text=Given%20its%20education%20levels,%20Sri,policies%20for%20the%20entire%20island.) "Шри-Ланка может напрямую перейти к... высокопродуктивному органическому сельскому хозяйству...".
 
@@ -92,7 +92,7 @@ UN Chronicle удалил статью после того, как она выз
 Это трагедия. И хотя Джордж Кент явно не прав --- не существует никаких выгод от голода в мире, --- начинаешь понимать, почему его статья 15-летней давности, опубликованная Организацией Объединенных Наций, вдруг вызвала такой большой интерес.
 
 В конце концов, речь идет не только о Шри-Ланке. [Нидерланды,](https://www.dailysignal.com/2022/07/15/sri-lanka-collapses-and-dutch-farmers-revolt-blame-green-policies/) [Канада](https://thepostmillennial.com/trudeau-seeking-to-implement-policy-similar-to-that-protested-by-dutch-farmers) и другие страны предлагают продовольственные схемы, которые, вероятно, повысят их рейтинг ESG, но создадут серьезные проблемы в то время, когда [глобальный голод растет](https://www.who.int/news/item/06-07-2022-un-report--global-hunger-numbers-rose-to-as-many-as-828-million-in-2021#:~:text=As%20many%20as%20828%20million%20people%20were%20affected%20by%20hunger,9.8%25%20of%20the%20world%20population.) впервые за последние десятилетия.
-**![](https://lh5.googleusercontent.com/blbMVzv43EYKrjMrp0DqksoQma-u2zG3kBglUJ2YnTzWKujRNO_k6ZCnmwXuZEuMng6AFsjtsz7N5GxYwWjj-whznpqa8tjaKE_0oFAhj9FuBMq6S0ySeO_9JABp-54gNaJdgHse33aamsJq09SXYgU)**
+**![](/images/articles/c69deb4717a0dc7f5efde495e605afcee772657e8a9bae58e3b31c162465762f.png)**
 
 В свете текущей глобальной политики, [антипопуляционной риторики](https://twitter.com/PeterPashute/status/1549513868103356417) и послужного списка коллективистских продовольственных схем двадцатого века --- [Голодомора,](https://fee.org/articles/holodomor-memorial-day-in-ukraine-and-around-the-globe/) [Камбоджи](https://www.nytimes.com/1979/08/08/archives/225-million-cambodians-are-said-to-face-starvation-plight-held.html) и ["Большого скачка"](https://www.asianstudies.org/publications/eaa/archives/chinas-great-leap-forward/#:~:text=From%201960%E2%80%931962,%20an%20estimated,this%20disaster%20was%20largely%20preventable.) Мао, в ходе которых десятки миллионов людей умерли от голода из-за политики правительства --- статья Джорджа Кента "Преимущества мирового голода" выглядит довольно настораживающе.
 

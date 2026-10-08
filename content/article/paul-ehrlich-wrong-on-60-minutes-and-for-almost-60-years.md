@@ -22,7 +22,7 @@ draft: false
 
 В Твиттере Эрлих недоволен тем, что люди игнорируют его достижения и обращают внимание только на его потрясающие ошибки.
 
-**![](https://lh6.googleusercontent.com/qnwAmgdp-_40rTUP_AjBs0TveF0Nfw59xnSlxGAfad4B1CCeGI86IiQGaBnk2EESYnarz8avors4669Enk9_mkra4fS_YTmepQqwVnxxcezK4B424ypXuayhMIa7buPotFukKZ8l5E-p6Fy99QN8LEYsczsCs1yAEMBpZWBlDq7n3ySCCjRuLXn5_uix4Q)**
+**![](/images/articles/da566240f3c68424d015e4ffbfa11274e52314c23f8eb365c9ae905ef5002d55.png)**
 
 
 Последняя строка в его твите о том, что он не сделал ни одной базовой ошибки, также неверна. Мы знаем, что это так, потому что Эрлих всегда совершает ошибки одного типа. Он всегда слишком преувеличивает экологические кризисы и никогда их не недооценивает.
@@ -85,7 +85,7 @@ draft: false
 
 Пока Эрлих не поймет, что человеческая изобретательность --- это принципиально иная тема для изучения, чем та, которой он занимается, его базовая ошибка будет постоянно создавать ситуации, вроде той, в которой он [проиграл Джулиану Саймону $576,07.](https://fee.org/articles/how-julian-simon-won-1-000-bet-with-population-bomb-author-paul-ehrlich/)
 
-**![](https://lh6.googleusercontent.com/Z0FIoFe5possT_Yz9zPuarC-lTinYhaM4N2HDSd08v5Sn61Z92rtx0h_yKkutV5pTBSa6D6HefjJsamo3JFKgIC95Nbijk9EQkWB8cIm83vO3hn1q4iKLLJO3Us1n53h2Biy9uF-xhtI8j5PdppYk-hl6R0PyT8LYEbQTZvimf1M2jolPa1SfcTR_f21Eg)**
+**![](/images/articles/53105be04f0e783b596559a2092cda36c8258a6d2a87f094e71d1104cd0c81cc.png)**
 
 ## У предсказаний катастроф есть последствия
 

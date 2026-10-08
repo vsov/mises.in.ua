@@ -7,7 +7,7 @@ tags: ["культура, идеология, образование и своб
 draft: false
 ---
 
-![](https://o.quizlet.com/HKXciU3U47e.vBntrCIe.A.png)
+![](/images/articles/fd7f1944b2ccbcb51bd273c5614ba3a2ea8c75ba31f72eb59854e4ce31498a66.png)
 
 _Non sequitur_ --- это элементарная, но очень распространенная логическая ошибка, котороя возникает, когда предполагаемый вывод не обязательно следует из предыдущей аргументации. В [переводе с латыни](https://www.google.com/search?q=non%20sequitur%20google%20translate&rlz=1C1YTUH_enUS978US978&sxsrf=APq-WBs4ZHrjIOzi3cPz66V6c8kF47cXfA:1646174629785&ei=paEeYu2xL7_RkPIP5q6soAg&oq=non%20sequitur%20google%20&gs_lcp=Cgdnd3Mtd2l6EAMYADIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6CAgAEIAEELEDOgsIABCABBCxAxCDAToFCAAQgAQ6BQgAEJECSgQIQRgASgQIRhgAUL4HWP0OYPoVaAFwAXgAgAGEAYgByAaSAQMzLjWYAQCgAQHIAQrAAQE&sclient=gws-wiz) фраза _non sequitur_ буквально означает "из этого не следует". Проще говоря, _non sequitur_ --- это необоснованное умозаключение. Предполагается, что между аргументами и выводами есть какая-то связь, хотя на самом деле ее нет.
 

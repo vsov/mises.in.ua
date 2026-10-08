@@ -6,7 +6,7 @@ date: 2021-12-22T13:42:00+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/rain-wire.jpg?itok=HNnsSiJb)
+![](/images/articles/f6e47e3adef3a9e4248b2ad333aaa872aaab2b44780224196dfd611672b10a07.jpg)
 
 Прощальная речь президента [Дуайта Д. Эйзенхауэра перед нацией в январе 1961 года,](https://avalon.law.yale.edu/20th_century/eisenhower001.asp) известна, в основном, потому, что в ней впервые было использовано понятие "военно-промышленный комплекс". Эйзенхауэр писал:
 

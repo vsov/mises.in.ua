@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![](https://lh4.googleusercontent.com/8zMeBG836ML_R2dN1UBLCrl8BDn6kHNKxI3iefM8-G7-thWhHSH_2oNyWVVvfFZDXRq0W88pZ619wiDPMVvJXgLY4-oV6UuhK6t-t0xf4oySaPrf2PdOCYSeY-Gw6kPm5q0ViAl1)
+![](/images/articles/5dbf895a0c257e17948ea7637d51c6467bf022e619b14b87ab1d0f66beb14276.png)
 
 Коронавирус [снова набирает силу.](https://edition.cnn.com/2020/11/11/health/us-coronavirus-wednesday/index.html) Во многих странах мира наблюдается тревожный рост заболеваемости и смертности и цифры во многих случаях выше максимумов, достигнутых в марте, апреле и мае.
 
@@ -18,7 +18,7 @@ draft: false
 
 Например, в Бельгии второй по величине уровень смертности от COVID-19 в мире, несмотря на то, что в ней введены одни из самых строгих ограничений в мире ([строгость](https://ourworldindata.org/grapher/covid-stringency-index?time=2020-07-18) 81,5). В Италии и Испании были введены еще более жесткие ограничения, и обе страны также относятся к числу наиболее пострадавших от вируса. (Текущий уровень смертности в Италии ниже, чем в Бельгии и Испании, но страна столкнулась с возрождением вируса, что выглядит пугающе).
 
-![](https://lh3.googleusercontent.com/1eEJSPFe7mQp367jxyl0ANET6YEOj854boeYVKgs8h8mT0puGB7QiwVA6qcBZHn6WlRg-ccc_18VphC5d9ij9rx7TuCIFXGzmlCMDJe9NIOcpJ7bSxFotHT2Pe9MWmmcekpkXtLO)
+![](/images/articles/4f5fa890650b2c4833a7c9115c37b9d1aae863254f6705764ecfa9ed1c347227.png)
 
 Мы можем [измерить строгость блокировки](https://ourworldindata.org/grapher/covid-stringency-index?time=2020-11-12) благодаря функции, созданной исследовательской группой "Наш мир в данных" из Оксфордского университета, которая предоставляет информацию в разнообразных диаграммах и графиках.
 
@@ -44,7 +44,7 @@ draft: false
 
 С июня Финляндия и Норвегия проводили менее жесткую политику чем Швеция, и обе страны на удивление хорошо перенесли коронавирус. С начала июня они были в числе самых свободных наций в мире, а количество смертей от COVID-19 было минимальным.
 
-![](https://lh5.googleusercontent.com/3mj3hkgFCtJhMs6bgTuVNbVAGXSg5nxt_P9PEGP6_9ICxhXJKmoHi6FNtKbUYWICRh3_7Sr-5ZZWrFv0GAjq_HFHX8UYs4Z_lhypWRRq_tQU2ZCskqmElAPSFLH5tzZuWLR1LZwa)
+![](/images/articles/e7dd438ce912ae839de7a8603aa1e6b7747516f9a9d6c0836c2cb635c15be4ef.png)
 
 Ни в одной из этих стран нет принудительного ношения масок, хотя в августе обе страны [выполнили](https://www.loc.gov/law/foreign-news/article/finland-government-issues-recommendation-on-wearing-face-masks-in-public/#:~:text=Top%20Recent%20Articles-,Finland:%20Government%20Issues%20Recommendation%20on%20Wearing%20Face%20Masks%20in%20Public,Institute%20for%20Health%20and%20Welfare.) пожелания рекомендовать [маски](https://www.forbes.com/sites/davidnikel/2020/08/14/norway-recommends-face-masks-in-oslo-for-first-time-since-coronavirus-pandemic-began/?sh=6f10b397c8bc). В Норвегии собрания в общественных местах по-прежнему разрешены, хотя их вместимость недавно [сократилась](https://www.forbes.com/sites/davidnikel/2020/10/27/norway-pm-tightens-coronavirus-rules-to-save-christmas/?sh=5561ffbcc161) до 50 человек (с 200).
 
@@ -58,7 +58,7 @@ draft: false
 
 Как я уже [указывал ранее](https://fee.org/articles/why-sweden-succeeded-in-flattening-the-curve-and-new-york-failed/), люди не критикуют результаты политики Швеции. Они атакуют характер ее политики. Есть много стран, которые пострадали намного сильнее, чем Швеция. Но примеры этих страны игнорируются, потому что они угрожают нарративу о том, что правительственные блокировки работают и что без них [миллионы людей погибли бы.](https://www.npr.org/2020/06/09/872711012/coronavirus-lockdowns-saved-millions-of-lives-journal-nature-reports)
 
-![](https://lh5.googleusercontent.com/xt5tCqlY1_rYD0cYUxH1jw1lBgMf9HIaxhFmEbF5NJ70ecdlhkokgCNx5kn54HxHIhupAqx2phjg5lBe8ElsW_7KUTvsujMk8yC6WZ0boquJ1mWJuJ0El7LlBrrgN42t9AazAcJT)
+![](/images/articles/df79fc5071df105c230f116a8824ae22cffbabceb1c240086b75b3f87d696c87.png)
 
 Норвегия и Финляндия показывают, что коронавирусу безразлична политика правительства. Количество случаев в этих странах оставалось низким при умеренно строгой изоляции и политике невмешательства.
 

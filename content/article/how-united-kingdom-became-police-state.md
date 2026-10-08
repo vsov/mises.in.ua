@@ -142,14 +142,14 @@ draft = false
 
 [^fn21]: The data from which I take the statistics below can be found [here](https://www.parliament.uk/business/publications/business-papers/commons/deposited-papers/?fd=2009-12-31&max=100&page=4&td=2010-03-31)
 
-[^fn22]: Raw data: <u>https://image.ibb.co/b7teaJ/crime1.png </u>
+[^fn22]: Raw data: <u><a href="/images/articles/fc35b0cee76d51da8abce18326c220164c99cb557919c681fd764b1309d66ab4.png">/images/articles/fc35b0cee76d51da8abce18326c220164c99cb557919c681fd764b1309d66ab4.png</a> </u>
 
-[^fn23]: Raw data: <u>https://image.ibb.co/kroqhy/crime2.png </u>
+[^fn23]: Raw data: <u><a href="/images/articles/d81b17eb54549cf2ce9ad62e6362b8ba8023a74dd5f03f30b0d24b2a31d9c697.png">/images/articles/d81b17eb54549cf2ce9ad62e6362b8ba8023a74dd5f03f30b0d24b2a31d9c697.png</a> </u>
 
-[^fn24]: Raw data: <u>https://image.ibb.co/heWzaJ/crime3.png </u>
+[^fn24]: Raw data: <u><a href="/images/articles/20f7ba518187a913c5ceba42f1e3b961104144084e251951d606e3f323832540.png">/images/articles/20f7ba518187a913c5ceba42f1e3b961104144084e251951d606e3f323832540.png</a> </u>
 
-[^fn25]: Raw data: <u>https://image.ibb.co/kP3CvJ/crime4.png </u>
+[^fn25]: Raw data: <u><a href="/images/articles/502dc1cec4e2953941cf396330051e0814dbfba20b91f8b2d111e5390dc4b002.png">/images/articles/502dc1cec4e2953941cf396330051e0814dbfba20b91f8b2d111e5390dc4b002.png</a> </u>
 
-[^fn26]: Raw data: <u>https://image.ibb.co/fXOCvJ/crime5.png </u>
+[^fn26]: Raw data: <u><a href="/images/articles/0d7bec7bc9df5cef7471868cc823adb423c6768b470f549e72f3e6734e25e1f5.png">/images/articles/0d7bec7bc9df5cef7471868cc823adb423c6768b470f549e72f3e6734e25e1f5.png</a> </u>
 
 [^fn27]: Crime data taken from Hitchens, _The Abolition of Liberty_

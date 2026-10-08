@@ -6,7 +6,7 @@ date: 2023-06-28T12:20:59+03:00
 tags: ["биткоин, криптовалюты и CBDC", "государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/dollars-desktop-wallpaper-digital-matrix-style-background-172051.jpg?itok=YjfTYWG8)
+![](/images/articles/8d30d6adeec1d744c453fd428f8c6efc61ba7fc52f417eb848eb5ef43194cb29.jpg)
 
 Правительства по всему миру пытаются заменить наличные деньги на CBDC. Люди во всем мире постепенно осознают эту тенденцию, однако нам всем нужно ещё больше осведомлённости по этому вопросу.
 

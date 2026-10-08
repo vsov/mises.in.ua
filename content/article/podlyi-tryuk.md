@@ -20,7 +20,7 @@ draft: false
 
 Норман указал на диаграмму (см. ниже), на которой показаны две линии, отслеживающие случаи на 100 000 человек в период с 12 июля по 3 августа. Красная линия начинается выше синей линии, но затем резко падает в направлении оси X и заканчивается ниже синей линии.
 
-![](https://lh4.googleusercontent.com/66qHNgWAJRKMi-KqrlV5S2rXz4dXm8UaUeaThZWh78D6PKLDm2KfoX77vs-1tX_ugD-cuP46tlYqd8Z0-rpuV9pSZhw_BvoGlBWG4BmfYUR8PSufqCU_8hnLmkqAzI1O5QAwsn46)
+![](/images/articles/1e5e8a63be088e836886c50e977405f5b43119f050967a86b0bc2d4e1ca033a1.png)
 
 Норман объясняет, что красной линией обозначены 15 округов с принудительным ношением масок, на которые приходится две трети населения штата. Плоской синей линией обозначены оставшиеся 90 округов, в которых не требуется носить маски.
 
@@ -34,7 +34,7 @@ draft: false
 
 Если тренды изобразить на одной оси, то синие и красные линии выглядят следующим образом.
 
-![](https://lh4.googleusercontent.com/fVym71hQszSUMNiE0ueESrpUxTRsn9iwt14yn56jsD1__fCHu7IFxLEMchqwe9gjZQMuyV5dbPzQcRwPB2eZlWyXHCsK_O-2_0ty6vTznPF2SrjCpyNruxK1gdTxZNO1p5a8cyMt)
+![](/images/articles/4560ad7ae35113cf24616e7fbd2adee84dd3fe22ae0400b6673f254a3e2e7568.png)
 
 Многим канзасцам такая уловка не понравилась.
 
@@ -44,9 +44,9 @@ draft: false
 
 Twitter был менее дипломатичным.
 
-![](https://lh3.googleusercontent.com/cXnbRIv-Rt82gr5h9D52abyU2NVAMrIWd2G9OKL6VYaGs8IkEVFJcvx6KVDhntwuSqTq_bIDE4unXhazSiyhr07rrsAUrjMelXCWcwys1DlsQYiAeEyX13K2kzb89SvkUmOK3wUB)
+![](/images/articles/d609cd8dcfd383e5cb4d1b39cf8c1441e6db4a0f76e534ad80587a379646f2f2.png)
 
-![](https://lh6.googleusercontent.com/LYe_XE0CWiujy78CHULGRBg185d2NIe-JFw0l8V0r9pHwQCDEbp-2lSHm2rgKN9NXYCy7zIvOKLpL0AMQqkIsAIv0Z8ZcgZhBtzLMf-gYkaEtgpHGk8XAtHpSjdWOg6k3-8ZN_5P)
+![](/images/articles/18f4771b64a1ab9c83abd5d1e68a09253819590a0f2ab80b91141634017190e7.png)
 
 Хуже того, Норман также не заметил, что линии были на разных осях, пока репортер не спросил, "опустится ли синяя линия ниже красной линии", если эти округа будут требовать носить маски, что побудило Нормана пробормотать о разных метриках, а затем признать, что округа без обязательного ношения масок имеют меньше случаев.
 

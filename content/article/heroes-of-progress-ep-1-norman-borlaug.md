@@ -6,7 +6,7 @@ date: 2022-06-10T10:23:08+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://www.humanprogress.org/wp-content/uploads/2018/09/green-borlaug.png)
+![](/images/articles/f6a156cc3cebb15983ac721b9d1aaafa5d1f56dfe34415377ecc6b483d3e4f77.png)
 
 Наш первый Герой прогресса --- Норман Борлауг, человек, которого принято называть "отцом зеленой революции".
 

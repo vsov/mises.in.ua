@@ -6,7 +6,7 @@ date: 2025-05-07T12:19:25+03:00
 tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Green%20Dream_0.jpeg.webp?itok=xf-pUrME)
+![](/images/articles/8604b7d9c8bbda9f6066164abc6ef10790d824cd7b8b133e52959a8d7d7d08d1.webp)
 
 В совершенно обычный понедельник в конце апреля обрушилась испанская электросеть. Мечты о "возобновляемой" энергии и «зелёном переходе» рухнули вместе с ней.  
 

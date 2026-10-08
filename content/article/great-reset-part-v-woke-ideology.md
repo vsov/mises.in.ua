@@ -6,7 +6,7 @@ date: 2021-11-19T13:17:00+03:00
 tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/coke-wire.jpg?itok=1O9sAwHx)
+![](/images/articles/a317d24289c876f41f8c3dc73ba48cf91813dee740011a8ce89f1e6d709b86c7.jpg)
 
 В предыдущих статьях я обсуждал Большую перезагрузку и представил несколько способов понимания ее экономики. Большую перезагрузку можно рассматривать как [неофеодализм,](https://mises.in.ua/article/what-great-reset-part-i-reduced-expectations-and-bio-techno-feudalism/) как ["корпоративный социализм",](https://mises.in.ua/article/great-reset-part-ii-corporate-socialis/) как ["капитализм с китайской спецификой",](https://mises.in.ua/article/great-reset-part-iii-capitalism-chinese-characteristics/) а также в терминах ["капитализм стейкхолдеров" против "неолиберализма"](https://mises.in.ua/article/great-reset-part-iv-stakeholder-capitalism-vs-neoliberalism/). В следующих частях я намерен рассмотреть технологические (трансгуманистические) и монетарные (централизованное банковское дело и цифровая валюта) аспекты, которые Клаус Шваб и другие "предвидят" и предписывают.
 

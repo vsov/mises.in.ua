@@ -6,7 +6,7 @@ date: 2021-05-05T08:00:00+03:00
 tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://ca-times.brightspotcdn.com/dims4/default/c58ab72/2147483647/strip/true/crop/2400x1600+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F22%2F3326cace4d71ae9110a662b7b48d%2Fla-photos-1staff-526650-me-0417-march-to-reopen-005.IK.jpg)
+![](/images/articles/784584acdf9514ffd589887ec92c5036cce47a75fd3b599b632ee633b692b3ac.jpg)
 
 Чувствуете, что вас превзошли числом, подавили, задушили и подвергли цензуре? Так чувствуют себя многие люди, которые [выступают против ограничений,](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/) связанных с Covid. И действительно, трудно не испытать таких ощущений, поскольку в наше время вы даже не сможете толком опубликовать сообщение в социальных сетях, не вызывая предупреждений, исправлений, а иногда и блокирования аккаунтов.
 
@@ -46,7 +46,7 @@ draft: false
 
 Рассмотрим, например, эту диаграмму CDC, включающую 3 штата, которые ввели строгие меры (Мичиган, Калифорния и Массачусетс) и по-прежнему применяют ограничения и принудительное ношение масок, и 3 штата, которые были открыты (Флорида, Техас и Южная Каролина). Посмотрите на кривую, отражающую количество тяжелых исходов болезни:
 
-**![](https://lh3.googleusercontent.com/MUE588vor8fdd9JAZ9t4HH_16EHt2s5cdR16aRFF6maxpyNukHVeRQpUs5cIwYPVzxKP-CPOZnBpIlH3FF_b42EmZVvgQtVLlBHUdaoz1gyprJqoPNITFs35UdMSQoJTmUFWoMSx)**
+**![](/images/articles/2be66f40675aab48e5ab6b45db78831b5bac7cd2c005f3ee99fa9cc1a4c904f1.png)**
 
 Ранние всплески в Массачусетсе и Мичигане очевидны, они в значительной степени связаны с количеством домов престарелых в каждом штате. В Мичигане [31% смертей](https://www.9and10news.com/2020/10/01/michigan-ranks-38-out-of-45-states-for-nursing-home-covid-19-deaths/) приходится на дома престарелых, и, хотя цифры в Массачусетсе постоянно [пересматриваются,](https://www.bostonglobe.com/2021/04/23/nation/is-massachusetts-undercounting-covid-deaths-nursing-homes/) они могут составлять от 40% до 61%.
 

@@ -16,7 +16,7 @@ draft: false
 
 В 2020-м году мир столкнулся с нехваткой микросхем, которая еще больше усугубилась в 2021 году. Эта нехватка в той или иной степени затронула примерно [169 отраслей](https://money.yahoo.com/these-industries-are-hit-hardest-by-the-global-chip-shortage-122854251.html). Достаточно небольшое количество фирм накапливали чипы в ожидании именно такого случая, но подавляющему большинству предприятий, для которых полупроводники являются ключевым фактором, пришлось сократить выпуск. Как и многие другие неприятности, неадекватные поставки полупроводников являются следствием нескольких причин, в первую очередь, политических просчетов.
 
-**![](https://lh5.googleusercontent.com/DZu8pgTWEYgJlUJYLQVE3PwfVs6Wxefo-OKwKXSB-1gL5yTTa-QrWxPPIKrMC4gfckXKxRcaAfaxKjG1HQkJBnI92ASa67BYqeQRiS9FEoW_-Jg9M4Oc-97jIT8xBF0ngusAD2Zx)**
+**![](/images/articles/d27f973294f891f8bd900d3b8066b24c3a6ac48bd77f8a862c135a4490c23e3c.png)**
 
 ## Начало неомеркантилизма
 
@@ -52,7 +52,7 @@ draft: false
 
 К середине весны 2020 года все последствия локдаунов, социального дистанцирования и тому подобного для многих предприятий стали совершенно очевидны. Когда автосалоны начали сообщать об отмене продаж и о целых днях без единой продажи, производители автомобилей начали отменять свои заказы. Как и ожидалось, изначально резко упали продажи новых автомобилей. Но в течение нескольких недель, благодаря введению сделок с нулевым процентным финансированием и [множеству других стимулов](https://cars.usnews.com/cars-trucks/coronavirus-car-deals-payment-deferrals-and-incentives), а также стимулирующему финансированию правительства, спрос на новые автомобили резко вырос. Предложение и производство были застигнуты врасплох.
 
-**![](https://lh6.googleusercontent.com/sdTG4Ik-DJwMO1P1j_1B36JV5pgNlBhio59wwGfXTHkrQz-1tzlaLUPPPYTOgbx4OQJH2QZsZhsQBAOXjEo-R54-4skDYbTTDgwfUipX-ETBvh2yZb9Y3UlU61pt8rvOKM7XbEXQ)**
+**![](/images/articles/53a65ea6de78cab6ffcec76d6b64c5c91c993541e8b8fb83d4361ed38f81cfb1.png)**
 
 Дилеры быстро опустошили запасы наиболее желаемых марок и моделей автомобилей. Однако во многих случаях, эти запасы не восполнялись, так как многие автомобили в средних стадиях производства не были укомплектованы из-за отсутствия чипов для управления аккумулятором, помощи при вождении, подключения и множества других функций, составляющих достижения автомобильной промышленности последних двадцати лет. Ярким свидетельством кризиса производства является наличие у Ford огромных запасов автомобилей, ожидающих полупроводников на автодроме Кентукки. Тысячи, а возможно, и десятки тысяч машин, скопившихся там в ожидании кремниевых чипов, [хорошо видны из космоса.](https://www.thedrive.com/news/40458/thousands-of-unfinished-ford-super-duty-trucks-are-parked-at-kentucky-speedway-due-to-chip-shortage)
 
@@ -66,7 +66,7 @@ Toyota, которая благодаря предвидению или удач
 
 А в марте 2021 года пожар в здании Renesas Electronics в Хитачинаке, Япония, [полностью уничтожил 17 машин для производства микросхем](https://www.wsj.com/articles/renesas-chip-plant-fire-spreads-concerns-about-global-auto-production-11616414181) и "чистую комнату". По оценкам, для полного восстановления ущерба потребуется до шести месяцев.
 
-**![](https://lh5.googleusercontent.com/zwRPevnpfRcRvbQEKzqnamQRdjG9mxeG9_VLZtXvzW9zcXgO7Sl48CMHO_zyqB-UnznCzL7F55XNXbhFF51kvjLIbBxePWgF12xPDtVQpJ97far1OCcvjMnBYRPV8v3qzh5oqxZN)**
+**![](/images/articles/12f4fd991e79d5b2cbfad85f86234f84f84d4f9d626909e7cffdcb8ea55dc8db.png)**
 
 Между тем [необычно спокойное лето и осень 2020 года](https://www.taipeitimes.com/News/editorials/archives/2020/10/20/2003745453) в Тихом океане и в Филппинском море, где обычно бывает три или четыре тайфуна ежегодно, привели к засухе на Тайване. По некоторым оценкам, это самая сильная засуха в стране с 1964 года. Само по себе это не вызовает особого беспокойства, до тех пор, пока мы не обратим внимание на то, что [Тайвань является ведущим в мире рынком литья полупроводников,](https://www.cnbc.com/2021/03/16/2-charts-show-how-much-the-world-depends-on-taiwan-for-semiconductors.html) а производство микросхем --- это особенно [водоёмкая процедура.](https://www.forbes.com/sites/emanuelabarbiroglio/2021/05/31/no-water-no-microchips-what-is-happening-in-taiwan/?sh=2083ad2d22af)
 
@@ -94,7 +94,7 @@ Toyota, которая благодаря предвидению или удач
 
 Один крупный розничный торговец сообщил о повышении цен на товары с полупроводниковыми компонентами на 15% в 2021 году, а [другой прокомментировал:](https://www.livemint.com/industry/manufacturing/chip-shortages-are-starting-to-hit-consumers-higher-prices-are-likely-11624288924776.html) "Некоторые компоненты теперь стоят на 40% дороже". Благодаря [шокирующим ценникам](https://www.reuters.com/world/china/fridges-microwaves-fall-prey-global-chip-shortage-2021-03-29/) покупатели теперь начинают осознавать, что даже [тостеры содержат кремниевые чипы.](https://www.irishtimes.com/business/manufacturing/global-chip-shortage-hits-cars-toasters-and-washing-machines-1.4547129)
 
-**![](https://lh3.googleusercontent.com/xjT0yEZmAtoMLMiMOCUPk6P6BMjSVnXV591QLEUlNt5W9FiFRllrSr28ZozKPeTHj_thOqmVaamdkmfMlEJVQSqmP_SLYOJUU5h6E-_r4Fr5Dk5aSceX9dfaq57SROFbOeZkZk72)**
+**![](/images/articles/2e8b055be55e15174abf909088928d71094cc9672864981baaac9f6b28c774f2.png)**
 
 
 На автомобильных рынках, материализовались совершенно необычные ценовые отклонения. В последнее время [было опровергнуто](https://edition.cnn.com/2021/07/02/business/money/used-car-prices-price-profit-feseries/index.html) распространенное мнение о том, что новый автомобиль сразу и безвозвратно теряет часть своей цены, когда его задние колеса покидают стоянку автодилера. Почему?
@@ -109,7 +109,7 @@ Toyota, которая благодаря предвидению или удач
 
 ## Неокончательные выводы
 
-Кремний стал очень важным элементом в человеческой жизни. Если от углерода, азота, кислорода и нескольких других элементов [зависит сама жизнь,](https://en.wikipedia.org/wiki/Organic_chemistry) то от кремния зависят человеческие инновации. Огромный рост производительности, обусловленный постепенным совершенствованием технологий, неумолимо привел к повышению уровня благосостояния. [В тщательно спроектированных конфигурациях](https://www.ibm.com/thought-leadership/innovation-explanations/mukesh-khare-on-smaller-transistors-analytics) кремний сделал достижимыми когда-то немыслимые границы в [вычислениях,](https://www.offgridweb.com/wp-content/uploads/2017/05/Computer-power-infographic-tech-phone-video-game-6.jpg) [анализе и управлении данными](https://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/) и [передаче информации.](https://www.nngroup.com/articles/law-of-bandwidth/) Действительно, очень легко упустить из виду невероятный союз физики, инженерии и экономики, который представляют собой полупроводники, и приписать их повсеместность простоте.
+Кремний стал очень важным элементом в человеческой жизни. Если от углерода, азота, кислорода и нескольких других элементов [зависит сама жизнь,](https://en.wikipedia.org/wiki/Organic_chemistry) то от кремния зависят человеческие инновации. Огромный рост производительности, обусловленный постепенным совершенствованием технологий, неумолимо привел к повышению уровня благосостояния. [В тщательно спроектированных конфигурациях](https://www.ibm.com/thought-leadership/innovation-explanations/mukesh-khare-on-smaller-transistors-analytics) кремний сделал достижимыми когда-то немыслимые границы в [вычислениях,](/images/articles/b25b8263c36c2ab42becd42e029fa2ff9424134c8af24cf41cadf0ad3e5c7403.jpg) [анализе и управлении данными](https://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/) и [передаче информации.](https://www.nngroup.com/articles/law-of-bandwidth/) Действительно, очень легко упустить из виду невероятный союз физики, инженерии и экономики, который представляют собой полупроводники, и приписать их повсеместность простоте.
 
 В начале 2020 года предсказание того, что распространение респираторного вируса приведет к нехватке ресурсов, составляющих саму основу всех современных технологий, звучало бы нелепо. Но  нефармацевтическое вмешательство государства, геополитические споры, перераспределение доходов, внезапные изменения в структуре работы и их побочные эффекты привели именно к этому.
 

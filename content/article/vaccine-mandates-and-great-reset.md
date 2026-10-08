@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://media.istockphoto.com/photos/conceptual-image-of-a-hand-with-strings-on-fingers-to-control-a-in-picture-id1220700914?k=20&m=1220700914&s=612x612&w=0&h=kXCJTKcBnmxa7F0TP1VkKdcfbx45Yi_esWTxyPLqo64=)
+![](/images/articles/931ad56ffc75bc39d8dfd63c0dd2896e2889ad53a1dd203cc788c3d65c1d0766.jpg)
 
 
 Давление на непривитых растет. Вакцинированным в некоторых странах частично возвращают свободы, отнятые у них во время локдаунов, но непривитые приходится гораздо хуже. Они подвергаются дискриминации. Путешествия и доступ к общественным местам для них становится все более затруднительным. В некоторых странах даже вводится [обязательная](https://www.bmj.com/content/373/bmj.n905) [вакцинация](https://www.bbc.com/news/world-europe-57814163) для представителей некоторых профессий.

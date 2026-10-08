@@ -7,7 +7,7 @@ tags: ["здравоохранение, фарма и медицинское р�
 draft: false
 ---
 
-[![](https://m.media-amazon.com/images/I/41Z2TuSs5qL.jpg)](https://www.amazon.com/Autopsy-Pandemic-Lies-Gamble-Covid-Zero/dp/B09HPCJ2MH/ref=sr_1_3?crid=1R1C3REVQ5EIA&dchild=1&keywords=julius%20ruechel&qid=1635082735&qsid=130-7210624-0086664&sprefix=Julius%20ru,aps,175&sr=8-3&sres=B09HPCJ2MH,1580176054,B00CB5WOPG,B07L9NGM3P,B07PBFNYXV,B07L9NV8GR,B00OCV3QRW,B0829BMRCS,B004VXLO9I,B08259N1WT,B072BCNRTY,B00451SGZ6,B07JHSH7QK,B08176YM5Z,B000F3N7AC,B071YHWRNS)
+[![](/images/articles/325afe94c10446ed73878a2b2593c926f8da61d8183b43d0135978c850fd643c.jpg)](https://www.amazon.com/Autopsy-Pandemic-Lies-Gamble-Covid-Zero/dp/B09HPCJ2MH/ref=sr_1_3?crid=1R1C3REVQ5EIA&dchild=1&keywords=julius%20ruechel&qid=1635082735&qsid=130-7210624-0086664&sprefix=Julius%20ru,aps,175&sr=8-3&sres=B09HPCJ2MH,1580176054,B00CB5WOPG,B07L9NGM3P,B07PBFNYXV,B07L9NV8GR,B00OCV3QRW,B0829BMRCS,B004VXLO9I,B08259N1WT,B072BCNRTY,B00451SGZ6,B07JHSH7QK,B08176YM5Z,B000F3N7AC,B071YHWRNS)
 
 
 Если опытный водопроводчик скажет вам, что вода течет вверх, вы сразу поймете, что он лжет и что эта ложь не случайна. Он лжет с определенной целью. Если вы сможете показать, что водопроводчик заранее знает, что продукт, который он продвигает с помощью этой лжи, является "фуфломицином", у вас будет доказательство преднамеренного мошенничества. И как только вы поймете, из чего на самом деле состоит "фуфломицин", вы начнете понимать цель всей этой аферы.
@@ -98,7 +98,7 @@ draft: false
 
 В среднем, после прививки эффективность вакцины против гриппа составляет всего около 40%. И она начинает угасать почти сразу после вакцинации. Примерно через 150 дней (5 месяцев) она достигает нуля.
 
-**![](https://lh3.googleusercontent.com/5zm4uP65DiURu28BFLtMvGDD2eZSvGnxcFAFiGPniOKm4972uuzQOp1ifwqeI3jfVqINEaDN1hsAzr099-LFcM6Q4UccRDuspH8TJqXSCzxjUiD52JvTh--SQJwA960NFqeDm0c7)**
+**![](/images/articles/af83f21eb6e66df461fc883694be487baa06772d9da69ecafe555f8d0cda3eb1.png)**
 
 Разгадка этого странного явления кроется в различных типах ответов иммунной системы, которые вызываются вакциной (или воздействием настоящего вируса в результате естественной инфекции). Это очень важно в случае вакцин против коронавируса, но об этом я расскажу чуть позже, а сначала --- немного справочной информации...
 
@@ -174,7 +174,7 @@ draft: false
 
 После окончания войны условия, имитирующие локдауны, исчезли, и потому конкурентное преимущество вновь перешло к менее опасным мутациям, которые могли свободно распространяться среди мобильных здоровых членов популяции. Смертоносность второй волны испанского гриппа 1918 года неразрывно связана с Первой мировой войной, а окончание войны --- с тем, что вирус превратился в обычный фон в обычном сезоне простуд и гриппа.
 
-**![](https://lh5.googleusercontent.com/XFUiL2xqV7KdYnieq_9LgUtaF8XMC-oRGAxPp6cdUlMHzOixvezwAgvwtzIwhHdZxPbHzSPC24kEuU7boYxLMdJq60Sqwh2VGsI6bNxsnHV6gJYSyrm58Y59BPpJOPcLWOPF9d_a)**
+**![](/images/articles/136fa6ef89bd15747efbeb43e0c2765158fe7e591d0f7f40babbc09ec64a7c31.png)**
 
 Поэтому весьма вероятно, что испанский грипп 1918 года никогда бы не стал чем-то большим, чем просто неудачным сезоном гриппа, если бы не усиливающий эффект условий локдауна, созданного воюющим миром.
 
@@ -186,7 +186,7 @@ draft: false
 
 Вакцина, обеспечивающая стерилизующий иммунитет, не позволяет вакцинированным заразиться или передать вирус. Они становятся тупиком для вируса. Однако, как я уже упоминал, нынешний набор вакцин COVID, предназначенных для того, чтобы обучить иммунную систему распознавать S-белки, не был разработан для создания стерилизующего иммунитета. Конструкция этих вакцин просто помогает снизить риск тяжелых последствий, стимулируя иммунную систему. Вакцинированные все равно могут заразиться и распространить вирус --- и эпидемиологические данные ясно показывают, что это происходит по всему миру. Таким образом, и вакцинированные, и невакцинированные в равной степени способны производить новые варианты вируса. Идея о том, что невакцинированные производят новые варианты, а вакцинированные --- нет, является наглой ложью.
 
-**![](https://lh3.googleusercontent.com/rVGL34zhbW68NFVTn8p3uTcwoLZjf8o9tJHiws9HakTTIFt4M0T7nU_tMtDTLoE_Negs7iYhTVh3jW1bH8GL8CFNXFoG-zCsuhJyGJZO5FYkdOVnwWrwwNeyHAPQdBfe7GTeqOju)**
+**![](/images/articles/d4a21cefb8bd28769fcb3082e9d8d3be7e8c532fdc8ac86ca199dec59c96b794.png)**
 
 Source: “[Israel hopes boosters can avert new lockdown as COVID vaccine efficacy fades.](https://www.ft.com/content/23cdbf8c-b5ef-4596-bb46-f510606ab556)” August 23rd, 2021, Financial Times,
 
@@ -220,7 +220,7 @@ Source: “[Israel hopes boosters can avert new lockdown as COVID vaccine effica
 
 И с каждой вакцинацией вы будете снова и снова играть в русскую рулетку с побочными эффектами: смерть, аутоиммунные заболевания, реактивация спящих вирусов, неврологические повреждения, свертывание крови и многое другое. На момент написания статьи (28 августа 2021 года) в американской системе VAERS зарегистрированы следующие побочные эффекты.
 
-![](https://lh4.googleusercontent.com/Qvlk-PlDDopWOC84kD_OVhI3TM3xQ9MSYy04pY_AAfOElc2kZwoHUvEn0lBoj8K4dTI_iQsWLYkgvrpMyysUdfVD_-7BqpY5RSexF4eig6fTSBkQcGecgwDTssdPp8WpxacoLur-)
+![](/images/articles/d72d0d7f8877015bd4f354fbe297dbb51aa2010a3cab792b33171c462d7fedfc.png)
 
 [OpenVaers Search](https://www.openvaers.com/covid-data), August 28th, 2021
 
@@ -236,7 +236,7 @@ Source: “[Israel hopes boosters can avert new lockdown as COVID vaccine effica
 
 Широкое разнообразие вирусов в сезон простуды и гриппа снижает вероятность того, что мы умрем или серьезно заболеем при заражении каким-то новым "вариантом" из Лондона, Индии или Бразилии, или при заражении новым "родственником", например, ковидом, который выполз из пещеры летучих мышей, или из лаборатории в Ухане.
 
-**![](https://lh5.googleusercontent.com/4es43NRPEABF1-_t9ARrmfsWi81vHfrVM1FM8iHUMf8A1y-Ap83d3joZh8JfFYzEG9YJq8hSKFVSXZCKTYij5ZyjsiFJM-hr33W4Um6j9Nfwg1fnzGuf_GstfdzwyB-pXoXX22aK)**
+**![](/images/articles/607d5b20125f9d2a72649a6cb2fe05e49d90a1be5dca8a118df1d30d269a14f9.png)**
 
 Partial cross-reactive immunity requires periodic re-exposure. [Modified from Nature, 4704, September 17th, 2020](https://www.nature.com/articles/s41467-020-18450-4).
 

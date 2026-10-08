@@ -6,7 +6,7 @@ date: 2021-07-28T11:00:00+03:00
 tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/46873128751_0147b47b79_b.jpg?itok=NoA2j_Zm)
+![](/images/articles/ddde9d09f60866f3d7161d2c3f385f131ef5cfc1ddf420114204146bcc2d6ad4.jpg)
 
 
 Проект Free State Project в Нью-Гемпшире проводит ежегодный фестиваль Porcfest (всего в семи милях по прямой от печально известного Бреттон Вудса). В рамках этого фестиваля действует Bitcoin Lounge в котором я провел замечательную неделю.  
@@ -25,7 +25,7 @@ draft: false
 
 Стоит отметить, что прошло достаточно времени, прежде, чем это сработало. Техническая документация Lightning Network появилась в 2015 году, и после первоначального стремительного роста сеть практически умирала в течение последних двух лет. Я полагаю, что медленное продвижение было вызвано тем, что для большинства пользователей не существовало пользовательских интерфейсов. Но теперь, видимо, они есть.
 
-**![](https://lh6.googleusercontent.com/PnCM2jjkfG6rbxilBOVW_nyutlp9DnvbdEDCE5rrmlvzVVbIh4JcQPlLn5yWH7gmCt_1bavSnxJ_cVTV0wCWKXYjSxAkH1GRVJ1Rd_p7Ckoi_NKbNHP9I1gYZcxmMJP5VWmU_90R)**
+**![](/images/articles/e1a98c2200a4450fdd4133865b3131479b3b1341c7a320ca7038924bf21da4f4.png)**
 
 ## Lightning Network и альткоины
 

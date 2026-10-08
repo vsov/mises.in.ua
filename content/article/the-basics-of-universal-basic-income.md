@@ -17,7 +17,7 @@ draft: false
 
 Это уровень мышления человека, которого лошадь лягнула в голову.
 
-![](https://ci3.googleusercontent.com/meips/ADKq_Nb47_veg9qihgvQ-2kVxGgjfhyEcjr8kTnZga9Iw7BT02dt-Q0cym60C6rYkZve5kLJ0d2FSeQumsw6v01TjBLfRZSOvQHRYTu3lypytaCWD3jVJwOEHSOoBsmvutfvF-H6chvCk45qWyQJqlydqsBvsCth4MPWoWNG1LUDwj-4zS7kIQNDxR-vPrPvn8QvBJut1McKiCFJbx5akN8e70lAaVKw_LyfaAjiddM_UkAuhtInnd3v6SgvtFJ6yYVc51-uJ3G2Hmb2nlq8ny2DuyjyA0kOeGO9zFJCiudH1lZTqDvPpMkOt3eE369PVhsWKRIidp4=s0-d-e1-ft#https://substackcdn.com/image/fetch/$s_!6-qa!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d2009c4-1913-4b8f-b75c-84aea03e43b2_1117x448.png)
+![](/images/articles/be573992804dcc9a1cd26d032442ad7f57c749580b3b8e27d15b01c3aa0a922c.jpg)
 
 
 *Всеобщий ВЫСОКИЙ ДОХОД через чеки, выписываемые федеральным правительством, — лучший способ справиться с безработицей, вызванной ИИ. ИИ и робототехника будут производить товары и услуги в объёме, значительно превышающем рост денежной массы, поэтому инфляции не будет.*/
@@ -29,7 +29,7 @@ draft: false
 
 Вы станете детьми, которые никогда не смогут съехать из родительского дома. Вы даже не будете знать как. Чего государство не сможет теперь от вас потребовать? Как вообще может существовать свобода в подобной системе подчинения? Вы правда хотите, чтобы ваш хлеб и крыша над головой зависели от государства, которое может отнять всё это, если вы скажете слова, которые ему не понравятся?
 
-![](https://ci3.googleusercontent.com/meips/ADKq_NYAX0AteU0DTkPYdZtg7pVEm_0DsjS2jrdWd0osIVYBKLWKVz9UTgcSoW0PvLVFntMRHeSmQrs5w_h3S2OSbXZg4daI0RBGSBsTrzugvvoufPOyzVl4sHBi_uuYSvPDKaWCniKoB5lrRBpUStEDdlCM-czlqFEn9ZH5UPAd4ft-PfmRzPm_73ZD9w0em7LFJ_iPsQQu5bJAe7NEhQC_1eqcxU01-OxA7OArmEJVSZcR4T_xN4zHUYEgUuipzQwp03L7y-8-v0NRyyN55JwIX5m72EELcsdk0g1_ShH73yBDM2inICVcPgYv2EfAgkLy54Se=s0-d-e1-ft#https://substackcdn.com/image/fetch/$s_!Rvr4!,w_453,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b88bc4a-affd-4ec2-9dec-750a600b0199_453x393.png)
+![](/images/articles/c16bca65a8f3263e651e47339f322e0f55448d11887f0594aa564093ffa0418a.jpg)
 
 *Ты дурак или шо?*
 
@@ -51,7 +51,7 @@ draft: false
 
 И всякий, кто готов полагаться на «правительство» в таких вопросах, забывает, что такое правительство на самом деле.
 
-![](https://ci3.googleusercontent.com/meips/ADKq_NZLA1mZZd4l4Fjn6BTROYCboOLoWd2JceP_oVWEKKPwd5Jy2U3kn8694ZJx704jFoBM1AlNafmtVZSJxlIp03J8w_HHQ_30D80UFcOSX9ueIGSuK5eU8FSFGros6beTf4rEqyiThgtxXeB52vH3LYoStwFS6QSls1UrnATfOR0W9vYjH5z4FbQ-taSPJ4SxxgLvr3yjpHrIUyO8nqeL-_yCAsF65Vy5ma_j0vNWq2qmVNbc3Rdj2UT2pe9_8HILPezS6jQ6wgLRp_6V1_gqmiagVaTA3XD4ot2rLAh4ONqXjEaDoAnkSEYEj0Z_KFmvvi3TCXmc4w=s0-d-e1-ft#https://substackcdn.com/image/fetch/$s_!WQEO!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58b7e8ff-b2c3-44a7-9096-cbda83a8b39f_1002x1002.jpeg)
+![](/images/articles/bd7075c2a200f4d118637dac8a8b4bdfe69606feb650eb950719f122df58aa52.jpg)
 
 *Правительство — это не разум и не красноречие, это сила. Подобно огню, оно может быть опасным слугой и страшным хозяином.*
 
@@ -65,7 +65,7 @@ draft: false
 
 (Большинство победителей лотерей вскоре снова бедны и часто менее счастливы, чем прежде.)
 
-![](https://substackcdn.com/image/fetch/$s_!p2l3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8684bbb5-57af-46fa-8145-1d3f2c9666de_1748x1310.png)
+![](/images/articles/ef11e4452e724c875830a3a828e2ca764bd6c646f5ffbbf740379cabee590771.png)
 
 *Влияет ли доход на здоровье? Данные рандомизированного контролируемого исследования гарантированного дохода.
 ...Однако в течение трёхлетнего периода наблюдения, который мы изучаем, мы не обнаружили никакого эффекта денежных выплат по ряду показателей физического здоровья и можем исключить даже очень небольшие улучшения. Выплаты также не улучшили психическое здоровье после первого года, а ко второму году мы снова можем отвергнуть даже очень незначительные улучшения.*

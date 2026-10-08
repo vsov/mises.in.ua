@@ -14,7 +14,7 @@ draft: false
 
 "Домашние кошки",  --- ответил он. "Они убеждены в своей независимости и при этом полностью зависят от системы, которую не ценят и не понимают".
 
-**![](https://lh3.googleusercontent.com/w7XyHtP2jKro0l1RS8W_uq3VzJzBys2-sHbunhWG31V30TbfkKgBhISTvEtjS5DNnLYKalpcUPUc8gBfrhBWzLY5CIF7j-leI65QU6jO4bLWy8TmT80Q7nq5bvuuswCEs8cJ67lk93CNWRAp81jspwROlPmbYADoENK4Br4ClVx1Miv4-v_AGULk3hG_9g)**
+**![](/images/articles/9c27f3e96f03a94a55fbcd88adb0951d06ebe00841d4a1460dcf98e605fe579e.png)**
 
 Судя по тому, как много людей поделилось этим комментарием в социальных сетях, метафора пришлась по вкусу. Но справедливо ли это сравнение? Можно ли считать либертарианцев домашними кошками? Давайте посмотрим.
 

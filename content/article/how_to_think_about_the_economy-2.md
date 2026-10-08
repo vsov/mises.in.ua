@@ -7,7 +7,7 @@ tags: ["экономическая теория", "для начинающих",
 summary: "Как и другие науки и области знания, экономика представляет собой систему теоретических знаний. Теория — это набор объяснений, который позволяет нам что-либо понимать. Экономическая теория позволяет понять, как работает экономика. Она объясняет функционирование экономики в целом, чтобы мы могли понимать смысл, происхождение и развитие экономических явлений."
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/61T9tvMUVWL._AC_UF1000,1000_QL80_.jpg)
+![](/images/articles/ae55024c1d6c873e4d9dc2bfbbcf27e640fc3410be5413749325d67dc9ba1284.jpg)
 
 > Главы из книги ["Как думать об экономике"](https://cdn.mises.org/how_to_think_about_the_economy.pdf?_gl=1*6tjaco*_gcl_au*NzM4OTgwNy4xNzc0MDA3MDAx*_ga*MTI2MjEzMzUzMS4xNzc0MDA2OTQ4*_ga_MC3JLVEDHF*czE3NzY1ODUwMzAkbzckZzAkdDE3NzY1ODUwMzEkajU5JGwwJGgyMDI2NzcwMjA1)
   

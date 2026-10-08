@@ -8,7 +8,7 @@ summary: "В предыдущей статье я объяснил, что ин�
 draft: false
 ---
 
-![](https://thedailyeconomy.org/wp-content/uploads/2026/09/inflation-baskets-1.png)
+![](/images/articles/23b2a9819195980a8d3908d933aac5e39ab7c7d7879a676c12bee4ad93181e29.png)
 
 Средняя цена дома в Америке составляет [440 600](https://www.barchart.com/story/news/2339669/75-of-u-s-homes-are-now-unaffordable-as-dave-ramsey-calls-this-the-most-unrealistic-real-estate-market-in-100-years) долларов, тогда как медианное домохозяйство зарабатывает примерно [84 000](https://fred.stlouisfed.org/series/mehoinusa672n) долларов в год. Этот разрыв привёл к тому, что всё больше американцев вообще [не может позволить ](https://www.morningstar.com/news/pr-newswire/20260805de19576/the-income-needed-to-afford-typical-american-home-holds-steady-near-record-high-of-110000)себе покупку жилья, в то время как [богатство тех](https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever), кто уже [владеет домами](https://www.npr.org/2023/08/25/1196064429/how-a-home-mortgage-lock-in-impacts-the-entire-housing-market) и акциями, увеличивается. [Разрыв](https://www.nhpr.org/2026-07-30/the-renter-owner-wealth-gap-is-wider-than-ever-as-many-are-priced-out-of-buying) в богатстве между арендаторами и владельцами жилья сейчас достиг максимального уровня за всю историю наблюдений. Тем временем [фондовые рынки](https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-only-105601675.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEi2UiVrBESNxuipAni3tgs_13XD2vylZOTBScf5FiwaIxA2wbbOhRIkI8SUjR7RZWyi6Z46RD-iNHigyRZpyg5nwIitqg2YzMPDRe0xzrWIc06c0n0uUpMz7nW56IMOepGo3I7oEP_KdxsAWjErviX-l237MRjB-3irGYNq7aQy) продолжают устанавливать [новые максимумы](https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm). Официально ничто из этого не считается инфляцией.
 
@@ -24,7 +24,7 @@ draft: false
 
 Это исключение обеспечивало теоретическую последовательность CPI — в конце концов, он предназначен для измерения именно потребительских расходов. Но оно также означает, что один из самых [быстрых видов роста цен](https://www.macrotrends.net/3072/us-house-price-index) в американской экономике за последние три десятилетия оставался совершенно невидимым для показателя, на который ориентируется Федеральная резервная система ([индекса цен PCE](https://www.bea.gov/data/personal-consumption-expenditures-price-index)), и показателя, о котором сообщают средства массовой информации ([CPI](https://www.bls.gov/cpi/)).
 
-![](https://thedailyeconomy.org/wp-content/uploads/2026/09/stocks-homes-outrunning-inflation.png)
+![](/images/articles/86421be73846b44101deeb18091ee2c4e9830723ed76445cb4621e811fe25b2b.png)
 
 С 1995 года индекс [S&P 500](https://www.macrotrends.net/2324/sp-500-historical-chart-data) рос сложным образом примерно на 9,2 процента в год (увеличившись в 15 раз), а цены на жильё, согласно [индексу Case-Shiller](https://fred.stlouisfed.org/series/CSUSHPINSA), — примерно на 4,7 процента в год (увеличившись в 4 раза). За тот же период CPI рос примерно на 2,6 процента в год (увеличившись в 2,2 раза). Акции росли более чем втрое быстрее потребительских цен; цены на жильё — почти вдвое быстрее. Один лишь CPI никак не способен отразить ни одно из этих инфляционных давлений — ни взлёт цен на жильё, который вытеснил с рынка многих молодых американцев, ни [рост цен акций](https://www.federalreserve.gov/econres/notes/feds-notes/wealth-inequality-and-covid-19-evidence-from-the-distributional-financial-accounts-20210830.html#:~:text=Overall%2C%20the%20wealth%20of%20the,wealth%20gain%20during%20the%20pandemic.), выгоды от которого в [подавляющей степени](https://moneywise.com/investing/investing-basics/top-20-of-americans-now-hold-491-trillion-in-stocks-capturing-nearly-90-of-gains-how-to-build-up-your-wealth) достаются домохозяйствам, [уже владевшим активами](https://x.com/KobeissiLetter/status/2034969705526501445) до того, как этот рост начался.
 
@@ -32,7 +32,7 @@ draft: false
 
 Если бы цены активов просто постепенно росли по причинам, не связанным с денежно-кредитной политикой, а их исключение из PCE и CPI было безобидной случайностью, мы могли бы легче простить недостатки CPI. Но существует правдоподобное монетарное объяснение того, почему это исключение приобрело столь большое значение именно начиная с середины 1990-х годов.
 
-![](https://thedailyeconomy.org/wp-content/uploads/2026/09/image-12.png)
+![](/images/articles/f89359b948f42c28d01f2ffd39a433eb6cf58bc26a3a1f1bbcabf5f05095e3ea.png)
 
 Если бы деньги были нейтральны, а их прирост просто распределялся пропорционально между ростом реального объёма производства и инфляцией потребительских цен, [денежная масса M2](https://fred.stlouisfed.org/series/m2sl) со временем должна была бы расти примерно на величину, равную сумме [роста реального ВВП](https://tradingeconomics.com/united-states/gdp-growth) и инфляции CPI. Мы можем проверить это напрямую: взять средний темп роста M2 и вычесть из него сумму среднего темпа роста реального ВВП и среднего темпа роста CPI до и после 1995 года.
 

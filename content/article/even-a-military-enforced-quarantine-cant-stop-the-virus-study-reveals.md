@@ -30,7 +30,7 @@ AIER уже давно [отмечает исследования](https://www.a
 
 Взгляните на эту диаграмму из исследования:
 
-![](https://lh3.googleusercontent.com/ElW3Ssi9casaILNh-BT79BUC87ddI3cj1T9JyeoL2bMNH-vDp0fYTHKC0Ya0SFbWaNeGFMHpVXPrj726L8qZ7Ec7FLdlXDeFtuH6Akl5A3J2CPcEY-_MCwg7jIffyeqPN1b-BdWd)
+![](/images/articles/52128dd9b7758c37cc97145b0192bcd4d21112cfb13ffc2ab6067e4fab8c39a1.png)
 
 Другими словами, те, кто не участвовал в эксперименте заражались вирусом немного реже, чем те, кто находился в экстремальном режиме. И наоборот, радикальное применение NPI и более частое тестирование и изоляция коррелировали с большей степенью инфицирования.
 

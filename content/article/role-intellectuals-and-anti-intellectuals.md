@@ -6,7 +6,7 @@ date: 2021-08-11T16:00:00+03:00
 tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/intellectual-wire.jpg?itok=T0ZX_n0B)
+![](/images/articles/24a0d6c36958e65bc9a5de951973e0c3f27f36e46f65f69475ed9a05fb3c3922.jpg)
 
 > **"Государство --- это большая фикция, с помощью которой каждый стремится жить за счет других."** --- Фредерик Бастиа
 

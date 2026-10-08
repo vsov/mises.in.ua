@@ -7,7 +7,7 @@ tags: ["деньги и банковская система", "технолог�
 draft: false
 ---
 
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/cbdc-dollar-wire.jpg?itok=r_4cdDQu)
+![](/images/articles/f7fcc503b318e836ffe35293892aa2ab9c1c9b3c47e7b5c673fe5f169206e832.jpg)
 
 В последнее время было много разговоров о цифровой валюте центральных банков (CBDC), поскольку центральные банки по всему миру активно обсуждали эту тему. Некоторые из проблем CBDC уже обсуждались (см., например, [здесь](https://mises.org/wire/dangers-posed-state-controlled-digital-currency) и [здесь](https://mises.org/power-market/fed-going-digital)), и я не буду на них останавливаться. Цель данной статьи --- ответить на простой вопрос: что такое CBDC? Чем они отличаются от наличных денег, депозитов до востребования и криптовалют?
 

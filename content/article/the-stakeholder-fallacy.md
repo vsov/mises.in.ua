@@ -6,7 +6,7 @@ date: 2024-11-11T19:00:12+03:00
 tags: ["частная собственность и права"]
 draft: false
 ---
-![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Norman_P._Barry.jpg)
+![](/images/articles/aca7ac6846183dd2740ce4e274b3fe687bf64f9f42b5fa2b18ff3de42fedeef4.jpg)
 
 ## Стейкхолдерство подрывает определяющую черту капитализма: исключительные права собственности
 

@@ -7,7 +7,7 @@ tags: ["инфляция, дефляция и денежная политика"
 draft: false
 ---
 
-![](https://static.toiimg.com/thumb/msid-121684695,imgsize-1045631,width-400,resizemode-4/-.jpg)
+![](/images/articles/bf34696c1a378c52445281c30c96d9f9a6468db97153e269d8ac1de22a3a07da.png)
 
 С тех пор, как началось “возвращение Трампа”, меня одолевали сомнения. Я сомневаюсь в его экономических взглядах, но больше всего я не доверяю его характеру —  экстравагантному нарциссизму, отсутствию честности и неспособности пережить ситуацию, когда приходится делить внимание с кем-то еще. Он никогда не мог удерживать рядом с собой хороших, сильных людей, потому что не мог терпеть похвалу другим.  
 
@@ -41,13 +41,13 @@ draft: false
 
 Это начинается так:
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6f_afjEZDTusCVDAxmwQUS0E0SQGAq2lMwBRLfu8Zw2co1o74wmYUo9RhRywbZBST_56z1DCE8QCQCF7e_XMUOm8JMqRSHfV2O3tADZWAO63K9614gVBakjUHc1JBj3gdFNv2cw?key=mQNrWa_UdtG8JHn7Qi8MqQ)**
+**![](/images/articles/4f0c176d44ae6f481fab0f3b8ffe3e1ed3dca573d11f5b3a2a9a38ffa3518704.png)**
 
 > *Президент Трамп о @elonmusk: “Илон никогда не просил у меня ничего. Я имею в виду, я отменил мандат на электромобили… но он никогда не просил у меня ничего. Думаю, это удивительное качество… Илон — патриот, мы хотим поблагодарить его за его работу.”*  
 
 и заканчивается так:
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpjZyMyuC0hC9PgBB76AgYZVPkMZrg3b6KIAtdA40pMX3TkUxDY6qrbprHEI_0g6pJfAuWEsGaFiyaXDJHKULXMhid5NALUqQ4MTRCYdpap5TSOPh1niUPeEjWJYsGcft_hoZ4?key=sR9DRZnUvgLuVcG1VaBiww)**
+**![](/images/articles/7062403d70cc85901cc4ff1c808d76687049f3ca269e0257a3765cacd730bf8d.jpg)**
 
 > *Илон уже был измотан, я попросил его уйти, я отменил его мандат на электромобили, который заставлял всех покупать электромобили, которые никто не хотел покупать (он знал несколько месяцев, что я собираюсь это сделать!), и он просто СОШЁЛ С УМА!*
 > 
@@ -71,11 +71,11 @@ draft: false
 
 Это не производит хорошего впечатления. Они просто сдали игру.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8xncT6tQjFn8yg-my7SuW7GuJsAujI285szGatUD5xZQj7mLdDYBgbyr0mXDwN4hQzegfVRdZ5vIWH2K7YtiPj3-O-gI7knz4oTlC1K5Zxio7-k-8TysHyItO-8D_ZRD-xtWEFw?key=9q5LZGmyWatF-Q5GGI-cgQ)**
+**![](/images/articles/76220630cf80903fb225063da23288c8555236e53fe90c212989473f20e68bd4.jpg)**
 
 даже Гарри “Маппет” Сиссон видит, что будет дальше…
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYj0ky-Vr-GOEvaNEkl1E_ZebXv0VHXCep3o_n8x74QfZUSrOAsCt6UWSbz5y8SQ_eCW-RoE4S2kL6FUhaN0nBvmqlt8gLiFNcxUAe90jlBf_rpRjNBMkD8B0EGUTBJYQpX2CQQw?key=-sTnimZAE9XD0uS_MOpO3w)**
+**![](/images/articles/2d88c61544012de45a30d230ce5313099412ddd81f91d61e45e96db6b3b0aca2.jpg)**
 
 > *Вау… Илон Маск теперь использует слова самого Трампа против него, упоминая то, что он написал в 2013 году о потолке госдолга. Илон идет в атаку на Трампа. Вопрос только во времени, когда Трамп сорвется…
 > Мудрые слова.   Я не могу поверить, что республиканцы расширяют
@@ -92,14 +92,14 @@ draft: false
 
 И не заблуждайтесь: этот законопроект — это НЕ то, с чем Трамп шел на выборы.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeMDoCEOGhcLMShDGhtTnIuwXMFhgrRPwqLIc-MuEcGRLzN9u2Rc5yyp3mw4F6R14R558MnU07Ep2yHssGh4b1Vcbzy58a-UxHe4gECjnpGMQ3HCm3SbyoLcPX4BWuMp0QCom5kmA?key=_i6yFKFxA2dzxppEQlL9vw)**
+**![](/images/articles/5db76175aab6eb6e4ee2b684c549ea5fff1fbf41f1abc7a69a7f6ff4ad0db49a.jpg)**
 
 
 Победа Эль Дональдо могла быть огромной, с перспективой на десятилетия. Теперь же это будет очередная предостерегающая история. Трамп — это скорпион, убивающий лягушку. Потому что это то, что делают скорпионы.  (имеется в виду притча о том, как скорпион попросил лягушку перевезти его на другой берег реки, не вытерпел и ужалил ее, в результате чего, оба погибли --- прим.ред. ) 
 
 Эго и заблуждения "рыжего" теперь видны всем.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfC4qXEbgzHWwEar89KB2Mi0J46XFynrHzTsT44JmaErPX4huP58GjyNx0AqtRSzxMK3-iUIEtuRgN39oyAdO135zq-LDM8awo8jvsmaodaYKmgswaLDZ5TqXPoFOQX27YBGtjZ?key=R0V9lMdsVtpb6gN2gSnRPQ)**
+**![](/images/articles/dc404e3fadd2b743cae2e3088f3c8c2e7e074e19feb9152a146bb83b5a0eba9a.jpg)**
 
 > *Трамп говорит об Илонe, который выступил против BBB
 > 
@@ -141,7 +141,7 @@ draft: false
 
 Но вместо этого Дон удваивает ставку на шакалов из конгресса, которые и создали этот бардак, и защищает их, как будто они каким-то образом могут помочь выходу из него. Это очевидно и катастрофически глупо, и тем, кто продолжает твердить «мы должны выиграть выборы, чтобы править!», стоит задуматься: если тебе приходится снова и снова сдавать позиции ради этой власти, то твоя власть уже не будет ни полезной, ни осмысленной.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfcyf8mG5oecPgYskvqSn745WCWaMBsFlxwCy5KwSbM87i8wRTUInbsO7DRu1lbnTBXH5sBmW7T6CvcEPLpJ6OIsnCS1knNWHfKwIEaE1uLE_h91VS8EvUU07HFqGKf6S4Cx036vg?key=UrlOSjE-8vHgoQIEL_I1Qw)**
+**![](/images/articles/90d5b81c7ec84bc8f45b54fed156e113990954f82af81429af98d00eabd5541b.jpg)**
 
 Фраза «политика — это искусство возможного» имеет смысл, пока то, что возможно,  является также и "хорошим" и необходимым. Но если "возможное" ужасно, то политика становится путём к разложению.  
 
@@ -153,7 +153,7 @@ draft: false
 
 Может, республиканцам нужно крупно проиграть, чтобы, наконец, проснуться. Я подозреваю, что так и будет.  
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLDfHXFLxbawlXnirPNHlGu_lib2wjiLsxzlrj3P8tqRnGHS-i0cKo6N_T5As520VAFjnORygKzR54fWeQQsgFBlUjFWfq2_tZQImoYRO3q4IfTJ9_gfDqg_V247yla6WMhX3-iA?key=-NWGSD9CtpYHtKmTIxAJpA)**
+**![](/images/articles/c9d3e1013bab2ca341cb4ab563447b5e47ae1e27ce4e2617194b9b1e4d7bd547.jpg)**
 
 Маск и другие уже говорят о создании третьей политической партии.  
 

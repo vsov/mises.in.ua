@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![](https://cdn.mises.org/styles/slideshow/s3/SWAT_team_prepared_(4132135578).jpg?itok=0JyxO5Qc)
+![](/images/articles/94f0f27882909c5be649a89c8d9d31347f3be8ae090b28b91759d5e030b32b76.jpg)
 
 > Отрывок из книги Мюррея Ротбарда «К новой свободе: Либертарианский манифест» (главы 11 и 12), переводчик Борис Семенович Пинскер, М.: Новое издательство, 2009
 

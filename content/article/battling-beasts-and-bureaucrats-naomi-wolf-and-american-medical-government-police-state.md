@@ -7,7 +7,7 @@ tags: ["здравоохранение, фарма и медицинское р�
 draft: false
 ---
 
-![](https://store.mises.org/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fE007.jpg&maintainAspectRatio=true&maxHeight=300&maxWidth=300)
+![](/images/articles/428fb2566ffe3a4db427e1cf6bb8c2b3e3e331ea8870c9b38bad49109e364597.jpg)
 
 > ["Встреча с чудовищем: мужество, вера и сопротивление в новую темную эпоху"](https://store.mises.org/Facing-the-Beast-Courage-Faith-and-Resistance-in-a-New-Dark-Age-P11294.aspx), автор Наоми Вульф, Издательство Chelsea Green, 2023; 232 стр.
 

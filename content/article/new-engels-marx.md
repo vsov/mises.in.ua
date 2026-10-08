@@ -6,7 +6,7 @@ date: 2024-10-25T16:45:10+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://images.routledge.com/common/jackets/amazon/978113893/9781138938519.jpg)
+![](/images/articles/44462a7b7c52d56998140a1bfce0b9748e863b623a99b2f36d62556567aee6f9.jpg)
 
 [**Marx** *by Jaime Edwards and Brian Leiter, Routledge*](https://www.routledge.com/Marx/Edwards-Leiter/p/book/9781138938519?srsltid=AfmBOooE3FccmAu4KJvZN0SNFRsT66KWLAoMpWU8KupuBe0rhoVIj8yQ).
 

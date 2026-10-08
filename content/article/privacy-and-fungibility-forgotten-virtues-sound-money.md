@@ -6,7 +6,7 @@ date: 2025-09-10T11:25:43+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-07/AdobeStock_Blockchain.jpeg.webp?itok=ioHMj4dB)
+![](/images/articles/c385d7ba5e58a4ea57eb2504adcb80179998082da12e4c06e049e769a768a3e1.webp)
 
 
 

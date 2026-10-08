@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![](https://m.media-amazon.com/images/I/61-tulg6mLL._SL1360_.jpg)
+![](/images/articles/4395acfbd561d7538af3c0c7983b0949ea330c00662fd2afb594db122a595ea8.jpg)
 
 > Главы из [книги Anarchy Unbound](https://www.amazon.com/Anarchy-Unbound-Self-Governance-Cambridge-Economics/dp/1107629705)
 

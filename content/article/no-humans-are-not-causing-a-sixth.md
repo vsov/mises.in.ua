@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-**![](https://lh3.googleusercontent.com/6lusEpI1pyVBM1TZlegxV_Glyf-7850PuTFz7wXVvQVjOAU6G8V7ABOuBU_vyUVyHjYMV0FOTNwuY5C7wSca7C88SJJU3ah1mRyrPA95W0NEDEBKB-wLqe9SM-zFNfGrR17YvE5CZrR9Zvz751ivxY1HhPIGWlHS6cfsZkxSPLxXeAOohd1qlMFmhfFt_A)**
+**![](/images/articles/943eaf8d3415246ccf840c4ae832fade724694056d2e297d3281e11c249fb953.png)**
 
 *Cпасти горных горилл, находящихся под угрозой исчезновения можно, если помочь местным жителям перейти от древесного топлива к ископаемому. Почему же такие ученые, как Пол Эрлих из Стэнфорда (в центре), пропагандируют обратное?*
 
@@ -24,33 +24,33 @@ draft: false
 
 Но для сокращения выбросов углерода не требуется, чтобы богатые страны стали бедными, или чтобы бедные страны и дальше оставались бедными. Скорее, это просто требует, чтобы мы перешли на источники энергии, которые производят меньше выбросов углерода, а именно природный газ и атомная энергия.
 
-![Species.001.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee58ff3e-19c7-4e16-81a2-b51aab0ae931_1920x1080.jpeg)
+![Species.001.jpeg](/images/articles/8ac1d167c2c61e3a063de4940c3515e6f1b70b26562746a5d084d74c39fd6875.jpg)
 
 К чести CBS, их журналисты знают, что Эрлих ошибался на протяжении многих лет. "В 1968 году Эрлих забил тревогу, предупреждая, что перенаселение вызовет массовый голод", --- отметил Скотт Пелли из CBS News. "В этом он был неправ. Зеленая революция накормила мир".
 
 Но Пелли считает, что Эрлих прав в том, что люди станут причиной "шестого массового вымирания". Это не так. Он ошибается и в этом.
 
-![Species.002.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95780631-96af-479d-b0cc-cd29bc23c636_1920x1080.jpeg)
+![Species.002.jpeg](/images/articles/a66675320ec18ae1fc0c7759937290917fd2a5eaad56662ff66a01a18d1561dd.png)
 
 Чтобы вызвать "массовое вымирание", человек должен уничтожить 75-90% всех видов на Земле. По данным Международного союза охраны природы (МСОП), главного научного органа, отслеживающего виды, только для 6% видов угроза исчезновения критична, 9% находятся под угрозой исчезновения, а 12% --- могут в перспективе попасть под угрозу исчезновения.
 
 Кроме того, по оценкам МСОП, всего 0,8% из 112 432 видов растений, животных и насекомых, содержащихся в его данных, вымерли с 1500 года. Таким образом, каждый год исчезает менее двух видов, что составляет 0,001% в год.
 
-![The problem is, islands is what we have now – some thoughts on Stewart  Brand's essay “Rethinking Extinction” | The unpublished notebooks of J. M.  Korhonen](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F83d9d3f0-6eb8-42ae-bed9-14e1a1469850_640x378.jpeg)
+![The problem is, islands is what we have now – some thoughts on Stewart  Brand's essay “Rethinking Extinction” | The unpublished notebooks of J. M.  Korhonen](/images/articles/5555ee899a7f1992deda1ae4b38f5efb45b3177c3d89ea9f720be791806a30cf.jpg)
 
 Огромный рост биоразнообразия за последние 100 миллионов лет значительно превосходит количество видов, потерянных в результате массовых вымираний в прошлом. Количество родов --- показатель биоразнообразия, более мощный, чем количество видов, --- за этот период времени увеличилось почти в три раза. После каждого из пяти массовых вымираний биоразнообразие в окаменелостях падало на 15-20%. Но за каждым вымиранием следует гораздо больший рост.
-![Case Against Environmental Alarmism August 2022.061.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad8df0e9-313c-408a-b311-fa8fffe6c45a_1500x844.jpeg)
+![Case Against Environmental Alarmism August 2022.061.jpeg](/images/articles/8ac91e9feb45efc61bbeb66404e92499e67eb9d5424dc3346bda84e5ec2c1b63.jpg)
 Специалисты по охране природы умеют поддерживать небольшие популяции животных --- от желтоглазых пингвинов в Новой Зеландии до горных горилл в Центральной Африке. Реальной проблемой является увеличение численности их популяций.
 
 Но это не тот случай, когда человечество не смогло сохранить среду обитания. К 2019 году под [охрану](https://environmentalprogress.org/extinctions) попала территория Земли, превышающая площадь всей Африки, что эквивалентно 15 процентам поверхности суши Земли. Число охраняемых территорий в мире [выросло](https://environmentalprogress.org/extinctions) с 9 214 в 1962 году до 102 102 в 2003 году и 244 869 в 2020 году.
-![Case Against Environmental Alarmism August 2022.059.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e9d329d-1abc-4080-bcd9-6c8472846729_1500x844.jpeg)
+![Case Against Environmental Alarmism August 2022.059.jpeg](/images/articles/411ecc43aa7bdb92303470b69e19bec8a2a7dae05d021f4e6c57a23667b5966d.jpg)
 На самом деле, в богатых странах мира территории [возвращаются](https://environmentalprogress.org/extinctions) в дикую природу благодаря более эффективному использованию земли для производства продуктов питания в целом и мяса в частности. Люди используют около половины свободной ото льда поверхности суши на Земле. Из этой половины примерно половина используется для производства мяса, и это является одной из самых больших угроз для исчезающих видов. Однако за последние десятилетия количество земли, используемой человеком для производства мяса, [сильно сократилось,](https://environmentalprogress.org/the-case-against-environmental-alarmism) почти до площади, равной площади Аляски.
-![Case Against Environmental Alarmism August 2022.060.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F967a7f08-a61d-402b-90a7-2f29ed237f1e_1500x844.jpeg)
+![Case Against Environmental Alarmism August 2022.060.jpeg](/images/articles/f5dc7afa0e8e7544f1c38ee0419f7f3b2fcfb961d5baac67fbda54a3c7325d2d.jpg)
 Но если мы не являемся причиной "шестого массового вымирания" и нам не нужно для поддержания уровня жизни "пять Земель", почему так много людей, включая "60 Minutes", считают, что это так?
 
 # Ученые-активисты продвигают лженауку
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F832ed1b2-5896-4ad6-aecf-edb3704d188e_2502x1524.png)
+![](/images/articles/e098cf3a800c17daa6537f020c6ed7f823f13dde5222a027b6a8cc88657d00a2.jpg)
 
 *Организация Объединенных Наций пропагандировала древесное топливо в докладе 1987 года "Наше общее будущее", автором которого была Гро Брундтланд, бывший премьер-министр Норвегии, страны, которая всего десятилетием ранее стала богатой благодаря богатым запасам нефти и газа.*
 
@@ -64,7 +64,7 @@ draft: false
 
 В 2011 году британский научный журнал Nature опубликовал статью под названием "Концепция зависимости видового богатства от площади всегда завышает скорость вымирания из-за потери среды обитания". Она показала, что для вымирания "нужно, чтобы была потеряна большая часть среды обитания, чем считалось ранее".
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42a4f320-2007-497d-9edf-d7639d6057fb_1920x1080.jpeg)
+![](/images/articles/7fe2d994b008d73b846bb370a068f4e6517b047dc1ef21722e7a4ca260f0b1a0.jpg)
 Во всем мире биоразнообразие островов в среднем удвоилось благодаря миграции "инвазивных видов". Введение новых видов растений превысило вымирание растений в сто раз. "Захватчики" не вытеснили "местных жителей", как опасались Уилсон и Макартур.
 
 "За последние три столетия в Европе появилось больше новых видов растений, чем вымерло за тот же период", --- отметил британский биолог.
@@ -91,7 +91,7 @@ draft: false
 
 # Ученые для природы
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6bfcc86-79f2-4f4e-b291-4943a85a98fe_1920x1080.jpeg)
+![](/images/articles/a0e8116f44189771f2fef2025fdaaa7f3ea66c4e2c1906c108027511b7224e72.jpg)
 Настоящая проблема заключается не в вымирании, а в сокращении популяций животных и их общей среды обитания. С 1970 по 2010 год популяции диких млекопитающих, птиц, рыб, рептилий и амфибий сократились примерно наполовину. Хуже всего дело обстоит  в Латинской Америке, где популяции диких животных сократились на 83 процента, и в Южной и Юго-Восточной Азии, где сокращение составило 67 процентов.
 
 Эта реальность заставила некоторых защитников окружающей среды заявить, что видам угрожает ископаемое топливо и экономический рост. В 2014 году в документальном фильме "Вирунга", номинированном на премию "Оскар", утверждалось, что бурение нефтяных скважин в парке Вирунга является основной угрозой для горной гориллы и, соответственно, для связанного с ними туризма.

@@ -6,7 +6,7 @@ date: 2025-02-03T16:57:30+03:00
 tags: ["сецессия, децентрализация и федерализм"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-01/AdobeStock_138943447.jpeg.webp?itok=EILZSmiU)
+![](/images/articles/af36303837dc1436a49fa0c81a4961f51cc24583f14456af30b8ce9b02282772.webp)
 
 Вопрос о выходе Калифорнии из состава США никуда не исчезнет.  
 

@@ -6,7 +6,7 @@ date: 2023-07-10T13:49:37+03:00
 tags: ["наука, экспертиза и данные"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/assault-wire.jpg?itok=Tk3PwdQo)
+![](/images/articles/85ab036304fc564f438648b84c8bc7a410e770f50f54498f220b21f6369be220.jpg)
 
 Общество совершает революционный поворот в восприятии ложных обвинений в сексуальных домогательствах. И это весьма своевременно.
 

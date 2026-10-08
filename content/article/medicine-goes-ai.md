@@ -7,7 +7,7 @@ tags: ["здравоохранение, фарма и медицинское р�
 draft: false
 ---
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQGJk96s7dwFug/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708172609717?e=2147483647&v=beta&t=0pG57Wayj85EPYvUfDijC4roUWSGGj-_VHj6sVVCax0)
+![](/images/articles/7f8c6564982e2276fc468027d33f5b592c49db0317346846a3ec86f75b119dbd.png)
 
 Предсказание: через пять лет, если вы скажете друзьям «я пошёл к человеческому врачу, чтобы поставить диагноз», они буквально спросят вас: «а что, доску для спиритических сеансов найти не смог?» 
 
@@ -15,7 +15,7 @@ draft: false
 
 И это происходит. Быстро. 
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfh5YJfTzGkvUkMoMIwbpF_EAidPciPiJqqYixEcmWZmUgLLQCMSBJiytuEciAsvOyL9oZ-I7VTJHGH_H4kmNYXH0XqkMKJ-aDYv-MEdr848NAmT1nQTXcWgzVeXMp4-TkOcXOn?key=wIaun4EiwiWvSazxvU4lmA)**
+**![](/images/articles/c5754ae3fff2ec24e513f492a57c10548252a06e33e9395413313e70431e227e.jpg)**
 
 Для сравнения: средние человеческие результаты на тесте USMLE обычно находятся в диапазоне 230–245. 300 — это идеальный результат, то есть ~77–82% от максимального. Ни один человек [никогда не достигал 300](https://www.kaptest.com/study/usmle/passing-scores/).  
 
@@ -36,7 +36,7 @@ draft: false
 Тем не менее, Chat GPT без человека превзошёл обе группы, что, по мнению исследователей, указывает на его перспективность для улучшения медицинской помощи. однако врачи, по их мнению, должны получить больше подготовки и опыта работы с этой новой технологией, чтобы в полной мере использовать её потенциал. 
 
 Это объяснение в стиле медшколы — попытка смягчить реальность очень яркого результата, который для них, вероятно, выглядел как астероид в небе для динозавра.
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUGxe8E9WqZfEtof9qf0Ef7p1CO8BjOevvDFD1dIjyQRusuYA-butpvb5cgO3GxZH8z8GbKhfHwjX5P_ED1O50otrEWxL-BOvsI9_YRrWjR9AytWn_Fqpv0wmJEjAxWio3WfzT?key=zAKyiX2Fr1rkiPO9HPsiMA)**
+**![](/images/articles/07d51f02254c97d810d5503eb6f8f8269d86cc382d32e1b7d5b3a8af992172cd.png)**
 
 Суть в следующем:
 

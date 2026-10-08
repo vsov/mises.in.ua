@@ -6,7 +6,7 @@ date: 2024-07-12T23:24:10+03:00
 tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
-![](https://fee.org/wp-content/uploads/2023/11/stanley-zhong.png)
+![](/images/articles/9cefc2bcf917ddb02f79bafa27baf92c326bb2943f90268a0c54f312c76173a3.png)
 
 Стэнли Чжон делал все правильно. Его средний балл по взвешенной шкале --- 4,42 (по невзвешенной --- 3,98). 1590 баллов по тесту [SAT](https://www.washingtonexaminer.com/tag/sat) (1600 --- идеальный результат). Он даже запустил свой собственный стартап [(RabbitSign).](https://www.rabbitsign.com/)
 

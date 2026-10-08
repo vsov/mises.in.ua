@@ -6,7 +6,7 @@ date: 2021-06-11T11:00:00+03:00
 tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
-![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/gettyimages-1204426849.jpg?itok=o_m0djhL)
+![](/images/articles/2b58b41c5e647e19a50c7ec735b65400838b05fe053d911daf01bb3d24de9377.jpg)
 
 Когда мы говорим об анализе экономических организаций, мы обычно представляем себе фирмы и корпорации.
 

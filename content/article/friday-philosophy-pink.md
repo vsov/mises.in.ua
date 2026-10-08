@@ -8,7 +8,7 @@ tags: ["свобода воли", "философия"]
 draft: false
 ---
 
-![](https://m.media-amazon.com/images/I/51MDC4LSp7L._SY445_SX342_FMwebp_.jpg)
+![](/images/articles/5f2529bc940713a52b6c0707ad11efcfcd7c3cf0781443cdd7374c349fddd65d.webp)
 
 [Free Will: A Very Short Introduction, Thomas Pink (Oxford University Press, 2004; x + 134 стр.)](https://www.amazon.com/Free-Will-Very-Short-Introduction/dp/0192853589) 
 

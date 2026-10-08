@@ -6,7 +6,7 @@ date: 2021-04-19T11:00:00+03:00
 tags: ["здравоохранение, фарма и медицинское регулирование", "наука, экспертиза и данные"]
 draft: false
 ---
-![](https://media3.s-nbcnews.com/j/newscms/2020_28/1587783/protest-masks-kb-main-200707_d6250b458ab22115a02e9e604c92260a.fit-1240w.jpg)
+![](/images/articles/c2a41b13f9c0e79c9e359849de4e95970cdcac10bae22600c65bff7e4b170fea.jpg)
 
 На прошлой неделе [YouTube удалил](https://www.aier.org/article/youtube-censors-florida-governor-desantis-and-his-science-advisors/) видео научного круглого стола по Covid, проведенного губернатором Флориды Роном ДеСантисом. Указанная YouTube причина удаления связана с некоторыми мимолетными комментариями ученых, которые поднимали вопросы о ношении масок детьми.
 

@@ -6,7 +6,7 @@ date: 2024-03-22T19:48:17+03:00
 tags: ["наука, экспертиза и данные"]
 draft: false
 ---
-![](https://m.media-amazon.com/images/I/41VAWJDVFQL.jpg)
+![](/images/articles/88983f3eb33fc166f11ac466637f3f78b81f105d7cf6aa2b32b8adba093a2728.jpg)
 
 
 > [Multiculturalism and the Politics of Guilt: Toward a Secular Theocracy, by Paul Edward Gottfried, University of Missouri Press, 2002](https://www.amazon.com/Multiculturalism-Politics-Guilt-Towards-Theocracy/dp/0826214177)
