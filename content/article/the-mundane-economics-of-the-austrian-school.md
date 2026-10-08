@@ -7,7 +7,7 @@ tags: ["австрийская школа и праксеология", "кул�
 draft: false
 ---
 
-![](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/people/5029/peter-g-klein.jpg)
+![](/images/articles/d0adb098ead1803af1c8073eda3b91272d448617f21f5312253c4d7fa7e75025.jpg)
 
 ## Введение
 

@@ -6,7 +6,7 @@ date: 2023-02-20T11:43:37+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://fee.org/media/42520/national-socialism.png?center=0.20072992700729927,0.525&mode=crop&width=900&format=webp&rnd=133184491690000000)
+![](/images/articles/2208a0c9688c131e8d73cba1fc7d816945ed5b0f0ac6d85af6b5b488256be80a.webp)
 
 Одно из удобств взросления --- осознание того, что некоторые вещи никогда не изменятся.
 

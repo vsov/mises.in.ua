@@ -6,7 +6,7 @@ date: 2024-02-09T19:08:08+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://fee.org/media/40985/classical-economists_adam-smith-ricardo.jpg?center=0.31578947368421051,0.50666666666666671&mode=crop&width=900&format=webp&rnd=132844753950000000)
+![](/images/articles/44a113d45e5d108cfd1affca7acb8fe3d1a4b8470a4892cddf1d6c1cfa76a59b.webp)
 
 Забудьте все, что вы знаете об экономике. В книге ["Классическая экономическая теория и современная экономика"](https://www.amazon.com/Classical-Economic-Theory-Modern-Economy/dp/1800889461?crid=9NNE36SF2OZ2&keywords=Classical%20Economic%20Theory%20and%20the%20Modern%20Economy&qid=1640019329&sprefix=classical%20economic%20theory%20and%20the%20modern%20economy,aps,89&sr=8-3&linkCode=sl1&tag=feeonline-20&linkId=5e1848f69cfa9e58ab4830e67220744c&language=en_US&ref_=as_li_ss_tl) экономист Стивен Кейтс объясняет, почему экономическая наука терпела неудачи на протяжении более 100 лет.
 

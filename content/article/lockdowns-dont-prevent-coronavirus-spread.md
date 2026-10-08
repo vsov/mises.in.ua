@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://www.aier.org/wp-content/uploads/2021/01/lockdownjail-800x508.jpg)
+![](/images/articles/a63a7aad595d6cc21477f75634d42f74030fafb49709b282696f9653dc18f687.jpg)
 
 Много было сказано о [пугающих моделях](https://www.aier.org/article/how-wrong-were-the-models-and-why/), которые весной [прогнозировали](https://www.aier.org/article/coronavirus-and-the-perils-of-disease-modeling/) ошеломляющее число смертей от нового коронавируса.
 

@@ -6,7 +6,7 @@ date: 2025-04-02T14:36:58+03:00
 tags: ["государство, бюрократия и регуляторы", "демократия, конституции и политические институты"]
 draft: false
 ---
-![](https://brownstone.org/wp-content/uploads/2025/03/Shutterstock_1729893970-1536x900.jpg)
+![](/images/articles/038b4b1de837ef2a38985895efa734c900024e1b6d6c01d5d317112790af9034.jpg)
 
 Президент Трамп 20 марта 2025 года [отдал](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/) следующее распоряжение: «Министр образования должен, в максимально возможной степени и в соответствии с законом, предпринять все необходимые шаги для содействия закрытию Министерства образования».  
 

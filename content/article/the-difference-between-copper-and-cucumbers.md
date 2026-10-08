@@ -6,7 +6,7 @@ date: 2021-03-03T20:00:00+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/02/copperlamps-800x508.jpg)
+![](/images/articles/f29ba07a55dbd79a6290859bc1d914c1c31780060812b21af1265dcd7cee4331.jpg)
 
 Дэвид Аттенборо, известный телеведущий BBC и активист по борьбе с изменением климата, высказал фантастическую мысль о росте и экономистах. Эта мысль настолько мила и очаровательна, что я подозреваю, что именно от нее отталкиваются те, кто высмеивает [каждый разумный](https://www.aier.org/article/climate-catastrophism-and-a-sensible-environmentalism/) экологический комментарий экономистов. Эта мысль такова: ["Любой, кто думает, что вы можете иметь бесконечный рост в ограниченной среде, --- либо сумасшедший, либо экономист".](https://www.goodreads.com/quotes/10060198-we-have-a-finite-environment-the-planet-anyone-who-thinks-that)
 

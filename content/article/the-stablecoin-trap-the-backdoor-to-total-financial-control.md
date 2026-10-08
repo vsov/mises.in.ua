@@ -6,7 +6,7 @@ date: 2025-04-11T14:43:21+03:00
 tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
-![](https://brownstone.org/wp-content/uploads/2025/03/Shutterstock_2157061785-1536x900.jpg)
+![](/images/articles/fa172b3f6762f28c2af0a8b5e03fef972ae1da8f8f1bf03629208542b2607de9.jpg)
 
 Финансовая свобода американцев стремительно уменьшается — но совсем не так, как полагает большинство. 
 

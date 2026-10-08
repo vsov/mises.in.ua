@@ -6,7 +6,7 @@ date: 2022-06-20T09:46:51+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/04/pagan.jpg)
+![](/images/articles/5c515892dcaa0742fc9af0c0154213fe120c0ced9d24715aca1f90cc5566bce3.jpg)
 
 Однажды на экологическом форуме Джулиан Саймон [спросил:](https://claremontreviewofbooks.com/the-church-of-environmentalism/) "Сколько людей здесь верит в то, что Земля все больше загрязняется и что наши природные ресурсы истощаются?". 
 

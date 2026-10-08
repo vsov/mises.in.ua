@@ -6,7 +6,7 @@ date: 2023-07-03T12:03:47+03:00
 tags: ["история свободы и экономическая история", "культура, идеология, образование и свобода слова", "австрийская школа и праксеология"]
 draft: false
 ---
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ludwig_von_Mises.jpg/274px-Ludwig_von_Mises.jpg)
+![](/images/articles/fbdec04c5b8f9231799d8407af5e57ebe8cb529815919337c3b07dbd64acbac9.jpg)
 
 ## I. Карл Менгер и австрийская экономическая школа
 

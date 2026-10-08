@@ -7,7 +7,7 @@ tags: ["капитализм, рынки и предпринимательств
 draft: false
 ---
 
-![](https://fee.org/media/42101/price-controls-history.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133074511500000000)
+![](/images/articles/a3ed2be05011655b9ff6de32141244ab32cdd8a708ffcad165cb631c9a6b5f66.webp)
 
 В 1892 году в нескольких десятках миль к северо-востоку от Багдада французский археолог [Анри Поньон](https://en.wikipedia.org/wiki/Henri_Pognon) сделал историческое открытие: он обнаружил массивный колодец, который привел его к руинам древнего города-государства Эшнунна.
 

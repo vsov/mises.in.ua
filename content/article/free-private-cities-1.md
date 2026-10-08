@@ -6,7 +6,7 @@ date: 2025-09-15T18:13:58+03:00
 tags: ["частное право, безопасность и частное управление", "капитализм, рынки и предпринимательство", "Free Private Cities"]
 draft: false
 ---
-![](https://free-cities.org/wp-content/uploads/2022/05/covertitus-707x1024-1.png)
+![](/images/articles/cbc5bcb295b97e75d66715c8f0201a9db4cc7eb19948db54cb0a7c901555cf5a.png)
 
 > Титус Гебель, глава 1 из книги [Free Private Cities, Making Government Compete For You](https://www.amazon.com/Free-Private-Cities-Making-Government)
 

@@ -6,7 +6,7 @@ date: 2022-02-16T12:38:00+03:00
 tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
-![](https://fee.org/media/41202/33561650218_e4cb9b77f8_b.jpg?anchor=center&mode=crop&width=1200&rnd=132888082750000000)
+![](/images/articles/dc85e8f5b241936f86ab9671860153d0cecc4f0620860ff9808f3dfad7bd7f78.jpg)
 
 Предприниматель-миллионер Марк Кьюбан недавно объявил о своей последней инновации, которая должна привлечь внимание американцев. Это предприятие представляет собой онлайн-аптеку [дженериков](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%BA), которая устраняет из игры посредников (страховые компании, [PBM](https://truveris.com/what-is-a-pharmacy-benefit-manager-pbm-and-how-does-a-pbm-impact-the-pharmacy-benefits-ecosystem/) и т.д.) и создает более прозрачные цены для потребителей.
 

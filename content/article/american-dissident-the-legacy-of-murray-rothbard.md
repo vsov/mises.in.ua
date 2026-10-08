@@ -6,7 +6,7 @@ date: 2023-03-08T17:56:38+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://fee.org/media/9636/20130903_rothbarddetail2.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131303471370000000)
+![](/images/articles/2cf2375e21c636b5b109aab9f0a3ce5eb357f5d7d4401af34b06891d1a499762.webp)
 
 Мюррею Ньютону Ротбарду, возможно, самому большому врагу государства второй половины XX века, сегодня исполнилось бы 97 лет.
 

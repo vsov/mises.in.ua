@@ -6,7 +6,7 @@ date: 2024-01-05T15:34:29+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226818306.jpg/jcr:content/9780226818306.jpg)
+![](/images/articles/ea772ba5cc602bf686473f5e38bf21a883aa7e6a81cd68664d50f129e1890358.jpg)
 
 [Beyond Positivism, Behaviorism, and Neoinstitutionalism in Economics](https://press.uchicago.edu/ucp/books/book/chicago/B/bo145786166.html) by Deirdre Nansen McCloskey, University of Chicago Press, 2022; 222 pp.
 

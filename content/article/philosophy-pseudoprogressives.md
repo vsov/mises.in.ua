@@ -6,7 +6,7 @@ date: 2022-09-07T11:53:53+03:00
 tags: ["история свободы и экономическая история"]
 draft: false
 ---
-![](https://fee.org/media/35155/mises-planning-for-freedom.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132097534030000000)
+![](/images/articles/b220942095f1c622868040a3e7c4b0a6004d2b607d6cb093a671b73470f64a6c.webp)
 
 ## 1. Две линии марксистской мысли и политики
 

@@ -7,7 +7,7 @@ tags: ["наука, экспертиза и данные", "COVID-19, локда
 draft: false
 ---
 
-![](https://www.aier.org/wp-content/uploads/2020/11/fedup-1536x975.jpg)
+![](/images/articles/f50c7316c27299def1536120970827890db64a1bbfc681a23cfaa5aaf8d54a89.jpg)
 
 Игра в охоту на "случаи Covid" достигла пика абсурда, особенно в медиа-культуре.
 

@@ -6,7 +6,7 @@ date: 2020-11-30T14:00:00+03:00
 tags: ["COVID-19, локдауны и вакцинная политика", "наука, экспертиза и данные"]
 draft: false
 ---
-![](https://planful.com/wp-content/uploads/accountant_struggling-505827-edited.jpg)
+![](/images/articles/83f1a8c8c29620433efa2280a92b45bc1d75de52579a0b6426b2167f893024df.jpg)
 
 На момент написания этой статьи Соединенные Штаты занимают [11 место по количеству смертей от COVID-19 на душу населения](https://www.statista.com/statistics/1104709/coronavirus-deaths-worldwide-per-million-inhabitants/). В Соединенных Штатах было зарегистрировано около 262000 смертей от Covid-19, что не может не вызывать беспокойства.
 

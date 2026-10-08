@@ -7,7 +7,7 @@ tags: ["наука, экспертиза и данные", "демократия
 draft: false
 ---
 
-![](https://fee.org/media/31998/harvard-university.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131971363660000000)
+![](/images/articles/481d3757333ee30b75ddc2e278aacb289004a542bed98a46ec4e4f24b2ec7295.webp)
 
 "Разрыв в оплате труда между женщинами и мужчинами еще хуже, чем считалось: исследование показывает, что женщины на самом деле зарабатывают вдвое меньше мужчин", --- [объявил](https://www.nbcnews.com/business/business-news/gender-pay-gap-worse-thought-study-shows-women-actually-earn-n941626) недавно телеканал NBC, ссылаясь на доклад под названием ["Все еще мужской рынок труда",](https://iwpr.org/wp-content/uploads/2018/11/C474_IWPR-Still-a-Mans-Labor-Market-update-2018-1.pdf) подготовленный вашингтонским Институтом исследований политики в отношении женщин, который утверждает, что доходы женщин на 51% меньше, чем доходы мужчин.
 

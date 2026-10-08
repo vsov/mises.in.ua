@@ -5,7 +5,7 @@ date: 2020-12-03T00:20:00+03:00
 tags: ["Этан Янг"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2020/11/progress-1536x975.jpg)
+![](/images/articles/7afd16d7ef3f2983c2eac287ea0d6a81bd24816bed4ef6eb69a5f2dc3b673433.jpg)
 
 Известный американский писатель Марк Твен однажды сказал: "История никогда не повторяется, но часто рифмуется".
 

@@ -6,7 +6,7 @@ date: 2021-03-29T10:00:00+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/03/yachting-800x508.jpg)
+![](/images/articles/583849f15617cba10eac5e9ac0c94baea103aa226c1d09a42aa7abd4bd20487c.jpg)
 
 
 В очень коротком эссе Мишель де Монтень утверждает, что "что прибыль одного человека является потерей другого", я воспроизвожу его целиком со стр. 239-40 [этого издания:](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/107/0963-01_Bk.pdf)

@@ -6,7 +6,7 @@ date: 2022-11-02T12:06:28+03:00
 tags: ["социализм, марксизм и антикапитализм", "Райнер Цительман"]
 draft: false
 ---
-![](https://fee.org/media/41997/east-germany-west-germany_pollution.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133044383760000000)
+![](/images/articles/5e614efb0483122cc7c9054b40e1cb876ac9b2d5aa2c5b626cb4994e5241c29c.webp)
 
 Среди фактов, которые содержит документального фильма "Жизнь за Берлинской стеной" есть и такой: граждане Восточной Германии должны были ждать от 12 до 17 лет, чтобы купить Trabi [(самый плохой автомобиль в мире),](https://fee.org/articles/the-worst-car-ever-a-brief-history-of-the-trabant/) в то время как западные немцы могли прийти в автосалон и уехать на новой машине в тот же день.
 

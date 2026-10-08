@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![](https://fee.org/media/43397/21081473938_041d20b93c_o.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133446427870000000)
+![](/images/articles/00c8e0efbd344b290b934830dd1def0d7e90fe865ce1901da38bf4460af985a2.webp)
 
 В своей новой книге профессор Гарвардского университета Наоми Орескес и историк Эрик М. Конвей называют FEE одной из злодейских организаций, продвигающих радикальную идеологию свободного рынка. Книга называется ["Большой миф"](https://www.amazon.com/Big-Myth-American-Business-Government/dp/1635573572) и вышла в издательстве [Bloomsbury Publishing](https://www.bloomsbury.com/us/big-myth-9781635573572/) 21 февраля 2023 года.
 

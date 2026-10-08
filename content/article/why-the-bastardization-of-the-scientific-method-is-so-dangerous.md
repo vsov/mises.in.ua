@@ -7,7 +7,7 @@ tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 
-![](https://fee.org/media/41054/science_method.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132856846090000000)
+![](/images/articles/0e4a49ad82586e2e79785e636db77503b8b1ef567443f70ef77154a3cffcac68.webp)
 
 Последнее десятилетие наблюдается сдвиг в восприятии роли науки.  Нас призывают ["верить в науку"](https://www.scientificamerican.com/article/hillary-clinton-declares-i-believe-in-science/) и утверждают, что существует ["устоявшаяся наука".](https://www.spokesman.com/stories/2021/aug/24/mask-science--settled/)
 

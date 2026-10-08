@@ -6,7 +6,7 @@ date: 2025-03-25T20:04:34+03:00
 tags: ["государство, бюрократия и регуляторы", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2024/11/Elon-Musk-Bureaucracy-scaled.jpg)
+![](/images/articles/bc2a198a4365e9867ffc517d4ef4cb1e62895c483f3aade22b9e8ed57d2fdaf0.jpg)
 
 Недавние выборы, которые привели к переходу исполнительной власти [от демократов к республиканцам](https://edition.cnn.com/2024/11/07/politics/donald-trump-government-what-matters/index.html), являются важным событием. Многие из моих друзей считают, что все наши проблемы будут решены, если заменить «их» людей на «[наших](https://www.nbcnews.com/tech/tech-news/elon-musk-trump-endorses-pac-administration-cabinet-connection-rcna178549)».  
 

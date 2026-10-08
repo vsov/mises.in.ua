@@ -6,7 +6,7 @@ date: 2022-01-12T12:40:00+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://upload.wikimedia.org/wikipedia/commons/9/98/CarlMenger.png)
+![](/images/articles/da81591137e0359d15ddff7543cd55ae517fbfbdcffd6a0dd3ac155d0f925c5d.png)
 
 Экономисты австрийской школы отказываются от эмпирического анализа в пользу дедуктивных, априорных рассуждений. Они не верят в [предсказания.](https://organizationsandmarkets.com/2007/09/04/what-does-austrian-economics-predict/) Неоклассические экономисты, напротив, одобряют "научный метод" строгой эмпирической проверки. Вы тоже слышали об этом, верно?
 

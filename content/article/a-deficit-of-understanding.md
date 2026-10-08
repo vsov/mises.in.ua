@@ -6,7 +6,7 @@ date: 2023-01-27T15:00:06+03:00
 tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
-![](https://fee.org/media/24472/shutterstock_601378769.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131484827080000000)
+![](/images/articles/9cb631c9792f34cc7ed1c5e5d24ef5c7da3b55ab74f82d051c60da1ede95e56a.webp)
 
 > __"Ничто, однако, не может быть более абсурдным, чем вся эта доктрина торгового баланса".__ --- _Адам Смит "Богатство народов"_
 

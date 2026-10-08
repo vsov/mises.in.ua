@@ -6,7 +6,7 @@ date: 2021-06-30T10:00:00+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://fee.org/media/39877/screen-shot-2021-06-22-at-92708-am.png?anchor=center&mode=crop&width=900&format=webp&rnd=132688276670000000)
+![](/images/articles/5927b9de0ce3031c554fbb973c0acdb07b834531eaf2b5b788b294e61e9254d7.webp)
 
 "Где мы поужинаем завтра?" --- спросила моя жена, когда мы сидели на веранде в пятницу вечером.
 

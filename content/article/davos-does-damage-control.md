@@ -6,7 +6,7 @@ date: 2025-01-24T18:18:33+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2025/01/Shutterstock_1802407147.jpg)
+![](/images/articles/fe22e1e41cd79453a2800842bbe9d830da5a11a2e73f4425e6745a90193d98f3.jpg)
 
 Вы могли и не заметить эту информацию, но на этой неделе лидеры со всего мира собрались в Давосе, Швейцария, для участия в ежегодной конференции Всемирного экономического форума (ВЭФ). Эта конференция служит основной площадкой для продвижения глобалистской политики ESG по всему миру. Темы недавних конференций включали [«Сохранение планеты»](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2025/themes/safeguarding-the-planet/) и [«Восстановление доверия»](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2025/themes/rebuilding-trust/). Независимо от темы, участники берут на себя миссию спасти мир от самого себя.  
 
