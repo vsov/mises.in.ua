@@ -1,8 +1,9 @@
 ---
 title: "Анархистский эксперимент в Пенсильвании: 1681-1690"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2023-07-24T13:41:05+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/Treaty_of_Penn_with_Indians_by_Benjamin_West_cropped.jpg?itok=77oXA9Ia)

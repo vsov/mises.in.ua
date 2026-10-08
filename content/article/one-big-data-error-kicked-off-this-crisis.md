@@ -1,8 +1,9 @@
 ---
 title: "Начало кризису положила ошибка в данных"
 author: "Джоэл Хиршхорн"
+authors: ["Джоэл Хиршхорн"]
 date: 2021-10-18T11:00:00+03:00
-tags: ["Джоэл Хиршхорн"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2021/10/shutterstock_99136508-800x469.jpg)

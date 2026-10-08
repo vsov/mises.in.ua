@@ -1,8 +1,9 @@
 ---
 title: "Разница между экологией и экономикой"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2020-06-17T20:52:27+03:00
-tags: ["Хоаким Бук"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/canetoad.PNG?itok=gNyYN2QB)

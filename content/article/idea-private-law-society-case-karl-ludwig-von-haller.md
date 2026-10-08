@@ -1,8 +1,9 @@
 ---
 title: "Идея общества частного права: дело Карла Людвига фон Галлера"
 author: "Ханс Херман Хоппе"
+authors: ["Ханс Херман Хоппе"]
 date: 2022-01-03T12:54:00+03:00
-tags: ["Ханс Херман Хоппе"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/img_1399.jpg?itok=M19WKMe_)

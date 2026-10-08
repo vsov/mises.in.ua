@@ -1,8 +1,9 @@
 ---
 title: "Анатомия моральной паники"
 author: "Стивен Дэвис"
+authors: ["Стивен Дэвис"]
 date: 2021-12-20T13:35:00+03:00
-tags: ["Стивен Дэвис"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2019/02/screaming.jpg)

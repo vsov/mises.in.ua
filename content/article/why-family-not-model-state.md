@@ -1,8 +1,9 @@
 ---
 title: "Почему семья не является моделью для государства"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2024-11-01T18:41:21+03:00
-tags: ["Райен МакМакен"]
+tags: ["государство, бюрократия и регуляторы", "наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-09/AdobeStock_233178668.jpeg.webp?itok=ZRzG-FPb)

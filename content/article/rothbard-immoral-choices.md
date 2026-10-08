@@ -1,8 +1,9 @@
 ---
 title: "Ротбард об аморальном выборе"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2022-01-31T13:20:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2018-11/1115_morality.jpg?itok=nqfx-56i)

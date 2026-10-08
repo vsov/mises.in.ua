@@ -1,8 +1,9 @@
 ---
 title: "Индейцы, права собственности и Айн Рэнд"
 author: "Лоуренс Рид"
+authors: ["Лоуренс Рид"]
 date: 2024-02-05T13:04:50+03:00
-tags: ["Лоуренс Рид"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://fee.org/media/43456/painting-1023411.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133477378610000000)

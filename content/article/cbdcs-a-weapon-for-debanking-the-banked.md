@@ -1,8 +1,9 @@
 ---
 title: "CBDC: оружие для разбанковывания забанкованых"
 author: "Эмиль Фано III"
+authors: ["Эмиль Фано III"]
 date: 2023-08-11T19:25:08+03:00
-tags: ["Эмиль Фано III"]
+tags: ["деньги и банковская система", "биткоин, криптовалюты и CBDC", "война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/07/Shutterstock_2044354502-1536x975.jpg&nocache=1)

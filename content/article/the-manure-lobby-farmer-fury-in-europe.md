@@ -1,8 +1,9 @@
 ---
 title: "Навозное лобби: Ярость фермеров в Европе"
 author: "Пол Швененсен"
+authors: ["Пол Швененсен"]
 date: 2024-02-23T22:39:28+03:00
-tags: ["Пол Швененсен"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/02/Shutterstock_2411367465-1-1536x975.jpg&nocache=1)

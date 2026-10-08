@@ -1,8 +1,9 @@
 ---
 title: "В защиту сговора"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2023-08-18T14:19:52+03:00
-tags: ["Дональд Бодро"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/07/Shutterstock_101127469-1-800x508.jpg&nocache=1)

@@ -1,6 +1,8 @@
 {{ $pageTitle := .Title }}
 {{ if or (eq .Title "Tags") (and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Plural "tags")) }}
   {{ $pageTitle = "Теги" }}
+{{ else if or (eq .Title "Authors") (and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Plural "authors")) }}
+  {{ $pageTitle = "Авторы" }}
 {{ end }}
 {{ $description := site.Params.description }}
 {{ if .Params.description }}
@@ -23,7 +25,7 @@
 {{ end }}
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
-{{ if eq $pageTitle "Теги" }}
-  <meta property="og:title" content="Теги">
-  <meta name="twitter:title" content="Теги">
+{{ if or (eq $pageTitle "Теги") (eq $pageTitle "Авторы") }}
+  <meta property="og:title" content="{{ $pageTitle }}">
+  <meta name="twitter:title" content="{{ $pageTitle }}">
 {{ end }}

@@ -1,8 +1,9 @@
 ---
 title: "Этика анти-жизни"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2021-09-09T13:00:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://www.philosophy.ox.ac.uk/sites/default/files/philosophy/images/media/roger_crisp_2_0.jpg)

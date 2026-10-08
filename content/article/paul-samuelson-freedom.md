@@ -1,8 +1,9 @@
 ---
 title: "Пол Самуэльсон о свободе"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2021-09-03T17:00:00+03:00
-tags: [Дэвид Гордон"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VpDSq53i3STkIxjiyFnsYZfTP4AfM4NUsQ&usqp=CAU)

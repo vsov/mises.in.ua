@@ -1,8 +1,9 @@
 ---
 title: "Законодательство против иерархий"
 author: "Даниэль Морена Витон"
+authors: ["Даниэль Морена Витон"]
 date: 2025-11-05T17:07:48+03:00
-tags: ["Даниэль Морена Витон"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Hierarchy.jpeg.webp?itok=wJM_lJNd)

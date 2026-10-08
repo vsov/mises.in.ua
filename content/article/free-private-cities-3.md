@@ -1,8 +1,9 @@
 ---
 title: "Часть 1. Закладывая основу. Глава 3. Три новые страны: готовы к разнообразию? "
 author: "Титус Гебель"
+authors: ["Титус Гебель"]
 date: 2025-11-12T12:08:01+03:00
-tags: ["Титус Гебель", "Free Private Cities"]
+tags: ["частное право, безопасность и частное управление", "Free Private Cities"]
 draft: false
 ---
 ![](https://free-cities.org/wp-content/uploads/2022/05/covertitus-707x1024-1.png)

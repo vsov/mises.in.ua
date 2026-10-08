@@ -1,8 +1,9 @@
 ---
 title: "Австрийские экономисты и эмпиризм"
 author: "Артур Марион Сиолин"
+authors: ["Артур Марион Сиолин"]
 date: 2023-05-03T11:17:07+03:00
-tags: ["Артур Марион Сиолин"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/openbook-w.jpg?itok=i3hsrDvQ)

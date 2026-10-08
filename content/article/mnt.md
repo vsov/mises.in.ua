@@ -1,8 +1,9 @@
 ---
 title: "ММТ: не современная, не монетарная, не теория"
 author: "Джефф Дейст"
+authors: ["Джефф Дейст"]
 date: 2020-06-27T23:52:27+03:00
-tags: ["Джефф Дейст"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/list_teaser/s3/static-page/img/disin1.png?itok=KWQqv33N)

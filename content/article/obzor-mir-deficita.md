@@ -1,8 +1,9 @@
 ---
 title: "Обзор книги Стефани Келтон «Миф дефицита»"
 author: "Роберт Мерфи"
+authors: ["Роберт Мерфи"]
 date: 2020-07-07T15:52:27+03:00
-tags: ["Роберт Мерфи", "Стефани Келтон"]
+tags: ["налоги, долг и госрасходы", "Стефани Келтон"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/deficit_small.jpg?itok=ag8ci06W)

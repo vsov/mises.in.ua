@@ -1,8 +1,9 @@
 ---
 title: "Норвежский налог на богатство дает обратный эффект. Обратят ли американцы на это внимание?"
 author: "Джон Милтмор"
+authors: ["Джон Милтмор"]
 date: 2023-10-18T13:51:09+03:00
-tags: ["Джон Милтмор"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/06/Shutterstock_245322604-1536x975.jpg&nocache=1)

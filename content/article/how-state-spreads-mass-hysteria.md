@@ -1,8 +1,9 @@
 ---
 title: "Как государство раздувает массовую истерию"
 author: "Филип Багус"
+authors: ["Филип Багус"]
 date: 2020-12-21T13:00:00+03:00
-tags: ["Филип Багус"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/hysteria-wire.jpg?itok=w5BlMqYG)

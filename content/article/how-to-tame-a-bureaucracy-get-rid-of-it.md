@@ -1,8 +1,9 @@
 ---
 title: "Как укротить бюрократию? Избавиться от неё."
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2022-09-16T14:16:44+03:00
-tags: ["Джеффри Такер"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2022/08/Shutterstock_433715983.jpg)

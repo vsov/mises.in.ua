@@ -1,8 +1,9 @@
 ---
 title: "Большая перезагрузка, часть IV: \"Капитализм стейкхолдеров\" против \"неолиберализма\""
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-11-17T12:11:00+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://fee.org/media/38966/economic-fascism_stakeholder-capitalism.jpg?anchor=center&mode=crop&height=466&widthratio=2.0171673819742489270386266094&rnd=132554627140000000)

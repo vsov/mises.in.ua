@@ -1,8 +1,9 @@
 ---
 title: "Древнекитайская либертарианская традиция"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2022-04-21T11:12:15+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/chinese-landscape-wire.jpg?itok=scTua2l_)

@@ -1,8 +1,9 @@
 ---
 title: "Невежественный мир и что с этим делать"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2021-05-10T14:00:00+03:00
-tags: ["Хоаким Бук"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/04/planetb-800x508.jpg)

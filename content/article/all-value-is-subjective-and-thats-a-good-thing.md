@@ -1,8 +1,9 @@
 ---
 title: "Любая ценность субъективна, и это хорошо"
 author: "Джеймс Хэнли"
+authors: ["Джеймс Хэнли"]
 date: 2021-12-10T09:47:00+03:00
-tags: ["Джеймс Хэнли"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/10/goldeggnest-800x508.jpg)

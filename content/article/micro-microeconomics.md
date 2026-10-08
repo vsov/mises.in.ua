@@ -1,8 +1,9 @@
 ---
 title: "Микро-микроэкономика"
 author: "Калеб Фуллер"
+authors: ["Калеб Фуллер"]
 date: 2022-10-10T13:24:18+03:00
-tags: ["Калеб Фуллер"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/07/magnifyingglass.jpg)

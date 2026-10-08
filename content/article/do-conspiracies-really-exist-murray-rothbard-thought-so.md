@@ -1,8 +1,9 @@
 ---
 title: "Существуют ли заговоры на самом деле? Мюррей Ротбард считал, что да"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2022-04-26T12:06:57+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/conspiracy-wire.jpg?itok=MmgghpqA)

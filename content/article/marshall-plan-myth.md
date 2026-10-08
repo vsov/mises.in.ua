@@ -1,8 +1,9 @@
 ---
 title: "Миф о плане Маршала"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2022-05-04T11:34:09+03:00
-tags: ["Джеффри Такер"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2018/12/marshallplan-1200x750.jpg)

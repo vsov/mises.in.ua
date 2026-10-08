@@ -1,8 +1,9 @@
 ---
 title: "Глупость криминализации «ненависти»"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-10-07T12:40:17+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-09/AdobeStock_Hate%20crime.jpeg.webp?itok=nzGoxPMX)

@@ -1,8 +1,9 @@
 ---
 title: "О жизни в гармонии с природой"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2021-05-07T11:00:00+03:00
-tags: ["Дональд Бодро"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/01/harmonygirl-800x508.jpg)

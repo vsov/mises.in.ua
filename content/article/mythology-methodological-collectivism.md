@@ -1,8 +1,9 @@
 ---
 title: "Мифология методологического коллективизма"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2025-07-28T17:20:01+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["австрийская школа и праксеология", "социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-06/AdobeStock_Collectivism.jpeg.webp?itok=ygM3sVCo)

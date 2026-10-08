@@ -1,8 +1,9 @@
 ---
 title: "Кислотные дожди и научно-промышленный комплекс"
 author: "Уилльям Л. Андерсон"
+authors: ["Уилльям Л. Андерсон"]
 date: 2021-12-22T13:42:00+03:00
-tags: ["Уилльям Л. Андерсон"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/rain-wire.jpg?itok=HNnsSiJb)

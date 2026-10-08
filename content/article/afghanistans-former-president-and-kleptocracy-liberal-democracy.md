@@ -1,8 +1,9 @@
 ---
 title: "Бывший президент Афганистана и клептократия \"либеральной демократии\""
 author: "Зо Бишоп"
+authors: ["Зо Бишоп"]
 date: 2021-08-23T11:00:00+03:00
-tags: ["Зо Бишоп"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/08/16/991062-afghan-president-reuters.jpg)

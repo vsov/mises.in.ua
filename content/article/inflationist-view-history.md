@@ -1,8 +1,9 @@
 ---
 title: "Инфляционистский взгляд на историю"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2025-03-19T15:01:31+03:00
-tags: ["Дэвид Гордон"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-03/FridayPhilosophy_4x3_20240307.jpg.webp?itok=cuNgR3Ol)

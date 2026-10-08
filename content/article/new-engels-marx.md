@@ -1,8 +1,9 @@
 ---
 title: "Новый «Энгельс» о Марксе"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-10-25T16:45:10+03:00
-tags: ["Дэвид Гордон"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://images.routledge.com/common/jackets/amazon/978113893/9781138938519.jpg)

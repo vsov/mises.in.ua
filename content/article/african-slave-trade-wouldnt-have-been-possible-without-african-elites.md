@@ -1,8 +1,9 @@
 ---
 title: "Африканская работорговля была бы невозможна без африканской элиты"
 author: "Липтон Мэтьюз"
+authors: ["Липтон Мэтьюз"]
 date: 2022-10-03T12:09:00+03:00
-tags: ["Липтон Мэтьюз"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/african_hand-wire.jpg?itok=-uNBlKdm)

@@ -1,8 +1,9 @@
 ---
 title: "Австро-либертарный антивоенный анализ неприятно напоминает кейнсианство"
 author: "Одед Дж. К. Фаран"
+authors: ["Одед Дж. К. Фаран"]
 date: 2025-07-18T17:49:36+03:00
-tags: ["Одед Дж. К. Фаран"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://substackcdn.com/image/fetch/$s_!SumD!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F314ec7c6-4a19-469f-aaed-c026194d2c8b_1536x1024.png)

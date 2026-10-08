@@ -1,8 +1,9 @@
 ---
 title: "Что «устойчивое развитие» упускает из виду"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2021-04-02T11:00:00+03:00
-tags: ["Хоаким Бук"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/02/planthand-800x508.jpg)

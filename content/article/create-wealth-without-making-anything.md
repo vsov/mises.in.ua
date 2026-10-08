@@ -1,8 +1,9 @@
 ---
 title: "Создавайте богатство, не делая вещей"
 author: "Арт Карден"
+authors: ["Арт Карден"]
 date: 2024-05-27T13:47:20+03:00
-tags: ["Арт Карден"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/02/Shutterstock_217839946-1536x975.jpg&nocache=1)

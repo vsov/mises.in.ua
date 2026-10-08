@@ -1,8 +1,9 @@
 ---
 title: "Почему худшие приходят к власти: сравнительные преимущества"
 author: "Роберт Хиггс"
+authors: ["Роберт Хиггс"]
 date: 2020-11-11T13:00:00+03:00
-tags: ["Роберт Хиггс"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://www.rebelyid.com/wp-content/uploads/hitler-nazi-rally.jpg)

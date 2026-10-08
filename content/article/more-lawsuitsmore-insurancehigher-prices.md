@@ -1,8 +1,9 @@
 ---
 title: "Больше исков = больше страховок = выше цены"
 author: "Скотт Байер"
+authors: ["Скотт Байер"]
 date: 2025-11-24T11:49:07+03:00
-tags: ["Скотт Байер"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://www.independent.org/wp-content/uploads/article/2025/08/Low-end_EF3_damage_to_a_home_in_Virginia_Beach_Virginia-3.jpg)

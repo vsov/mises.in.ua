@@ -1,8 +1,9 @@
 ---
 title: "Ричард Кобден: образец сторонника свободы, собственности и мира"
 author: "Гэри Геллес"
+authors: ["Гэри Геллес"]
 date: 2020-06-10T12:52:27+03:00
-tags: ["Гэри Геллес"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/cobden.png?itok=zvaX0Nbt)

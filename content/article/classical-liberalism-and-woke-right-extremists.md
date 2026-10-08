@@ -1,8 +1,9 @@
 ---
 title: "Классический либерализм и правые вок-экстремисты"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2025-10-15T11:46:38+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Woke.jpeg.webp?itok=3KyNMpDW)

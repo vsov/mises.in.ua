@@ -1,8 +1,9 @@
 ---
 title: "Провалы экономической политики администрации Трампа"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2021-01-27T17:00:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/01/whitehousedark-800x508.jpg)

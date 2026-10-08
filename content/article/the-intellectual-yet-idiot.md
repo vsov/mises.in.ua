@@ -1,10 +1,10 @@
 +++
-author = "Нассим Талеб"
-date = "2016-11-08T14:15:11+02:00"
-draft = false
-tags = ["Нассим Талеб"]
 title = "Интеллектуальный идиот"
-
+author = "Нассим Талеб"
+authors = ["Нассим Талеб"]
+date = "2016-11-08T14:15:11+02:00"
+tags = ["наука, экспертиза и данные"]
+draft = false
 +++
 
 ![](https://www.fabioporrino.it/wp-content/uploads/2020/07/pecore-intellettuali-ma-idioti.jpg)

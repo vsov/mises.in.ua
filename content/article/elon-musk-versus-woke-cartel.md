@@ -1,8 +1,9 @@
 ---
 title: "Илон Маск против картеля воков"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2022-06-06T11:34:01+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/elon-musk-wire_0.jpg?itok=4NmBLFFN)

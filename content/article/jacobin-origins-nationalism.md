@@ -1,8 +1,9 @@
 ---
 title: "Якобинские корни национализма"
 author: "Лукас Орган"
+authors: ["Лукас Орган"]
 date: 2025-01-13T13:48:24+03:00
-tags: ["Лукас Орган"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-12/AdobeStock_Jacobin%20Bastille.jpeg.webp?itok=aTwnffMb)

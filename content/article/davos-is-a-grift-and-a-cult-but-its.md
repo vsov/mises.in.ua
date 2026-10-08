@@ -1,8 +1,9 @@
 ---
 title: "Давос — это культ, это мошенничество и это заявка на глобальное господство"
 author: "Майкл Шеленбергер, Изабелла Каминска"
+authors: ["Майкл Шеленбергер", "Изабелла Каминска"]
 date: 2023-01-18T18:49:09+03:00
-tags: ["Майкл Шеленбергер", "Изабелла Каминска"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce884a34-d205-4df6-8918-f939461db155_2048x1195.webp)

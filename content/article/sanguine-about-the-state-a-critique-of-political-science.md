@@ -1,8 +1,9 @@
 ---
 title: "Сангвиник о государстве: Критика политической науки"
 author: "Джеймс И.Хенли"
+authors: ["Джеймс И.Хенли"]
 date: 2023-06-20T15:19:50+03:00
-tags: ["Джеймс И.Хенли"]
+tags: ["наука, экспертиза и данные", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/05/swordscloseup-1536x975.jpg&nocache=1)

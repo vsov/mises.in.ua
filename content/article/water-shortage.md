@@ -1,8 +1,9 @@
 ---
 title: "\"Нехватка\" воды"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2021-09-20T16:00:00+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.ecomena.org/wp-content/uploads/2020/02/water-crisis-pakistan.jpg)

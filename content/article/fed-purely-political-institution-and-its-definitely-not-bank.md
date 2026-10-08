@@ -1,8 +1,9 @@
 ---
 title: "ФРС — это чисто политический институт, и это определенно не банк."
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2023-03-01T10:48:05+03:00
-tags: ["Райен МакМакен"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/fedpic1.jpg?itok=TZcoKG-H)

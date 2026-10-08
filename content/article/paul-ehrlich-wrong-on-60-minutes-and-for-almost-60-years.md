@@ -1,8 +1,9 @@
 ---
 title: "Пол Эрлих: Заблуждался в \"60 минутах\", заблуждался и предыдущие 60 лет"
 author: "Питер Джакобсен"
+authors: ["Питер Джакобсен"]
 date: 2023-01-11T13:53:29+03:00
-tags: ["Питер Джакобсен"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://fee.org/media/42477/1280px-paul_r_ehrlich.png?anchor=center&mode=crop&width=900&format=webp&rnd=133173111770000000)

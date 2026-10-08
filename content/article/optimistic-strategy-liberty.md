@@ -1,8 +1,9 @@
 ---
 title: "Стратегия свободы должна быть одновременно оптимистичной и реалистичной"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-11-04T14:30:57+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-04/LibertyFlag-W.jpg.webp?itok=z5Z1TIRq)

@@ -7,12 +7,12 @@
           <p class="eyebrow">Статья</p>
           <h1>{{ .Title }}</h1>
           <div class="meta-row">
-            {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+            {{ partial "author-links.html" . }}
             <span>{{ .Date.Format "02.01.2006" }}</span>
             <span>{{ .ReadingTime }} мин чтения</span>
             {{ with .WordCount }}<span>{{ . }} слов</span>{{ end }}
           </div>
-          {{ partial "tag-list.html" . }}
+          {{ partial "tag-list-full.html" . }}
         </div>
       </div>
     </header>

@@ -1,8 +1,9 @@
 ---
 title: "Политика не остановит упадок Америки"
 author: "Закари Йост"
+authors: ["Закари Йост"]
 date: 2021-01-25T19:00:00+03:00
-tags: ["Закари Йост"]
+tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/family-wire.jpg?itok=GXFj1-qu)

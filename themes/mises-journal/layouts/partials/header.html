@@ -7,7 +7,8 @@
 
     <nav class="site-nav" aria-label="Основная навигация">
       <a class="{{ if .IsHome }}is-active{{ end }}" href="{{ "/" | relLangURL }}">Главная</a>
-      <a class="{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}is-active{{ end }}" href="{{ "/tags/" | relLangURL }}">Теги</a>
+      <a class="{{ if and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Plural "tags") }}is-active{{ end }}" href="{{ "/tags/" | relLangURL }}">Теги</a>
+      <a class="{{ if and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Plural "authors") }}is-active{{ end }}" href="{{ "/authors/" | relLangURL }}">Авторы</a>
     </nav>
 
     {{ partial "search.html" . }}

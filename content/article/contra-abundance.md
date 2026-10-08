@@ -1,8 +1,9 @@
 ---
 title: "Против изобилия"
 author: "Пер Байлунд"
+authors: ["Пер Байлунд"]
 date: 2024-06-17T18:19:20+03:00
-tags: ["Пер Байлунд"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/09/Shutterstock_1054297805-1536x975.jpg&nocache=1)

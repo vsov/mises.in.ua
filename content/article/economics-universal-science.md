@@ -1,8 +1,9 @@
 ---
 title: "Экономика как универсальная наука"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-08-14T18:36:09+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-05/TownView-W.jpg.webp?itok=40UiOSQ9)

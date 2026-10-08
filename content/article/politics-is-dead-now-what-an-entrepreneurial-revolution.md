@@ -1,8 +1,9 @@
 ---
 title: "Политика мертва. Что теперь?"
 author: "Макс Бордерс"
+authors: ["Макс Бордерс"]
 date: 2022-02-23T16:23:00+03:00
-tags: ["Макс Бордерс"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/01/powerfulvision-800x508.jpg)

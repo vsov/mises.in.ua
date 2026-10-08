@@ -1,8 +1,9 @@
 ---
 title: "Парадокс кубинского социализма"
 author: "Бенджамин Уильямс"
+authors: ["Бенджамин Уильямс"]
 date: 2024-03-08T12:49:52+03:00
-tags: ["Бенджамин Уильямс"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://fee.org/media/43512/cuba-704068.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133522297570000000)

@@ -1,8 +1,9 @@
 ---
 title: "Владельцы спортзалов Сан-Франциско разгневались, узнав, что государственные спортзалы открыты уже несколько месяцев"
 author: "Джон Милтмор"
+authors: ["Джон Милтмор"]
 date: 2020-09-23T00:00:00+03:00
-tags: ["Джон Милтмор"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://1.bp.blogspot.com/-qjnqhHiWvVQ/UcNDYgF1L1I/AAAAAAAABGU/rhH2eppFemY/s1600/fitness+gym+escalator+ilike4.me.jpg)

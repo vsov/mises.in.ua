@@ -1,8 +1,9 @@
 ---
 title: "План Маршалла: Вымысел и факты"
 author: "Энтони Мюллер"
+authors: ["Энтони Мюллер"]
 date: 2022-05-05T10:26:29+03:00
-tags: ["Энтони Мюллер"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://diletant.media/upload/medialibrary/fba/fba79b1ecfb86be4f743df649661ba24.png)

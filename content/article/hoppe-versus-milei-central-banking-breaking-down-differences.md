@@ -1,8 +1,9 @@
 ---
 title: "Хоппе против Милея по вопросу центрального банкинга: разбор различий"
 author: "Кристофер Маустен-Хансен"
+authors: ["Кристофер Маустен-Хансен"]
 date: 2025-12-19T11:32:37+03:00
-tags: ["Кристофер Маустен-Хансен"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-01/AdobeStock_Central%20Bank%20of%20Argentina.jpeg.webp?h=d95ebba5&itok=femBy6Pw)

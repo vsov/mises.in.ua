@@ -1,8 +1,9 @@
 ---
 title: "Овладение будущим: маниакальные амбиции ВЭФ"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2023-02-03T17:27:34+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/wef-wire.jpg?itok=p8YQo5pK)

@@ -1,8 +1,9 @@
 ---
 title: "Волна анти-ESG поглощений, вдохновленная Маском?"
 author: "Роберт Райт"
+authors: ["Роберт Райт"]
 date: 2022-05-23T11:34:08+03:00
-tags: ["Роберт Райт"]
+tags: ["климат, экология и энергетика", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/05/sharkscircling.jpg)

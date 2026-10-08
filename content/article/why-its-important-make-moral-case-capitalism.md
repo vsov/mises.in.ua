@@ -1,8 +1,9 @@
 ---
 title: "Почему важны моральные аргументы в пользу капитализма"
 author: "Липтон Мэттьюс"
+authors: ["Липтон Мэттьюс"]
 date: 2020-12-30T11:00:00+03:00
-tags: ["Липтон Мэттьюс"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/choices-wire.jpg?itok=ceAf5QYE)

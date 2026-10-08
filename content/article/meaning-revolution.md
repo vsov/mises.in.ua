@@ -1,8 +1,9 @@
 ---
 title: "Смысл слова \"революция\""
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2026-01-16T20:24:25+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-11/AdobeStock_34042766.jpeg.webp?h=4e472d88&itok=4SoMr25X)

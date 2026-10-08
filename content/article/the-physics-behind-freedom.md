@@ -1,8 +1,9 @@
 ---
 title: "Физика, стоящая за свободой"
 author: "Этан Янг"
+authors: ["Этан Янг"]
 date: 2021-03-31T11:00:00+03:00
-tags: ["Этан Янг"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/01/physics-800x508.jpg)

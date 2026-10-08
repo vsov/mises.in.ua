@@ -1,8 +1,9 @@
 ---
-title: Как производители уничтожили рынок лекарств"
+title: "Как производители уничтожили рынок лекарств\""
 author: "Брайен Гарст"
+authors: ["Брайен Гарст"]
 date: 2023-09-20T10:59:14+03:00
-tags: ["Брайен Гарст"]
+tags: ["здравоохранение, фарма и медицинское регулирование", "капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/07/Shutterstock_721217146-1536x975.jpg&nocache=1)

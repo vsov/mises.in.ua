@@ -1,8 +1,9 @@
 ---
 title: "Свободный рынок игнорирует бедных"
 author: "Гэри Галлес"
+authors: ["Гэри Галлес"]
 date: 2025-08-06T16:57:43+03:00
-tags: ["Гэри Галлес"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.independent.org/wp-content/uploads/article/2025/06/Screenshot_20250612_130244_Gallery1.jpg)

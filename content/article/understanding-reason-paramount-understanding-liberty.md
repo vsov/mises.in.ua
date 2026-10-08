@@ -1,8 +1,9 @@
 ---
 title: "Понимание разума имеет первостепенное значение для понимания свободы"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-07-08T11:26:57+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-05/Brain-W.jpg.webp?itok=JxNSNOJz)

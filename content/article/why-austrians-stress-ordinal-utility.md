@@ -1,8 +1,9 @@
 ---
 title: "Почему австрийцы настаивают на ординальной полезности"
 author: "Роберт Мерфи"
+authors: ["Роберт Мерфи"]
 date: 2022-02-11T16:24:00+03:00
-tags: ["Роберт Мерфи"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/blur_chocolate_close_up_cold_colored_cone_cream_dairy_product-1529843.jpg?itok=dgONC4Gm)

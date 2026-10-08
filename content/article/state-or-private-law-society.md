@@ -1,8 +1,9 @@
 ---
 title: "Государство или общество частного права"
 author: "Ганс-Герман Хоппе"
+authors: ["Ганс-Герман Хоппе"]
 date: 2024-10-18T19:59:45+03:00
-tags: ["Ганс-Герман Хоппе"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/Hoppe.jpg.webp?itok=_1lYrEYH)

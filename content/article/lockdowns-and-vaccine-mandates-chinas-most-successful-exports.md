@@ -1,8 +1,9 @@
 ---
 title: "Локдауны и принудительная вакцинация: самая успешная экспортная статья Китая"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-09-22T17:00:00+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/double-mask-wire.jpg?itok=KQWIfHGW)

@@ -1,8 +1,9 @@
 ---
 title: "Внутри климатической церкви"
 author: "Роберт Бредли"
+authors: ["Роберт Бредли"]
 date: 2022-06-20T09:46:51+03:00
-tags: ["Роберт Бредли"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/04/pagan.jpg)

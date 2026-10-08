@@ -2,7 +2,7 @@
 title: "США должны вооружить Украину сейчас, пока не стало слишком поздно"
 author: ""
 date: 2022-08-19T17:06:16+03:00
-tags: ["", ""]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://ukrainetodayorg.files.wordpress.com/2022/08/img_8406.jpg)

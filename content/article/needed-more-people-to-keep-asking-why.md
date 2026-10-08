@@ -1,8 +1,9 @@
 ---
 title: "Нам требуется больше людей, которые будут спрашивать: \"почему?\""
 author: "Гэри М. Гэлес"
+authors: ["Гэри М. Гэлес"]
 date: 2023-12-01T17:43:33+03:00
-tags: ["Гэри М. Гэлес"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/09/Shutterstock_1204923016-1-1536x975.jpg&nocache=1)

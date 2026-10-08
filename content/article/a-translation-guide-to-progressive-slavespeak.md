@@ -1,8 +1,9 @@
 ---
 title: "Путеводитель по переводу прогрессивного рабояза"
 author: "Дэвид Зандер"
+authors: ["Дэвид Зандер"]
 date: 2025-07-09T10:53:45+03:00
-tags: ["Дэвид Зандер"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2024/01/Shutterstock_1130780366.jpg)

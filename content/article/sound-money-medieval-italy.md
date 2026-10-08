@@ -1,8 +1,9 @@
 ---
 title: "Твердые деньги в средневековой Италии"
 author: "Джозеф Солис-Мюллен"
+authors: ["Джозеф Солис-Мюллен"]
 date: 2026-01-05T12:17:15+03:00
-tags: ["Джозеф Солис-Мюллен"]
+tags: ["деньги и банковская система", "история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-09/AdobeStock_Medieval%20Italy.jpeg.webp?h=626511b8&itok=54P6T1EI)

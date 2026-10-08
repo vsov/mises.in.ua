@@ -1,8 +1,9 @@
 ---
 title: "Заблуждение \"общественного сектора\""
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2025-03-12T17:25:38+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/redtape_0.JPG.webp?itok=H8tEwhBu)

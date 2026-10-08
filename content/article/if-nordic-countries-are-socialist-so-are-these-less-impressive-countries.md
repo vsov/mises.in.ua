@@ -1,8 +1,9 @@
 ---
 title: "Если в скандинавских странах социализм, то и в этих странах тоже "
 author: "Эбен Макдональд"
+authors: ["Эбен Макдональд"]
 date: 2021-04-23T11:00:00+03:00
-tags: ["Эбен Макдональд"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/faroe-islands-wire.jpg?itok=5OqtNjm2)

@@ -1,8 +1,9 @@
 ---
 title: "Почему экономистов австрийской школы не берут на работу в качестве политических консультантов"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2023-03-06T12:04:09+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["австрийская школа и праксеология", "культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/02/planningthewordl-1536x975.jpg&nocache=1)

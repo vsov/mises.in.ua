@@ -1,8 +1,9 @@
 ---
 title: "Беззащитны ли низколежащие острова перед повышением уровня моря?"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2022-08-26T12:41:21+03:00
-tags: ["Хоаким Бук"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.humanprogress.org/wp-content/uploads/2022/06/GettyImages-1206480195.jpg)

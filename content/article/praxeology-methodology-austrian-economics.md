@@ -1,8 +1,9 @@
 ---
 title: "Праксиология: методология австрийской экономической школы"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2024-08-12T22:49:53+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["австрийская школа и праксеология", "культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/RothbardBlackboard.jpg.webp?itok=pPVD7_J1)

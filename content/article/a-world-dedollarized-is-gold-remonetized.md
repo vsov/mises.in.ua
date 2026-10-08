@@ -1,8 +1,9 @@
 ---
 title: "Дедолларизация мира — это ремонетизация золота"
 author: "Питер Эрл"
+authors: ["Питер Эрл"]
 date: 2023-08-09T01:13:33+03:00
-tags: ["Питер Эрл"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/08/Shutterstock_1050061595-800x508.jpg&nocache=1)

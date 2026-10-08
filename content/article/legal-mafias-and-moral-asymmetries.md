@@ -1,8 +1,9 @@
 ---
 title: "Узаконенная мафия и моральные асимметрии"
 author: "Макс Бордерс"
+authors: ["Макс Бордерс"]
 date: 2023-07-19T13:07:46+03:00
-tags: ["Макс Бордерс"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/05/mafioso-800x508.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Арт-рынок. Много шума из ничего"
 author: "Пол Кантор"
+authors: ["Пол Кантор"]
 date: 2021-06-18T11:00:00+03:00
-tags: ["Пол Кантор"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/invisible-painting-wire.jpg?itok=jKEfuwpP)

@@ -1,8 +1,9 @@
 ---
 title: "Базовая этика социализма"
 author: "Адам Мартин"
+authors: ["Адам Мартин"]
 date: 2023-08-16T09:41:59+03:00
-tags: ["Адам Мартин"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/07/Shutterstock_756308962-1536x975.jpg&nocache=1)

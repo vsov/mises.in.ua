@@ -2,12 +2,18 @@
   {{ $heading := .Title }}
   {{ if eq .Data.Plural "tags" }}
     {{ $heading = "Теги" }}
+  {{ else if eq .Data.Plural "authors" }}
+    {{ $heading = "Авторы" }}
+  {{ end }}
+  {{ $description := "Предметный указатель по авторам, темам и сюжетам, встречающимся в библиотеке." }}
+  {{ if eq .Data.Plural "authors" }}
+    {{ $description = "Указатель по авторам переводных и оригинальных материалов библиотеки." }}
   {{ end }}
   <section class="listing-page">
     <header class="listing-page__header">
       <p class="eyebrow">Навигация</p>
       <h1>{{ $heading }}</h1>
-      <p>Предметный указатель по авторам, темам и сюжетам, встречающимся в библиотеке.</p>
+      <p>{{ $description }}</p>
     </header>
 
     <div class="topic-cloud topic-cloud--full">

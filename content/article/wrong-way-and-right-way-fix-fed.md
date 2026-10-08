@@ -1,8 +1,9 @@
 ---
 title: "Правильный и неправильный способы починки ФРС"
 author: "Джозеф Салерно"
+authors: ["Джозеф Салерно"]
 date: 2024-02-14T19:55:33+03:00
-tags: ["Джозеф Салерно"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/article_1-article_3.jpg?itok=szxKkXk8)

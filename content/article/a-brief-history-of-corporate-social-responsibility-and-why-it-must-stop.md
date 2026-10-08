@@ -1,8 +1,9 @@
 ---
 title: "Краткая история корпоративной социальной ответственности — и почему она должна прекратиться"
 author: "Кимберли Джозефсон"
+authors: ["Кимберли Джозефсон"]
 date: 2021-05-28T11:00:00+03:00
-tags: ["Кимберли Джозефсон"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://fee.org/media/39646/corporate-social-responsibility.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132660791300000000)

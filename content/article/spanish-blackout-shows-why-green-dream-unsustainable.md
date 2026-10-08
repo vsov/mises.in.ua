@@ -1,8 +1,9 @@
 ---
 title: "Испанский блэкаут показывает, почему неустойчива \"зеленая мечта\""
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2025-05-07T12:19:25+03:00
-tags: ["Хоаким Бук"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Green%20Dream_0.jpeg.webp?itok=xf-pUrME)

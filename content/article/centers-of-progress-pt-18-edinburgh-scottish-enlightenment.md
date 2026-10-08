@@ -1,8 +1,9 @@
 ---
 title: "Центры прогресса, часть 18: Эдинбург (Шотландское Просвещение)"
 author: "Челси Фоллетт"
+authors: ["Челси Фоллетт"]
 date: 2022-06-17T11:34:00+03:00
-tags: ["Челси Фоллетт"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://www.humanprogress.org/wp-content/uploads/2020/12/Edinburgh-CoP-18-Thumbnail-e1608223620798.jpg)

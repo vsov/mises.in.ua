@@ -1,8 +1,9 @@
 ---
 title: "Хороша ли поведенческая экономика?"
 author: "Фрэнк Шостак"
+authors: ["Фрэнк Шостак"]
 date: 2021-02-05T17:00:00+03:00
-tags: ["Фрэнк Шостак"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/abrat.PNG?itok=TJeayLQD)

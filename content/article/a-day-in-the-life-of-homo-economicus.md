@@ -1,8 +1,9 @@
 ---
 title: "Один день из жизни Homo Economicus"
 author: "Пол Швеннесен"
+authors: ["Пол Швеннесен"]
 date: 2023-03-20T11:44:41+03:00
-tags: ["Пол Швеннесен"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/03/airplaneman-1536x1025.jpg&nocache=1)

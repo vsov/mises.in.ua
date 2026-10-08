@@ -1,8 +1,9 @@
 ---
 title: "Ловушка стейблкоинов: чёрный ход к тотальному финансовому контролю"
 author: "Аарон Дей"
+authors: ["Аарон Дей"]
 date: 2025-04-11T14:43:21+03:00
-tags: ["Аарон Дей"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2025/03/Shutterstock_2157061785-1536x900.jpg)

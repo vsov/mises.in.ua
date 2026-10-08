@@ -1,8 +1,9 @@
 ---
 title: "Новейшая война Германии против свободы"
 author: "Джеймс Бовард"
+authors: ["Джеймс Бовард"]
 date: 2026-03-13T17:02:22+03:00
-tags: ["Джеймс Бовард"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2026/01/Shutterstock_2152173665.jpg.avif)

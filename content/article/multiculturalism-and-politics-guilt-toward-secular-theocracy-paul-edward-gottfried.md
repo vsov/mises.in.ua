@@ -1,8 +1,9 @@
 ---
 title: "Правда о \"разнообразии\""
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-03-22T19:48:17+03:00
-tags: ["Дэвид Гордон"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/41VAWJDVFQL.jpg)

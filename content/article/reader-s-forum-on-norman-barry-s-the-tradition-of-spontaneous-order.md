@@ -1,8 +1,9 @@
 ---
 title: "Традиция спонтанного порядка"
 author: "Норман Барри"
+authors: ["Норман Барри"]
 date: 2024-10-23T08:36:57+03:00
-tags: ["Норман Барри"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Norman_P._Barry.jpg)

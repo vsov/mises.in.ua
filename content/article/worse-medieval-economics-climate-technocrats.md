@@ -1,8 +1,9 @@
 ---
 title: "Климатические технократы знают экономику хуже средневековых схоластов"
 author: "Райен Тернипсид"
+authors: ["Райен Тернипсид"]
 date: 2024-06-24T19:39:31+03:00
-tags: ["Райен Тернипсид"]
+tags: ["история свободы и экономическая история", "климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/windmills-w.jpg.webp?itok=IbNLQxIv)

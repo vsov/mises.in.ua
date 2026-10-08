@@ -1,8 +1,9 @@
 ---
 title: "Гарри Франкфурт, Юродствование и Битва против Вокизма"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-07-15T10:44:42+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/GrainFist-W.jpg.webp?itok=Oe2OYTj1)

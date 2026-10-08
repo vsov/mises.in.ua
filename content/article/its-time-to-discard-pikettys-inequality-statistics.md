@@ -1,8 +1,9 @@
 ---
 title: "Пришло время отказаться от статистики неравенства Пикетти"
 author: "Филлип Магнес, Винсент Гилосо"
+authors: ["Филлип Магнес", "Винсент Гилосо"]
 date: 2024-01-03T14:38:57+03:00
-tags: ["Филлип Магнес", "Винсент Гилосо"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/11/Shutterstock_1314624404-1536x975.jpg&nocache=1)

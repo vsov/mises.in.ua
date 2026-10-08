@@ -1,8 +1,9 @@
 ---
 title: "Эмоции проще (и веселее), чем беспристрастное мышление"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2023-12-15T12:20:47+03:00
-tags: ["Дональд Бодро"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/10/Shutterstock_2109965678-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "В защиту автостоянок"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2023-12-04T13:32:28+03:00
-tags: ["Дональд Бодро"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/07/Shutterstock_1341307487-1536x975.jpg&nocache=1)

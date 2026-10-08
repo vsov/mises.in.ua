@@ -1,8 +1,9 @@
 ---
 title: "Фактчекеры вводят вас в заблуждение относительно обязательного \"выключателя\" для автомобилей"
 author: "Джон Милтмор"
+authors: ["Джон Милтмор"]
 date: 2023-12-11T20:14:46+03:00
-tags: ["Джон Милтмор"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/11/Shutterstock_62350063-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Бессмысленность вакцинирования от Covid"
 author: "П. Джером"
+authors: ["П. Джером"]
 date: 2021-04-12T11:00:00+03:00
-tags: ["П. Джером"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://media.npr.org/assets/img/2021/02/04/vaccine-ethics-1_wide-292db82c10e6254f564bdd4a290e67f21d665c95.jpg)

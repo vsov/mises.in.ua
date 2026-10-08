@@ -1,8 +1,9 @@
 ---
 title: "Должны ли либертарианцы быть монархистами?"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2025-10-17T13:51:49+03:00
-tags: ["Райен МакМакен"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-10/louis%20ix.png.webp?itok=lIZc3ZMj)

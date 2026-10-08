@@ -1,8 +1,9 @@
 ---
 title: "Похожи ли либертарианцы на домашних кошек?"
 author: "Патрик Кэролл"
+authors: ["Патрик Кэролл"]
 date: 2022-12-12T20:19:55+03:00
-tags: ["Патрик Кэролл"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://fee.org/media/42345/house-cats_libertarians.jpg?center=0.4675,0.30666666666666664&mode=crop&width=900&format=webp&rnd=133132555640000000)

@@ -1,8 +1,9 @@
 ---
 title: "Информация и цены"
 author: "Дональд Дж. Будро"
+authors: ["Дональд Дж. Будро"]
 date: 2023-04-14T12:22:28+03:00
-tags: ["Дональд Дж. Будро"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.econlib.org/wp-content/uploads/2018/02/information-prices.jpg)

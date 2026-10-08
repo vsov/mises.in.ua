@@ -1,8 +1,9 @@
 ---
 title: "Можно ли оправдать налогообложение?"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2021-09-17T11:00:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/05_FridayPhil_DG_Wire_750x516_0.jpg?itok=q2pP7CtC)

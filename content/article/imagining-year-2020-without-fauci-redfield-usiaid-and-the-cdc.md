@@ -1,8 +1,9 @@
 ---
 title: "Представим 2020 год без Фаучи, Редфилда, USIAID и CDC"
 author: "Джон Тамни"
+authors: ["Джон Тамни"]
 date: 2021-05-26T11:00:00+03:00
-tags: ["Джон Тамни"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/05/fairride-800x508.jpg)

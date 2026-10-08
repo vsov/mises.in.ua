@@ -1,8 +1,9 @@
 ---
 title: "Бунт экологов против человечества"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2023-07-06T13:15:04+03:00
-tags: ["Дэвид Гордон"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://lh3.googleusercontent.com/WtN0dWUtCzo9_h5O5Dl2Ks1aRu1VKeusY2El8KU1e4Bo87qmSZR_oMB9MJFmL7Q7-3fF02CsEt9DU-5PbGUvIbhKC_HxD6LSAkRV-_Qjkg)

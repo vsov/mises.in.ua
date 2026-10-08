@@ -1,8 +1,9 @@
 ---
 title: "Давос подсчитывает ущерб"
 author: "Пол Мюллер"
+authors: ["Пол Мюллер"]
 date: 2025-01-24T18:18:33+03:00
-tags: ["Пол Мюллер"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2025/01/Shutterstock_1802407147.jpg)

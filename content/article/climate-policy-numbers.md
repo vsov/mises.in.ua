@@ -1,8 +1,9 @@
 ---
 title: "Цифры климатической политики"
 author: "Джон Кокрейн"
+authors: ["Джон Кокрейн"]
 date: 2022-10-05T09:36:20+03:00
-tags: ["Джон Кокрейн"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.dekra-solutions.com/wp-content/uploads/2022/02/shutterstock_1135451993-web-1024x683.jpg)

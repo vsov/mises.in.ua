@@ -1,8 +1,9 @@
 ---
 title: "Не превращайте экономику в разновидность психологии"
 author: "Фрэнк Шостак"
+authors: ["Фрэнк Шостак"]
 date: 2022-02-07T10:16:00+03:00
-tags: ["Фрэнк Шостак"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/psych1.jpg?itok=sJ4NAQbM)

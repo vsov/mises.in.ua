@@ -1,8 +1,9 @@
 ---
 title: "Договорные права — это не то же самое, что естественные права"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2022-01-05T11:56:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/contract-wire.jpg?itok=bb72CnSD)

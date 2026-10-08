@@ -1,8 +1,9 @@
 ---
 title: "Демонизация мужчин с помощью ложных данных о сексуальном насилии"
 author: "Венди МакЭлрой"
+authors: ["Венди МакЭлрой"]
 date: 2023-07-10T13:49:37+03:00
-tags: ["Венди МакЭлрой"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/assault-wire.jpg?itok=Tk3PwdQo)

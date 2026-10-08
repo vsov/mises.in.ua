@@ -1,8 +1,9 @@
 ---
 title: "Компьютерные модели не могут заменить реальную жизнь"
 author: "Питер Эрл"
+authors: ["Питер Эрл"]
 date: 2020-08-26T13:00:00+03:00
-tags: ["Питер Эрл"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2020/07/equationsAI-1536x975.jpg)

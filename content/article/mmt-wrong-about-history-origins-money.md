@@ -1,8 +1,9 @@
 ---
 title: "Modern Monetary Theory (MMT) ошибается в отношении истории происхождения денег"
 author: "Джонатан Ньюман"
+authors: ["Джонатан Ньюман"]
 date: 2025-06-16T13:34:43+03:00
-tags: ["Джонатан Ньюман"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-03/AdobeStock_Ancient%20Mesopotamia.jpeg.webp?itok=1YhsXX7s)

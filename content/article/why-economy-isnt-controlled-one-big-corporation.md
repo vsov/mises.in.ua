@@ -1,8 +1,9 @@
 ---
 title: "Почему экономика не контролируется одной большой корпорацией"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2021-04-27T09:00:00+03:00
-tags: ["Райен МакМакен"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://igrad-smedia-igrad.netdna-ssl.com/IMAGE/Marketing%20Images/Corporate-Financial-Wellness-Program.jpg)

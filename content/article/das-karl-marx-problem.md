@@ -1,8 +1,9 @@
 ---
 title: "Das Karl Marx Problem"
 author: "Филипп Магнес, Майкл Макови"
+authors: ["Филипп Магнес", "Майкл Макови"]
 date: 2022-12-07T12:42:43+03:00
-tags: ["Филипп Магнес", "Майкл Макови"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/11/russianrevolution-1536x975.jpg)

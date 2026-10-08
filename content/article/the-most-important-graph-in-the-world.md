@@ -1,8 +1,9 @@
 ---
 title: "Самый важный график в мире"
 author: "Марьян Тупи"
+authors: ["Марьян Тупи"]
 date: 2022-10-14T09:30:32+03:00
-tags: ["Марьян Тупи"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.humanprogress.org/wp-content/uploads/2016/12/thinkstockphotos-78491646.jpg)

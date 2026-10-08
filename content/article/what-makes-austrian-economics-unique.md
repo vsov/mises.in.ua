@@ -1,8 +1,9 @@
 ---
 title: "Что делает экономику австрийской школы уникальной?"
 author: "Энтони Мюллер"
+authors: ["Энтони Мюллер"]
 date: 2025-02-24T12:31:38+03:00
-tags: ["Энтони Мюллер"]
+tags: ["австрийская школа и праксеология", "культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-12/AdobeStock_Unique.jpeg.webp?itok=lmclU0Sx)

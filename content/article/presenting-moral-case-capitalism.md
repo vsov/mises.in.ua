@@ -1,8 +1,9 @@
 ---
 title: "Моральное обоснование капитализма"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-10-24T23:16:03+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-08/AdobeStock_758049829.jpeg.webp?itok=TC6NsL0A)

@@ -1,8 +1,9 @@
 +++
 title = "Пентагон охотится на НЛО. Угадайте, сколько это стоит"
-date = "2018-07-08T10:33:04+02:00"
-tags = ["Камилио Гомез", "НЛО", "Advanced Aerospace Threat Identification Program", "маразм"]
 author = "Камилио Гомез"
+authors = ["Камилио Гомез"]
+date = "2018-07-08T10:33:04+02:00"
+tags = ["наука, экспертиза и данные", "НЛО", "Advanced Aerospace Threat Identification Program", "маразм"]
 draft = false
 +++
 

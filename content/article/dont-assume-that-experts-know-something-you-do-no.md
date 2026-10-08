@@ -1,8 +1,9 @@
 ---
 title: "Не думайте, что эксперты знают то, чего не знаете вы"
 author: "Эрик Хасси"
+authors: ["Эрик Хасси"]
 date: 2023-09-15T20:20:38+03:00
-tags: ["Эрик Хасси"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2023/08/Shutterstock_2037628802-1536x900.jpg)

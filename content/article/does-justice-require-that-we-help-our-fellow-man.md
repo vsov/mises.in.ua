@@ -1,8 +1,9 @@
 ---
 title: "Требует ли справедливость, чтобы мы помогали ближнему?"
 author: "Джек Никастро"
+authors: ["Джек Никастро"]
 date: 2025-08-20T15:09:16+03:00
-tags: ["Джек Никастро"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://fee.org/wp-content/uploads/2024/07/tom-parsons-pVmjvK44Dao-unsplash-e1721831696862-2048x1536.jpg)

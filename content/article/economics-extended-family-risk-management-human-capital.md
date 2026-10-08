@@ -1,8 +1,9 @@
 ---
 title: "Экономика расширенной семьи: от управления рисками к человеческому капиталу"
 author: "Гор Мкртчян"
+authors: ["Гор Мкртчян"]
 date: 2021-06-11T11:00:00+03:00
-tags: ["Гор Мкртчян"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/gettyimages-1204426849.jpg?itok=o_m0djhL)

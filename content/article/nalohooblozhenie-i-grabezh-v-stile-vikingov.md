@@ -1,8 +1,9 @@
 ---
 title: "Налогообложение и грабеж в стиле викингов"
 author: "Питер Стромберг"
+authors: ["Питер Стромберг"]
 date: 2020-10-12T11:00:00+03:00
-tags: ["Питер Стромберг"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/vikings1.png?itok=0amHVU7f)

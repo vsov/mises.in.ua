@@ -1,8 +1,9 @@
 ---
 title: "Банкротство Sunnova сигнализирует о трудных временах для солнечной энергетики"
 author: "Пол Мюллер"
+authors: ["Пол Мюллер"]
 date: 2025-07-08T11:59:07+03:00
-tags: ["Пол Мюллер"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2025/06/Shutterstock_2213228583.jpg)

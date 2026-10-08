@@ -1,8 +1,9 @@
 ---
 title: "Это вообще ещё капитализм?"
 author: "Брейден Майерс"
+authors: ["Брейден Майерс"]
 date: 2025-10-13T11:23:34+03:00
-tags: ["Брейден Майерс"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/2025/09/Shutterstock_2642231045.jpg)

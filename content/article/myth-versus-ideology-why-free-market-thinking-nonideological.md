@@ -1,8 +1,9 @@
 ---
 title: "Миф против идеологии: Почему рыночное мышление неидеологично"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2022-11-16T13:15:12+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/phil-wire.jpg?itok=gY8xmEtj)

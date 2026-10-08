@@ -1,8 +1,9 @@
 ---
 title: "О деколонизации прав собственности"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-03-11T16:38:55+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/property-w.jpg.webp?itok=WRdbsI01)

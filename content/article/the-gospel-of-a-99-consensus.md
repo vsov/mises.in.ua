@@ -1,8 +1,9 @@
 ---
 title: "Евангелие 99-процентного консенсуса"
 author: "Робертас Бакула"
+authors: ["Робертас Бакула"]
 date: 2021-11-29T12:13:00+03:00
-tags: ["Робертас Бакула"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/11/hippiehands-800x508.jpg)

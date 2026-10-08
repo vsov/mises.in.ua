@@ -1,8 +1,9 @@
 ---
 title: "Китайцы не вторгнутся в Америку, если она разделится"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2021-02-04T02:00:00+03:00
-tags: ["Райен МакМакен"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/capitol1.jpg?itok=IKXNOQ7_)

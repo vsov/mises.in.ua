@@ -1,8 +1,9 @@
 ---
 title: "Ирония марксистского классового сознания"
 author: "Энтони Саммерофф"
+authors: ["Энтони Саммерофф"]
 date: 2020-08-19T10:00:00+03:00
-tags: ["Энтони Саммерофф"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/marx2_0.png?itok=QIQErH-8)

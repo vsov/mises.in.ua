@@ -1,8 +1,9 @@
 ---
 title: "Сады Свободы"
 author: "Роберт Райт"
+authors: ["Роберт Райт"]
 date: 2022-06-08T11:09:38+03:00
-tags: ["Роберт Райт"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/04/carrotts.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "Политизация деторождения: предельный вариант политизации личной жизни"
 author: "Джеффри Деггнер"
+authors: ["Джеффри Деггнер"]
 date: 2023-02-17T11:07:34+03:00
-tags: ["Джеффри Деггнер"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/election-w.jpg?itok=3VZQ4edd)

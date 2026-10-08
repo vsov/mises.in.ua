@@ -1,8 +1,9 @@
 ---
 title: "Национал-социалисты были врагами Запада"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2024-09-26T03:02:16+03:00
-tags: ["Райен МакМакен"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-09/hitler.png.webp?itok=IS5ijVAf)

@@ -1,8 +1,9 @@
 ---
 title: "Большая перезагрузка, часть III: капитализм с китайской спецификой"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-11-15T11:11:00+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/chinese-capitalism-wire.jpg?itok=VeRTbV_R)

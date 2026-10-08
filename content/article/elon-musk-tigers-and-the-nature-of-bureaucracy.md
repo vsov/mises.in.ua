@@ -1,8 +1,9 @@
 ---
 title: "Илон Маск, тигры и природа бюрократии"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2025-03-25T20:04:34+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["государство, бюрократия и регуляторы", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2024/11/Elon-Musk-Bureaucracy-scaled.jpg)

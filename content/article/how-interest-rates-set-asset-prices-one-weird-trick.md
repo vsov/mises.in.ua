@@ -1,8 +1,9 @@
 ---
 title: "Как процентные ставки определяют цены активов: один хитрый трюк"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2025-06-20T21:59:25+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2025/05/Shutterstock_2138397151.jpg)

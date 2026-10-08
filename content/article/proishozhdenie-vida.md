@@ -1,8 +1,9 @@
 ---
 title: "Происхождение вида"
 author: "Роберт Мерфи"
+authors: ["Роберт Мерфи"]
 date: 2020-07-20T11:52:27+03:00
-tags: ["Роберт Мерфи"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://2qkhyt1u78lw1ll02a1kxrzq-wpengine.netdna-ssl.com/wp-content/uploads/2012/04/specie.jpg)

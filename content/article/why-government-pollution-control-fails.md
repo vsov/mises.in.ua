@@ -1,8 +1,9 @@
 ---
 title: "Почему государственное регулирование загрязнения окружающей среды не работает"
 author: "Тимоти Д. Террелл"
+authors: ["Тимоти Д. Террелл"]
 date: 2023-09-22T17:20:12+03:00
-tags: ["Тимоти Д. Террелл"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/pollution-wire_1.jpg?itok=hKu78_nG)

@@ -1,8 +1,9 @@
 ---
 title: "Провал конституции"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2020-07-13T10:52:27+03:00
-tags: ["Райен МакМакен"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/consti1.png?itok=W8N-Y7Fv)

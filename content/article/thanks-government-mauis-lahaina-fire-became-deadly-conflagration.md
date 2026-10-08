@@ -1,8 +1,9 @@
 ---
 title: "Пожар в Лахайне и провал правительства"
 author: "Коннор ОʼКифф"
+authors: ["Коннор ОʼКифф"]
 date: 2023-08-23T16:18:56+03:00
-tags: ["Коннор ОʼКифф"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/maui_fire-wire.jpg?itok=Z455nYAX)

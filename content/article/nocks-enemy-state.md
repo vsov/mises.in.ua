@@ -1,8 +1,9 @@
 ---
 title: "Государство, враг Нока"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2025-01-10T22:46:07+03:00
-tags: ["Дэвид Гордон"]
+tags: ["государство, бюрократия и регуляторы", "демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/en/a/a5/Our_Enemy%2C_the_State_book_cover.png)

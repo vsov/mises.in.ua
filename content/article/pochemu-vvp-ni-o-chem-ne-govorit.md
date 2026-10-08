@@ -1,8 +1,9 @@
 ---
 title: "Почему показатели ВВП почти ничего не скажут нам о восстановлении экономики после COVID"
 author: "Аласдер Маклеод"
+authors: ["Аласдер Маклеод"]
 date: 2020-06-11T14:52:27+03:00
-tags: ["Аласдер Маклеод"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/gdp-750x516_0.jpg?itok=FIQlQDgP)

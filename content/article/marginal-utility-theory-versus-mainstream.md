@@ -1,8 +1,9 @@
 ---
 title: "Теория предельной полезности против мейнстрима"
 author: "Френк Шостак"
+authors: ["Френк Шостак"]
 date: 2025-11-07T19:05:12+03:00
-tags: ["Френк Шостак"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Marginal%20utility.jpeg.webp?itok=GWJFgWht)

@@ -1,8 +1,9 @@
 ---
 title: "Правительство — это угадайка"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2022-11-12T13:26:52+03:00
-tags: ["Дональд Бодро"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/10/threedoors-1536x975.jpg)

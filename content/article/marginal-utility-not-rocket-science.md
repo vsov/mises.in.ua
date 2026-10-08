@@ -1,8 +1,9 @@
 ---
 title: "Предельная полезность — это не бином Ньютона"
 author: "Френк Шостак"
+authors: ["Френк Шостак"]
 date: 2022-01-10T15:07:00+03:00
-tags: ["Френк Шостак"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/2610.jpg?itok=dWR2ZB3F)

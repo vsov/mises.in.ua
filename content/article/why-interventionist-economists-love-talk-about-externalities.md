@@ -1,8 +1,9 @@
 ---
 title: "Почему экономисты-интервенционисты любят говорить о внешних эффектах"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2021-11-08T10:11:56+03:00
-tags: ["Хоаким Бук"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/smoking1.jpg?itok=dooHwJJ3)

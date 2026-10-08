@@ -1,8 +1,9 @@
 ---
 title: "Переворот, катастрофа и заговор"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2026-02-20T17:13:04+03:00
-tags: ["Джеффри Такер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2025/10/Shutterstock_2056060175.jpg.avif)

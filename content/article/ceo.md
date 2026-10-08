@@ -1,8 +1,9 @@
 ---
 title: "CEO"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2022-03-17T11:14:16+03:00
-tags: ["Дональд Бодро"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/03/bidenhands-1536x975.jpg)

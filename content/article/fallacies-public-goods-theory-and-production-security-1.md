@@ -1,8 +1,9 @@
 ---
 title: "Ошибки теории общественных благ и производство безопасности"
 author: "Ханс-Херман Хоппе"
+authors: ["Ханс-Херман Хоппе"]
 date: 2022-03-21T08:30:29+03:00
-tags: ["Ханс-Херман Хоппе"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/JLS_Logo_3_20141029.jpg?itok=s-HhhxCd)

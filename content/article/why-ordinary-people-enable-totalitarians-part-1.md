@@ -1,8 +1,9 @@
 ---
 title: "Почему обычные люди поддерживают тоталитаристов"
 author: "Барри Браунстайн"
+authors: ["Барри Браунстайн"]
 date: 2024-05-13T16:56:47+03:00
-tags: ["Барри Браунстайн"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/12/Shutterstock_785842567-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Процветание не вызывает сокращение населения"
 author: "Челси Оливия Фоллетт"
+authors: ["Челси Оливия Фоллетт"]
 date: 2025-07-21T15:36:06+03:00
-tags: ["Челси Оливия Фоллетт"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://substackcdn.com/image/fetch/$s_!bXOf!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19c21df4-d241-4103-bfb3-f20d0130a700_800x442.gif)

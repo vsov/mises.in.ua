@@ -1,8 +1,9 @@
 ---
 title: "История частных дорог"
 author: "Уолтер Блок"
+authors: ["Уолтер Блок"]
 date: 2021-01-19T18:00:00+03:00
-tags: ["Уолтер Блок"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/41JVXSYSAEL.jpg)

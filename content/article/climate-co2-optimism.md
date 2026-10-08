@@ -1,8 +1,9 @@
 ---
 title: "Климат, CO2 оптимизм"
 author: "Роберт Бредли мл."
+authors: ["Роберт Бредли мл."]
 date: 2021-05-12T12:00:00+03:00
-tags: ["Роберт Бредли мл."]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/05/shutterstock_657221959-800x508.jpg)

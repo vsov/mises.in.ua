@@ -1,8 +1,9 @@
 ---
 title: "Оценка наших активов (а их у нас много)"
 author: "Джордж Форд Смит"
+authors: ["Джордж Форд Смит"]
 date: 2023-02-22T10:30:40+03:00
-tags: ["Джордж Форд Смит"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/stock-wire.jpg?itok=zUQ21LEL)

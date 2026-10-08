@@ -1,8 +1,9 @@
 ---
 title: "Безвозмездное интеллектуальное пожертвование Гвидо Хюльсмана"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-05-17T12:33:44+03:00
-tags: ["Дэвид Гордон"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_6_9_650w/s3/images/2024-03/Abundance-Generosity-State_Hulsmann_20240123.jpg.webp?itok=ApWKe9sQ)

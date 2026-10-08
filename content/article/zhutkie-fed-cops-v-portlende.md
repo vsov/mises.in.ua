@@ -1,8 +1,9 @@
 ---
 title: "Про жутких федеральных копов в Портленде"
 author: "Джефф Дейст"
+authors: ["Джефф Дейст"]
 date: 2020-07-24T14:52:27+03:00
-tags: ["Джефф Дейст"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/list_teaser/s3/static-page/img/gettyimages-1186521492.jpg?itok=0DPTJtMe)

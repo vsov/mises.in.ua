@@ -1,8 +1,9 @@
 ---
 title: "Неоднородность: капитальная идея!"
 author: "Сэнфорд Икеда"
+authors: ["Сэнфорд Икеда"]
 date: 2020-08-10T11:00:00+03:00
-tags: ["Сэнфорд Икеда"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://fee.org/media/15443/austrianschool.jpg?anchor=center&mode=crop&width=800&format=webp&rnd=131750985510000000)

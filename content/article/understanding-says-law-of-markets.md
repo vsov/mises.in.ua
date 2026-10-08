@@ -1,8 +1,9 @@
 ---
 title: "Понимание Закона рынков Сэя"
 author: "Стивен Хорвиц"
+authors: ["Стивен Хорвиц"]
 date: 2024-02-02T14:46:58+03:00
-tags: ["Стивен Хорвиц"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://fee.org/media/20859/shutterstock_696631510.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131545455990000000)

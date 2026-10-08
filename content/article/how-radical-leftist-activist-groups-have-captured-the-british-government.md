@@ -1,8 +1,9 @@
 ---
 title: "Как радикальные левые активистские группы захватили британское правительство"
 author: "Джесс Гилл"
+authors: ["Джесс Гилл"]
 date: 2024-04-22T10:01:52+03:00
-tags: ["Джесс Гилл"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://fee.org/wp-content/uploads/2024/03/left-wing_activists_protest_against_alternative_for_sweden.jpg)

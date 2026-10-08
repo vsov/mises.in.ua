@@ -1,8 +1,9 @@
 ---
 title: "Теперь выборы решают, кто может управлять вашим автомобилем"
 author: "Джим Федако"
+authors: ["Джим Федако"]
 date: 2022-02-14T11:10:00+03:00
-tags: ["Джим Федако"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/sad-driver-wire.jpg?itok=d9Bhw8nC)

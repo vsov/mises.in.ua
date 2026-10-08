@@ -1,8 +1,9 @@
 ---
 title: "Хайек и биткоин"
 author: "Эмиль Фанев III"
+authors: ["Эмиль Фанев III"]
 date: 2023-04-26T11:19:34+03:00
-tags: ["Эмиль Фанев III"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/04/bitcoinsgold-1536x975.jpg&nocache=1)

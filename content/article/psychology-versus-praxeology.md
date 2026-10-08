@@ -1,8 +1,9 @@
 ---
 title: "Психология против праксиологии"
 author: "Роберт Мерфи"
+authors: ["Роберт Мерфи"]
 date: 2020-10-30T11:00:00+03:00
-tags: ["Роберт Мерфи"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://thinkmarkets.files.wordpress.com/2009/09/ludwig-von-mises-mises-institute20von20mises20in2019711.jpg?w=700)

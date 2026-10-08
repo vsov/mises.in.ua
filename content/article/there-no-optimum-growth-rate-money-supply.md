@@ -1,8 +1,9 @@
 ---
 title: "Не существует \"оптимального\" темпа роста денежной массы"
 author: "Фрэнк Шостак"
+authors: ["Фрэнк Шостак"]
 date: 2021-02-22T10:00:00+03:00
-tags: ["Фрэнк Шостак"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/growth-wire_0.jpg?itok=Xt4V-dtU)

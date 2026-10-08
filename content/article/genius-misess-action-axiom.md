@@ -1,8 +1,9 @@
 ---
 title: "Гениальность аксиомы действия Мизеса"
 author: "Пер Байлунд"
+authors: ["Пер Байлунд"]
 date: 2025-03-17T12:17:28+03:00
-tags: ["Пер Байлунд"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/HumanActionFirst.jpg/220px-HumanActionFirst.jpg)

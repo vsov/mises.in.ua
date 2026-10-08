@@ -1,8 +1,9 @@
 ---
 title: "Стимулы, институты и намерения"
 author: "Арт Карден"
+authors: ["Арт Карден"]
 date: 2022-03-14T11:39:15+03:00
-tags: ["Арт Карден"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/09/flamingo-1536x975.jpg)

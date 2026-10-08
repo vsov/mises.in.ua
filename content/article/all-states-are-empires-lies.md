@@ -1,8 +1,9 @@
 ---
 title: "Все государства — это империи лжи"
 author: "Томас ДиЛоренцо"
+authors: ["Томас ДиЛоренцо"]
 date: 2025-02-21T14:41:36+03:00
-tags: ["Томас ДиЛоренцо"]
+tags: ["государство, бюрократия и регуляторы", "война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-11/AdobeStock_493761905.jpeg.webp?itok=8XRnVkSR)

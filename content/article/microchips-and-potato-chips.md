@@ -1,8 +1,9 @@
 ---
 title: "Чипы и чипсы"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2022-05-16T10:59:20+03:00
-tags: ["Дональд Бодро"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/03/chinamicrochips.jpg)

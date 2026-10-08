@@ -1,8 +1,9 @@
 ---
 title: "Анархия без границ (Anarchy Unbound). Часть 2. Самоуправление и проблема социального разнообразия"
 author: "Питер Лисон"
+authors: ["Питер Лисон"]
 date: 2026-02-09T13:17:34+03:00
-tags: ["Питер Лисон", "Анархия без границ (Anarchy Unbound)"]
+tags: ["частное право, безопасность и частное управление", "Анархия без границ (Anarchy Unbound)"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/61-tulg6mLL._SL1360_.jpg)

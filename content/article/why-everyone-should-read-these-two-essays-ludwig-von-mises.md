@@ -1,8 +1,9 @@
 ---
 title: "Почему всем следует прочитать эти два эссе Людвига фон Мизеса"
 author: "Томас ДиЛоренцо"
+authors: ["Томас ДиЛоренцо"]
 date: 2021-10-01T11:00:00+03:00
-tags: ["Томас ДиЛоренцо"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/ludwig-von-mises-pafere.jpg?itok=6zj9DEhb)

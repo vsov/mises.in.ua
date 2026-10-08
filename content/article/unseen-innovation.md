@@ -1,8 +1,9 @@
 ---
 title: "Невидимые инновации"
 author: "Дональд Будро"
+authors: ["Дональд Будро"]
 date: 2024-03-06T13:34:31+03:00
-tags: ["Дональд Будро"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/01/Shutterstock_2121663698-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Огосударствление социальных отношений"
 author: "Дэниэл Кляйн"
+authors: ["Дэниэл Кляйн"]
 date: 2023-02-10T14:08:10+03:00
-tags: ["Дэниэл Кляйн"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2022/12/lifeline.jpg&nocache=1)

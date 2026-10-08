@@ -1,8 +1,9 @@
 ---
 title: "Марксизм как софизм: Критическое исследование труда как товара"
 author: "Аллен Гиндлер"
+authors: ["Аллен Гиндлер"]
 date: 2024-09-27T13:17:54+03:00
-tags: ["Аллен Гиндлер"]
+tags: ["социализм, марксизм и антикапитализм", "наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-09/AdobeStock_Karl%20Marx.jpeg.webp?itok=U_xxq6On)

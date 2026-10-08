@@ -1,8 +1,9 @@
 ---
 title: "Количественная теория денег и уравнение обмена"
 author: "Кристофер Маустен Хансен"
+authors: ["Кристофер Маустен Хансен"]
 date: 2020-06-22T11:52:27+03:00
-tags: ["Кристофер Маустен Хансен"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/friedman-cadillac.jpg?itok=ct6c64xk)

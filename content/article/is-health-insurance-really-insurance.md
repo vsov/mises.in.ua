@@ -1,8 +1,9 @@
 ---
 title: "Является ли медицинское страхование страхованием?"
 author: "Питер Якобсен"
+authors: ["Питер Якобсен"]
 date: 2022-12-09T12:52:50+03:00
-tags: ["Питер Якобсен"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://fee.org/media/42359/healthcare-professional.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133136329590000000)

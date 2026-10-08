@@ -1,8 +1,9 @@
 ---
 title: "Для социалистов неважно, \"работает\" ли социализм. Главное — это власть"
 author: "Джейсон Монтгомери"
+authors: ["Джейсон Монтгомери"]
 date: 2024-11-18T16:25:23+03:00
-tags: ["Джейсон Монтгомери"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/fist-w.jpg.webp?itok=8SpOT760)

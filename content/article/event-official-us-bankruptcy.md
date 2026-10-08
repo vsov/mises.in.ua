@@ -1,8 +1,9 @@
 ---
 title: "В случае официального банкротства в США"
 author: "Стефен Андерсон"
+authors: ["Стефен Андерсон"]
 date: 2023-05-24T14:12:12+03:00
-tags: ["Стефен Андерсон"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/burningdollar-w.jpg?itok=wjfDu7Tm)

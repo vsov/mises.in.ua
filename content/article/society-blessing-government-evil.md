@@ -1,8 +1,9 @@
 ---
 title: "Общество — это благо, а правительство — это зло"
 author: "Томас Пейн"
+authors: ["Томас Пейн"]
 date: 2022-08-10T12:23:23+03:00
-tags: ["Томас Пейн"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/town-wire.jpg?itok=5GK4Ovq8)

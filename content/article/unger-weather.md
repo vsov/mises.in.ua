@@ -1,8 +1,9 @@
 ---
 title: "Ангер не в форме"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2026-03-04T10:08:50+03:00
-tags: ["Дэвид Гордон"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/51zp4Qmv+0L._SL1360_.jpg)

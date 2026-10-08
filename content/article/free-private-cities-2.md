@@ -1,8 +1,9 @@
 ---
 title: "Часть 1. Закладывая основу. Глава 2 Право на свою жизнь"
 author: "Титус Гебель"
+authors: ["Титус Гебель"]
 date: 2025-09-22T14:43:39+03:00
-tags: ["Титус Гебель", "Free Private Cities"]
+tags: ["частное право, безопасность и частное управление", "Free Private Cities"]
 draft: false
 ---
 ![](https://free-cities.org/wp-content/uploads/2022/05/covertitus-707x1024-1.png)

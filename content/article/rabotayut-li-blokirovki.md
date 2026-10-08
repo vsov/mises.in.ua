@@ -1,8 +1,9 @@
 ---
 title: "Работают ли блокировки? Все больше доказательств того, что нет"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2020-05-26T14:52:27+03:00
-tags: ["Райен МакМакен"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/home1.png?itok=-HfjZkAi)

@@ -1,8 +1,9 @@
 ---
 title: "\"Великое обогащение\" обогащало с самого начала"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2023-10-16T13:37:06+03:00
-tags: ["Дональд Бодро"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/08/Shutterstock_238329337-1536x975.jpg&nocache=1)

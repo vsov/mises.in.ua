@@ -1,8 +1,9 @@
 ---
 title: "Патенты и прогресс"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2025-02-20T15:46:26+03:00
-tags: ["Дэвид Гордон"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://ladeblaw.com/wp-content/uploads/2017/10/patent-pending-e1522633850534.jpg)

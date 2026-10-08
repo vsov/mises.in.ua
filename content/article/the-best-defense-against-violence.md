@@ -1,8 +1,9 @@
 ---
 title: "Лучшая защита от насилия"
 author: "Макс Бордерс"
+authors: ["Макс Бордерс"]
 date: 2021-09-24T14:00:00+03:00
-tags: ["Макс Бордерс"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/09/cacti-800x508.jpg)

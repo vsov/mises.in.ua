@@ -1,8 +1,9 @@
 ---
 title: "Типичный современный экономист-байденомист"
 author: "Томас ДиЛоренцо"
+authors: ["Томас ДиЛоренцо"]
 date: 2024-07-01T11:22:15+03:00
-tags: ["Томас ДиЛоренцо"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/aker.png.webp?itok=VdaSTLPM)

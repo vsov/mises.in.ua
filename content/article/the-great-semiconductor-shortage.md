@@ -1,8 +1,9 @@
 ---
 title: "Великая нехватка полупроводников"
 author: "Питер Эрл"
+authors: ["Питер Эрл"]
 date: 2021-07-14T11:00:00+03:00
-tags: ["Питер Эрл"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/07/wireknot-800x508.jpg)

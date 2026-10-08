@@ -1,8 +1,9 @@
 ---
 title: "Метро Нью-Йорка: Неудачи социалистических предприятий"
 author: "Грегори Брэсиджер"
+authors: ["Грегори Брэсиджер"]
 date: 2023-04-03T12:55:40+03:00
-tags: ["Грегори Брэсиджер"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/subway-wire.jpg?itok=Yxn_G7QF)

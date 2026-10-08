@@ -1,7 +1,7 @@
 ---
 title: "Почему такое количество \"безумных правых теорий заговора\" оказалось правдой"
 date: 2023-01-20T13:48:33+03:00
-tags: ["Public"]
+tags: ["COVID-19, локдауны и вакцинная политика", "Public"]
 draft: false
 ---
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb8c3783-bfd1-47d2-86dd-3f4902a9afd3_5616x3744.jpeg)

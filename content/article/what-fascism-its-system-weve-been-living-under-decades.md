@@ -1,8 +1,9 @@
 ---
 title: "Что такое фашизм? Это система, в которой мы живем десятки лет"
 author: "Лью Рокуэлл"
+authors: ["Лью Рокуэлл"]
 date: 2021-02-08T13:00:00+03:00
-tags: ["Лью Рокуэлл"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/fascism-wire.jpg?itok=lda0x8cp)

@@ -1,8 +1,9 @@
 ---
 title: "Ротбард, Милей и новые правые в Аргентине"
 author: "Фернандо Чиокко"
+authors: ["Фернандо Чиокко"]
 date: 2023-11-21T14:19:17+03:00
-tags: ["Фернандо Чиокко"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/arggavel-w.jpg?itok=4qS0cXx7)

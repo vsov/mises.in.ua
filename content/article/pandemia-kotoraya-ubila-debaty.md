@@ -1,8 +1,9 @@
 ---
 title: "Пандемия, которая убила дебаты"
 author: "Стейси Рудин"
+authors: ["Стейси Рудин"]
 date: 2020-10-09T11:00:00+03:00
-tags: ["Стейси Рудин"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2020/10/emptypodium-1536x975.jpg)

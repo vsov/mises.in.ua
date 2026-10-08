@@ -1,8 +1,9 @@
 ---
 title: "Какую историю ковида напишут прогрессивисты"
 author: "Роберт Замволт"
+authors: ["Роберт Замволт"]
 date: 2022-02-21T12:25:00+03:00
-tags: ["Роберт Замволт"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/edit1.jpg?itok=CV6zu0Ef)

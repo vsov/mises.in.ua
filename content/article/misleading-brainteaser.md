@@ -1,8 +1,9 @@
 ---
 title: "Некачественная головоломка"
 author: "Роберт Блюмен"
+authors: ["Роберт Блюмен"]
 date: 2025-06-02T16:42:34+03:00
-tags: ["Роберт Блюмен"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/hina2.JPG.webp?itok=qkZiilUH)

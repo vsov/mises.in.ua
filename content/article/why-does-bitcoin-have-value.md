@@ -1,8 +1,9 @@
 ---
 title: "Почему биткоин имеет ценность?"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2020-12-14T13:00:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2020/12/bitcoinsfalling-800x508.jpg)

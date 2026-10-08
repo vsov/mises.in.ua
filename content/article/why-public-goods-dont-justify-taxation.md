@@ -1,8 +1,9 @@
 ---
 title: "Почему \"общественные блага\" не оправдывают налогообложение"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2021-08-06T14:00:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://images.contentstack.io/v3/assets/bltf04078f3cf7a9c30/blt90c4f47e1db1c84d/5e395b5e3e8d473a291fc8b4/183824184.jpg)

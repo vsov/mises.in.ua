@@ -1,8 +1,9 @@
 ---
 title: "Параллельные структуры — единственный путь к свободе"
 author: "Титус Гебел"
+authors: ["Титус Гебел"]
 date: 2023-02-06T15:55:20+03:00
-tags: ["Титус Гебел"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/city-w.jpg?itok=V7XwJsvg)

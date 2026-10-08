@@ -1,8 +1,9 @@
 ---
 title: "Групповые интересы и \"благо целого\""
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-08-03T11:56:55+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-07/Liberalism-W.jpg.webp?itok=jYC8WzWX)

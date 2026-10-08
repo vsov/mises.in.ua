@@ -1,8 +1,9 @@
 ---
 title: "Технократия и тоталитаризм"
 author: "Арон Хериати"
+authors: ["Арон Хериати"]
 date: 2023-10-25T13:35:21+03:00
-tags: ["Арон Хериати"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2022/11/Shutterstock_1649298217-2-1536x900.jpg)

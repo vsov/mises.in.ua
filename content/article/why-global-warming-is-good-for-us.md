@@ -1,8 +1,9 @@
 ---
 title: "Почему глобальное потепление полезно для нас?"
 author: "Мэтт Ридли"
+authors: ["Мэтт Ридли"]
 date: 2022-08-08T13:17:38+03:00
-tags: ["Мэтт Ридли"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.spiked-online.com/wp-content/uploads/2022/02/foliage-1536x922.jpg)

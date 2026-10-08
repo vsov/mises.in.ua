@@ -1,8 +1,9 @@
 ---
 title: "Хип, хайп, ура!"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2025-05-12T12:57:04+03:00
-tags: ["Дэвид Гордон"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/41R8G7qj4ML._SY445_SX342_PQ4_.jpg)

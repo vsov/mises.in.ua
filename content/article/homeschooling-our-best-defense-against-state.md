@@ -1,8 +1,9 @@
 ---
 title: "Домашнее обучение — наша лучшая защита от государства"
 author: "Хизер Карсон"
+authors: ["Хизер Карсон"]
 date: 2025-06-06T14:15:41+03:00
-tags: ["Хизер Карсон"]
+tags: ["наука, экспертиза и данные", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Homeschooling.jpeg.webp?itok=CgEi4d9c)

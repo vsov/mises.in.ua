@@ -1,8 +1,9 @@
 ---
 title: "Хайек: Проблема знания"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2022-08-15T12:28:30+03:00
-tags: ["Джеффри Такер"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://fee.org/media/24472/shutterstock_601378769.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131484827080000000)

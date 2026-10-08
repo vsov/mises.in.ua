@@ -1,8 +1,9 @@
 ---
 title: "Под угрозой ли демократия в Канаде? К сожалению, нет"
 author: "Ли Фрайдей"
+authors: ["Ли Фрайдей"]
 date: 2023-03-10T14:13:01+03:00
-tags: ["Ли Фрайдей"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/canada-w.jpg?itok=LGTld0JK)

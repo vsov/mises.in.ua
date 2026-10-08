@@ -1,8 +1,9 @@
 ---
 title: "Оружие и самооборона"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2022-07-25T11:08:20+03:00
-tags: ["Дэвид Гордон"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://ethanallen.org/wp-content/uploads/2020/07/bigstock-Woman-Pointing-A-Shotgun-To-Th-200432773.jpg)

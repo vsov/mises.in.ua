@@ -1,8 +1,9 @@
 ---
 title: "Частная охрана в Южной Африке"
 author: "Генри Левер"
+authors: ["Генри Левер"]
 date: 2026-01-09T12:31:24+03:00
-tags: ["Генри Левер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-09/AdobeStock_South%20Africa%20security.jpeg.webp?h=afaac5f2&itok=7RwYQdgd)

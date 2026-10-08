@@ -1,8 +1,9 @@
 ---
 title: "Прагматический план анархистского правительства для Аргентины"
 author: "Мануэль Гарсия Гохон"
+authors: ["Мануэль Гарсия Гохон"]
 date: 2023-08-21T13:13:51+03:00
-tags: ["Мануэль Гарсия Гохон"]
+tags: ["государство, бюрократия и регуляторы", "частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://mises.org/sites/default/files/styles/list_teaser/public/la_libertad_avanza_lanzamiento.jpg?itok=3GQgBhMP)

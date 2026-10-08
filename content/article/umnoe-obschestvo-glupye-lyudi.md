@@ -1,8 +1,9 @@
 ---
 title: "Умное общество, глупые люди"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2020-09-11T13:00:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2020/06/killingsmart-1536x975.jpg)

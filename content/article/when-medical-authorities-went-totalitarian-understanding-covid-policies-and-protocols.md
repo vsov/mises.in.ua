@@ -1,8 +1,9 @@
 ---
 title: "Когда медицинские власти стали тоталитарными: понимание ковидной политики"
 author: "Фил Даффи"
+authors: ["Фил Даффи"]
 date: 2024-02-07T12:21:01+03:00
-tags: ["Фил Даффи"]
+tags: ["здравоохранение, фарма и медицинское регулирование", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/covidprot-w.jpg?itok=mfYXzRBj)

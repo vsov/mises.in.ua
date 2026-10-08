@@ -1,8 +1,9 @@
 ---
 title: "В ловушке империалистических левиафанов: Дело свободы в Центральной и Восточной Европе"
 author: "Карол Мазур"
+authors: ["Карол Мазур"]
 date: 2022-09-09T17:36:35+03:00
-tags: ["Карол Мазур"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/american-flag-750x516.jpg?itok=YRrVpOR2)

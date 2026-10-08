@@ -1,8 +1,9 @@
 ---
 title: "Государственный проект: Извечная глупость централизованного планирования"
 author: "Марк Пуллиам"
+authors: ["Марк Пуллиам"]
 date: 2024-04-05T12:09:54+03:00
-tags: ["Марк Пуллиам"]
+tags: ["социализм, марксизм и антикапитализм", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/03/Near_Coolidge_Arizona._These_families_are_picking_their_own_cotton._Mainly_they_are_members_of_the_._._._-_NARA_-_522211-1-1536x975.jpg&nocache=1)

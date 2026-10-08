@@ -1,8 +1,9 @@
 ---
 title: "Социализм vs экономическая свобода"
 author: "Людвиг фон Мизес"
+authors: ["Людвиг фон Мизес"]
 date: 2023-12-13T15:03:01+03:00
-tags: ["Людвиг фон Мизес"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/shopping1.jpg?itok=ElZDsZN0)

@@ -1,8 +1,9 @@
 ---
 title: "Частная собственность существует из-за редкости, а не потому, что так решил закон"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2024-07-05T15:09:18+03:00
-tags: ["Хоаким Бук"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/PP-W.jpg.webp?itok=u1FIPKUf)

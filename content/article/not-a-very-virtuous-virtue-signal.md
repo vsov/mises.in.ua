@@ -1,8 +1,9 @@
 ---
 title: "Не очень добродетельный сигнал добродетели"
 author: "Гэри Галлес"
+authors: ["Гэри Галлес"]
 date: 2024-03-01T12:14:55+03:00
-tags: ["Гэри Галлес"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/02/Shutterstock_2069126477-1536x975.jpg&nocache=1)

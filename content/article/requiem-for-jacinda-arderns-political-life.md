@@ -1,8 +1,9 @@
 ---
 title: "Реквием по политической жизни Джасинды Ардерн"
 author: "Гай Хатчард"
+authors: ["Гай Хатчард"]
 date: 2023-01-25T12:46:05+03:00
-tags: ["Гай Хатчард"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2023/01/Shutterstock_1294621582-1536x900.jpg)

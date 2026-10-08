@@ -1,8 +1,9 @@
 ---
 title: "Зачем быть либертарианцем?"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2025-08-08T13:13:19+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/MurrayBW.jpg)

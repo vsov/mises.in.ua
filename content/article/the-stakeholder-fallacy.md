@@ -1,8 +1,9 @@
 ---
 title: "Ошибка стейкхолдерства"
 author: "Норман Барри"
+authors: ["Норман Барри"]
 date: 2024-11-11T19:00:12+03:00
-tags: ["Норман Барри"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Norman_P._Barry.jpg)

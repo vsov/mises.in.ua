@@ -1,8 +1,9 @@
 ---
 title: "Big Tech рискует пойти по пути Big Rail"
 author: "Джон Тамни"
+authors: ["Джон Тамни"]
 date: 2021-06-07T10:00:00+03:00
-tags: ["Джон Тамни"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/05/railroad-800x508.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "Борьба с отмыванием денег: овчинка не стоит выделки"
 author: "Липтон Мэттьюс"
+authors: ["Липтон Мэттьюс"]
 date: 2022-12-14T20:22:17+03:00
-tags: ["Липтон Мэттьюс"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/money_laundering-w.jpg?itok=r92MZBzZ)

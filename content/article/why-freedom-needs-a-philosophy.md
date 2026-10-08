@@ -1,8 +1,9 @@
 ---
 title: "Почему свобода нуждается в философии"
 author: "Дэн Санчес"
+authors: ["Дэн Санчес"]
 date: 2022-10-19T11:25:02+03:00
-tags: ["Дэн Санчес"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://fee.org/media/41984/simon-wilkes-py3uw1qbk6a-unsplash.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133040754500000000)

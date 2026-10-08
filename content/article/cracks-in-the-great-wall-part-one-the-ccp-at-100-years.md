@@ -1,8 +1,9 @@
 ---
 title: "Трещины в Великой стене: 100 лет КПК"
 author: "Этан Янг"
+authors: ["Этан Янг"]
 date: 2021-07-12T10:00:00+03:00
-tags: ["Этан Янг"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/07/chinalightshow-800x508.jpg)

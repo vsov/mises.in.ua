@@ -1,8 +1,9 @@
 ---
 title: "Настоящая причина дороговизны фастфуда"
 author: "Джон Милтмор"
+authors: ["Джон Милтмор"]
 date: 2024-08-05T13:58:10+03:00
-tags: ["Джон Милтмор"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/06/Shutterstock_1102591412-1536x975.jpg&nocache=1)

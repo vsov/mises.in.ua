@@ -1,8 +1,9 @@
 ---
 title: "Как философские ошибки препятствуют свободе"
 author: "Майкл Левин"
+authors: ["Майкл Левин"]
 date: 2022-11-01T00:33:55+03:00
-tags: ["Майкл Левин"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/JLS_Logo_3_20141029.jpg?itok=s-HhhxCd)

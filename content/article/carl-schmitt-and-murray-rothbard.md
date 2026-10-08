@@ -1,8 +1,9 @@
 ---
 title: "Карл Шмитт и Мюррей Ротбард"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2022-04-04T11:37:46+03:00
-tags: ["Дэвид Гордон"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/en/7/7d/Carl_Schmitt.jpg)

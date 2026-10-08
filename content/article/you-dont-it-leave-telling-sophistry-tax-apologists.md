@@ -1,8 +1,9 @@
 ---
 title: "Не нравится? Уходи! Коварная софистика апологетов налогообложения"
 author: "Джейсон Монтгомери"
+authors: ["Джейсон Монтгомери"]
 date: 2023-06-09T19:15:50+03:00
-tags: ["Джейсон Монтгомери"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/tax-w_0.jpg?itok=P2_ZiPpN)

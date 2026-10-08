@@ -1,8 +1,9 @@
 ---
 title: "Классические экономисты были умнее, чем вам кажется"
 author: "Дэвид Вайнбергер"
+authors: ["Дэвид Вайнбергер"]
 date: 2024-02-09T19:08:08+03:00
-tags: ["Дэвид Вайнбергер"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://fee.org/media/40985/classical-economists_adam-smith-ricardo.jpg?center=0.31578947368421051,0.50666666666666671&mode=crop&width=900&format=webp&rnd=132844753950000000)

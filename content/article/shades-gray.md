@@ -1,8 +1,9 @@
 ---
 title: "Оттенки Грея"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-06-12T12:04:20+03:00
-tags: ["Дэвид Гордон"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/71lUdV+ZCQL._AC_UF894,1000_QL80_.jpg)

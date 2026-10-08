@@ -1,8 +1,9 @@
 ---
 title: "Континентальная блокада Наполеона и гуманитарная цена экономической войны"
 author: "Тайлер Терман"
+authors: ["Тайлер Терман"]
 date: 2025-11-10T14:56:53+03:00
-tags: ["Тайлер Терман"]
+tags: ["война, империя и внешняя политика", "капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-08/AdobeStock_Napoleon.jpeg.webp?itok=GhhUOPFl)

@@ -1,8 +1,9 @@
 ---
 title: "Почему рецессия — это не о падении ВВП"
 author: "Френк Шостак"
+authors: ["Френк Шостак"]
 date: 2026-01-21T11:46:46+03:00
-tags: ["Френк Шостак"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-06/AdobeStock_Declining%20GDP.jpeg.webp?h=1f0f22bd&itok=IT8kirZK)

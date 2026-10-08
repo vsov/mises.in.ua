@@ -1,8 +1,9 @@
 ---
 title: "Новый монетарный режим Милея для Аргентины"
 author: "Николас Коханоски"
+authors: ["Николас Коханоски"]
 date: 2024-07-22T11:22:28+03:00
-tags: ["Николас Коханоски"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/07/Shutterstock_2429741119-1-1536x975.jpg&nocache=1)

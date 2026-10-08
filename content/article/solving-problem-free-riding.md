@@ -1,8 +1,9 @@
 ---
 title: "Решение \"проблемы безбилетника\""
 author: "Бен ОʼНил"
+authors: ["Бен ОʼНил"]
 date: 2022-01-21T12:26:00+03:00
-tags: ["Бен ОʼНил"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/cable-car-wire.jpg?itok=x6gC6DQL)

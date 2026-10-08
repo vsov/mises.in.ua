@@ -1,8 +1,9 @@
 ---
 title: "Чтобы понять экономику, сначала разберитесь с частной собственностью"
 author: "Крис Кэлтон"
+authors: ["Крис Кэлтон"]
 date: 2021-03-22T11:00:00+03:00
-tags: ["Крис Кэлтон"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/no_hunting-wire.jpg?itok=UgHcBWyX)

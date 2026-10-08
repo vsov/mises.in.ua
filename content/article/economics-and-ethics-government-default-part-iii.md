@@ -1,8 +1,9 @@
 ---
 title: "Экономика и этика государственного дефолта, часть III"
 author: "Кристофер Маустен Хансен"
+authors: ["Кристофер Маустен Хансен"]
 date: 2021-08-20T11:00:00+03:00
-tags: ["Кристофер Маустен Хансен"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/debt-bomb-wire.jpg?itok=DVnSH77P)

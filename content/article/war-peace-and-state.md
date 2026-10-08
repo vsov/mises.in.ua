@@ -1,8 +1,9 @@
 ---
 title: "Война, мир и государство"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2025-07-16T12:16:47+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["война, империя и внешняя политика", "государство, бюрократия и регуляторы", "история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/War-Peace-and-State.jpg.webp?itok=EMwkGGk4)

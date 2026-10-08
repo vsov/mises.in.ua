@@ -1,8 +1,9 @@
 ---
 title: "Представьте себе, что вирус никогда бы не обнаружили"
 author: "Джон Тамни"
+authors: ["Джон Тамни"]
 date: 2021-02-12T13:00:00+03:00
-tags: ["Джон Тамни"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/02/TrojanHorse-800x508.jpg)

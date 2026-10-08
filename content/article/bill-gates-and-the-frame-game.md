@@ -1,8 +1,9 @@
 ---
 title: "Билл Гейтс и игра с очерчиванием рамок"
 author: "Томас Харрингтон"
+authors: ["Томас Харрингтон"]
 date: 2022-07-01T11:16:51+03:00
-tags: ["Томас Харрингтон"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2022/06/shutterstock_1070620835.jpg)

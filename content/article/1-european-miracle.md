@@ -1,8 +1,9 @@
 ---
 title: "Европейское чудо. История борьбы за свободу"
 author: "Ральф Райко"
+authors: ["Ральф Райко"]
 date: 2024-11-13T16:25:12+03:00
-tags: ["Ральф Райко"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/History%20the%20Struggle%20for%20Liberty%20Raico%202003_750x516.jpg.webp?itok=KYTTt4k6)

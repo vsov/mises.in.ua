@@ -1,8 +1,9 @@
 ---
 title: "Избиратели ненавидят CBDC. Почему правительства продолжают их продвигать?"
 author: "Питер Ондж"
+authors: ["Питер Ондж"]
 date: 2023-06-28T12:20:59+03:00
-tags: ["Питер Ондж"]
+tags: ["биткоин, криптовалюты и CBDC", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/dollars-desktop-wallpaper-digital-matrix-style-background-172051.jpg?itok=YjfTYWG8)

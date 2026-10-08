@@ -1,8 +1,9 @@
 ---
 title: "Изучение экономических данных не является \"занятием экономикой\""
 author: "Фрэнк Шостак"
+authors: ["Фрэнк Шостак"]
 date: 2024-06-14T11:27:12+03:00
-tags: ["Фрэнк Шостак"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/datas-w.jpg.webp?itok=baWI2n2J)

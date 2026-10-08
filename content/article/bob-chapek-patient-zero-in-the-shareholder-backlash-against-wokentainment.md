@@ -1,8 +1,9 @@
 ---
 title: "Боб Чапек и ответ акционеров на тиранию воков"
 author: "Питер Эрл"
+authors: ["Питер Эрл"]
 date: 2022-11-28T21:18:25+03:00
-tags: ["Питер Эрл"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2022/11/disneycastle-1536x975.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "Движение против локдаунов велико и набирает обороты"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2021-05-05T08:00:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://ca-times.brightspotcdn.com/dims4/default/c58ab72/2147483647/strip/true/crop/2400x1600+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F22%2F3326cace4d71ae9110a662b7b48d%2Fla-photos-1staff-526650-me-0417-march-to-reopen-005.IK.jpg)

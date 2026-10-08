@@ -1,8 +1,9 @@
 ---
 title: "Литания абсурда"
 author: "Элисон Пирсон"
+authors: ["Элисон Пирсон"]
 date: 2022-01-24T11:24:00+03:00
-tags: ["Элисон Пирсон", "BROWNSTONE INSTITUTE"]
+tags: ["COVID-19, локдауны и вакцинная политика", "BROWNSTONE INSTITUTE"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2022/01/shutterstock_159016841-800x469.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "Грядущий крах левых: Яша Мунк \"Ловушка идентичности: История власти и идей в наше время\""
 author: "Джеймс Хартли"
+authors: ["Джеймс Хартли"]
 date: 2024-05-01T13:26:28+03:00
-tags: ["Джеймс Хартли"]
+tags: ["история свободы и экономическая история", "война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/12/Shutterstock_1307939107-1536x975.jpg&nocache=1)

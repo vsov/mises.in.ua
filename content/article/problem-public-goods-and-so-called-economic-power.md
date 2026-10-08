@@ -1,8 +1,9 @@
 ---
 title: "Проблема общественных благ и так называемой экономической власти"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2022-01-26T12:23:00+03:00
-tags: ["Дэвид Гордон"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/05_fridayphil_dg_wire_750x516_0.jpg?itok=MIfEUgMM)

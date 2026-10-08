@@ -1,8 +1,9 @@
 ---
 title: "Холодная оценка смертности от жары"
 author: "Винсент Гилозо"
+authors: ["Винсент Гилозо"]
 date: 2022-08-01T11:08:31+03:00
-tags: ["Винсент Гилозо"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://scontent-frx5-1.xx.fbcdn.net/v/t39.30808-6/294069652_2241213212708664_7540369707854431612_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=fzamWQEyq6UAX-5h_hs&_nc_oc=AQkGbSno-pnAU082Z56pQQQX6WScBDEno-cP3xceyn8XEFhWH85vEl8BGNfh6ohxJCM&tn=ZLj29K3HN-kA4Q5D&_nc_ht=scontent-frx5-1.xx&oh=00_AT_Zvte3ZrL8xrW7kIu9JIbsOWfl1fs1Bln4YHo399ER7Q&oe=62EC3FD6)

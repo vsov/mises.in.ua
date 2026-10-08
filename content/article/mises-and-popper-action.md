@@ -1,8 +1,9 @@
 ---
 title: "Мизес и Поппер о действии"
 author: "Брайен Гледи"
+authors: ["Брайен Гледи"]
 date: 2024-01-19T12:52:56+03:00
-tags: ["Брайен Гледи"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/Mises%20Statue.jpg?itok=cuYhD430)

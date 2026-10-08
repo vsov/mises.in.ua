@@ -1,8 +1,9 @@
 ---
 title: "Может ли Lightning Network привести к \"гипербиткоинизации\"?"
 author: "Питер Сент-Ондж"
+authors: ["Питер Сент-Ондж"]
 date: 2021-07-28T11:00:00+03:00
-tags: ["Питер Сент-Ондж"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/46873128751_0147b47b79_b.jpg?itok=NoA2j_Zm)

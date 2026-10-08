@@ -1,8 +1,9 @@
 ---
 title: "Новое исследование выявило серьезную ошибку в учете смертей от коронавируса"
 author: "Этан Янг"
+authors: ["Этан Янг"]
 date: 2020-11-30T14:00:00+03:00
-tags: ["Этан Янг"]
+tags: ["COVID-19, локдауны и вакцинная политика", "наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://planful.com/wp-content/uploads/accountant_struggling-505827-edited.jpg)

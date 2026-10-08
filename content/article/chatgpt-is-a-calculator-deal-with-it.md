@@ -1,8 +1,9 @@
 ---
 title: "ChatGPT — это калькулятор, смиритесь с этим"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2024-01-10T14:18:59+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/01/Shutterstock_2303076263-1536x975.jpg&nocache=1)

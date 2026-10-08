@@ -1,8 +1,9 @@
 ---
 title: "Американский диссидент. Наследие Мюррея Ротбарда"
 author: "Круз Маркус"
+authors: ["Круз Маркус"]
 date: 2023-03-08T17:56:38+03:00
-tags: ["Круз Маркус"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://fee.org/media/9636/20130903_rothbarddetail2.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131303471370000000)

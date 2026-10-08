@@ -1,8 +1,9 @@
 ---
 title: "Чему Спунер может научить нас в нашу эпоху неофашизма"
 author: "Джейсон Морган"
+authors: ["Джейсон Морган"]
 date: 2021-10-26T11:00:00+03:00
-tags: ["Джейсон Морган"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/const1.jpg?itok=KFiljivt)

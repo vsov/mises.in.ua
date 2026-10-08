@@ -1,8 +1,9 @@
 ---
 title: "Подход к преподаванию Ролза и неравенство доходов"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2023-06-23T11:32:51+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/05/inequalityfigures-1536x975.jpg&nocache=1)

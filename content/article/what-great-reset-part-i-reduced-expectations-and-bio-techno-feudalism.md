@@ -1,8 +1,9 @@
 ---
 title: "Что такое Большая перезагрузка? Часть I: Пониженные ожидания и био-техно-феодализм"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-11-10T14:11:27+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.O6ZkZk0Y2RB9ww3IKGNHhAHaEK%26pid%3DApi&f=1)

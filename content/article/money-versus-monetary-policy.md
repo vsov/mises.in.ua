@@ -1,8 +1,9 @@
 ---
 title: "Деньги против монетарной политики"
 author: "Джефф Дейст"
+authors: ["Джефф Дейст"]
 date: 2023-04-12T20:50:54+03:00
-tags: ["Джефф Дейст"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/central_banking-wire.jpg?itok=WKFkEZ-N)

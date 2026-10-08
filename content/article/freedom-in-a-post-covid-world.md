@@ -1,8 +1,9 @@
 ---
 title: "Свобода в пост-ковидном мире"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2025-09-05T14:40:27+03:00
-tags: ["Джеффри Такер"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2025/07/Shutterstock_2354013655.jpg)

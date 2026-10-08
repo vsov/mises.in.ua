@@ -1,8 +1,9 @@
 ---
 title: "Что будет с ядерным оружием, если Америка разделится?"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2021-03-17T11:00:00+03:00
-tags: ["Райен МакМакен"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/mark_7_nuclear_bomb_at_usaf_museum.jpg?itok=kuFOGb5Y)

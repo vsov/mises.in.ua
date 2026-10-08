@@ -1,8 +1,9 @@
 ---
 title: "Мы никогда не исчерпаем ресурсы"
 author: "Марьян Тюпи"
+authors: ["Марьян Тюпи"]
 date: 2023-11-01T11:43:01+03:00
-tags: ["Марьян Тюпи"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://humanprogress.org/wp-content/uploads/2022/12/2022-08-19-Marian-Tupy-Cato-Institute-RCD-83_websize.jpg)

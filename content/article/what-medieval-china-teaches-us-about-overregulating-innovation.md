@@ -1,8 +1,9 @@
 ---
 title: "Чему средневековый Китай учит нас в отношении чрезмерного регулирования инноваций"
 author: "Имон Песси"
+authors: ["Имон Песси"]
 date: 2023-11-03T19:23:35+03:00
-tags: ["Имон Песси"]
+tags: ["история свободы и экономическая история", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://humanprogress.org/wp-content/uploads/2023/08/giga-humanprogress_light_tan_and_mint_green_medieval_Chinese_merchan_bcc1ac93-7714-44e5-91cd-76baa719f0a6-gigapixel-standard-scale-2_00x.jpg)

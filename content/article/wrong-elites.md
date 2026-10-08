@@ -1,8 +1,9 @@
 ---
 title: "Неправильная элита"
 author: "Джефф Дейст"
+authors: ["Джефф Дейст"]
 date: 2022-05-18T13:39:00+03:00
-tags: ["Джефф Дейст"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/elite-wire.jpg?itok=SxcD9Z-7)

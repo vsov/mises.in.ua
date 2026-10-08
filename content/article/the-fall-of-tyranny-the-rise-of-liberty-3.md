@@ -1,8 +1,9 @@
 ---
 title: "Что делать с бешеным темпом развития технологий"
 author: "Джордж Форд Смит"
+authors: ["Джордж Форд Смит"]
 date: 2025-08-11T16:53:23+03:00
-tags: ["Джордж Форд Смит", "Главы из книги The Fall of Tyranny the Rise of Liberty"]
+tags: ["технологии, ИИ и цифровой контроль", "Главы из книги The Fall of Tyranny the Rise of Liberty"]
 draft: false
 ---
 ![](https://m.media-amazon.com/images/I/51n9o1HYgGL.jpg)

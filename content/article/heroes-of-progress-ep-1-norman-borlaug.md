@@ -1,8 +1,9 @@
 ---
 title: "Герои прогресса, часть 1: Норман Борлауг"
 author: "Александр Хаммонд"
+authors: ["Александр Хаммонд"]
 date: 2022-06-10T10:23:08+03:00
-tags: ["Александр Хаммонд"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.humanprogress.org/wp-content/uploads/2018/09/green-borlaug.png)

@@ -1,8 +1,9 @@
 ---
 title: "Экологизм в свете учений Менгера и Мизеса"
 author: "Джордж Райзман"
+authors: ["Джордж Райзман"]
 date: 2022-03-12T16:46:00+03:00
-tags: ["Джордж Райзман"]
+tags: ["климат, экология и энергетика", "австрийская школа и праксеология", "наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://scontent.fiev11-1.fna.fbcdn.net/v/t1.18169-9/29683942_182744255865739_6126914985918089017_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=avc_28y7RiMAX_SDRM9&_nc_ht=scontent.fiev11-1.fna&oh=00_AT96H6KaxjAVVJDpo20wQeAq6z6cDRbBFX7NjqvHrhdfmw&oe=62537248)

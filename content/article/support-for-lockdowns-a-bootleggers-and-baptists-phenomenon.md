@@ -1,8 +1,9 @@
 ---
 title: "Поддержка локдаунов: феномен \"бутлегеров и баптистов\""
 author: "Дэвид МакГроган"
+authors: ["Дэвид МакГроган"]
 date: 2021-08-02T11:00:00+03:00
-tags: ["Дэвид МакГроган"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/06/vintagebootleggers-800x508.jpg)

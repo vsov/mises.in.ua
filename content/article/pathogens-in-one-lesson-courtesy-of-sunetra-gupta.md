@@ -1,8 +1,9 @@
 ---
 title: "Патогены за один урок"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2021-05-14T09:00:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/04/shutterstock_749202751-800x508.jpg)

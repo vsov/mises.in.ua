@@ -1,8 +1,9 @@
 ---
 title: "Анархо-коммунизм"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2025-07-23T11:40:40+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["социализм, марксизм и антикапитализм", "частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/social-media/ancomm.jpg.webp?itok=VnxW7U1F)

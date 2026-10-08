@@ -1,8 +1,9 @@
 ---
 title: "Открытое письмо Джордану Питерсону"
 author: "Эдвард Бачер"
+authors: ["Эдвард Бачер"]
 date: 2024-09-20T15:50:47+03:00
-tags: ["Эдвард Бачер"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-07/WorldEnd-W.jpeg.webp?itok=Iz-JTN6b)

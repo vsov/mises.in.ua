@@ -396,6 +396,12 @@ iframe {
   padding: 1.35rem;
 }
 
+.feature-card--archive {
+  background:
+    linear-gradient(180deg, rgba(255, 252, 247, 0.96) 0%, rgba(245, 236, 222, 0.92) 100%);
+  border-color: rgba(147, 91, 43, 0.22);
+}
+
 .feature-card h2 {
   font-size: clamp(1.9rem, 2.8vw, 2.8rem);
   margin-top: 0.35rem;

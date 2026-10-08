@@ -1,8 +1,9 @@
 ---
 title: "Падение тирании, восход свободы"
 author: "Джордж Форд Смит"
+authors: ["Джордж Форд Смит"]
 date: 2025-09-08T10:59:52+03:00
-tags: ["Джордж Форд Смит", "Главы из книги The Fall of Tyranny the Rise of Liberty"]
+tags: ["история свободы и экономическая история", "война, империя и внешняя политика", "Главы из книги The Fall of Tyranny the Rise of Liberty"]
 draft: false
 ---
 

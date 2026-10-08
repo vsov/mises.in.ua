@@ -1,8 +1,9 @@
 ---
 title: "Вы случайно не придумали себе Хайека, господин Стиглиц?"
 author: "Мани Башарзад"
+authors: ["Мани Башарзад"]
 date: 2025-03-14T15:26:16+03:00
-tags: ["Мани Башарзад"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-02/AdobeStock_Kid%20Scared.jpeg.webp?itok=ji09XWVN)

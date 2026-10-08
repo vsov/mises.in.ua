@@ -1,8 +1,9 @@
 ---
 title: "Все это было в  Emergency Use Autorization. Почему они этого не видели?"
 author: "Томас Харрингтон"
+authors: ["Томас Харрингтон"]
 date: 2022-02-05T13:20:00+03:00
-tags: ["Томас Харрингтон"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2022/01/shutterstock_255239389-800x469.jpg)

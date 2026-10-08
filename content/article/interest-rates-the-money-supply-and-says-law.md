@@ -1,8 +1,9 @@
 ---
 title: "Процентные ставки, денежная масса и закон Сэя"
 author: "Александр Уильям Солтер"
+authors: ["Александр Уильям Солтер"]
 date: 2023-04-24T12:32:48+03:00
-tags: ["Александр Уильям Солтер"]
+tags: ["инфляция, дефляция и денежная политика", "деньги и банковская система"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/04/federalreservejigsaw-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Часть 1. Закладывая основу. Глава 1 Жить вместе, как на рынке"
 author: "Титус Гебель"
+authors: ["Титус Гебель"]
 date: 2025-09-15T18:13:58+03:00
-tags: ["Титус Гебель", "Free Private Cities"]
+tags: ["частное право, безопасность и частное управление", "капитализм, рынки и предпринимательство", "Free Private Cities"]
 draft: false
 ---
 ![](https://free-cities.org/wp-content/uploads/2022/05/covertitus-707x1024-1.png)

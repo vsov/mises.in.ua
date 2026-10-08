@@ -1,8 +1,9 @@
 ---
 title: "Не объявляйте \"чрезвычайную климатическую ситуацию\""
 author: "Алекс Эпштейн"
+authors: ["Алекс Эпштейн"]
 date: 2023-08-28T14:19:41+03:00
-tags: ["Алекс Эпштейн"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/361D/production/_106035831_climate.jpg)

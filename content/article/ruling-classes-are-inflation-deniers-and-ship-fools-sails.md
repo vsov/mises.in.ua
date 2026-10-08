@@ -1,8 +1,9 @@
 ---
 title: "Правящие классы отрицают инфляцию, а корабль дураков плывет дальше"
 author: "Кевин ван Элсвик"
+authors: ["Кевин ван Элсвик"]
 date: 2023-05-08T16:16:56+03:00
-tags: ["Кевин ван Элсвик"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/wallet-w.jpg?itok=tzN6YDJ5)

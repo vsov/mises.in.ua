@@ -1,8 +1,9 @@
 ---
 title: "Приватность и взаимозаменяемость: забытые добродетели здоровых денег"
 author: "Майкл Милано"
+authors: ["Майкл Милано"]
 date: 2025-09-10T11:25:43+03:00
-tags: ["Майкл Милано"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-07/AdobeStock_Blockchain.jpeg.webp?itok=ioHMj4dB)

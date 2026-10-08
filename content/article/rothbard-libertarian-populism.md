@@ -1,8 +1,9 @@
 ---
 title: "Ротбард о либертарианском популизме"
 author: "Джефф Дейст"
+authors: ["Джефф Дейст"]
 date: 2024-01-15T14:18:36+03:00
-tags: ["Джефф Дейст"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/Murray%20Penthouse.jpg?itok=RPmI82IN)

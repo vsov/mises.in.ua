@@ -1,8 +1,9 @@
 ---
 title: "ФРС — банкрот"
 author: "Томас Хоган"
+authors: ["Томас Хоган"]
 date: 2023-04-19T17:02:31+03:00
-tags: ["Томас Хоган"]
+tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/04/feddarksky-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Как свободный рынок привел к \"Великому Обогащению\""
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-01-05T15:34:29+03:00
-tags: ["Дэвид Гордон"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226818306.jpg/jcr:content/9780226818306.jpg)

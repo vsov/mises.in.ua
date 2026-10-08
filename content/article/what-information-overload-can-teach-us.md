@@ -1,8 +1,9 @@
 ---
 title: "Чему может научить нас информационная перегрузка"
 author: "Гэри Гэллз"
+authors: ["Гэри Гэллз"]
 date: 2022-09-19T12:07:14+03:00
-tags: ["Гэри Гэллз"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/info-rain-wire.jpg?itok=41x7P9AL)

@@ -1,8 +1,9 @@
 ---
 title: "Табачный стандарт в колониальной Америке"
 author: "Джошуа Мохортер"
+authors: ["Джошуа Мохортер"]
 date: 2026-02-06T16:47:58+03:00
-tags: ["Джошуа Мохортер"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-05/AdobeStock_Jamestown.jpeg.webp?h=e7f6f1ca&itok=Gj_4SUVm)

@@ -1,8 +1,9 @@
 ---
 title: "Долой первобытность: критика Поланьи"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2022-05-30T14:04:18+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://bostonreview.net/wp-content/uploads/2017/05/polanyi.png)

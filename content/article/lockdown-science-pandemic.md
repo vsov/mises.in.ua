@@ -1,8 +1,9 @@
 ---
 title: "Скользкая \"наука\" локдаунов"
 author: "Филлип Магнес, Питер Эрл"
+authors: ["Филлип Магнес", "Питер Эрл"]
 date: 2021-12-27T11:36:00+03:00
-tags: ["Филлип Магнес", "Питер Эрл"]
+tags: ["наука, экспертиза и данные", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.usadots.com/wp-content/uploads/2021/12/20884-the-fickle-science-of-lockdowns.jpg)

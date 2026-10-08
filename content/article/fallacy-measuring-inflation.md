@@ -1,8 +1,9 @@
 ---
 title: "Ошибка «измерения» инфляции"
 author: "Патрик Керолл"
+authors: ["Патрик Керолл"]
 date: 2025-08-13T11:53:24+03:00
-tags: ["Патрик Керолл"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-06/AdobeStock_Measuring%20inflation.jpeg.webp?itok=EyTqkK4W)

@@ -1,8 +1,9 @@
 ---
 title: "Права человека и общественные блага"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-04-01T14:17:08+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/farm%20land.PNG.webp?itok=kIL9lT3n)

@@ -1,8 +1,9 @@
 ---
 title: "Долларизация в Аргентине: упущенная возможность"
 author: "Николас Кохановски"
+authors: ["Николас Кохановски"]
 date: 2024-02-21T13:21:19+03:00
-tags: ["Николас Кохановски"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2024/02/Shutterstock_2419910445-1536x975.jpg&nocache=1)

@@ -1,8 +1,9 @@
 ---
 title: "Дефицит понимания"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2023-01-27T15:00:06+03:00
-tags: ["Дональд Бодро"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://fee.org/media/24472/shutterstock_601378769.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131484827080000000)

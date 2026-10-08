@@ -21,7 +21,7 @@ enableGitalk = false
 
 [taxonomies]
    tag = "tags"
-#   author = "authors"
+   author = "authors"
 #   category = "categories"
 
 [markup.goldmark.renderer]

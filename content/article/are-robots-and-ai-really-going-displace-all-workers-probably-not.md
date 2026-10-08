@@ -1,8 +1,9 @@
 ---
 title: "Действительно ли роботы и искусственный интеллект вытеснят работников? Скорее всего, нет"
 author: "Роберт Блумен"
+authors: ["Роберт Блумен"]
 date: 2023-01-02T18:06:33+03:00
-tags: ["Роберт Блумен"]
+tags: ["технологии, ИИ и цифровой контроль"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/robot-w.jpg?itok=hA_ijjSE)

@@ -1,8 +1,9 @@
 ---
 title: "Фридрих Хайек и конец истины"
 author: "Джулиана Джеран Пилон"
+authors: ["Джулиана Джеран Пилон"]
 date: 2025-05-14T10:07:07+03:00
-tags: ["Джулиана Джеран Пилон"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2024/06/Shutterstock_252140368.jpg)

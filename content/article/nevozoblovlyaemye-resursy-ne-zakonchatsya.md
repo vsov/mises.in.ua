@@ -1,8 +1,9 @@
 ---
 title: "Невозобновляемые ресурсы никогда не закончатся"
 author: "Хоаким Брук"
+authors: ["Хоаким Брук"]
 date: 2020-06-24T10:52:27+03:00
-tags: ["Хоаким Брук"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/rig.JPG?itok=1PvQ0juF)

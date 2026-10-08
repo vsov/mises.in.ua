@@ -1,8 +1,9 @@
 ---
 title: "Разница между медью и огурцами"
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2021-03-03T20:00:00+03:00
-tags: ["Хоаким Бук"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/02/copperlamps-800x508.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "Как биткоин может сокрушить социализм в Венесуэле"
 author: "Тони Аллен"
+authors: ["Тони Аллен"]
 date: 2021-02-19T13:00:00+03:00
-tags: ["Тони Аллен"]
+tags: ["социализм, марксизм и антикапитализм", "биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://fee.org/media/39043/maduro_bitcoin_socialism.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132567430930000000)

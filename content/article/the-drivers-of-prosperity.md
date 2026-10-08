@@ -1,8 +1,9 @@
 ---
 title: "Драйверы процветания"
 author: "Лонис Хамаили"
+authors: ["Лонис Хамаили"]
 date: 2025-06-11T15:40:11+03:00
-tags: ["Лонис Хамаили"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://fee.org/wp-content/uploads/2025/04/PROSPERA.jpg)

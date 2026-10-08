@@ -1,8 +1,9 @@
 ---
 title: "Существовал ли долг до денег? Неважно."
 author: "Майкл Уотсон"
+authors: ["Майкл Уотсон"]
 date: 2023-09-01T13:15:53+03:00
-tags: ["Майкл Уотсон"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/5858030702_42cd3f4a51.jpg?itok=iRUR3giA)

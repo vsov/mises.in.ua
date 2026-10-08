@@ -1,8 +1,9 @@
 ---
 title: "Как государство захватило контроль над браком"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2023-01-04T13:54:19+03:00
-tags: ["Райен МакМакен"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/wedding1.jpg?itok=P1HIsqAO)

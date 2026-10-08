@@ -1,8 +1,9 @@
 ---
 title: "Америка — это технократия, а не демократия"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2020-06-15T16:52:27+03:00
-tags: ["Райен МакМакен"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/fedboard1.png?itok=2YshX4dU)

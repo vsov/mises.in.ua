@@ -1,8 +1,9 @@
 ---
 title: "Уничтожение продовольствия для борьбы с изменением климата — это безумие"
 author: "Джон Милтмор"
+authors: ["Джон Милтмор"]
 date: 2022-05-06T11:21:46+03:00
-tags: ["Джон Милтмор"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://fee.org/media/41597/beefcows-sheep_climate-change.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132956221870000000)

@@ -1,8 +1,9 @@
 ---
 title: "Вудро Вильсон и свобода"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-08-19T13:02:05+03:00
-tags: ["Дэвид Гордон"]
+tags: ["демократия, конституции и политические институты"]
 draft: false
 ---
 ![](https://static01.nyt.com/images/2012/05/21/opinion/cs-wilson-pitch/cs-wilson-pitch-blog480.jpg)

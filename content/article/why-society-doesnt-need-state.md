@@ -1,8 +1,9 @@
 ---
 title: "Почему обществу не нужно государство"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-06-05T17:17:16+03:00
-tags: ["Дэвид Гордон"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/David_Gordon.jpg.webp?itok=HhsZyTAN)

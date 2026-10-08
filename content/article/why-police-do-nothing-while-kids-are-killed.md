@@ -1,8 +1,9 @@
 ---
 title: "Почему полиция ничего не делает, пока убивают детей"
 author: "Райен МакМакен"
+authors: ["Райен МакМакен"]
 date: 2022-07-04T12:38:36+03:00
-tags: ["Райен МакМакен"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/robb1.jpg?itok=Rs6Tpueg)

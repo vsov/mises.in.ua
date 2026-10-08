@@ -1,10 +1,10 @@
 +++
-author = "Сперанта Думитру"
-date = "2016-11-22T22:11:33+02:00"
-draft = false
-tags = ["Сперанта Думитру"]
 title = "Паспорта были «временной мерой военного времени»"
-
+author = "Сперанта Думитру"
+authors = ["Сперанта Думитру"]
+date = "2016-11-22T22:11:33+02:00"
+tags = ["война, империя и внешняя политика"]
+draft = false
 +++
 
 ![](https://fee.org/media/18743/passport.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131303490270000000)

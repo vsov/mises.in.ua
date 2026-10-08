@@ -1,8 +1,9 @@
 ---
 title: "Почему австрийцы не неолибералы"
 author: "Филип Багус"
+authors: ["Филип Багус"]
 date: 2021-01-13T12:00:00+03:00
-tags: ["Филип Багус"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/neoliberals2.jpg?itok=Xwpbhm7e)

@@ -1,8 +1,9 @@
 ---
 title: "Реальность не является социальным конструктом"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-09-02T12:39:39+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-06/Reality-W.jpg.webp?itok=k_vkQ3Lv)

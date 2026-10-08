@@ -1,8 +1,9 @@
 ---
 title: "Роль интеллектуалов и анти-интеллектуалов"
 author: "Ханс Херман Хоппе"
+authors: ["Ханс Херман Хоппе"]
 date: 2021-08-11T16:00:00+03:00
-tags: ["Ханс Херман Хоппе"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/intellectual-wire.jpg?itok=T0ZX_n0B)

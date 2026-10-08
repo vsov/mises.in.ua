@@ -1,8 +1,9 @@
 ---
 title: "Почему государство стремится упразднить традиции и историю"
 author: "Закари Йост"
+authors: ["Закари Йост"]
 date: 2020-11-13T16:00:00+03:00
-tags: ["Закари Йост"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/abuelos1.png?itok=mw0Fb6KH)

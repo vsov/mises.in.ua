@@ -1,8 +1,9 @@
 ---
 title: "Абсентовая моральная паника длилась 100 лет"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2021-12-13T16:24:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2021/11/absinthe-green-fairy-1536x900.jpg)

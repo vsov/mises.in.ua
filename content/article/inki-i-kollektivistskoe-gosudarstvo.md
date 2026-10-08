@@ -1,8 +1,9 @@
 ---
 title: "Инки и коллективистское государство"
 author: "Ричард Эбелинг"
+authors: ["Ричард Эбелинг"]
 date: 2020-09-21T11:00:00+03:00
-tags: ["Ричард Эбелинг"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://fee.org/media/23987/shutterstock_649655323_mini.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=131472878890000000)

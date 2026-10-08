@@ -1,8 +1,9 @@
 ---
 title: "Политическая экономия пестицидов: как субсидировать отраву"
 author: "Тимоти Д.Терелл"
+authors: ["Тимоти Д.Терелл"]
 date: 2026-04-01T12:57:21+03:00
-tags: ["Тимоти Д.Терелл"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2026-01/AdobeStock_Pesticides.jpeg.webp?h=55110543&itok=mQeToSGx)

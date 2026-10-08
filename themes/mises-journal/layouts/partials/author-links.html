@@ -1,0 +1,14 @@
+{{- $authors := .Params.authors -}}
+{{- if not $authors -}}
+  {{- with .Params.author -}}
+    {{- $authors = slice . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $authors -}}
+  <span>
+    {{- range $index, $author := . -}}
+      {{- if gt $index 0 }}, {{ end -}}
+      <a href="{{ "/authors/" | relLangURL }}{{ $author | urlize }}/">{{ $author }}</a>
+    {{- end -}}
+  </span>
+{{- end -}}

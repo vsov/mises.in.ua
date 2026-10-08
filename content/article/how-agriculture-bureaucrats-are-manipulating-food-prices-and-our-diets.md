@@ -1,8 +1,9 @@
 ---
 title: "Как сельскохозяйственные бюрократы манипулируют ценами на продукты питания и нашими диетами"
 author: "Сэмми Картагена"
+authors: ["Сэмми Картагена"]
 date: 2022-03-23T17:25:11+03:00
-tags: ["Сэмми Картагена"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/steak-wire_0.jpg?itok=seuFNSvo)

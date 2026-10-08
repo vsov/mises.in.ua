@@ -1,8 +1,9 @@
 ---
 title: "За пределами кризиса: Эффект храповика и эрозия свободы"
 author: "Майкл Матулеф"
+authors: ["Майкл Матулеф"]
 date: 2023-10-20T18:56:57+03:00
-tags: ["Майкл Матулеф"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/liberty-w_2.jpg?itok=h4qfgYiy)

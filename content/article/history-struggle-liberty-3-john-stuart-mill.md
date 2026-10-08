@@ -1,8 +1,9 @@
 ---
 title: "История: Борьба за свободу. Джон Стюарт Милль"
 author: "Ральф Райко"
+authors: ["Ральф Райко"]
 date: 2024-12-16T19:17:13+03:00
-tags: ["История борьбы за свободу","Ральф Райко"]
+tags: ["история свободы и экономическая история", "История борьбы за свободу"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/History%20the%20Struggle%20for%20Liberty%20Raico%202003_750x516.jpg.webp?itok=KYTTt4k6)

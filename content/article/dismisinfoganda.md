@@ -1,8 +1,9 @@
 ---
 title: "Dismisinfoganda"
 author: "Роберт Райт"
+authors: ["Роберт Райт"]
 date: 2021-07-02T11:00:00+03:00
-tags: ["Роберт Райт"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/05/news-800x508.jpg)

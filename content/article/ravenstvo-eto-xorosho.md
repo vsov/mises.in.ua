@@ -1,8 +1,9 @@
 ---
 title: "Равенство — это хорошо, хотите вы того или нет"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2020-07-22T09:52:27+03:00
-tags: ["Дэвид Гордон"]
+tags: ["здравоохранение, фарма и медицинское регулирование"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/05_FridayPhil_DG_Wire_750x516_0.jpg?itok=q2pP7CtC)

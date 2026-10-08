@@ -1,8 +1,9 @@
 ---
 title: "Правительства играли важную роль в поддержании рабства"
 author: "Джошуа Мавотер"
+authors: ["Джошуа Мавотер"]
 date: 2024-10-16T18:58:41+03:00
-tags: ["Джошуа Мавотер"]
+tags: ["история свободы и экономическая история", "государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-08/AdobeStock_Slavery.jpeg.webp?itok=9GQl8Kjt)

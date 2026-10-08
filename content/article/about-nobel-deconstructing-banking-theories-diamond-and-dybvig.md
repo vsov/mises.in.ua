@@ -1,8 +1,9 @@
 ---
 title: "О той самой Нобелевке: Деконструкция банковских теорий Даймонда и Дайбвига"
 author: "Кристофер Маустен Хансен"
+authors: ["Кристофер Маустен Хансен"]
 date: 2023-02-08T13:12:16+03:00
-tags: ["Кристофер Маустен Хансен"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/nobel-w.jpg?itok=C_AnLeTK)

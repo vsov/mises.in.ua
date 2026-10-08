@@ -1,8 +1,9 @@
 ---
 title: "Доктрина Спунера—Такера: взгляд экономиста"
 author: "Мюррей Ротбард"
+authors: ["Мюррей Ротбард"]
 date: 2025-08-22T10:36:00+03:00
-tags: ["Мюррей Ротбард"]
+tags: ["инфляция, дефляция и денежная политика", "деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_650w/s3/static-page/img/Murray%20Rothbard%20576x720.jpg.webp?itok=MhhOUL4Q)

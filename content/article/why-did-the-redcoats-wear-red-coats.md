@@ -1,8 +1,9 @@
 ---
 title: "Почему красномундирники носили красные мундиры?"
 author: "Энтони Гилл"
+authors: ["Энтони Гилл"]
 date: 2023-06-07T13:46:22+03:00
-tags: ["Энтони Гилл"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/04/redcoat-1536x975.jpg&nocache=1)

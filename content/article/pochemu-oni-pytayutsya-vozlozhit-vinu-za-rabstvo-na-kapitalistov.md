@@ -1,8 +1,9 @@
 ---
 title: "Почему они пытаются возложить вину за рабство на капиталистов"
 author: "Райан МакМакен"
+authors: ["Райан МакМакен"]
 date: 2019-11-26T13:52:27+02:00
-tags: ["Райан МакМакен"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/slaves1.JPG?itok=ic4JvZGL)

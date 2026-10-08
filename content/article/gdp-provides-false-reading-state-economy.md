@@ -1,8 +1,9 @@
 ---
 title: "ВВП дает ложное представление о состоянии экономики"
 author: "Фрэнк Шостак"
+authors: ["Фрэнк Шостак"]
 date: 2022-08-17T12:24:57+03:00
-tags: ["Фрэнк Шостак"]
+tags: ["инфляция, дефляция и денежная политика", "деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/gauges-wire.jpg?itok=lFoKNnEX)

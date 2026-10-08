@@ -1,8 +1,9 @@
 ---
 title: "Как Карл Менгер и австрийцы помогли направить экономическую теорию в нужное русло"
 author: "Педро Гулар"
+authors: ["Педро Гулар"]
 date: 2025-05-23T14:42:08+03:00
-tags: ["Педро Гулар"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/static-page/img/menger-w.jpg.webp?itok=YammjJY3)

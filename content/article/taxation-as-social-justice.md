@@ -1,8 +1,9 @@
 ---
 title: "Налогообложение, как социальная справедливость"
 author: "Майкл Мюнгер"
+authors: ["Майкл Мюнгер"]
 date: 2023-11-07T11:36:19+03:00
-tags: ["Майкл Мюнгер"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/09/Shutterstock_1940036269-1536x975.jpg&nocache=1)

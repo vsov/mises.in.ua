@@ -1,8 +1,9 @@
 ---
 title: "Менгер — эмпирик"
 author: "Питер Кляйн"
+authors: ["Питер Кляйн"]
 date: 2022-01-12T12:40:00+03:00
-tags: ["Питер Кляйн"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/9/98/CarlMenger.png)

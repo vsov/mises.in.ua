@@ -1,8 +1,9 @@
 ---
 title: "Философия псевдопрогрессистов"
 author: "Людвиг фон Мизес"
+authors: ["Людвиг фон Мизес"]
 date: 2022-09-07T11:53:53+03:00
-tags: ["Людвиг фон Мизес"]
+tags: ["история свободы и экономическая история"]
 draft: false
 ---
 ![](https://fee.org/media/35155/mises-planning-for-freedom.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=132097534030000000)

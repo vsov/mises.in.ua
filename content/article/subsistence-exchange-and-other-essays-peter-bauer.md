@@ -1,8 +1,9 @@
 ---
 title: "Нищета зависти"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-03-13T14:41:23+03:00
-tags: ["Дэвид Гордон"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://pup-assets.imgix.net/onix/images/9780691117829.jpg?w=600&auto=format)

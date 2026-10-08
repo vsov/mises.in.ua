@@ -1,8 +1,9 @@
 ---
 title: "Хайекианская свобода и хищное государство"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2024-09-23T16:47:47+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-07/LibertyFire-W.jpeg.webp?itok=ig8jCV5_)

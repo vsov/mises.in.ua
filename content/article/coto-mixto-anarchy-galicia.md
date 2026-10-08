@@ -1,8 +1,9 @@
 ---
 title: "Кото Миксто: анархия в Галиции"
 author: "Даниэл Морена Витон"
+authors: ["Даниэл Морена Витон"]
 date: 2023-07-12T10:07:01+03:00
-tags: ["Даниэл Морена Витон"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/my_project_1_1.jpg?itok=3XQ2_Jkw)

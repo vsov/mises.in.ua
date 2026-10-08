@@ -1,8 +1,9 @@
 ---
 title: "Китай не захватит мир"
 author: "Джозеф Солис-Мюллен"
+authors: ["Джозеф Солис-Мюллен"]
 date: 2021-09-06T15:00:00+03:00
-tags: ["Джозеф Солис-Мюллен"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/china-wire.jpg?itok=x-x0nrlN)

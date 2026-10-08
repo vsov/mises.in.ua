@@ -1,8 +1,9 @@
 ---
 title: "Чарли Кирк и священный тотем гражданских прав"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2025-09-24T10:08:17+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-09/Charlie_Kirk_-_53069222184.jpg.webp?itok=O3rOGNYG)

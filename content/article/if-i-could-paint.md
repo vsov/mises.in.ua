@@ -1,8 +1,9 @@
 ---
 title: "Если бы я умел рисовать"
 author: "Дональд Бодро"
+authors: ["Дональд Бодро"]
 date: 2021-08-13T17:00:00+03:00
-tags: ["Дональд Бодро"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/06/painting-800x508.jpg)

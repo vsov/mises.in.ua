@@ -1,8 +1,9 @@
 ---
 title: "Малкольм МакЛин: неизвестный герой-капиталист, изменивший мир"
 author: "Крис Кэлтон"
+authors: ["Крис Кэлтон"]
 date: 2022-09-12T12:48:38+03:00
-tags: ["Крис Кэлтон"]
+tags: ["инфляция, дефляция и денежная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/shipping-wire_0.jpg?itok=TKA7THmh)

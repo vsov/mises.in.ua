@@ -1,8 +1,9 @@
 ---
 title: "Центры прогресса, часть 22: Манчестер (индустриализация)"
 author: "Челси Фоллет"
+authors: ["Челси Фоллет"]
 date: 2022-07-08T11:57:38+03:00
-tags: ["Челси Фоллет"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://www.humanprogress.org/wp-content/uploads/2021/02/CoP-22-Manchester-Thumbnail.png)

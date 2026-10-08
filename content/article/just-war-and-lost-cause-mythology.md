@@ -1,8 +1,9 @@
 ---
 title: "Справедливая война и мифология «проигранного дела»"
 author: "Ванджиру Нойя"
+authors: ["Ванджиру Нойя"]
 date: 2025-04-14T12:18:54+03:00
-tags: ["Ванджиру Нойя"]
+tags: ["война, империя и внешняя политика", "история свободы и экономическая история"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-02/AdobeStock_Confederate%20soldier%20memorial.jpeg.webp?itok=Nt3p-RfB)

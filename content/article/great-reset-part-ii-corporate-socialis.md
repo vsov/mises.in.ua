@@ -1,8 +1,9 @@
 ---
 title: "Большая перезагрузка, часть II: корпоративный социализм"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-11-12T12:11:00+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
 ![](https://rlv.zcache.com/we_only_do_corporate_socialism_bumper_sticker-r9f70dabd8f1e48e98cce05106cac0d3c_v9wht_8byvr_512.jpg)

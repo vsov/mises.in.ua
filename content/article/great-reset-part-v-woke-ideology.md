@@ -1,8 +1,9 @@
 ---
 title: "Большая перезагрузка, часть V: идеология воков"
 author: "Майкл Ректенвальд"
+authors: ["Майкл Ректенвальд"]
 date: 2021-11-19T13:17:00+03:00
-tags: ["Майкл Ректенвальд"]
+tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/coke-wire.jpg?itok=1O9sAwHx)

@@ -1,8 +1,9 @@
 ---
 title: "Руководство по австрийской экономике для держателей биткоина"
 author: "Пер Байлунд"
+authors: ["Пер Байлунд"]
 date: 2025-01-03T14:01:54+03:00
-tags: ["Пер Байлунд"]
+tags: ["австрийская школа и праксеология", "биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2024-12/AdobeStock_Bitcoin.jpeg.webp?itok=NDSqt5P_)

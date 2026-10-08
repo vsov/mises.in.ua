@@ -1,8 +1,9 @@
 ---
 title: "Трамп должен сократить миллионы «частных» рабочих мест, финансируемых за счет налогов"
 author: "Райен Макмакен"
+authors: ["Райен Макмакен"]
 date: 2025-03-07T13:23:56+03:00
-tags: ["Райен Макмакен"]
+tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-02/usaid.png.webp?itok=ugqdlpBI)

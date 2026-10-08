@@ -2,6 +2,11 @@
   {{ $pages := where site.RegularPages "Section" "article" }}
   {{ $paginator := .Paginate $pages }}
   {{ $featured := index $paginator.Pages 0 }}
+  {{ $randomPool := after (len $paginator.Pages) $pages }}
+  {{ if lt (len $randomPool) 1 }}
+    {{ $randomPool = after 1 $pages }}
+  {{ end }}
+  {{ $randomPick := first 1 (shuffle $randomPool) }}
   {{ $tagTerms := first 14 site.Taxonomies.tags.ByCount }}
 
   <section class="hero">
@@ -12,7 +17,7 @@
         <p class="hero__lead">{{ site.Params.homeLead | default site.Params.description }}</p>
         <div class="hero__meta">
           <span>{{ len $pages }} материалов</span>
-          <span>{{ len site.Taxonomies.tags }} тем</span>
+          <span>{{ len site.Taxonomies.tags }} тегов</span>
           <span>Адаптировано для спокойного чтения</span>
         </div>
       </div>
@@ -32,13 +37,30 @@
           <p class="feature-card__label">Свежий материал</p>
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           <div class="meta-row">
-            {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+            {{ partial "author-links.html" . }}
             <span>{{ .Date.Format "02.01.2006" }}</span>
             <span>{{ .ReadingTime }} мин чтения</span>
           </div>
           <p>{{ partial "excerpt.html" . }}</p>
           {{ partial "tag-list.html" . }}
         </article>
+      {{ end }}
+
+      {{ if eq $paginator.PageNumber 1 }}
+        {{ with index $randomPick 0 }}
+          <article class="feature-card feature-card--archive">
+            {{ partial "lead-image.html" . }}
+            <p class="feature-card__label">Случайная статья</p>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <div class="meta-row">
+              {{ partial "author-links.html" . }}
+              <span>{{ .Date.Format "02.01.2006" }}</span>
+              <span>{{ .ReadingTime }} мин чтения</span>
+            </div>
+            <p>{{ partial "excerpt.html" . }}</p>
+            {{ partial "tag-list.html" . }}
+          </article>
+        {{ end }}
       {{ end }}
 
       <div class="card-grid">

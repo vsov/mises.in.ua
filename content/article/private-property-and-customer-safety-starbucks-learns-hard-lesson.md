@@ -1,8 +1,9 @@
 ---
 title: "Частная собственность и безопасность клиентов: Starbucks усвоила тяжелый урок"
 author: "Тейт Фегли"
+authors: ["Тейт Фегли"]
 date: 2022-08-22T13:07:00+03:00
-tags: ["Тейт Фегли"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/starbucks1.jpg?itok=7wIzZsfL)

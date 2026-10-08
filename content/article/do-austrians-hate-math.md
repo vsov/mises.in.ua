@@ -1,8 +1,9 @@
 ---
 title: "Правда ли, что австрийцы ненавидят математику?"
 author: "Райан МакМакен"
+authors: ["Райан МакМакен"]
 date: 2021-05-24T10:00:00+03:00
-tags: ["Райан МакМакен"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/numbers_1.jpg?itok=vlKm_r_j)

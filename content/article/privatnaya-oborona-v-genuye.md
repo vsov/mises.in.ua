@@ -1,8 +1,9 @@
 ---
 title: "Частная оборона в истории Генуи"
 author: "Маттео Салониа"
+authors: ["Маттео Салониа"]
 date: 2020-07-16T14:52:27+03:00
-tags: ["Маттео Салониа"]
+tags: ["история свободы и экономическая история", "война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/genoa1.png?itok=VbJzbbJv)

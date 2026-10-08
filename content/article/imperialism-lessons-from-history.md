@@ -1,9 +1,10 @@
 ---
 title: "Империализм: уроки истории"
 author: "Виктор Дэвис Хансон"
+authors: ["Виктор Дэвис Хансон"]
 date: 2023-09-08T12:13:11+03:00
-tags: ["Виктор Дэвис Хансон"]
-draft: false --- 
+tags: ["война, империя и внешняя политика"]
+draft: "false ---"
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Punch_Rhodes_Colossus.png/1200px-Punch_Rhodes_Colossus.png)
 

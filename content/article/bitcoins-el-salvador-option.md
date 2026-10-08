@@ -1,8 +1,9 @@
 ---
 title: "Биткоин в Сальвадоре"
 author: "Кристофер Маустен Хансен"
+authors: ["Кристофер Маустен Хансен"]
 date: 2021-06-14T10:00:00+03:00
-tags: ["Кристофер Маустен Хансен"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/bitcoin-and-dollars-wire.jpg?itok=MOrQ0WAU)

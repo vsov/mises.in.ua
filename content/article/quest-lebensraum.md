@@ -1,8 +1,9 @@
 ---
 title: "Поиск жизненного пространства"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2024-07-19T10:39:43+03:00
-tags: ["Дэвид Гордон"]
+tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
 ![](https://adamtooze.com/wp-content/uploads/2020/05/EYfj8EUXQAE9ach.jpg)

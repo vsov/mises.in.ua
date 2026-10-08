@@ -1,8 +1,9 @@
 ---
 title: "CEA заслуживает двойки за анализ налога на майнинг биткоинов"
 author: "Джошуа Хендриксон"
+authors: ["Джошуа Хендриксон"]
 date: 2023-05-19T12:50:23+03:00
-tags: ["Джошуа Хендриксон"]
+tags: ["биткоин, криптовалюты и CBDC", "налоги, долг и госрасходы"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/05/miningrigs-1536x975.jpg&nocache=1)

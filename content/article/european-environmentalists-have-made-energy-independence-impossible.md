@@ -1,8 +1,9 @@
 ---
 title: "Европейские экологи сделали энергетическую независимость невозможной"
 author: "Дэниэл Лакаль"
+authors: ["Дэниэл Лакаль"]
 date: 2022-04-01T20:16:42+03:00
-tags: ["Дэниэл Лакаль"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/russia-gas-wire.jpg?itok=cWNf7c2y)

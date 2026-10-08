@@ -1,8 +1,9 @@
 ---
 title: "Почему интеллектуальная собственность не является необходимым условием поощрения инноваций"
 author: "Бернардо Декостер"
+authors: ["Бернардо Декостер"]
 date: 2022-02-09T11:29:00+03:00
-tags: ["Бернардо Декостер"]
+tags: ["частная собственность и права"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/iphone-wire.jpg?itok=NqrsGbtq)

@@ -1,8 +1,9 @@
 ---
 title: "Повесть о двух бюрократиях"
 author: "Дэвид Брейди"
+authors: ["Дэвид Брейди"]
 date: 2025-04-19T13:38:52+03:00
-tags: ["Дэвид Брейди"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_6_9_650w/s3/static-page/img/Theory%20of%20Socialism%20and%20Capitalism_2nd%20Edition_Hoppe_20130612.jpg.webp?itok=nWmRzxaX)

@@ -1,8 +1,9 @@
 ---
 title: "Биткоин продолжает адаптироваться мейнстримом"
 author: "Этан Янг"
+authors: ["Этан Янг"]
 date: 2021-03-19T12:00:00+03:00
-tags: ["Этан Янг"]
+tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/03/btcmountain-800x508.jpg)

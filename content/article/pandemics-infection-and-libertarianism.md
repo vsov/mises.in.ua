@@ -1,8 +1,9 @@
 ---
 title: "Пандемии, инфекции и либертарианство"
 author: "Фабрицио Феррари"
+authors: ["Фабрицио Феррари"]
 date: 2021-08-27T11:00:00+03:00
-tags: ["Фабрицио Феррари"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/dinner-wire.jpg?itok=jWCvtAfZ)

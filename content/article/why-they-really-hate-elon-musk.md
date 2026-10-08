@@ -1,8 +1,9 @@
 ---
 title: "Почему они ненавидят Илона Маска"
 author: "Коннор ОʼКифф"
+authors: ["Коннор ОʼКифф"]
 date: 2025-02-14T19:29:47+03:00
-tags: ["Коннор ОʼКифф"]
+tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/responsive_4_3_650w/s3/images/2025-02/ElonMusk_Wire.jpg.webp?itok=HRf0KnnT)

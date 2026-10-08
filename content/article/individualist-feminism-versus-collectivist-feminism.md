@@ -1,8 +1,9 @@
 ---
 title: "Индивидуалистический феминизм против коллективистского феминизма"
 author: "Дэн Санчес"
+authors: ["Дэн Санчес"]
 date: 2023-03-17T12:37:05+03:00
-tags: ["Дэн Санчес"]
+tags: ["культура, идеология, образование и свобода слова"]
 draft: false
 ---
 ![](https://fee.org/media/42530/nguyen-thu-hoai-9ciln1ybspa-unsplash.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133190309180000000)

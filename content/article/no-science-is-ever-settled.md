@@ -1,8 +1,9 @@
 ---
 title: "Наука никогда не бывает \"устоявшейся\""
 author: "Хоаким Бук"
+authors: ["Хоаким Бук"]
 date: 2021-09-01T10:00:00+03:00
-tags: ["Хоаким Бук"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://www.aier.org/wp-content/uploads/2021/07/shiftingsands-800x508.jpg)

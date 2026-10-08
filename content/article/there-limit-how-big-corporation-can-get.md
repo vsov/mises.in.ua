@@ -1,8 +1,9 @@
 ---
 title: "Есть ли предел роста у корпорации?"
 author: "Пер Байлун"
+authors: ["Пер Байлун"]
 date: 2021-05-19T10:00:00+03:00
-tags: ["Пер Байлун"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/bigfirm.PNG?itok=ZgBvFbli)

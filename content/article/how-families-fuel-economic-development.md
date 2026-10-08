@@ -1,8 +1,9 @@
 ---
 title: "Как семья способствует экономическому развитию"
 author: "Гор Мкртчян"
+authors: ["Гор Мкртчян"]
 date: 2021-06-09T18:00:00+03:00
-tags: ["Гор Мкртчян"]
+tags: ["деньги и банковская система"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/kitchen2.jpg?itok=kqCGtcDL)

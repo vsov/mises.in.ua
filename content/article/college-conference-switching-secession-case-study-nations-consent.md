@@ -1,8 +1,9 @@
 ---
 title: "Смена членства в спортивной конференции как сецессия? Пример \"нации по согласию\""
 author: "Коннор Мортелл"
+authors: ["Коннор Мортелл"]
 date: 2022-08-12T11:43:08+03:00
-tags: ["Коннор Мортелл"]
+tags: ["сецессия, децентрализация и федерализм"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/football-wire.jpg?itok=5RZ7zgCa)

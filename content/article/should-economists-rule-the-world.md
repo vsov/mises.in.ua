@@ -1,8 +1,9 @@
 ---
 title: "Должны ли экономисты править миром?"
 author: "Мани Башарзад"
+authors: ["Мани Башарзад"]
 date: 2025-07-11T16:27:53+03:00
-tags: ["Мани Башарзад"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://thedailyeconomy.org/wp-content/uploads/sites/10/2025/06/Shutterstock_2609096985.jpg)

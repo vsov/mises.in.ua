@@ -1,8 +1,9 @@
 ---
 title: "Как фанатики захватили мир"
 author: "Джеффри Такер"
+authors: ["Джеффри Такер"]
 date: 2021-11-26T13:13:00+03:00
-tags: ["Джеффри Такер"]
+tags: ["наука, экспертиза и данные"]
 draft: false
 ---
 ![](https://brownstone.org/wp-content/uploads/2021/11/shutterstock_1990784024-800x469.jpg)

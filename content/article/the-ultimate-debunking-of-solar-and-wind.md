@@ -1,8 +1,9 @@
 ---
 title: "Опровержение утверждения о том, что \"солнечная и ветровая энергия дешевле, чем ископаемые виды топлива\""
 author: "Алекс Эпштейн"
+authors: ["Алекс Эпштейн"]
 date: 2023-09-06T13:07:05+03:00
-tags: ["Алекс Эпштейн"]
+tags: ["климат, экология и энергетика"]
 draft: false
 ---
 ![](https://www.telegraph.co.uk/content/dam/news/2023/08/24/TELEMMGLPICT000332040201_16928951992380_trans_NvBQzQNjv4BqNr7buqbkV04AEATLFYLNjAsIcagKWDTsYii0WZbrxoU.jpeg?imwidth=1280)

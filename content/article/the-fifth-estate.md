@@ -1,8 +1,9 @@
 ---
 title: "Пятая власть"
 author: "Майк Солана"
+authors: ["Майк Солана"]
 date: 2022-12-16T10:39:31+03:00
-tags: ["Майк Солана"]
+tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
 ![](https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg)

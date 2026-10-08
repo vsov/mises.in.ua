@@ -1,8 +1,9 @@
 ---
 title: "Что стало причиной послевоенного экономического чуда Японии?"
 author: "Лоуренс Рид"
+authors: ["Лоуренс Рид"]
 date: 2025-05-05T14:39:59+03:00
-tags: ["Лоуренс Рид"]
+tags: ["война, империя и внешняя политика"]
 draft: false
 ---
 ![](https://fee.org/wp-content/uploads/2023/12/japan-economic-miracle.jpg)

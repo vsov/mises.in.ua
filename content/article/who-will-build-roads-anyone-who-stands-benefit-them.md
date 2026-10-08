@@ -1,8 +1,9 @@
 ---
 title: "Кто будет строить дороги? Любой, кто хочет получить от них выгоду"
 author: "Крис Кэлтон"
+authors: ["Крис Кэлтон"]
 date: 2021-11-05T12:11:39+03:00
-tags: ["Крис Кэлтон"]
+tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
 ![](https://cdn.mises.org/styles/slideshow/s3/static-page/img/construction-wire.jpg?itok=Yd_E441J)

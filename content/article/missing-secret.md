@@ -1,8 +1,9 @@
 ---
 title: "Утраченный секрет"
 author: "Дэвид Гордон"
+authors: ["Дэвид Гордон"]
 date: 2025-01-22T11:53:05+03:00
-tags: ["Дэвид Гордон"]
+tags: ["австрийская школа и праксеология"]
 draft: false
 ---
 ![](https://pup-assets.imgix.net/onix/images/9780691190075.jpg?w=410&auto=format)
