@@ -6,7 +6,7 @@ date: 2021-08-25T11:00:00+03:00
 tags: ["государство, бюрократия и регуляторы"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/08/holybook-800x508.jpg)
+![](/images/articles/6abda7047c66a838dd5a5ffca677ea2cb8dafd18f07132c23734dde321b46ec1.jpg)
 
 
 В середине апреля 2021 года [президент Байден объявил](https://www.defense.gov/Explore/News/Article/Article/2573268/biden-announces-full-us-troop-withdrawal-from-afghanistan-by-sept-11/) о неизбежном и быстром выводе войск США из Афганистана в соответствии с графиком, [переданным предыдущей администрацией.](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf) Неудивительно, что это заявление вызвало наступление Талибана, религиозной группы повстанцев, которая управляла Афганистаном с 1996 по 2001 год, пока США не отстранили их от власти и не установили светский режим.

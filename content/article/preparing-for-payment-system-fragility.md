@@ -7,7 +7,7 @@ tags: ["биткоин, криптовалюты и CBDC"]
 draft: false
 ---
 
-![](https://www.aier.org/wp-content/uploads/2022/05/brokenatm.jpg)
+![](/images/articles/5dca0cd01de28b88a58e6b6c15fb864d0de77037f2de1d785edcc28f3526d16e.jpg)
 
 В предыдущих заметках я предлагал способы борьбы с ростом цен [(COLA)](https://www.aier.org/article/americans-need-a-cola-not-a-coke/) и меры продовольственной безопасности ([дичь](https://www.aier.org/article/wild-meat-markets/) и [огороды](https://www.aier.org/article/liberty-gardens/)). Инфляция создает множество проблем, включая повышенный риск сбоев в платежных системах, таких как отключение банковских сетей и сетей кредитных карт. Кибератаки, отключения электроэнергии, финансовые кризисы и другие неожиданные потрясения могут замедлить работу или даже вывести из строя платежную систему.
 

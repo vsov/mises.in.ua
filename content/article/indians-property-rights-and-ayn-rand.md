@@ -6,7 +6,7 @@ date: 2024-02-05T13:04:50+03:00
 tags: ["частная собственность и права"]
 draft: false
 ---
-![](https://fee.org/media/43456/painting-1023411.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133477378610000000)
+![](/images/articles/e598e71ca4f0a3f6891a11f7a804c192d71f6246cecaffce047b02f9ec4bf843.webp)
 
 14 января 1879 года в Линкольн-холле в Вашингтоне выдающийся коренной американец обратился к собравшимся с речью: 
 

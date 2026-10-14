@@ -6,7 +6,7 @@ date: 2022-10-10T13:24:18+03:00
 tags: ["капитализм, рынки и предпринимательство"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2022/07/magnifyingglass.jpg)
+![](/images/articles/2d1983aaaf01577182100b63e5f6ac1abdd852bf338e2735bd437606a9f83868.jpg)
 
 
 [Карл Менгер](https://en.wikipedia.org/wiki/Carl_Menger) [около ста пятидесяти лет назад](https://www.econlib.org/library/columns/y2021/fulleraustrian.html) положил в основу своей экономической теории идею о том, что "блага" --- это полезные вещи, удовлетворяющие человеческие потребности. С этой позиции он развил субъективную теорию ценности, которая вытеснила господствующую [трудовую теорию ценности.](https://en.wikipedia.org/wiki/Labor_theory_of_value)

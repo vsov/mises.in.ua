@@ -6,7 +6,7 @@ date: 2021-09-09T13:00:00+03:00
 tags: ["деньги и банковская система"]
 draft: false
 ---
-![](https://www.philosophy.ox.ac.uk/sites/default/files/philosophy/images/media/roger_crisp_2_0.jpg)
+![](/images/articles/7d13ac071e0432170f43b63484770c98d4bfd6c9f050e9f7ef7347d4ec2cc6c8.jpg)
 
 Роджер Крисп --- уважаемый философ, который написал несколько важных работ по этической теории и ее истории, уделяя особое внимание британским утилитаристам. Но [в статье,](https://www.newstatesman.com/international/2021/08/would-extinction-be-so-bad) опубликованной в New Statesman 10 августа, он неожиданно выступил с очень странными идеями.
 

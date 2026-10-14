@@ -7,7 +7,7 @@ tags: ["COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
 
-![](https://www.aier.org/wp-content/uploads/2022/01/mortality-800x508.jpg)
+![](/images/articles/1faab165640f50254bfdef114c1c0e092cfe368aaaca3678a06b39b6718def6d.jpg)
 
 Генеральный директор страховой компании OneAmerica [недавно сообщил,](https://insurance-forums.com/life-insurance/oneamerica-ceo-says-death-rates-among-working-age-people-up-40/) что смертность в возрастной группе 18-64 лет в 3-м и 4-м кварталах 2021 года была на 40 процентов выше, чем в период до пандемии. Генеральный директор также указал, что даже 10-процентный рост был бы событием, которое случается раз в 200 лет. Кроме того, большинство дополнительных смертей не связаны с ковидом.
 

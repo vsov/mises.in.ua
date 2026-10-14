@@ -6,7 +6,7 @@ date: 2024-04-08T12:35:35+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://www.elgaronline.com/coverimage?doc=%2Fbook%2F9781788117791%2F9781788117791.xml&width=200&type=webp)
+![](/images/articles/46867c91c68260452fe02f0ba036421a0eead1fdb3127e4d73c3b0a97feba49c.jpg)
 
 
 

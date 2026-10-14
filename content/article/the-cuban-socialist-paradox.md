@@ -6,7 +6,7 @@ date: 2024-03-08T12:49:52+03:00
 tags: ["социализм, марксизм и антикапитализм"]
 draft: false
 ---
-![](https://fee.org/media/43512/cuba-704068.jpg?anchor=center&mode=crop&width=900&format=webp&rnd=133522297570000000)
+![](/images/articles/28b12740966075c1d91e13fdfd4a8c888f00ae0a58984e4bc39560b06b8ef55e.webp)
 
 Многие рассматривают Кубу как хрестоматийный пример неудач [социализма.](https://fee.org/resources/the-xyz-s-of-socialism/) Однако некоторые левые утверждают, что Куба демонстрирует успех социализма и более высокое качество жизни, чем даже в Соединенных Штатах. Эти утверждения часто появляются в социальных сетях, таких как Twitter или Reddit, но иногда попадают и в более авторитетные издания, такие как [The Guardian.](https://www.theguardian.com/commentisfree/2022/sep/21/us-un-living-standards-sustainable-development-goals)
 

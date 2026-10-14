@@ -6,7 +6,7 @@ date: 2023-10-18T13:51:09+03:00
 tags: ["налоги, долг и госрасходы"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/06/Shutterstock_245322604-1536x975.jpg&nocache=1)
+![](/images/articles/a30f857d3971f32ba63c91ccc7eaf148a7e7c7bd8691f9a302d0e9dfac518966.webp)
 
 В 2022 г. третий богатейший человек Норвегии Кьелл Инге Рёкке объявил в открытом письме акционерам о своем переезде в Лугано (Швейцария).
 

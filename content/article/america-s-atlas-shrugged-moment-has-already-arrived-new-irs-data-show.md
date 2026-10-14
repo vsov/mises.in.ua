@@ -7,7 +7,7 @@ tags: ["налоги, долг и госрасходы", "наука, экспе
 draft: false
 ---
 
-![](https://fee.org/media/43024/atlas-shrugged.png?anchor=center&mode=crop&width=900&format=webp&rnd=133280186490000000)
+![](/images/articles/5d15a4a86c6321e8e421ef91e34638216c7b5d94cab6867e2b4cb354082d5074.webp)
 
 В сентябре этого года миллиардер Кен Гриффин объявил о том, что сворачивает дела и переводит Citadel --- свой гигантский хедж-фонд --- из Чикаго в Майами.
 

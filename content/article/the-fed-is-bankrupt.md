@@ -6,7 +6,7 @@ date: 2023-04-19T17:02:31+03:00
 tags: ["деньги и банковская система", "инфляция, дефляция и денежная политика"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/04/feddarksky-1536x975.jpg&nocache=1)
+![](/images/articles/c545c584ab15e12e074bc362679721e59128188454218904bb18d865279714b4.webp)
 
 
 Председатель ФРС Джером Пауэлл [недавно](https://www.banking.senate.gov/hearings/the-semiannual-monetary-policy-report-to-congress) дал [показания](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=408623) Конгрессу о текущем состоянии экономики США. Помимо монетарной политики, Пауэлла спрашивали о предложениях ФРС по регулированию криптовалют и финансовых рисках, связанных с климатом.

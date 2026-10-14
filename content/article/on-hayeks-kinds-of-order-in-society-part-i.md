@@ -6,7 +6,7 @@ date: 2021-12-29T13:23:00+03:00
 tags: ["австрийская школа и праксеология"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/12/networks-800x508.jpg)
+![](/images/articles/90550df81bcca472939cac08f57a27ad965d1ec50959ddc20ab4133582e6d0a8.jpg)
 
 Ф.А. Хайек написал несколько книг и статей, которые пользуются заслуженной известностью. Возглавляет этот список бестселлер 1944 года ["Дорога к рабству",](https://www.amazon.com/Road-Serfdom-Documents-Definitive-Collected/dp/0226320553/ref=asc_df_0226320553/?tag=hyprod-20&linkCode=df0&hvadid=266244150619&hvpos=&hvnetw=g&hvrand=11058635735605176995&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008128&hvtargid=pla-458892479728&psc=1) за ним следует книга 1960 года ["Конституция свободы".](https://www.amazon.com/Constitution-Liberty-Definitive-Collected-Works/dp/0226315398/ref=pd_bxgy_img_2/140-4427755-4003164?pd_rd_w=YqcDs&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YTXH5N1XWE1BSWYJ5H36&pd_rd_r=6ba63d9e-0d72-4f6f-b0b9-bf4c25edc960&pd_rd_wg=vjRst&pd_rd_i=0226315398&psc=1) Каждая из этих книг хорошо известна широкой аудитории. Что касается его статей, то его работа 1945 года ["Использование знаний в обществе"](https://www.cato.org/sites/cato.org/files/articles/hayek-use-knowledge-society.pdf) пользуется особой известностью, по крайней мере, среди экономистов.
 

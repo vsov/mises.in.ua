@@ -6,7 +6,7 @@ date: 2022-05-23T11:34:08+03:00
 tags: ["климат, экология и энергетика", "COVID-19, локдауны и вакцинная политика"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2022/05/sharkscircling.jpg)
+![](/images/articles/c9a6e47ba713b046da7abde190b02e1fc3008a20d69f2d98448fff1e3f95df7f.jpg)
 
 
 Забавно видеть мемы, призывающие Элона Маска купить Alphabet, Amazon, Coca Cola, Disney, Meta, Netflix, YouTube и так далее, но, конечно, он не может себе все это позволить. Но мы можем. Под "мы" я имею в виду [ценностных инвесторов](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) (value investors традиционно переводится, как "стоимостной инвестор", но мы избегаем употребления невразумительного термина "стоимость" --- прим. ред.)  Покупка Маском Twitter подтвердила мою критику (см. [здесь,](https://capx.co/history-lessons-the-case-against-regulating-esg-ratings-agencies/) [здесь](https://www.aier.org/article/hyping-esg-investing/), [здесь](https://www.aier.org/article/the-latest-investment-fad-is-unsustainable/) и [здесь)](https://www.aier.org/article/fundamental-questions-about-corporate-donations/) инвестиций на основе ESG (активы под управлением глобальных биржевых "устойчивых" фондов, публично определивших инвестиционные цели в области экологии, социального обеспечения и управления (ESG), --- прим.ред.), которые в настоящее время составляют около 2,7 триллиона долларов США по всему миру, но имеют [весьма слабые финансовые показатели.](https://hbr.org/2022/03/an-inconvenient-truth-about-esg-investing) Покупка Маска продемонстрировало потенциальную силу анти-ESG фондов, которые я назвал фондами Фридмана.

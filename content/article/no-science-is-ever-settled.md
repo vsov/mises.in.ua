@@ -6,7 +6,7 @@ date: 2021-09-01T10:00:00+03:00
 tags: ["наука, экспертиза и данные"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2021/07/shiftingsands-800x508.jpg)
+![](/images/articles/4729c14851a6d32dab6f8601c47bb0413915912e41bc7fe760175ffb9380aaf2.jpg)
 
 *"То, что вы много знаете о дерьме, не значит, что вы разбираетесь в дерьме".
 (подслушано на Zoom)*

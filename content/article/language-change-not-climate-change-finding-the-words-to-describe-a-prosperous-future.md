@@ -7,7 +7,7 @@ tags: ["климат, экология и энергетика"]
 draft: false
 ---
 
-![](https://www.humanprogress.org/wp-content/uploads/2023/06/Gigapixeled-HumanProgress_nuclear_power_plant_at_sunrise_beautiful_flowers__f428a13a-bb86-4f75-8184-8dbf5dfbae14-gigapixel-art-scale-4_00x-scaled.jpg)
+![](/images/articles/214e574454729f2bfc26fd5eff63f96272f195c1f657016bdefc17feb12344fb.jpg)
 
 Существует давний спор: насколько сильно язык, на котором вы говорите, влияет на то, как вы думаете? Согласно гипотезе лингвистической относительности, грамматика или словарный запас языка создают определенный [образ мышления,](https://www.nytimes.com/2010/08/29/magazine/29language-t.html) который формирует мир говорящего.
 

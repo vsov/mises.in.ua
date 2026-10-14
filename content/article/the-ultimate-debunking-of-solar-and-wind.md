@@ -6,7 +6,7 @@ date: 2023-09-06T13:07:05+03:00
 tags: ["климат, экология и энергетика"]
 draft: false
 ---
-![](https://www.telegraph.co.uk/content/dam/news/2023/08/24/TELEMMGLPICT000332040201_16928951992380_trans_NvBQzQNjv4BqNr7buqbkV04AEATLFYLNjAsIcagKWDTsYii0WZbrxoU.jpeg?imwidth=1280)
+![](/images/articles/c465735d880d7f085466089f1b8d16b7fa6fa615b3d77915a8ace34b3c2cef14.jpg)
 
 
 

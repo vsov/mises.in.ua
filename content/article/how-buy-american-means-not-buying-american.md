@@ -6,7 +6,7 @@ date: 2022-03-31T12:27:54+03:00
 tags: ["война, империя и внешняя политика"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/uploads/2022/03/ports-1536x975.jpg)
+![](/images/articles/e7df40c0639c87f3f8cc4acb33ac7f76fd2281398c6d9f01ecb40690764ae98d.jpg)
 
 "Покупай американское!" является обычной протекционистской уловкой, выдаваемой за патриотизм. Президент Байден, который давно доказал свою способность выбирать самые плохие идеи, недавно похвастался, что его [новый план](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/) будет еще в большей степени направлен на удовлетворение интересов американских производителей, чем предыдущие планы. 
 

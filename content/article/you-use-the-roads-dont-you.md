@@ -6,7 +6,7 @@ date: 2023-06-19T14:36:36+03:00
 tags: ["частное право, безопасность и частное управление"]
 draft: false
 ---
-![](https://www.aier.org/wp-content/webpc-passthru.php?src=https://www.aier.org/wp-content/uploads/2023/05/redlightroads-1536x975.jpg&nocache=1)
+![](/images/articles/b8d7d6137eb0e1768caebdd40bf78285ab22e9747b5db97d9fa3ef43609b96b5.webp)
 
 Это опять случилось.  На прошлой неделе. Я упомянул за обедом, что я либертарианец, и один из моих сотрапезников фыркнул и сказал: "Вот лицемер. Держу пари, ты сегодня ехал сюда по государственной дороге, не так ли?".
 
