@@ -13467,6 +13467,21 @@
       ],
       "unmatched": [],
       "rewritten_sha256": "5409c0990386f84fc3d8e033daf6c638cb05bec73e65c3eca63214e9f46f20e4"
+    },
+    {
+      "path": "content/article/when-rational-individual-choices-produce-collective-waste.md",
+      "title": "Когда рациональный выбор отдельных людей приводит к коллективным потерям",
+      "date": "2026-10-21T11:17:33+03:00",
+      "permalink": "https://mises.in.ua/article/when-rational-individual-choices-produce-collective-waste/",
+      "embedded": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/07/Social-Competition-Costs.jpg"
+      ],
+      "source_sha256": "7737e69c19d5ba498722db5480efb36384d3c58b53ec1acd2048b887f2fa7503",
+      "urls": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/07/Social-Competition-Costs.jpg"
+      ],
+      "unmatched": [],
+      "rewritten_sha256": "5f2a56fd23d1ec368ce5c05f3bd57f23603cd377ffb166f222af42042f93c9db"
     }
   ],
   "results": {
@@ -37275,6 +37290,15 @@
         "bytes": 47265,
         "source": "live",
         "download_url": "https://media.brownstone.org/wp-content/uploads/2026/04/Shutterstock_2672212829.jpg"
+      }
+    },
+    "https://thedailyeconomy.org/wp-content/uploads/2026/07/Social-Competition-Costs.jpg": {
+      "live": {
+        "local_url": "/images/articles/e1ccc06073310e745b7737b03e480dc0eebcecddd12ce1aa03763b9cfefa2966.jpg",
+        "sha256": "e1ccc06073310e745b7737b03e480dc0eebcecddd12ce1aa03763b9cfefa2966",
+        "bytes": 572209,
+        "source": "live",
+        "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/07/Social-Competition-Costs.jpg"
       }
     }
   }
