@@ -13482,6 +13482,21 @@
       ],
       "unmatched": [],
       "rewritten_sha256": "5f2a56fd23d1ec368ce5c05f3bd57f23603cd377ffb166f222af42042f93c9db"
+    },
+    {
+      "path": "content/article/quibbling-over-definition-private-property.md",
+      "title": "Придирки к определению частной собственности",
+      "date": "2026-10-24T10:47:29+03:00",
+      "permalink": "https://mises.in.ua/article/quibbling-over-definition-private-property/",
+      "embedded": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-08/AdobeStock_Private%20property%20%282%29.jpeg.webp?h=f25fde1d&itok=QYd42y1f"
+      ],
+      "source_sha256": "8214af85a48b6cbf5ad5c0f30cf8aa864bc5c36a09687fa876122c6fbb83227d",
+      "urls": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-08/AdobeStock_Private%20property%20%282%29.jpeg.webp?h=f25fde1d&itok=QYd42y1f"
+      ],
+      "unmatched": [],
+      "rewritten_sha256": "0c0565b48c9588785078b4a4f1d93b40f5de3eb11ca3bffefadc69b0da16fb02"
     }
   ],
   "results": {
@@ -37299,6 +37314,15 @@
         "bytes": 572209,
         "source": "live",
         "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/07/Social-Competition-Costs.jpg"
+      }
+    },
+    "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-08/AdobeStock_Private%20property%20%282%29.jpeg.webp?h=f25fde1d&itok=QYd42y1f": {
+      "live": {
+        "local_url": "/images/articles/ad1e7c64a7c320b5a725a37304c63810b7b111ac15476b904adac32b6269016f.webp",
+        "sha256": "ad1e7c64a7c320b5a725a37304c63810b7b111ac15476b904adac32b6269016f",
+        "bytes": 19708,
+        "source": "live",
+        "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-08/AdobeStock_Private%20property%20%282%29.jpeg.webp?h=f25fde1d&itok=QYd42y1f"
       }
     }
   }
