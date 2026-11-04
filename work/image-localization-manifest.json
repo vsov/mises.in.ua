@@ -13497,6 +13497,21 @@
       ],
       "unmatched": [],
       "rewritten_sha256": "0c0565b48c9588785078b4a4f1d93b40f5de3eb11ca3bffefadc69b0da16fb02"
+    },
+    {
+      "path": "content/article/intellectual-incoherence-conservatism.md",
+      "title": "Интеллектуальная несостоятельность консерватизма",
+      "date": "2026-11-04T01:18:09+03:00",
+      "permalink": "https://mises.in.ua/article/intellectual-incoherence-conservatism/",
+      "embedded": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/static-page/img/wut-wire.jpg.webp?itok=QvZsX1zs"
+      ],
+      "source_sha256": "80cc6aeb3db50a7e440c22ff15f853b98733044811d00cef7b63ed4c624f30f1",
+      "urls": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/static-page/img/wut-wire.jpg.webp?itok=QvZsX1zs"
+      ],
+      "unmatched": [],
+      "rewritten_sha256": "ca06c7c2b6b7acbd49faf21a87e57cd1b8bd7b945a114c9fb9c0f53ddfc1c192"
     }
   ],
   "results": {
@@ -37323,6 +37338,15 @@
         "bytes": 19708,
         "source": "live",
         "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-08/AdobeStock_Private%20property%20%282%29.jpeg.webp?h=f25fde1d&itok=QYd42y1f"
+      }
+    },
+    "https://cdn.mises.org/styles/responsive_4_3_380w/s3/static-page/img/wut-wire.jpg.webp?itok=QvZsX1zs": {
+      "live": {
+        "local_url": "/images/articles/abc6e98fee536fdfd6b493faf83944e454083eb65e7a9897903c4cac205091eb.webp",
+        "sha256": "abc6e98fee536fdfd6b493faf83944e454083eb65e7a9897903c4cac205091eb",
+        "bytes": 6560,
+        "source": "live",
+        "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/static-page/img/wut-wire.jpg.webp?itok=QvZsX1zs"
       }
     }
   }

@@ -1,6 +1,6 @@
 # Unresolved article images
 
-Localized article/URL pairs: 1116. Unresolved pairs: 142.
+Localized article/URL pairs: 1117. Unresolved pairs: 142.
 
 Archive cutoff: strictly before the article's Hugo date (converted to UTC).
 Original URLs are preserved when downloads fail. Service errors do not prove that no archive capture exists.
