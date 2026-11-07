@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article class="feature-card book-card">
+    <img src="{{ "images/plan-b-cover.jpg" | relURL }}" alt="Обложка книги">
+    <div>
+      <p class="feature-card__label">Книга</p>
+      <h1>{{ .Title }}</h1>
+      <p>{{ .Params.author }}</p>
+      <div class="prose">{{ .Content }}</div>
+      <ul class="book-card__downloads">
+        <li><a href="{{ "readers/epub/" | relURL }}">Читать EPUB</a></li>
+        <li><a href="{{ "readers/pdfjs/web/viewer.html" | relURL }}?file=../../../resources/plan-b-a5.pdf">Читать PDF</a></li>
+        <li><a href="{{ "resources/plan-b-a5.pdf" | relURL }}" download>Скачать PDF (A5)</a></li>
+        <li><a href="{{ "resources/plan-b.epub" | relURL }}" download>Скачать EPUB</a></li>
+      </ul>
+      <h2>Как читать на Kindle</h2>
+      <p>Скачайте EPUB и загрузите его через <a href="https://www.amazon.com/sendtokindle">Send to Kindle</a>. После синхронизации книга появится в вашей библиотеке Kindle.</p>
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>План «Б» для украинцев · EPUB</title>
+<style>
+  body { margin: 0; min-height: 100vh; height: 100dvh; display: flex; flex-direction: column; font: 1rem Georgia, serif; color: #282219; background: #fffdf8; }
+  header, nav { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; padding: .65rem 1rem; background: #f3ebde; }
+  a { color: #673c22; }
+  button, select { font: inherit; max-width: 100%; min-height: 2.5rem; }
+  #chapters { width: min(100%, 23rem); }
+  #reader { flex: 1; min-height: 0; overflow: hidden; }
+  #status:not(:empty) { padding: 0 1rem; }
+  #status:empty { display: none; }
+</style>
+<header>
+  <a href="../../plan-b/">К странице книги</a>
+  <a href="../../resources/plan-b.epub" download>Скачать EPUB</a>
+</header>
+<nav aria-label="Управление чтением">
+  <button id="prev" disabled>Назад</button>
+  <button id="next" disabled>Вперёд</button>
+  <button id="smaller" aria-label="Уменьшить шрифт" disabled>A−</button>
+  <button id="larger" aria-label="Увеличить шрифт" disabled>A+</button>
+  <select id="chapters" aria-label="Оглавление" disabled>
+    <option value="">Оглавление</option>
+  </select>
+</nav>
+<p id="status" role="status">Загрузка книги…</p>
+<noscript>Для онлайн-чтения EPUB нужен JavaScript. Файл можно скачать по ссылке выше.</noscript>
+<main id="reader" aria-label="Текст книги"></main>
+<script src="jszip.min.js"></script>
+<script src="epub.min.js"></script>
+<script src="reader.js"></script>
+</html>

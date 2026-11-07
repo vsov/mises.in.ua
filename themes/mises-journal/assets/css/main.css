@@ -407,6 +407,37 @@ iframe {
   margin-top: 0.35rem;
 }
 
+.book-card {
+  display: grid;
+  grid-template-columns: clamp(3.5rem, 18%, 8rem) minmax(0, 1fr);
+  align-items: start;
+  gap: clamp(0.65rem, 2vw, 1.25rem);
+}
+
+.book-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.3rem;
+}
+
+.book-card h2 {
+  font-size: clamp(1.25rem, 2.4vw, 1.8rem);
+}
+
+.book-card__downloads {
+  display: grid;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.7rem 0 0;
+  list-style: none;
+}
+
+.book-card__downloads a {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
 .feature-card p:last-of-type,
 .article-card p:last-of-type,
 .sidebar-block p:last-of-type {

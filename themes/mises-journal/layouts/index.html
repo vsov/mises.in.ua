@@ -47,6 +47,18 @@
       {{ end }}
 
       {{ if eq $paginator.PageNumber 1 }}
+        <section class="feature-card book-card" aria-labelledby="plan-b-title">
+          <img src="{{ "images/plan-b-cover.jpg" | relURL }}" alt="" loading="lazy">
+          <div>
+            <p class="feature-card__label">Книга</p>
+            <h2 id="plan-b-title">План «Б» для украинцев</h2>
+            <p>Владимир Золоторёв</p>
+            <ul class="book-card__downloads">
+              <li><a href="{{ "plan-b/" | relURL }}">Страница книги и скачивание</a></li>
+            </ul>
+          </div>
+        </section>
+
         {{ with index $randomPick 0 }}
           <article class="feature-card feature-card--archive">
             {{ partial "lead-image.html" . }}
