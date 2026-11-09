@@ -13512,6 +13512,21 @@
       ],
       "unmatched": [],
       "rewritten_sha256": "ca06c7c2b6b7acbd49faf21a87e57cd1b8bd7b945a114c9fb9c0f53ddfc1c192"
+    },
+    {
+      "path": "content/article/slavery-was-not-difference-how-legal-innovations-made-america-superpower-while-brazil-stagnated.md",
+      "title": "Рабство не было решающим фактором: как правовые инновации сделали Америку сверхдержавой, в то время как Бразилия стагнировала",
+      "date": "2026-11-06T10:27:49+03:00",
+      "permalink": "https://mises.in.ua/article/slavery-was-not-difference-how-legal-innovations-made-america-superpower-while-brazil-stagnated/",
+      "embedded": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Brazil%20slavery.jpeg.webp?h=6778a3c1&itok=7EAZHYVs"
+      ],
+      "urls": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Brazil%20slavery.jpeg.webp?h=6778a3c1&itok=7EAZHYVs"
+      ],
+      "unmatched": [],
+      "source_sha256": "b0bbb433e6e51480d7837420026e5a94b6c47f2e9ed330652a4d54c27292ee60",
+      "rewritten_sha256": "cd78a47fdd7d980d3a006ef45173b2ae009c84c9d15de2d1009e0939c63eeb69"
     }
   ],
   "results": {
@@ -37347,6 +37362,15 @@
         "bytes": 6560,
         "source": "live",
         "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/static-page/img/wut-wire.jpg.webp?itok=QvZsX1zs"
+      }
+    },
+    "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Brazil%20slavery.jpeg.webp?h=6778a3c1&itok=7EAZHYVs": {
+      "live": {
+        "local_url": "/images/articles/b718189c1b298f227b1cf4db5293d522f82495da2bf451f9b85d15882b5e1151.webp",
+        "sha256": "b718189c1b298f227b1cf4db5293d522f82495da2bf451f9b85d15882b5e1151",
+        "bytes": 15936,
+        "source": "live",
+        "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Brazil%20slavery.jpeg.webp?h=6778a3c1&itok=7EAZHYVs"
       }
     }
   }
