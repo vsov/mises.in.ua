@@ -13527,6 +13527,21 @@
       "unmatched": [],
       "source_sha256": "b0bbb433e6e51480d7837420026e5a94b6c47f2e9ed330652a4d54c27292ee60",
       "rewritten_sha256": "cd78a47fdd7d980d3a006ef45173b2ae009c84c9d15de2d1009e0939c63eeb69"
+    },
+    {
+      "path": "content/article/what-dowgold-ratio-shows-cpi-hides.md",
+      "title": "Что скрывает CPI, и что показывает соотношение Доу/золото",
+      "date": "2026-11-11T12:46:46+03:00",
+      "permalink": "https://mises.in.ua/article/what-dowgold-ratio-shows-cpi-hides/",
+      "embedded": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Dow%20Jones.jpeg.webp?h=99e42d83&itok=YW8InVES"
+      ],
+      "urls": [
+        "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Dow%20Jones.jpeg.webp?h=99e42d83&itok=YW8InVES"
+      ],
+      "unmatched": [],
+      "source_sha256": "6c169f8a53e4b628a0ff05ea77acb35836fd6a61ac917daa5709ee84b145324a",
+      "rewritten_sha256": "f97db002c2862eb7cd0e2c7c66ceee28dc953de255ec2d6eb95d3919fd1a9150"
     }
   ],
   "results": {
@@ -37371,6 +37386,15 @@
         "bytes": 15936,
         "source": "live",
         "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Brazil%20slavery.jpeg.webp?h=6778a3c1&itok=7EAZHYVs"
+      }
+    },
+    "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Dow%20Jones.jpeg.webp?h=99e42d83&itok=YW8InVES": {
+      "live": {
+        "local_url": "/images/articles/62af4f5efad83434ae0c88a64ac0a8c98ef72bce0bd386921a9037bb3b4333a1.webp",
+        "sha256": "62af4f5efad83434ae0c88a64ac0a8c98ef72bce0bd386921a9037bb3b4333a1",
+        "bytes": 15776,
+        "source": "live",
+        "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Dow%20Jones.jpeg.webp?h=99e42d83&itok=YW8InVES"
       }
     }
   }
