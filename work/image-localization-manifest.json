@@ -13542,6 +13542,21 @@
       "unmatched": [],
       "source_sha256": "6c169f8a53e4b628a0ff05ea77acb35836fd6a61ac917daa5709ee84b145324a",
       "rewritten_sha256": "f97db002c2862eb7cd0e2c7c66ceee28dc953de255ec2d6eb95d3919fd1a9150"
+    },
+    {
+      "path": "content/article/adam-smiths-forgotten-theory-of-artistic-independence.md",
+      "title": "Забытая теория Адама Смита о независимости искусства",
+      "date": "2026-11-13T10:23:07+03:00",
+      "permalink": "https://mises.in.ua/article/adam-smiths-forgotten-theory-of-artistic-independence/",
+      "embedded": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/07/f9b8dd32-8922-4868-9383-6580f8781457-scaled-e1785502728871.png"
+      ],
+      "urls": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/07/f9b8dd32-8922-4868-9383-6580f8781457-scaled-e1785502728871.png"
+      ],
+      "unmatched": [],
+      "source_sha256": "d3d19ee3356a5f28f3ad0090e78864a0dee21f70efa72d0c49927e416ca2c36b",
+      "rewritten_sha256": "b324f26c954dd04fa5da4cc618123c977929b2fa0679955cb8bc7733c7ada6b7"
     }
   ],
   "results": {
@@ -37395,6 +37410,15 @@
         "bytes": 15776,
         "source": "live",
         "download_url": "https://cdn.mises.org/styles/responsive_4_3_380w/s3/images/2026-09/AdobeStock_Dow%20Jones.jpeg.webp?h=99e42d83&itok=YW8InVES"
+      }
+    },
+    "https://thedailyeconomy.org/wp-content/uploads/2026/07/f9b8dd32-8922-4868-9383-6580f8781457-scaled-e1785502728871.png": {
+      "live": {
+        "local_url": "/images/articles/f01da119116b42126f59280433487b33b1ec5a4505465aed57705224a022250f.png",
+        "sha256": "f01da119116b42126f59280433487b33b1ec5a4505465aed57705224a022250f",
+        "bytes": 4486755,
+        "source": "live",
+        "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/07/f9b8dd32-8922-4868-9383-6580f8781457-scaled-e1785502728871.png"
       }
     }
   }
