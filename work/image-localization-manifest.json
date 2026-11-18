@@ -13557,6 +13557,21 @@
       "unmatched": [],
       "source_sha256": "d3d19ee3356a5f28f3ad0090e78864a0dee21f70efa72d0c49927e416ca2c36b",
       "rewritten_sha256": "b324f26c954dd04fa5da4cc618123c977929b2fa0679955cb8bc7733c7ada6b7"
+    },
+    {
+      "path": "content/article/how-long-has-industry-captured-vaccine-regulation.md",
+      "title": "Как давно индустрия подчинила себе регулирование вакцин?",
+      "date": "2026-11-18T03:35:31+03:00",
+      "permalink": "https://mises.in.ua/article/how-long-has-industry-captured-vaccine-regulation/",
+      "embedded": [
+        "https://media.brownstone.org/wp-content/uploads/2025/12/Shutterstock_2595646827.jpg"
+      ],
+      "urls": [
+        "https://media.brownstone.org/wp-content/uploads/2025/12/Shutterstock_2595646827.jpg"
+      ],
+      "unmatched": [],
+      "source_sha256": "03d33fc6503df3f508aef9d87259acc3e408bc22108a1ba89050828535068d53",
+      "rewritten_sha256": "4b6f142e7dd11cfda0053e526d458d14bcf4a8017fa1005f1e837167fe5a025b"
     }
   ],
   "results": {
@@ -37419,6 +37434,15 @@
         "bytes": 4486755,
         "source": "live",
         "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/07/f9b8dd32-8922-4868-9383-6580f8781457-scaled-e1785502728871.png"
+      }
+    },
+    "https://media.brownstone.org/wp-content/uploads/2025/12/Shutterstock_2595646827.jpg": {
+      "live": {
+        "local_url": "/images/articles/1ecfe551a226f9456a9b17b87e9a2310bd801cbe72e4bb81370bd7d73179f3a5.jpg",
+        "sha256": "1ecfe551a226f9456a9b17b87e9a2310bd801cbe72e4bb81370bd7d73179f3a5",
+        "bytes": 204698,
+        "source": "live",
+        "download_url": "https://media.brownstone.org/wp-content/uploads/2025/12/Shutterstock_2595646827.jpg"
       }
     }
   }
