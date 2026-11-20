@@ -13572,6 +13572,21 @@
       "unmatched": [],
       "source_sha256": "03d33fc6503df3f508aef9d87259acc3e408bc22108a1ba89050828535068d53",
       "rewritten_sha256": "4b6f142e7dd11cfda0053e526d458d14bcf4a8017fa1005f1e837167fe5a025b"
+    },
+    {
+      "path": "content/article/indias-economic-miracle-lifted-500-million-out-of-poverty.md",
+      "title": "Экономическое чудо Индии вывело 500 миллионов человек из бедности",
+      "date": "2026-11-20T08:12:51+03:00",
+      "permalink": "https://mises.in.ua/article/indias-economic-miracle-lifted-500-million-out-of-poverty/",
+      "embedded": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png"
+      ],
+      "urls": [
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png"
+      ],
+      "unmatched": [],
+      "source_sha256": "cc78d0a916266c9de6f339a21187b45eb9e8b33340f18593369d004b0f9eb2ab",
+      "rewritten_sha256": "aca444e90ef51fd2e39c5b40b907076dd30ded1a880ea11a7b96aa179c2e4ddf"
     }
   ],
   "results": {
@@ -37443,6 +37458,15 @@
         "bytes": 204698,
         "source": "live",
         "download_url": "https://media.brownstone.org/wp-content/uploads/2025/12/Shutterstock_2595646827.jpg"
+      }
+    },
+    "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png": {
+      "live": {
+        "local_url": "/images/articles/9960ed1da66426241887d14995d08fa4cae24cedc29db5da95f8101c5215a1c2.png",
+        "sha256": "9960ed1da66426241887d14995d08fa4cae24cedc29db5da95f8101c5215a1c2",
+        "bytes": 7440,
+        "source": "live",
+        "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png"
       }
     }
   }
