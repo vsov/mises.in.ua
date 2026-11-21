@@ -13580,15 +13580,17 @@
       "permalink": "https://mises.in.ua/article/indias-economic-miracle-lifted-500-million-out-of-poverty/",
       "embedded": [
         "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png",
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg"
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg",
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
       ],
       "urls": [
         "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png",
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg"
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg",
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
       ],
       "unmatched": [],
       "source_sha256": "cc78d0a916266c9de6f339a21187b45eb9e8b33340f18593369d004b0f9eb2ab",
-      "rewritten_sha256": "020ac1c695793d2459296162892684975e62d0c40019a97c46372a7d02fa2918",
+      "rewritten_sha256": "d54ed7c76c39d38900d42039e9f60a87228bc54d042cd1761a6933e78e35446f",
       "revisions": [
         {
           "previous_rewritten_sha256": "aca444e90ef51fd2e39c5b40b907076dd30ded1a880ea11a7b96aa179c2e4ddf",
@@ -13596,6 +13598,15 @@
           "added_urls": [
             "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg"
           ]
+        },
+        {
+          "previous_rewritten_sha256": "020ac1c695793d2459296162892684975e62d0c40019a97c46372a7d02fa2918",
+          "edited_source_sha256": "5579384a78e7d743273a88770c013274bfd704b4534fdfa8b1269edbff315ea4",
+          "added_urls": [
+            "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
+          ],
+          "reason": "Recovered original Figure 2 from publisher srcset; corrected period caption after MPD 2023 verification",
+          "verification_report": "work/india-figure-2-pending.md"
         }
       ]
     }
@@ -37487,6 +37498,15 @@
         "bytes": 626239,
         "source": "live",
         "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg"
+      }
+    },
+    "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png": {
+      "live": {
+        "local_url": "/images/articles/bda2b5b1a0685c494bebda63307dfa859f228aac210448b9d0042c64fa9df56a.png",
+        "sha256": "bda2b5b1a0685c494bebda63307dfa859f228aac210448b9d0042c64fa9df56a",
+        "bytes": 17659,
+        "source": "live",
+        "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
       }
     }
   }
