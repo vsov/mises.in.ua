@@ -13579,18 +13579,18 @@
       "date": "2026-11-20T08:12:51+03:00",
       "permalink": "https://mises.in.ua/article/indias-economic-miracle-lifted-500-million-out-of-poverty/",
       "embedded": [
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png",
         "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg",
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png",
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png"
       ],
       "urls": [
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png",
         "https://thedailyeconomy.org/wp-content/uploads/2026/11/shutterstock_2318256827_2048x1300.jpg",
-        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png",
+        "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png"
       ],
       "unmatched": [],
       "source_sha256": "cc78d0a916266c9de6f339a21187b45eb9e8b33340f18593369d004b0f9eb2ab",
-      "rewritten_sha256": "d54ed7c76c39d38900d42039e9f60a87228bc54d042cd1761a6933e78e35446f",
+      "rewritten_sha256": "452296365fd88b3b9a1de74f28ab18f1608fa471e737955514d3db5d9b8b7827",
       "revisions": [
         {
           "previous_rewritten_sha256": "aca444e90ef51fd2e39c5b40b907076dd30ded1a880ea11a7b96aa179c2e4ddf",
@@ -13607,6 +13607,17 @@
           ],
           "reason": "Recovered original Figure 2 from publisher srcset; corrected period caption after MPD 2023 verification",
           "verification_report": "work/india-figure-2-pending.md"
+        },
+        {
+          "previous_rewritten_sha256": "d54ed7c76c39d38900d42039e9f60a87228bc54d042cd1761a6933e78e35446f",
+          "edited_source_sha256": "1c41c74d8e380dde04912e310e0d6bf64745bb77ab9effb0046139f6e50d960f",
+          "added_urls": [
+            "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png"
+          ],
+          "removed_urls": [
+            "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11.png"
+          ],
+          "reason": "Correct Figure 1 to publisher scatterplot; old full-size file was another copy of Figure 2"
         }
       ]
     }
@@ -37507,6 +37518,15 @@
         "bytes": 17659,
         "source": "live",
         "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460-1.png"
+      }
+    },
+    "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png": {
+      "live": {
+        "local_url": "/images/articles/cc0a434d9a802a8f1b4b5ce13056ab0f49b5fe90cff9e22547ca4833022ca7f1.png",
+        "sha256": "cc0a434d9a802a8f1b4b5ce13056ab0f49b5fe90cff9e22547ca4833022ca7f1",
+        "bytes": 35687,
+        "source": "live",
+        "download_url": "https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png"
       }
     }
   }

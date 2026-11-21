@@ -38,6 +38,24 @@ years per bar (ten annual observations). The article caption now describes
 the actual coverage and an editorial note clarifies the interval error.
 No chart was redrawn and no data were substituted.
 
+## Subsequent correction: Figure 1 was also wrong
+
+The initial localized full-size image-11.png was itself the Figure 2
+bar chart, not the Figure 1 scatterplot. Replacing only Figure 2 left
+two visually equivalent bar charts. Earlier verification of distinct
+filenames and hashes did not establish distinct chart contents.
+
+Recovered Figure 1 from attachment 43404's separate srcset derivative:
+https://thedailyeconomy.org/wp-content/uploads/2026/11/image-11-768x460.png
+
+Visual inspection confirms a scatterplot: GDP-per-capita growth on the
+horizontal axis, poverty-rate change on the vertical axis, a descending
+dotted trend line. This matches the Figure 1 caption and surrounding text.
+Figure 2 remains the independently verified India bar chart. Both captions
+are now in Russian; World Bank and Maddison remain distinct sources because
+the figures use distinct data. No independent country-by-country
+reconstruction of Figure 1 has been performed.
+
 The untracked content/article/image-7.png also visually matches the recovered
 chart at a larger size, but its origin is not established; it is not used
 or modified. The publisher-hosted derivative provides traceable provenance.
